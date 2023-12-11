@@ -2,9 +2,9 @@ name: Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
-projects:
+projects: FD II
 assignees:
-- 
+- no one
 body:
   - type: markdown
     attributes:
