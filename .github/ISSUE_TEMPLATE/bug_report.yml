@@ -3,7 +3,6 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
 projects: ["modul-fdII-thkoeln"]
-assignees:
 body:
   - type: markdown
     attributes:
