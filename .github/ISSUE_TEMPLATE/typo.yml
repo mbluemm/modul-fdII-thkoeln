@@ -1,0 +1,14 @@
+name: "typo"
+description: create a new Issue for a typo.
+title: "VL<nr>Line<nr>"
+labels: ["typo"]
+body:
+  - type: textarea
+    id: where
+    attributes:
+      label: "Where"
+      description: Please enter the line number where the typo occurs
+      value: |
+        1. LineNr:
+        2. Typo:
+      render: bash
