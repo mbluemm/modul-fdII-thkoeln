@@ -4,8 +4,6 @@ In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und desse
 Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschungspraxis verortet
 wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenhängt.
 
-## Was ist Forschungsdatenmanagement?
-
 Das Forschungsdatenmanagement, oft als FDM abgekürzt, umfasst sämtliche Stadien des
 Forschungsprozesses, beginnend bei der Datenerfassung und Dokumentation, über die Verarbeitung,
 bis hin zur Speicherung, Veröffentlichung oder Archivierung bzw. Löschung der Forschungsdaten. Ziel
@@ -55,7 +53,6 @@ Datenintegrität: Durch klare Datenmanagementverfahren können Fehler und Datenv
 werden. Ein durchdachtes FDM hilft, die Integrität der Daten über den gesamten Lebenszyklus hinweg
 zu gewährleisten.
 
-
 Zusammenarbeit und Vernetzung: Einheitliche Standards und Praktiken im FDM erleichtern die
 Zusammenarbeit zwischen Forschenden, Institutionen und Disziplinen. Gemeinsame Plattformen und
 Dateninfrastrukturen fördern den Austausch von Daten und erleichtern die Integration in breitere
@@ -69,7 +66,7 @@ Fördermittel und Sichtbarkeit: Viele Förderinstitutionen und Verlage fordern m
 Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln
 erleichtern und die Sichtbarkeit der Forschung erhöhen.
 
- ### FDM in Open Science
+### FDM in Open Science
 
 Open Science und FDM sind zwei Konzepte, die Hand in Hand gehen, um die Forschungslandschaft
 grundlegend zu verändern und zu verbessern. Beide Ansätze teilen das Ziel, Wissenschaft offener,
@@ -85,28 +82,27 @@ Publikationen und Forschungsdaten fördert nicht nur die Verbreitung von Wissen,
 Reproduzierbarkeit von Ergebnissen und die Teilnahme der breiten Öffentlichkeit an
 wissenschaftlichen Diskussionen.
 
- ## 4 Grundprinzipien
+## 4 Grundprinzipien
 
  1. Transparenz
  2. Reproduzierbarkeit
  3. Wiederverwendbarkeit
  4. offene Kommunikation
 
- ## Ziele
+## Ziele
 
 - Qualität der Forschung verbessern,
 - Forschungsförderung effizienter einsetzen,
 - Bestandteil der Sicherung guter wissenschaftlicher Praxis,
 - Wissenstransfer verbessern
 
- (Fühles-Ubach und Heidkamp 2022)
+(Fühles-Ubach und Heidkamp 2022)
 
 FDM hingegen konzentriert sich auf den Datenlebenszyklus, von der Erhebung über die Verarbeitung
 bis zur langfristigen Speicherung und Nutzung. Es legt den Grundstein für die systematische
 Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM stellt sicher, dass
 
 Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben.
-
 
 ## Was ist Gute wissenschaftliche Praxis?
 
@@ -117,10 +113,9 @@ Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Que
 Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im Kapitel
 “Dokumentation von Daten”), (Sauther-Patrascu und Dmitrieva 2021).
 
-![](https://)
 Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
- ## Leitlinien für das wissenschaftliche Arbeiten
+## Leitlinien für das wissenschaftliche Arbeiten
 
 Weitere Hinweise zur Befolgung der GWP sind in den „Leitlinien zur Sicherung guter
 wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft festgehalten. An diese angelehnt,
@@ -135,45 +130,41 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 - Inwiefern betrifft das Thema Forschungsdatenmanagement Bereiche ihres Studiums?
 - Welche Argumente sprechen für Forschungsdatenmanagement, welche Vorbehalte gibt es?
 
- ## Aufgabe:
+## Aufgabe
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
- ## Lektüre:
+## Lektüre
 
 Lesen Sie die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen
 Forschungsgemeinschaft aufmerksam durch. Deutsche Forschungsgemeinschaft. (2019). Leitlinien
 zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo.
 [http://doi.org/10.5281/zenodo.3923602.)](http://doi.org/10.5281/zenodo.3923602.))
 
-
-## Weiterführende Literatur und Links (optional):
+## Weiterführende Literatur und Links (optional)
 
 Arbeitsgruppe Forschungsdaten. (2018). Forschungsdatenmanagement. Eine Handreichung.
 _Arbeitsgruppe Forschungsdaten der Schwerpunktinitiative „Digitale Information_ “ der Allianz der
 deutschen Wissenschaftsorganisationen. Potsdam: Deutsches GeoForschungsZentrum GFZ.
-https://doi.org/10.2312/allianzoa.029.
+<https://doi.org/10.2312/allianzoa.029>.
 
 Böker, E. (2022, 15. November). Gute wissenschaftliche Praxis und FDM. Forschungsdaten.info.
-Zugriff am 18.10.2023, von https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-
-praxis/gute-wissenschaftliche-praxis-und-fdm/.
+Zugriff am 18.10.2023, von <https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/>.
 
 Böker, E. (2023, 5. Mai). Was ist Forschungsdatenmanagement. Forschungsdaten.info. Zugriff am
-18.10.2023, von https://forschungsdaten.info/themen/informieren-und-planen/was-ist-
-forschungsdatenmanagement/.
+18.10.2023, von <https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/>.
 
 Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis.
-Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602.](http://doi.org/10.5281/zenodo.3923602.)
+Kodex. Zenodo. <http://doi.org/10.5281/zenodo.3923602>.
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.
-Berlin, Boston: De Gruyter Saur. https://doi.org/10.1515/9783110657807.
+Berlin, Boston: De Gruyter Saur. <https://doi.org/10.1515/9783110657807>.
 
-## Quellen:
+## Quellen
 
 Fühles-Ubach, S. & Heidkamp, P. (2022). Data Literacy _–_ Basiskurs Data Lifecycle. KI-Campus
-Original. DaLI – Data Literacy Initiative. https://ki-campus.org/courses/dali-basis-THK2021.
+Original. DaLI – Data Literacy Initiative. <https://ki-campus.org/courses/dali-basis-THK2021>.
 
 Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten.
-Abgerufen am 20. Oktober 2023, von https://www.th-
-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf
+Abgerufen am 20. Oktober 2023, von <https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf>
