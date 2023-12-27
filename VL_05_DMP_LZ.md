@@ -1,8 +1,8 @@
 #  VL5: Dokumentation von Daten 
 
-##  Lernziele für Thema 5: Dokumentation von Daten 
+Ausgangslage
 
-Ausgangslage<br><ul><li>Die S. haben wenige bis keine Erfahrung beim Dokumentieren von Daten.</li><li>Die S. wissen nicht, worauf sie beim Umgang mit Daten achten müssen.</li></ul>
+<ul><li>Die S. haben wenige bis keine Erfahrung beim Dokumentieren von Daten.</li><li>Die S. wissen nicht, worauf sie beim Umgang mit Daten achten müssen.</li></ul>
 
 ### Lernziele für den Online-Kurs (LiaScript)
 
