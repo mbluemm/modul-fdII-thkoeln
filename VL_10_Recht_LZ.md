@@ -1,0 +1,101 @@
+# VL10: Rechtliche Aspekte
+
+Ausgangslage
+
+* Die S. haben sich noch nicht mit rechtlichen Aspekten in Bezug zum FDM (beim Umgang mit Daten) auseinandergesetzt.
+
+### Lernziele für den Online-Kurs (LiaScript)
+
+||||
+| :--- | :--- | :--- |
+| LZ[1]1 | Die S. können die wichtigsten Aspekte des Datenschutzes (inkl. der Rechtsgrundlagen zum Schutz personenbezogener Daten) im FDM beschreiben (2). | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess achten müssen und weshalb das so wichtig ist. |
+| LZ 2 | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern (2). | Die S. lernen die rechtlichen Hintergründe des Urheberrechts und Lizenzrechts kennen und wissen, welche Aspekte diesbezüglich zu berücksichtigen sind. |
+
+### Lernziele für den Unterricht in Präsenz
+
+||||
+| :--- | :--- | :--- |
+| LZ 3 | Die S. können herausstellen (4), was personenbezogene und sensible Daten sind, und entsprechende Beispiele einordnen (4). | Die S. wissen, was personenbezogene und sensible Daten sind und worauf bei der Erhebung derartiger Daten zu achten ist. |
+| LZ 4 | Die S. können kritisch beurteilen (6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | Die S. verstehen, auf welche rechtlichen Aspekte sie im Forschungsprozess (insbesondere bei der Datenerhebung/-veröffentlichung) achten müssen und weshalb das so wichtig ist. |
+| LZ 5 | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen (4). | Die S. können sich beim Umgang mit Daten (in ihrem Studium) auf rechtliche Richtlinien beziehen (5) und diese beachten. Die S. fühlen sich mit den Konzepten von rechtlichen Richtlinien sicher, sodass sie sich beim Umgang mit Daten (z. B. für Projektarbeiten / Abschlussarbeiten In ihrem Studium) an diese Richtlinien halten können. |
+
+## Detaillierte Kursplanung [1] 
+
+### Online-Kurs (LiaScript)
+
+|  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
+| --- | --- | --- | --- | --- |
+| Ca. 15 min. | Einführung zum Thema rechtliche Aspekte und Rechtsgrundlagen im FDM. <br>Erläuterungen zum Thema Datenschutz und personenbezogene Daten. <br>Definition von Aspekten, die im FDM beachtet werden müssen und rechtlich bindend sind (insbesondere bei der Datenerhebung). | Die S. können die wichtigsten Aspekte des Datenschutzes (inkl. der Rechtsgrundlagen zum Schutz personenbezogener Daten) im FDM beschreiben (2). | Die S. müssen das LZ im Lernportfolio beantworten (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 15 min. | Einführung zum Thema Urheberrecht von Forschungsdaten. <br>Erläuterung worauf, insbesondere bei der Nachnutzung von Daten, im Forschungsprozess geachtet werden muss. <br>Hervorhebung von relevanten Rechtsaspekten unterschiedlicher Lizenzen. | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern (2). | Die S. müssen die Leitfragen im Lernportfolio beantworten (für eine ggf. Diskussion im Plenum). | EA |
+
+### Präsenzphase
+
+#### Einstiegsphase
+
+|  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
+| --- | --- | --- | --- | --- |
+| Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
+| Ca. 15 min. | ScaryTale & Diskussion <br>Zum Einstieg wird eine ScaryTale im Plenum „gespielt“. <br>UND <br>Besprechung der zuvor beantworteten Leitfrage sowie des LZ. | Die S. können kritisch beurteilen (6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | L. führt die ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden. <br>Daraufhin erfolgt zur Beantwortung des LZ und der Leitfrage, die zuhause im Lernportfolio beantwortet wurden, eine Diskussion. | PL |
+
+#### Arbeitsphase
+
+|  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
+| --- | --- | --- | --- | --- |
+| Ca. 15 min. | Detaillierte Definition von (inkl. besonders sensiblen) personenbezogenen Daten. <br>Hervorhebung, was bei personenbezogenen Daten im gesamten Forschungsprozess beachtet werden muss. <br>Auflistung von unterschiedlichen Forschungsdaten mit (besonders sensiblen) Personenbezug. | Die S. können herausstellen (4), was personenbezogene und sensible Daten sind, und entsprechende Beispiele einordnen (4). | Die S. können folgende Fragen beantworten (ggf. als eine Art Quiz/Mindmap): <br>Was sind personenbezogene Daten? <br>Welche Aspekte müssen bei der Datenerhebung und –verarbeitung von personenbezogenen Daten beachtet werden? <br>Was sind Beispiele für Forschungsdaten mit (besonders sensiblen) Personenbezug? <br>Daraufhin werden diese Aspekte im PL besprochen. | EA / PL |
+| Ca. 50 min. | Gruppenarbeit <br>Die S. müssen anhand von Beispielen relevante rechtliche Aspekte hervorheben. <br>In ihren Gruppen, und anschließend im PL, müssen sie Leitfragen beantworten (unten in der Liste notiert). | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen (4). | L. teilt die S. in Gruppen ein. Die Beispiele werden von L. vorgegeben. <br>Die Gruppen müssen dann jeweils zusammenarbeiten, um die Aufgabe zu erledigen. <br>Danach leitet die L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. <br>Die S. sollten folgendes beantworten: <br>Welche Art von Daten sind in diesem Beispiel zu sehen? <br>Wer ist Urheber:in des Datensatzes? <br>Unter welcher Lizenz sind diese Daten veröffentlicht? <br>Dürfen die Daten nachgenutzt werden? <br>Wurden personenbezogene Daten anonymisiert/ pseudonymisiert? | GA / PL |
+
+#### Abschluss
+
+|  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
+| --- | --- | --- | --- | --- |
+| Ca. 5 min. | Offene Fragen / Unklarheiten klärenAusblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. <br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+
+
+##  Präsenzphase 
+
+###  Einstiegsphase 
+
+Begrüßung
+
+(ca. 15 Min.) ScaryTale und Diskussion L. trägt das ScaryTale vor und die S. müssen gemeinsam eine Antwort erraten. Kritische Diskussion: Daraufhin beantworten die S. im PL (geleitet von L.) die Leitfrage, die sie vorab im Lernportfolio notiert haben, sowie das LZ dieses Abschnitts.
+
+### Arbeitsphase
+(ca. 15 Min.) Individuelle Bearbeitung der Fragen.
+L. bereitet die Aufgabe vor (bspw. Quiz oder Mindmap) und erläutert den Arbeitsauftrag:
+Die S. bearbeiten die Aufgabe individuell.
+Anschließend bringt L. die S. zusammen und es gibt eine abschließende Besprechung zu der Aufgabe.
+(ca. 50 Min.) Gruppenarbeit
+L. teilt die S. in Gruppen ein und stellt die Beispiele vor.
+Die Gruppen setzen sich zusammen und beantworten folgende Fragen für jedes Beispiel (oder ein Beispiel pro Gruppe):
+- Welche Art von Daten sind in diesem Beispiel zu sehen?
+- Wer ist Urheber\*in des Datensatzes?
+- Unter welcher Lizenz sind diese Daten veröffentlicht?
+- Dürfen die Daten nachgenutzt werden?
+- Wurden personenbezogene Daten anonymisiert/pseudonymisiert?
+Nach der Gruppenarbeit bringt L. alle Gruppen zusammen. Jede Gruppe trägt ihre Gedanken mit offener Diskussion vor.
+
+### Abschluss
+L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
+L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
+
+## Taxonomiestufen
+
+||||
+| :--- | :--- | :--- |
+| Taxonomiestufe 1 | Wissen, Kenntnisse  (Tatsachen, Begriffe nennen) | Informationen möglichst wortgenau erinnern wiedergeben können, Informationen sinnerhaltend  umformen und in eigenen Worten wiedergeben sowie  zusammenfassen können |
+| Taxonomiestufe 2 | Verständnis  (erklären, begründen, mit anderen Worten umschreiben) |
+| Taxonomiestufe 3 | Anwendung  (Anwendung des Wissens, z.B. bei der Lösung eines praktischen Problems) | Abstraktionen (Regeln,  Methoden etc.) in konkreten  Situationen anwenden  können |
+| Taxonomiestufe 4 | Analyse  (eine reale Situation in ihre Elemente zerlegen) | Ideen, Problemstellungen in  ihre Elemente zerlegen und  vergleichen können |
+| Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
+| Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
+
+Quellen:
+
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
+
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)
+
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
+
+[1] LZ = Lernziel
+[2] EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag
