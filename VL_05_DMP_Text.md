@@ -6,8 +6,6 @@ Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle 
 Aspekte für Studierende abdeckt und die Sie zukünftig für wichtige Forschungsarbeiten ausfüllen
 können.
 
-Test
-
 ## Über Daten informieren und Daten dokumentieren
 
 Daten und Prozesse sollten von Anfang an dokumentiert werden. Die Dokumentation dient der
