@@ -1,17 +1,18 @@
 # VL3: Datenlebenszyklus
 
-## Lernziele für Thema 3: Datenlebenszyklus
+Ausgangslage
 
-| Ausgangslage<br><ul><li>Die S. sind mit dem Datenlebenszyklus nicht vertraut und kennen die unterschiedlichen Stationen.</li><li>Die S. können den Stationen beim Umgang mit Daten nicht folgen.</li></ul> |
+* Die S. sind mit dem Datenlebenszyklus nicht vertraut und kennen die unterschiedlichen Stationen.
+* Die S. können den Stationen beim Umgang mit Daten nicht folgen.
 
-Lernziele für den Online-Kurs (LiaScript)
+## Lernziele für den Online-Kurs (LiaScript)
 
 ||||
 | :--- | :--- | :--- |
 | 1 | Die S. können den Datenlebenszyklus beschreiben (1) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen (1). | Die S. verstehen den Datenlebenszyklus und welche Rolle dieser im FDM spielt / worauf zu achten ist. |
 | 2 | Die S. können darlegen (2), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Beschreibungen/Merkmalen/ Inhalten zu verknüpfen. |
 
-Lernziele für den Unterricht in Präsenz
+## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
@@ -19,33 +20,31 @@ Lernziele für den Unterricht in Präsenz
 | 4 | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen (5) und für ein Beispielprojekt Arbeitsschritte einteilen (4) / konzipieren (5) und mit allen wichtigen Aspekte (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden (5). | Die S. wissen, wie sie ausgehend vom Datenlebenszyklus ihre Arbeitsschritte beim Umgang mit Daten aufstellen und können beurteilen, was sie bei jeder Station beachten müssen. |
 | 5 | Die S. sind in der Lage, die Daten, die sie in einem Projekt (z.B. Abschlussarbeit) während ihres Studiums erhoben haben, den unterschiedlichen Stationen des Datenlebenszyklus zuzuordnen (5). | Ziel der Übung ist es, S. dafür zu sensibilisieren, die Phasen des Datenlebenszyklus, oder Ansätze davon, bereits in ihren (Projekt-)Arbeiten zu berücksichtigen.|
 
-## Detaillierte Kursplanung[1]
+## Detaillierte Kursplanung^[1]^
 
-### Überblick
-
-Online-Kurs (LiaScript) 
+**Online-Kurs (LiaScript)**
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 30 min. | Einführung zum Datenlebenszyklus.<br><br>Beschreibung der Stationen und deren Merkmale.<br><br>Erläuterung, welche Rolle der DLZ im Forschungsprozess/ im FDM spielt. | Die S. können den Datenlebenszyklus beschreiben (1) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen (1).<br><br>Die S. können darlegen (2), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Text und Erklärvideo als Informationsquelle.<br><br>Interaktiver Datenlebenszyklus.<br><br>Beantworten von zwei Leitfragen (unten) im Lernportfolio. | EA |
 
-### Präsenzphase
+## Präsenzphase
 
-Einstiegsphase
+### Einstiegsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Organisatorisches |  |  |  |
 | Ca. 15 min. | „Ice Breaker“<br><br>Die S. besprechen, welche Stationen (Phasen) des DLZ ihnen im Studium begegnet sind. | Reflexion des erlernten Wissens. Bezug auf bisherige Erfahrung im Studium. | Erfahrungsaustausch und Diskussion | PL |
 
-Arbeitsphase
+### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 45 min. | Gruppenarbeit<br><br>Die S. arbeiten zusammen in Gruppen an einem Beispielprojekt | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen (5) und für ein Beispielprojekt Arbeitsschritte einteilen (4) / konzipieren (5) und mit allen wichtigen Aspekte (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden (5). | L. teilt die S. in Gruppen ein. Das Beispiel wird von L. vorgegeben.<br><br>Die Gruppen müssen dann jeweils zusammenarbeiten, um die Aufgabe zu erledigen.<br><br>Die S. müssen bestimmte Fragen beantworten.(Fragen sind in der Phasen-Beschreibung unten notiert).<br><br>Danach leitet die L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. | GA / PL |
 | Ca. 20 min. | Diskussion<br><br>Die S. legen Beispiele dar, indem sie sich auf Projekte aus ihrem Fach/Studium beziehen. | Die S. können detaillierte Beschreibungen den unterschiedlichen Stationen des Datenlebenszyklus korrekt zuordnen (5).<br><br>Die S. sind in der Lage, in ihrem Studium die unterschiedlichen Stationen des Datenlebenszyklus für ein Beispielprojekt (z. B. Abschlussarbeit) mit Daten zuzuordnen (5). | L. leitet eine Diskussion im PL.<br><br>Reflexion des Themas in Bezug auf das Studium:<br><br>S. sollen überlegen und begründen, welche Rolle der Datenlebenszyklus in ihrem Studium (z.B. Für Projekt- oder Abschlussarbeiten) spielt. | PL |
 
-Abschluss
+### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
@@ -125,4 +124,4 @@ Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernzie
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
 
-[1] EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag
+^[1]^ EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag
