@@ -1,7 +1,8 @@
 
 # VL1: Was sind Forschungsdaten?
 
-## Lernziele für Thema 1: Was sind Forschungsdaten?
+Lernziele für Thema 1: Was sind Forschungsdaten?
+======
 
 **Ausgangslage**
  
@@ -15,7 +16,9 @@ Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studiu
 | 2 | Die S. können verschiedene Formen von Forschungsdaten benennen (1). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
 | 3 | Die S. können zuordnen (5), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
 
-## Detaillierte Kursplanung^[1]^
+## Detaillierte Kursplanung[^1]
+
+[^1]: **Kursplanung** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 | VL 1: Was sind Forschungsdaten? |||||
 | --- | --- | --- | --- | --- |
@@ -36,7 +39,8 @@ Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studiu
 
 ### Einstiegsphase
 
-**Ice Breaker**
+Ice Breaker
+=====
 
 Als Einstieg in den Kurs können die S. sich untereinander austauschen und sich somit intuitiv mit dem Thema vertraut machen. Die S. diskutieren in Kleingruppen die folgenden Fragen:  
 
@@ -47,24 +51,30 @@ Als Einstieg in den Kurs können die S. sich untereinander austauschen und sich 
 Daraufhin leitet L. eine offene Diskussion ein, in der jede Kleingruppe ihre Gedanken/Antworten dem Plenum vorstellt.  
 L. fasst die Antworten zusammen und zieht daraus Schlüsse, ob die S. Vorkenntnisse zum Thema Forschungsdaten haben und wenn Vorkenntnisse vorhanden sind, mit welchen Daten die S. im Studium bereits gearbeitet haben.
 
-#### **Einführung in den Kurs**
+Einführung in den Kurs
+====
 
 L. erklärt die Kursgestaltung:  
+
 * Was soll gelehrt werden? Wofür ist der Kurs da? Was sollen S. am Ende können? (Lernziele)  
-* Grundidee und Mehrwerte von Blended-Learning (Lernweg)  
-* Erster Blick auf Materialien und Aufgaben (Lernweg)  
-o   L. stellt Inhalte bzw. Lernweg vor  
-o   L. stellt Umgang mit und Zugang zu E-Learning-System sicher  
-* Was wird von den S. erwartet? Welche Prüfungsform gibt es? Was müssen S. für ECTS tun? (Leistungserwartungen)  
-* Optional: Vorstellung von Prüfungsform „Lernportfolio“ (inkl. Blick auf eine Mustervorlage)
++ Grundidee und Mehrwerte von Blended-Learning (Lernweg)  
+- Erster Blick auf Materialien und Aufgaben (Lernweg)  
+
+  * L. stellt Inhalte bzw. Lernweg vor
+  * L. stellt Umgang mit und Zugang zu E-Learning-System sicher  
+  * Was wird von den S. erwartet? Welche Prüfungsform gibt es? Was müssen S. für ECTS tun? (Leistungserwartungen)  
+
+- Optional: Vorstellung von Prüfungsform „Lernportfolio“ (inkl. Blick auf eine Mustervorlage)
 
 ### Arbeitsphase
 
-**Diskussion und Brainstorming**
+Diskussion und Brainstorming
+====
 
-L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende Aspekte:  
+L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende Aspekte:
+
 * Was ist Forschung (überhaupt)?  
-* Wie läuft das ab? Was passiert in der Forschung? Und worauf sollte geachtet werden?  
++ Wie läuft das ab? Was passiert in der Forschung? Und worauf sollte geachtet werden?  
 
 Hier sollen die S. aktiv mitreden, damit eine offene Diskussion zu dem Thema entsteht.
 
@@ -73,28 +83,35 @@ Hier sollen die S. aktiv mitreden, damit eine offene Diskussion zu dem Thema ent
 L. bezieht sich auf den Ice Breaker und erläutert das Thema Forschungsdaten in einem kleinem Lehrvortrag.  
 Impuls (s. Text zur VL „Was sind Forschungsdaten?“).  
 L. kann sich auf die Leitfragen (unten) beziehen.  
+
 * Was sind Forschungsdaten?  
-* Was gibt es für Unterschiede?  
-* Wie werden Forschungsdaten erhoben?  
-* L. gibt ggf. Beispiele aus eigener Erfahrung  
-* In welchen Studienfächern sind welche Forschungsdaten relevant?
++ Was gibt es für Unterschiede?  
++ Wie werden Forschungsdaten erhoben?  
++ L. gibt ggf. Beispiele aus eigener Erfahrung  
++ In welchen Studienfächern sind welche Forschungsdaten relevant?
 
 #### Interaktion Besprechung von Fallbeispielen
 
-L. zeigt Fallbeispiel GTD. S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt habe, zu welche Zwecke die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können
+L. zeigt Fallbeispiel GTD.
 
-##### Interaktion zur Relevanz von Forschungsdaten in der Forschung
+S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt habe, zu welche Zwecke die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können
+
+#### Interaktion zur Relevanz von Forschungsdaten in der Forschung
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
 
 ### Abschluss
 
-L. erklärt Erwartungen für nächste Stunde  
-* Was wird als Vorbereitung für die nächste Stunde erwartet?  
-* Blick auf die Aufgaben im LMS  
+L. erklärt Erwartungen für nächste Stunde
 
-L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt[2]  
-L. fragt, ob S. noch offene Fragen haben  
+* Was wird als Vorbereitung für die nächste Stunde erwartet?  
++ Blick auf die Aufgaben im LMS  
+
+L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt[^2] 
+
+L. fragt, ob S. noch offene Fragen haben
+
+[^2]: Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten
 
 ## Taxonomiestufen
 
@@ -109,9 +126,10 @@ L. fragt, ob S. noch offene Fragen haben
 
 
 Quellen:  
-Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)  
-Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)  
-Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
+====
 
-[1] PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.  
-[2] Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)  
+
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)  
+
+Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
