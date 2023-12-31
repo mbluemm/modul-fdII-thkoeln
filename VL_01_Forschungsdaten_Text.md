@@ -8,16 +8,18 @@ Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuc
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
 
 ``` ascii
- .---------------------------------------------------------------------------------------.
- | Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche             |
- | Veröffentlichungen handelt und die im Laufe von  wissenschaftlichen Forschungs-       |
- | tätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses  |
- | verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung |
- | von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden           |
- | Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom              |
- | 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen            |
- | des öffentlichen Sektors, Art. 2, Abs.9                                               |
- '---------------------------------------------------------------------------------------'
+ ------------------------------------------------------------------------.
+ | Dokumente in digitaler Form,                                           |
+ | bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt|
+ | und die im Laufe von  wissenschaftlichen Forschungstätigkeiten erfasst |
+ | oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses       |
+ | verwendet werden oder die in der Forschungsgemeinschaft allgemein für  |
+ | die Validierung von Forschungsfeststellungen und -ergebnissen als      |
+ | notwendig erachtet werden Richtlinie (EU) 2019/1024 Des Europäischen   |
+ | Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die  |
+ | Weiterverwendung von Informationen des öffentlichen Sektors,           |
+ | Art. 2, Abs.9                                                          |
+ '------------------------------------------------------------------------'
 ```
 
 | Gesetzliche Definition von Forschungsdaten |
