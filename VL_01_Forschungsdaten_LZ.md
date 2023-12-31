@@ -1,38 +1,38 @@
 
 # VL1: Was sind Forschungsdaten?
 
-Lernziele für Thema 1: Was sind Forschungsdaten?
-======
-
-**Ausgangslage**
+Ausgangslage
+====
  
 Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
+
+## Lernziele für Thema 1: Was sind Forschungsdaten?
 
 **Lernziele für den Unterricht in Präsenz**
 
 ||||
 | --- | --- | --- |
-| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren (2). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
+| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren[(2)](#10). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
 | 2 | Die S. können verschiedene Formen von Forschungsdaten benennen (1). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
-| 3 | Die S. können zuordnen (5), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
+| 3 | Die S. können zuordnen[(5)](#10), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
 
 ## Detaillierte Kursplanung[^1]
 
-[^1]: **Kursplanung** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 | VL 1: Was sind Forschungsdaten? |||||
-| --- | --- | --- | --- | --- |
+| :---: | --- | --- | --- | :---: |
 | Einstiegsphase |
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | Ca. 5 min | Begrüßung | L. stellt sich vor und startet den Kurs. |  |  |
-| Ca. 20 min | Ice Breaker | Die S. besprechen intuitiv folgendes (ohne vorherige Einleitung):  <br>- Was sind Forschungsdaten?  <br>- Welche Forschungsdaten kennen sie bereits?  <br>Mit welchen Forschungsdaten haben sie bereits im Studium gearbeitet?  <br>Die S. können Forschungsdaten mit denen sie in ihrem Studium bereits gearbeitet haben identifizieren (2). | Zuerst besprechen sich die S. in Kleingruppen (2-3) und beantworten die drei Fragen.  <br>Daraufhin werden die Antworten von jeder (einigen) Gruppe(n) im Plenum geteilt.  <br>Das bietet die Möglichkeit, für die S. sich und deren Wissen zum Thema Forschungsdaten auszutauschen. | GA / PL |
-| Ca. 15 min | Einführung in den Kurs:  <br>Wie ist der Kurs gestaltet, was wird von den Studierenden erwartet.  <br>Erster Blick auf Materialien und Aufgaben | L. bietet S. Orientierung:  <br>L. macht Lernziele, Lernwege und Leistungserwartungen transparent  <br>L. erklärt die Grundidee und den Mehrwert von Flipped Classroom  <br>L. ermöglicht Zugang zu und erklärt Umgang mit E-Learning-System. | LMS | LV |
+| Ca. 20 min | [(Ice Breaker)](#4) | Die S. besprechen intuitiv folgendes (ohne vorherige Einleitung):<br><br> + Was sind Forschungsdaten<br> + Welche Forschungsdaten kennen sie bereits?<br> + Mit welchen Forschungsdaten haben sie bereits im Studium gearbeitet?<br><br> Die S. können Forschungsdaten mit denen sie in ihrem Studium bereits gearbeitet haben identifizieren[(2)](#10). | Zuerst besprechen sich die S. in Kleingruppen (2-3) und beantworten die drei Fragen.<br><br> Daraufhin werden die Antworten von jeder (einigen) Gruppe(n) im Plenum geteilt. <br> Das bietet die Möglichkeit, für die S. sich und deren Wissen zum Thema Forschungsdaten auszutauschen. | GA / PL |
+| Ca. 15 min | Einführung in den Kurs:<br><br> + Wie ist der Kurs gestaltet, <br> + was wird von den Studierenden erwartet. <br><br> Erster Blick auf Materialien und Aufgaben | L. bietet S. Orientierung: <br><br> L. macht Lernziele, Lernwege und Leistungserwartungen transparent <br><br> L. erklärt die Grundidee und den Mehrwert von Flipped Classroom <br><br> L. ermöglicht Zugang zu und erklärt Umgang mit E-Learning-System. | LMS | LV |
 | Arbeitsphase |
-| Ca. 10 min | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen:  <br>- Was ist Forschung (überhaupt)?  <br>(weitere Fragen unten) | Brainstorming / Diskussion | PL |
-| Ca. 15 min | Thema: Definition Forschungsdaten. | L. bezieht sich auf die Diskussion (Ice Breaker) in der Einstiegsphase und bespricht folgendes:  <br>Wie kommen Forschungsdaten zustande?  <br>Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet?  <br>Die S. können verschiedene Formen von Forschungsdaten benennen (1). | Lehrvortrag mit Visualisierung (bspw. Foliensatz) | LV |
-| ca. 15 min | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung. | Die S. können zuordnen (5), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
+| Ca. 10 min | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen: <br> - Was ist Forschung (überhaupt)? <br> (weitere Fragen unten) | Brainstorming / Diskussion | PL |
+| Ca. 15 min | Thema: Definition Forschungsdaten. | L. bezieht sich auf die Diskussion [(Ice Breaker)](#4) in der Einstiegsphase und bespricht folgendes: <br><br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br><br> Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#10). | Lehrvortrag mit Visualisierung (bspw. Foliensatz) | LV |
+| ca. 15 min | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung. | Die S. können zuordnen[(5)](#10), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
 | Abschluss |
-| Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
+| Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
 | Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ## Präsenzphase / Erläuterung
@@ -116,14 +116,13 @@ L. fragt, ob S. noch offene Fragen haben
 ## Taxonomiestufen
 
 ||||
-| --- | --- | --- |
+| :---: | --- | --- |
 | Taxonomiestufe 1 | Wissen, Kenntnisse (Tatsachen, Begriffe nennen) | Informationen möglichst wortgenau erinnern wiedergeben können, Informationen sinnerhaltend umformen und in eigenen Worten wiedergeben sowie zusammenfassen können |
 | Taxonomiestufe 2 | Verständnis (erklären, begründen, mit anderen Worten umschreiben) |
 | Taxonomiestufe 3 | Anwendung (Anwendung des Wissens, z.B. bei der Lösung eines praktischen Problems) | Abstraktionen (Regeln, Methoden etc.) in konkreten Situationen anwenden können |
 | Taxonomiestufe 4 | Analyse (eine reale Situation in ihre Elemente zerlegen) | Ideen, Problemstellungen in ihre Elemente zerlegen und vergleichen können |
 | Taxonomiestufe 5 | Synthese (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil abgeben können |
-
 
 Quellen:  
 ====
