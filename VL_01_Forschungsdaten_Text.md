@@ -8,7 +8,7 @@ Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuc
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
 
 ``` ascii
- ------------------------------------------------------------------------.
+ .------------------------------------------------------------------------.
  | Dokumente in digitaler Form,                                           |
  | bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt|
  | und die im Laufe von  wissenschaftlichen Forschungstätigkeiten erfasst |
