@@ -38,10 +38,8 @@ Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) 
 Prozesse. Einzelne Aspekte können nehmen erst während der Projektlaufzeit Gestalt an. Eventuell
 müssen einige Punkte im Laufe des Vorhabens immer wieder angepasst und vervollständigt.
 
-<kbd>
-Hinweis:<br/>
-Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
-</kbd>
+> Hinweis:<br/><br/>Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
+> Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
 
 Die nachfolgenden Leitfragen helfen, einer ausführlichen Projektdokumentation im Studienkontext
 nachzukommen. Aspekte wie “Was fällt an Daten überhaupt an?” und “Wie speichere ich die Daten
