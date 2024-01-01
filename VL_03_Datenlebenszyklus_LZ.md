@@ -1,18 +1,23 @@
 # VL3: Datenlebenszyklus
 
 Ausgangslage
+====
 
 * Die S. sind mit dem Datenlebenszyklus nicht vertraut und kennen die unterschiedlichen Stationen.
 * Die S. können den Stationen beim Umgang mit Daten nicht folgen.
 
-## Lernziele für den Online-Kurs (LiaScript)
+## Lernziele für Thema 3: Datenlebenszyklus
+
+Lernziele für den Online-Kurs
+===
 
 ||||
 | :--- | :--- | :--- |
 | 1 | Die S. können den Datenlebenszyklus beschreiben (1) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen (1). | Die S. verstehen den Datenlebenszyklus und welche Rolle dieser im FDM spielt / worauf zu achten ist. |
 | 2 | Die S. können darlegen (2), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Beschreibungen/Merkmalen/ Inhalten zu verknüpfen. |
 
-## Lernziele für den Unterricht in Präsenz
+Lernziele für den Unterricht in Präsenz
+===
 
 ||||
 | :--- | :--- | :--- |
@@ -20,13 +25,15 @@ Ausgangslage
 | 4 | Die S. können sich auf den Datenlebenszyklus als Leitfaden beim Umgang mit Daten beziehen (5) und für ein Beispielprojekt Arbeitsschritte einteilen (4) / konzipieren (5) und mit allen wichtigen Aspekte (z. B. korrektes Zitieren, Dokumentation, Richtlinien) verbinden (5). | Die S. wissen, wie sie ausgehend vom Datenlebenszyklus ihre Arbeitsschritte beim Umgang mit Daten aufstellen und können beurteilen, was sie bei jeder Station beachten müssen. |
 | 5 | Die S. sind in der Lage, die Daten, die sie in einem Projekt (z.B. Abschlussarbeit) während ihres Studiums erhoben haben, den unterschiedlichen Stationen des Datenlebenszyklus zuzuordnen (5). | Ziel der Übung ist es, S. dafür zu sensibilisieren, die Phasen des Datenlebenszyklus, oder Ansätze davon, bereits in ihren (Projekt-)Arbeiten zu berücksichtigen.|
 
-## Detaillierte Kursplanung^[1]^
+## Detaillierte Kursplanung[^1]
 
-**Online-Kurs (LiaScript)**
+**Online-Kurs (Vorbereitung)**
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 30 min. | Einführung zum Datenlebenszyklus.<br><br>Beschreibung der Stationen und deren Merkmale.<br><br>Erläuterung, welche Rolle der DLZ im Forschungsprozess/ im FDM spielt. | Die S. können den Datenlebenszyklus beschreiben (1) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen (1).<br><br>Die S. können darlegen (2), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Text und Erklärvideo als Informationsquelle.<br><br>Interaktiver Datenlebenszyklus.<br><br>Beantworten von zwei Leitfragen (unten) im Lernportfolio. | EA |
+
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ## Präsenzphase
 
@@ -98,10 +105,12 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 ## (Mögliche) Ergänzende Materialien im LMS
 
 Quiz
+===
 
 [https://miro.com/app/board/uXjVPBfQ8qM=/](https://miro.com/app/board/uXjVPBfQ8qM=/) oder andere DLZs (bspw.[https://zenodo.org/record/8087764](https://zenodo.org/record/8087764))
 
 Lektüre:
+===
 
 Stefanie Rümpel. *Der Lebenszyklus von Forschungsdaten*. In:  Handbuch Forschungsdatenmanagement. Stephan Büttner, Hans-Christoph Hobohm, Lars Müller (Hrsg.). Bock + Herchen. Bad Honnef. 2011. S. 25-34.
 
@@ -123,5 +132,3 @@ Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernzie
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
-
-^[1]^ EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag
