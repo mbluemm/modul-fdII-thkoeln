@@ -140,31 +140,31 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 Lesen Sie die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen
 Forschungsgemeinschaft aufmerksam durch. Deutsche Forschungsgemeinschaft. (2019). Leitlinien
 zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo.
-[http://doi.org/10.5281/zenodo.3923602.)](http://doi.org/10.5281/zenodo.3923602.))
+[http://doi.org/10.5281/zenodo.3923602.](http://doi.org/10.5281/zenodo.3923602.).
 
 ## Weiterführende Literatur und Links (optional)
 
 Arbeitsgruppe Forschungsdaten. (2018). Forschungsdatenmanagement. Eine Handreichung.
 _Arbeitsgruppe Forschungsdaten der Schwerpunktinitiative „Digitale Information_ “ der Allianz der
 deutschen Wissenschaftsorganisationen. Potsdam: Deutsches GeoForschungsZentrum GFZ.
-<https://doi.org/10.2312/allianzoa.029>.
+[https://doi.org/10.2312/allianzoa.029](https://doi.org/10.2312/allianzoa.029).
 
 Böker, E. (2022, 15. November). Gute wissenschaftliche Praxis und FDM. Forschungsdaten.info.
-Zugriff am 18.10.2023, von <https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/>.
+Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/).
 
 Böker, E. (2023, 5. Mai). Was ist Forschungsdatenmanagement. Forschungsdaten.info. Zugriff am
-18.10.2023, von <https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/>.
+18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/).
 
 Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis.
-Kodex. Zenodo. <http://doi.org/10.5281/zenodo.3923602>.
+Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/zenodo.3923602).
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.
-Berlin, Boston: De Gruyter Saur. <https://doi.org/10.1515/9783110657807>.
+Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
 ## Quellen
 
 Fühles-Ubach, S. & Heidkamp, P. (2022). Data Literacy _–_ Basiskurs Data Lifecycle. KI-Campus
-Original. DaLI – Data Literacy Initiative. <https://ki-campus.org/courses/dali-basis-THK2021>.
+Original. DaLI – Data Literacy Initiative. [https://ki-campus.org/courses/dali-basis-THK2021](https://ki-campus.org/courses/dali-basis-THK2021).
 
 Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten.
-Abgerufen am 20. Oktober 2023, von <https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf>
+Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
