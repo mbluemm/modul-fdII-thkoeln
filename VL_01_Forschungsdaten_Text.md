@@ -24,9 +24,9 @@ Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlic
 
 Gesetzliche Definition von Forschungsdaten
 =======
-
-| Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden |
+||
 | ---- |
+| Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden |
 |Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 |
 
 Forschungsdaten liegen in allen wissenschaftlichen Disziplinen vor, die mit Daten arbeiten, wie den
@@ -57,8 +57,7 @@ Klarheit dessen Definitionen, die für den fortlaufenden Kurs von Relevanz sind:
 - Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“, und
 - eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
 
-in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften,
-<https://www.dwds.de/wb/Daten> und <https://www.dwds.de/wb/Datei>, abgerufen am 23.10.2023.
+in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 
 ![](https://)
 Quelle: Digitalbevaringdk Bevaringsmetoder_DigitalBevaring
@@ -129,13 +128,12 @@ jeweiligen Attentat verletzt oder getötet wurden.
 
 ---
 [^2]: START (2022).
-[^3]: ebd.
+[^3]: ebd .
 [^4]: START (2021), S. 4.
 [^5]: START (2022).
 [^6]: START (2020).
 
-
-## Weiterführende Literatur und Links:
+## Weiterführende Literatur und Links
 
 Böker, E. (2023, 5. Mai). Was sind Forschungsdaten. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/).
 
