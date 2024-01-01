@@ -1,10 +1,8 @@
 # VL3: Datenlebenszyklus
 
-In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen
-kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von
-Forschungsprozessen verknüpft ist.
+In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
 
-## Der Datenlebenszyklus: Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
+## Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
 
 Im breiten Feld des Forschungsdatenmanagements spielt der Umgang mit Daten -insbesondere der
 Datenlebenszyklus - eine wichtige Rolle, denn er deckt alle wichtigen Phasen des
@@ -23,8 +21,8 @@ dargestellt werden:
     von bereits vorhandenen Daten Anderer
 - Arbeit mit den Daten: Aufbereitung und Analyse der Daten
 - Speicherung und Austausch der Daten (eventuell Teilen mit Kommilitonen oder Lehrenden)
-- Veröffentlichung der Daten (möglicherweise intern oder extern an der Universität) und
-    Archivierung zur Nachnutzung (sicher und zugänglich speichern)
+- Veröffentlichung der Daten (möglicherweise intern oder extern an der Universität) und Archivierung zur Nachnutzung (sicher und zugänglich speichern)
+
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Archivierung.
 
@@ -121,7 +119,6 @@ Untersuchungen verwendet werden. Dies ermöglicht die Überprüfung, Bestätigun
 bisheriger Ergebnisse oder Erkenntnisse, was auch als Replikation oder Qualitätssicherung bekannt
 ist. Ferner könnten aus denselben Daten neue Erkenntnisse gewonnen werden.
 
-
 Um bereits erhobene und veröffentlichte Daten gemäß wissenschaftlichen Standards nachzunutzen,
 sind einige Faktoren zu berücksichtigen.
 
@@ -139,33 +136,29 @@ Die Daten müssen:
     durchgeführt und welche Ergebnisse wurden erzielt? Was möchte ich untersuchen und wie
     unterscheidet es sich von bisheriger Nutzung?
 
-Mehr dazu, was bei der Nachnutzung von Daten beachtet werden muss unter “rechtliche und ethische
-Aspekte”.
+Mehr dazu, was bei der Nachnutzung von Daten beachtet werden muss unter “rechtliche und ethische Aspekte”.
 
 ![](https://)
 Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 
-
-## Weiterführende Literatur und Links (optional):
+## Weiterführende Literatur und Links (optional)
 
 Büttner, S., Hobohm, H., Müller, L. (Ed.) (2011). Handbuch Forschungsdatenmanagement (S. 25-34).
-Fachhochschule Potsdam. https://doi.org/10.34678/opus4- 208.
+Fachhochschule Potsdam. [https://doi.org/10.34678/opus4-208](https://doi.org/10.34678/opus4-208).
 
-Dierkes, J. (2021). 4.1 Planung, Beschreibung und Dokumentation von Forschungsdaten. In M.
-Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 303-
-326). Berlin, Boston: De Gruyter Saur. https://doi.org/10.1515/9783110657807- 018.
+Dierkes, J. (2021). 4.1 Planung, Beschreibung und Dokumentation von Forschungsdaten. In M. Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 303-326). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-018](https://doi.org/10.1515/9783110657807-018).
 
 Forschungsdaten.info. (2023, 5. Mai). Datenlebenszyklus. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/.
+[https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/](https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/).
 
 Hochschule Bonn-Rhein-Sieg. (2023). Forschungsdatenmanagement. Zugriff am 18.10.2023, von
-https://www.h-brs.de/de/bib/forschungsdatenmanagement.
+[https://www.h-brs.de/de/bib/forschungsdatenmanagement](https://www.h-brs.de/de/bib/forschungsdatenmanagement).
 
 Krähwinkel, E., Langner, P., Lipp, R., et al. (2022). HeFDI Data Learning Materials:
 Forschungsdatenmanagement _–_ eine Online-Einführung (Version 1.0). Zenodo.
-https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ.
+[https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ).
 
 ## Quellen
 
 Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis.
-Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602.](http://doi.org/10.5281/zenodo.3923602.)
+Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/zenodo.3923602).
