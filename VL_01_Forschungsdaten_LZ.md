@@ -11,7 +11,7 @@
 
 ||||
 | --- | --- | --- |
-| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren[(2)](##Taxonomiestufen). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
+| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren[(2)](##11). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
 | 2 | Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#10). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
 | 3 | Die S. können zuordnen[(5)](#10), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
 
