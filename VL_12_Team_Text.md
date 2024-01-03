@@ -87,24 +87,19 @@ Aspekte:
 - Lizenzen
 
 
-## Weiterführende Literatur und Links (optional):
+## Weiterführende Literatur und Links (optional)
 
 Die unten angegebenen Quellen dienen auch als weiterführende Literatur.
 
- ## Quellen:
+ ## Quellen
 
-Engelhardt, C. & Kusch, H. (2021). 5.3 Kollaboratives Arbeiten mit Daten. In M. Putnings, H. Neuroth
-& J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 451-476). Berlin, Boston: De
-Gruyter Saur. https://doi.org/10.1515/9783110657807- 025.
+Engelhardt, C. & Kusch, H. (2021). 5.3 Kollaboratives Arbeiten mit Daten. In M. Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 451-476). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-025](https://doi.org/10.1515/9783110657807-025).
 
-Forschungsdaten.info. (2023a, 5. Mai). Gemeinsamer Datenzugriff und Data Sharing. Zugriff am
-18.10.2023, von https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/gemeinsamer-datenzugriff-und-data-sharing/.
+Forschungsdaten.info. (2023a, 5. Mai). Gemeinsamer Datenzugriff und Data Sharing. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/gemeinsamer-datenzugriff-und-data-sharing/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/gemeinsamer-datenzugriff-und-data-sharing/).
 
 Forschungsdaten.info. (2023b, 5. Mai). Kollaboratives Arbeiten. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/.
+[https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/).
 
-Forschungsdaten.info. (2023c, 5. Mai). Planung der gemeinsamen Arbeit mit Daten. Zugriff am
-18.10.2023, von https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/planung-der-gemeinsamen-arbeit-mit-daten/.
+Forschungsdaten.info. (2023c, 5. Mai). Planung der gemeinsamen Arbeit mit Daten. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/planung-der-gemeinsamen-arbeit-mit-daten/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/planung-der-gemeinsamen-arbeit-mit-daten/).
 
-Forschungsdaten.info. (2023d, 5. Mai). Tools für die Organisation wissenschaftlicher Datenarbeit.
-Zugriff am 18.10.2023, von https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/tools-fuer-die-organisation-wissenschaftlicher-datenarbeit/.
+Forschungsdaten.info. (2023d, 5. Mai). Tools für die Organisation wissenschaftlicher Datenarbeit. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/tools-fuer-die-organisation-wissenschaftlicher-datenarbeit/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/kollaboratives-arbeiten/tools-fuer-die-organisation-wissenschaftlicher-datenarbeit/).
