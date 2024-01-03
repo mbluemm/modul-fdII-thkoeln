@@ -130,7 +130,7 @@ Metadaten werden in vielen Fällen automatisch generiert.
     o Auflösung: 1920x1080 Pixel
     o Aufnahmegerät: Canon EOS 5D Mark IV
 
-**„Inhaltsbeschreibende bzw. deskriptive Metadaten** können je nach Disziplin sehr unterschiedlich
+„**Inhaltsbeschreibende bzw. deskriptive Metadaten** können je nach Disziplin sehr unterschiedlich
 aufgebaut sein und geben zusätzliche Informationen zu Inhalt und Entstehung der Daten.“ (Böker, 2023a)
 
 ## Metadatenstandards
@@ -158,35 +158,38 @@ aufgeführt.“
 ## Leitfragen (Aufgabe)
 
 Leitfragen
+===
 
 - Welche Rolle spielen Metadaten im Forschungsdatenmanagement?
 - Welche Herausforderungen können bei der Sammlung von Metadaten auftreten?
 - Warum ist es wichtig, Metadaten langfristig aufzubewahren?
 
-Aufgabe:
+Aufgabe
+===
+
 Arbeiten Sie die Materialien durch und beantworten Sie für sich die Fragen. Dokumentieren und
 reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Literatur und Links (optional):
 
-Böker, E. (2023b, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von https://forschungsdaten.info/themen/beschreiben-und- dokumentieren/datendokumentation/.
+Böker, E. (2023b, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
-Digital Curation Centre (DCC). (o. D.). List of Metadata Standards. Zugriff am 18.10.2023, von https://www.dcc.ac.uk/guidance/standards/metadata/list.
+Digital Curation Centre (DCC). (o. D.). List of Metadata Standards. Zugriff am 18.10.2023, von [https://www.dcc.ac.uk/guidance/standards/metadata/list](https://www.dcc.ac.uk/guidance/standards/metadata/list)
 
-Forschungsdaten.info. (2023, 5. Mai). Metadaten im Forschungsalltag. Zugriff am 18.10.2023, von https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-im-forschungsalltag/.
+Forschungsdaten.info. (2023, 5. Mai). Metadaten im Forschungsalltag. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-im-forschungsalltag/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-im-forschungsalltag/)
 
-VerbundFDB. (2022, 09. Juni). Daten dokumentieren. Zugriff am 18.10.2023, von https://www.forschungsdaten-bildung.de/daten-dokumentieren.
+VerbundFDB. (2022, 09. Juni). Daten dokumentieren. Zugriff am 18.10.2023, von [https://www.forschungsdaten-bildung.de/daten-dokumentieren](https://www.forschungsdaten-bildung.de/daten-dokumentieren)
 
-Wikipedia. (2021, 10. Juli). Liste von Metadatenformaten. Zugriff am 18.10.2023, von https://de.wikipedia.org/wiki/Liste_von_Metadatenformaten.
+Wikipedia. (2021, 10. Juli). Liste von Metadatenformaten. Zugriff am 18.10.2023, von [https://de.wikipedia.org/wiki/Liste_von_Metadatenformaten](https://de.wikipedia.org/wiki/Liste_von_Metadatenformaten)
 
 ## Quellen:
 
 Biernacka, K., Buchholz, P., Danker, S. A. et al. (2021). Train-the-Trainer-Konzept zum Thema
-Forschungsdatenmanagement (Version 4). Zenodo. https://doi.org/10.5281/zenodo.5773203.
+Forschungsdatenmanagement (Version 4). Zenodo. [https://doi.org/10.5281/zenodo.5773203](https://doi.org/10.5281/zenodo.5773203)
 
 Böker, E. (2023a, 23. Oktober). Metadaten und Metadatenstandards. Forschungsdaten.info. Zugriff
-am 23.10.2023, von https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/.
+am 23.10.2023, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-metadatenstandards/)
 
 Krähwinkel, E., Langner, P., Lipp, R., et al. (2022). HeFDI Data Learning Materials:
 Forschungsdatenmanagement _–_ eine Online-Einführung (Version 1.0). Zenodo.
-https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ.
+[https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ)

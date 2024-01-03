@@ -68,6 +68,7 @@ Begrüßung
 ### Arbeitsphase
 
 (ca. 50 Min.) Vorträge von Tools
+===
 
 Aufbauend auf die Aufgabe aus der Online-Phase, stellen die S. hier individuell ihre jeweils recherchierten Tools vor.
 
@@ -140,7 +141,7 @@ Aspekte, auf die die S. achten und für ihr jeweiliges Tool beantworten müssen:
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 

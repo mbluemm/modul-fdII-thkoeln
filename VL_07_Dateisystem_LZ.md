@@ -1,32 +1,39 @@
 # VL7: Ordnerstruktur und Dateibenennungen 
 
-Ausgangslage <br><ul><li>Die Ablage von Daten erfolgt bei den S. aufgrund fehlender Sensibilisierung größtenteils unstrukturiert und ad hoc.</li><li>Es wird auf keine Nachnutzbarkeit (auch von Dritten) geachtet.</li></ul>
+**Ausgangslage**
+
+- Die Ablage von Daten erfolgt bei den S. aufgrund fehlender Sensibilisierung größtenteils unstrukturiert und ad hoc.
+
+- Es wird auf keine Nachnutzbarkeit (auch von Dritten) geachtet.
 
 ## Lernziele für den Online-Kurs (LiaScript)
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben (1). | Die S. haben verschiedene Konventionen für die Benennungen von Dateien kennengelernt und was eine effiziente Ordnerstruktur ausmacht. |
-| 2 | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen (2). | Die S. erkennen, warum es in einem Forschungsprozess wichtig ist, Daten und Dateien strukturiert zu ordnen und sinnvoll zu benennen. |
-| 3 | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden (3). | Die S. wissen, worauf bei einer Datenablage (inkl. Ordnerstruktur und Dateibenennung) geachtet werden muss und können dieses Wissen anwenden. |
+| 1 | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben(1). | Die S. haben verschiedene Konventionen für die Benennungen von Dateien kennengelernt und was eine effiziente Ordnerstruktur ausmacht. |
+| 2 | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen(2). | Die S. erkennen, warum es in einem Forschungsprozess wichtig ist, Daten und Dateien strukturiert zu ordnen und sinnvoll zu benennen. |
+| 3 | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden(3). | Die S. wissen, worauf bei einer Datenablage (inkl. Ordnerstruktur und Dateibenennung) geachtet werden muss und können dieses Wissen anwenden. |
 
 ## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
-| 4 | Die S. können begründen (6), welchen Mehrwert eine strukturierte und nachhaltige Datenablage und Dateibenennungskonvention bietet. | Die S. haben genau verstanden, wofür eine strukturierte und nachhaltige Datenablage sinnvoll ist und weshalb sie sich im eigenen Sinne und für andere daran halten sollten. |
-| 5 | Die S. sind in der Lage, anhand von Beispielen geeignete (nachhaltige) und weniger geeignete Ordnerstrukturen sowie Dateibenennungskonventionen voneinander zu unterscheiden (4) und dies kritisch zu bewerten (6). | Die S. können unterschiedliche Ordnerstrukturen und Benennungsschemata miteinander vergleichen und kritisch beurteilen. |
+| 4 | Die S. können begründen(6), welchen Mehrwert eine strukturierte und nachhaltige Datenablage und Dateibenennungskonvention bietet. | Die S. haben genau verstanden, wofür eine strukturierte und nachhaltige Datenablage sinnvoll ist und weshalb sie sich im eigenen Sinne und für andere daran halten sollten. |
+| 5 | Die S. sind in der Lage, anhand von Beispielen geeignete (nachhaltige) und weniger geeignete Ordnerstrukturen sowie Dateibenennungskonventionen voneinander zu unterscheiden(4) und dies kritisch zu bewerten(6). | Die S. können unterschiedliche Ordnerstrukturen und Benennungsschemata miteinander vergleichen und kritisch beurteilen. |
 | 6 | Die S. sind in der Lage für eigene Dateien (oder einen Beispieldatensatz) eine sinnvolle Benennungskonvention (inkl. Versionierungsmethoden) und eine effiziente Ordnerstruktur zu entwickeln (5). | Die S. können selbständig eine eigene sinnvolle Ordnerstruktur mit einem sinnvollen Benennungsschema entwickeln, sodass Daten und Dateien auch im Nachhinein/von anderen wiedergefunden werden können. Sie nehmen dieses Wissen mit in ihr Studium (in ihre Projekte) und wenden es dort an. |
 
-## Detaillierte Kursplanung [1] 
+## Detaillierte Kursplanung[^1] 
 
-### Online-Kurs
+**Online-Kurs**
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden/Medien   (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einführung in das Thema Datenablage: Ordnerstruktur und Dateibenennungen. <br>Merkmale und Kriterien einer nachhaltigen Ordnerstruktur zur Speicherung von Daten und Dateien. <br>Wichtige Aspekte zu den Benennungen von Dateien (inkl. Versionierung etc.) hervorheben. | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben (1). | Infotexte zu den Inhalten, inkl. Grafiken. <br>Erklärvideo <br>Antwort zur ersten Leitfrage im Lernportfolio notieren (für eine ggf. Diskussion im Plenum). | EA |
-| Ca. 10 min. | Die Relevanz einer strukturierten und nachhaltigen Datenablage (für sich und andere) im Forschungsprozess erläutern. | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen (2). | Antwort zur zweiten Leitfrage im Lernportfolio notieren (für eine ggf. Diskussion im Plenum). | EA |
-| Ca. 5 min. | Die Merkmale und Kriterien einer strukturierten und nachhaltigen Datenablage in der Form von Beispielen erläutern. | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden (3). | Optionales (Single Choice) Quiz: <br>Mögliche Beispiele zu einer Ordnerstruktur oder einer Dateibenennung werden angeboten und die S. müssen die korrekte Antwort auswählen. | EA |
+| Ca. 15 min. | Einführung in das Thema Datenablage: Ordnerstruktur und Dateibenennungen. <br>Merkmale und Kriterien einer nachhaltigen Ordnerstruktur zur Speicherung von Daten und Dateien. <br>Wichtige Aspekte zu den Benennungen von Dateien (inkl. Versionierung etc.) hervorheben. | Die S. können eine Dateibenennungskonvention und Merkmale einer effizienten Ordnerstruktur beschreiben(1). | Infotexte zu den Inhalten, inkl. Grafiken. <br>Erklärvideo <br>Antwort zur ersten Leitfrage im Lernportfolio notieren (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 10 min. | Die Relevanz einer strukturierten und nachhaltigen Datenablage (für sich und andere) im Forschungsprozess erläutern. | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen(2). | Antwort zur zweiten Leitfrage im Lernportfolio notieren (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 5 min. | Die Merkmale und Kriterien einer strukturierten und nachhaltigen Datenablage in der Form von Beispielen erläutern. | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden(3). | Optionales (Single Choice) Quiz: <br>Mögliche Beispiele zu einer Ordnerstruktur oder einer Dateibenennung werden angeboten und die S. müssen die korrekte Antwort auswählen. | EA |
+
+---
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -35,14 +42,14 @@ Ausgangslage <br><ul><li>Die Ablage von Daten erfolgt bei den S. aufgrund fehlen
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden/Medien   (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung und Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | ScaryTale (unten ein Beispiel). <br>Zum Einstieg wird eine ScaryTale im Plenum „gespielt“. | Die S. können begründen (6), welchen Mehrwert eine strukturierte und nachhaltige Datenablage und Dateibenennungskonvention für sie selbst und für andere bietet. | L. führt die ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden. <br>Nach Beantwortung der ScaryTale sollen die S. die Sinnhaftigkeit und Relevanz einer strukturierten und nachhaltigen Datenablage für sich selbst (im Studium) und für andere (z. B. bei Projektarbeiten im Studium) erläutern (siehe Leitfrage 3). | PL |
+| Ca. 15 min. | ScaryTale (unten ein Beispiel). <br>Zum Einstieg wird eine ScaryTale im Plenum „gespielt“. | Die S. können begründen(6), welchen Mehrwert eine strukturierte und nachhaltige Datenablage und Dateibenennungskonvention für sie selbst und für andere bietet. | L. führt die ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden. <br>Nach Beantwortung der ScaryTale sollen die S. die Sinnhaftigkeit und Relevanz einer strukturierten und nachhaltigen Datenablage für sich selbst (im Studium) und für andere (z. B. bei Projektarbeiten im Studium) erläutern (siehe Leitfrage 3). | PL |
 
 #### Arbeitsphase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden/Medien   (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 40 min. | Gruppenarbeit zum Thema Dateiablage. <br>Anhand einer Liste von Beispielen sollen die S. in Gruppen gute von schlechten Ordnerstrukturen und Dateibenennungskonventionen unterscheiden. <br>Anschließend kurze Besprechung/Auflösung im PL. | Die S. sind in der Lage, anhand von Beispielen geeignete (nachhaltige) und weniger geeignete Ordnerstrukturen sowie Dateibenennungskonventionen voneinander zu unterscheiden (4) und dies kritisch zu bewerten (6). | L. teilt die S. in Gruppen ein. <br>Die L. stellt den S. eine Liste von ca. drei Beispielen vor. Diese sind Beispiele von geeigneten (nachhaltigen) und weniger geeigneten Ordnerstrukturen und Dateibenennungskonventionen. <br>Die S. müssen dessen Sinnhaftigkeit und Nachhaltigkeit einordnen und bewerten. <br>Anschließend tragen die Gruppen ihre Bewertungen im PL vor und es erfolgt eine gemeinsame Reflexion und Diskussion. | GA / PL |
-| Ca. 25 min. | Einzelarbeit <br>Eigene Datenablage sinnvoll überarbeiten. <br>ODER <br>In Zweiergruppen sollen die S. die Dateien des Anderen sinnvoller benennen. <br>ALTERNATIV <br>Beispiel-Datenablage sinnvoll überarbeiten. | Die S. sind in der Lage, einen eigenen Datensatz/für eigene Dateien (oder einen Beispieldatensatz) eine sinnvolle Benennungskonvention (inkl. Versionierungsmethoden) und eine effiziente Ordnerstruktur zu entwickeln (5). | Die S. können sich ihre eigenen Dateien (oder die eines Anderen) vornehmen und diese sinnvoll und nachhaltig benennen und in Ordner strukturieren. <br>ALTERNATIV <br>2. Die L. bietet ein Beispiel von einer chaotischen Dateibenennung und Struktur. Die S. müssen diese bearbeiten und die Dateien sinnvoll umbenennen und strukturieren. <br>Anschließend eine kurze abschließende Diskussion im PL. | EA / PL |
+| Ca. 40 min. | Gruppenarbeit zum Thema Dateiablage. <br>Anhand einer Liste von Beispielen sollen die S. in Gruppen gute von schlechten Ordnerstrukturen und Dateibenennungskonventionen unterscheiden. <br>Anschließend kurze Besprechung/Auflösung im PL. | Die S. sind in der Lage, anhand von Beispielen geeignete (nachhaltige) und weniger geeignete Ordnerstrukturen sowie Dateibenennungskonventionen voneinander zu unterscheiden(4) und dies kritisch zu bewerten(6). | L. teilt die S. in Gruppen ein. <br>Die L. stellt den S. eine Liste von ca. drei Beispielen vor. Diese sind Beispiele von geeigneten (nachhaltigen) und weniger geeigneten Ordnerstrukturen und Dateibenennungskonventionen. <br>Die S. müssen dessen Sinnhaftigkeit und Nachhaltigkeit einordnen und bewerten. <br>Anschließend tragen die Gruppen ihre Bewertungen im PL vor und es erfolgt eine gemeinsame Reflexion und Diskussion. | GA / PL |
+| Ca. 25 min. | Einzelarbeit <br>Eigene Datenablage sinnvoll überarbeiten. <br>ODER <br>In Zweiergruppen sollen die S. die Dateien des Anderen sinnvoller benennen. <br>ALTERNATIV <br>Beispiel-Datenablage sinnvoll überarbeiten. | Die S. sind in der Lage, einen eigenen Datensatz/für eigene Dateien (oder einen Beispieldatensatz) eine sinnvolle Benennungskonvention (inkl. Versionierungsmethoden) und eine effiziente Ordnerstruktur zu entwickeln(5). | Die S. können sich ihre eigenen Dateien (oder die eines Anderen) vornehmen und diese sinnvoll und nachhaltig benennen und in Ordner strukturieren. <br>ALTERNATIV <br>2. Die L. bietet ein Beispiel von einer chaotischen Dateibenennung und Struktur. Die S. müssen diese bearbeiten und die Dateien sinnvoll umbenennen und strukturieren. <br>Anschließend eine kurze abschließende Diskussion im PL. | EA / PL |
 
 #### Abschluss
 
@@ -57,6 +64,7 @@ Ausgangslage <br><ul><li>Die Ablage von Daten erfolgt bei den S. aufgrund fehlen
 Begrüßung
 
 (ca. 15 Min.) Methode: Diskussion - ScaryTale
+===
 
 Aufgabe: Raten Sie und finden Sie gemeinsam eine Lösung für das ScaryTale.
 
@@ -70,6 +78,7 @@ Beantwortung von Leitfrage 3: Erläuterung der Sinnhaftigkeit und Relevanz einer
 ### Arbeitsphase 
 
 (ca. 40 Min.) Gruppenarbeit
+===
 
 L. teilt die S. in Gruppen auf und stellt den S. die Liste von ca. drei Beispielen vor. Die Gruppen setzen sich zusammen und bearbeiten die Aufgabe.
 
@@ -78,6 +87,7 @@ Die S. müssen die Sinnhaftigkeit und Nachhaltigkeit der Datenablage (Ordnerstru
 Nach der Gruppenarbeit bringt L. Alle Gruppen zusammen. Jede Gruppe trägt ihre Bewertung mit Anregung zur Reflexion und Diskussion vor.
 
 (ca. 25 Min.) Einzelarbeit, zwei Möglichkeiten
+===
 
 1. Eigene Datenablage sinnvoll überarbeiten 
 
@@ -112,13 +122,11 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-Quellen:
+## Quellen:
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
-
-[1] EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag
 

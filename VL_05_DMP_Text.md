@@ -463,23 +463,22 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ## Weiterführende Literatur und Links (optional):
 
 Böker, E. (2023, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/.
+[https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
-Forschungsdaten.info. (2023, 5. Mai). Datenmanagementplan. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/.
+Forschungsdaten.info. (2023, 5. Mai). Datenmanagementplan. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/)
 
 Helbig, K. (2015). Hinweise und Checkliste zur Erstellung eines Datenmanagementplans. Zenodo.
-https://doi.org/10.5281/zenodo.33485.
+[https://doi.org/10.5281/zenodo.33485](https://doi.org/10.5281/zenodo.33485)
 
 Social Science Research Council. (o. D.). Principles of Documenting Data. Zugriff am 18.10.2023, von
-https://managing-qualitative-data.org/modules/2/a/.
+[https://managing-qualitative-data.org/modules/2/a/](https://managing-qualitative-data.org/modules/2/a/)
 
 ## Quellen:
 
 Institut für Bibliotheks- und Informationswissenschaft. (2021, 8. Dezember). Datenmanagementplan
 für die Abschlussarbeit _–_ Template. Humboldt-Universtität zu Berlin. Zugriff am 18.10.2023, von
-https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/dmp_template_finale_version_dez_21.pdf.
+[https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/dmp_template_finale_version_dez_21.pdf](https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/dmp_template_finale_version_dez_21.pdf)
 
 Institut für Bibliothek- und Informationswissenschaft. (2022, 30. Juni). Leitfragen für den
 Arbeitsprozess mit Forschungsdaten. Humboldt-Universtität zu Berlin. Zugriff am 18.10.2023, von
-https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/leitfragen_fdm_finale_version_dez_21.pdf.
+[https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/leitfragen_fdm_finale_version_dez_21.pdf](https://www.ibi.hu-berlin.de/de/studium/rundumdasstudium/fdm-fuer-studierende/leitfragen_fdm_finale_version_dez_21.pdf)

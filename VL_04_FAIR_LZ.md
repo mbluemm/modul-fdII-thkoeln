@@ -1,42 +1,47 @@
 # VL4: FAIR-Prinzipien
 
-Ausgangslage 
+**Ausgangslage**
 
-* Das Bewusstsein für FAIR-Prinzipien ist bei den S. nicht vorhanden.
-* FAIR-Prinzipien sind im BA-Level theoretisch anwendbar (ggf. F und R), aber werden nicht geprüft.
+- Das Bewusstsein für FAIR-Prinzipien ist bei den S. nicht vorhanden.
+- FAIR-Prinzipien sind im BA-Level theoretisch anwendbar (ggf. F und R), aber werden nicht geprüft.
 
-## Lernziele für den Online-Kurs (LiaScript)
+## Lernziele für den Online-Kurs
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. |
+| 1 | Die S. können die FAIR-Prinzipien benennen(1) und die einzelnen Aspekte beschreiben(1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. |
 | Lernziele für den Unterricht in Präsenz |
-| 2 | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen (4). | Die S. wissen, was die Merkmale der Prinzipien sind und können Vor- und Nachteile/Hindernisse für den Forschungsprozess extrapolieren. |
+| 2 | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen(4). | Die S. wissen, was die Merkmale der Prinzipien sind und können Vor- und Nachteile/Hindernisse für den Forschungsprozess extrapolieren. |
 | 3 | Die S. sind in der Lage, die Fairness von Daten zu beurteilen (6). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeit (mit Daten) beachten zu können. |
-| 4 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen (5). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeiten (mit Daten) beachten zu können. |
+| 4 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen(5). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeiten (mit Daten) beachten zu können. |
 
-## Detaillierte Kursplanung[1]
+## Detaillierte Kursplanung[^1]
 
-### Online-Kurs
+**Online-Kurs**
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 20 min. | Einführung in das Thema:  Infotext zu FAIR-Prinzipien inkl. Grafiken.  Aufschlüsselung des Akronyms  Bezug zu Leitlinie in der Hochschule  Relevanz von FDM  Video von GOfair  Best-Practice-Beispiel: “Fairytale”  Quiz | Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Text und Erklärvideo als Informationsquelle  Best-Practice-Beispiel Fairytale, um auf den Mehrwert von fairen Daten aufmerksam zu machen.  Optionales Quiz | EA |
 | Ca. 10 Min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
+
+---
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+
 ### Präsenzphase
+
 #### Einstiegsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 5 Min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 5 Min. | Mindmap zu Vor- und Nachteilen von FAIR-Prinzipien  alternativ:  Tandem: „Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?“ | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen (4).  alternativ:  Ergebnissicherung, Vertiefung der Inhalte aus der Online-Phase  Die S. können Ihre schriftlichen Ausarbeitungen ergänzen  Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Wissenspool  oder:  Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.  alternativ:  Think-Pair-Share im Tandem | PL / GA |
+| Ca. 5 Min. | Mindmap zu Vor- und Nachteilen von FAIR-Prinzipien  alternativ:  Tandem: „Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?“ | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen(4).  alternativ:  Ergebnissicherung, Vertiefung der Inhalte aus der Online-Phase  Die S. können Ihre schriftlichen Ausarbeitungen ergänzen  Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Wissenspool  oder:  Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.  alternativ:  Think-Pair-Share im Tandem | PL / GA |
 | Ca. 10 Min. | Diskussion im Plenum über festgehaltene Beiträge | s. o. | Diskussion | PL |
 
 #### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 Min. | Gruppeneinteilung  Gruppen-Aufgabe zu „Fairness von Daten“. | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von Fragen in Gruppenarbeit (insgesamt 3 Gruppen).  alternativ:  Die S. suchen sich eigene Datensätze aus.  alternativ:  Kopfstandmethode - Wie mache ich meine Daten möglichst unfair?  Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) fair (für sich und für Dritte) zusammenzustellen (5).  Die S. sind in der Lage, die Fairness von Daten zu beurteilen (6).  - Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Erarbeitung von Fallbeispielen in Gruppenarbeit  Vorbereitung von Impulsvorträgen | GA |
+| Ca. 20 Min. | Gruppeneinteilung  Gruppen-Aufgabe zu „Fairness von Daten“. | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von Fragen in Gruppenarbeit (insgesamt 3 Gruppen).  alternativ:  Die S. suchen sich eigene Datensätze aus.  alternativ:  Kopfstandmethode - Wie mache ich meine Daten möglichst unfair?  Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) fair (für sich und für Dritte) zusammenzustellen(5).  Die S. sind in der Lage, die Fairness von Daten zu beurteilen(6).  - Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Erarbeitung von Fallbeispielen in Gruppenarbeit  Vorbereitung von Impulsvorträgen | GA |
 | Ca. 45 Min. | Präsentation der einzelnen Gruppen (jeweils ca. 5 Min. pro Gruppe) mit jeweils anschließender Diskussion im Plenum (jeweils ca. 10 Min.) | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
 
 #### Abschluss
@@ -53,7 +58,10 @@ Begrüßung
 
 (ca. 5 Min.) Methode: Wissenspool (Mindmap)\*
 
-Aufgabe: Benennen Sie die Vor- und Nachteile von FAIR-Prinzipien
+Aufgabe:
+===
+
+Benennen Sie die Vor- und Nachteile von FAIR-Prinzipien
 
 \*Alternativ: Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.
 
@@ -69,7 +77,10 @@ alternativ:
 
 (ca. 5 Min.) Methode: Think – Pair – Share
 
-Aufgabe: Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
+Aufgabe:
+===
+
+Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
 
 (ca. 10 Min.) Methode: Diskussion im Plenum über festgehaltene Beiträge
 
@@ -113,12 +124,10 @@ Quiz: Vier Single-Choice-Fragen (Wofür steht das F? Etc.); eine Dag-&-Drop-Aufg
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-Quellen:
+## Quellen:
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
-
-[1] EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag

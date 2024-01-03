@@ -1,9 +1,11 @@
 # Ethische Aspekte
 
+```
 Hinweis
 Die angegebene Information dient lediglich als Orientierung für Studierende und Forschende. Sie
 ersetzt keine fachkundige Beratung zu ethischen Aspekten im Umgang mit Daten. Somit sind alle
 Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit.
+```
 
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten ethischen Aspekten, die
 Sie im FDM beachten müssen. Hier lernen Sie über die CARE-Prinzipien und wie Sie
@@ -63,9 +65,7 @@ Pflicht (Böker 2023):
     besteht.
 
 Falls Sie das Thema Ethik, im Zusammenhang mit Daten wie beispielsweise in der künstlichen
-Intelligenz, interessiert, können wir folgenden Podcast zum Thema „Ethik & KI – Verantwortung der
-
-## Data Scientists“ empfehlen.
+Intelligenz, interessiert, können wir folgenden Podcast zum Thema „Ethik & KI – Verantwortung der Data Scientists“ empfehlen.
 
 # CARE-Prinzipien
 
@@ -74,9 +74,7 @@ auf ethische Fragestellungen, die CARE-Prinzipien entworfen. Die CARE-Prinzipien
 der International Data Week und dem parallel stattfindenden Research Data Alliance Plenary in 2018
 in Botswana entworfen und von der Global Indigenous Data Alliance veröffentlicht.
 
-CARE steht dabei für Collective Benefit, Authority to Control, Responsibility und Ethics [Kollektiver
-
-## Nutzen, Kontrolle über die Daten, Verantwortung, Ethik]
+CARE steht dabei für Collective Benefit, Authority to Control, Responsibility und Ethics [Kollektiver Nutzen, Kontrolle über die Daten, Verantwortung, Ethik]
 
 ```
 Collective Benefit
@@ -88,11 +86,13 @@ Authority to Control
 Die Rechte und Interessen indigener Völker an indigenen Daten müssen
 anerkannt und ihre Befugnis, diese Daten zu kontrollieren, muss gestärkt
 werden.
+
 Responsibility
 Diejenigen, die mit indigenen Daten arbeiten, sind dafür verantwortlich,
 mitzuteilen, wie diese Daten verwendet werden, um die
 Selbstbestimmung der indigenen Völker sowie den kollektiven Nutzen zu
 unterstützen.
+
 Ethics
 Die Rechte und das Wohlergehen indigener Völker sollten in allen Phasen
 des Forschungsdatenzyklus und im gesamten Datenökosystem im
@@ -118,10 +118,13 @@ englischen Fassung oder in der deutschen Fassung.
 # Leitfrage (Aufgabe)
 
 Lektüre:
+===
+
 Carroll, S. R., Hudson, M., Chapman, J. et al. (2019, 1. September). Die CARE-Prinzipien für
-indigene Data Governance. https://doi.org/10.5281/zenodo.5995059.
+indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.org/10.5281/zenodo.5995059).
 
 Leitfragen
+===
 
 1. Kennen Sie Beispiele in denen Forschende in ethische Dilemmata geraten sind? Benennen
     Sie diese.
@@ -130,41 +133,43 @@ Leitfragen
 3. Was bezeichnet man als „Dual Use“? Haben Sie Vorschläge, wie man ihn verhindern
     kann?
 
-Aufgabe: Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
+Aufgabe:
+===
+
+Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-# Weiterführende Literatur und Links (optional):
+# Weiterführende Literatur und Links (optional)
 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
-for Indigenous data futures. Sci Data 8, 108. https://doi.org/10.1038/s41597- 021 - 00892 - 0.
+for Indigenous data futures. Sci Data 8, 108. [https://doi.org/10.1038/s41597-021-00892-0](https://doi.org/10.1038/s41597-021-00892-0).
 Global Indigenous Data Alliance (GIDA). (o. D.). Hauptseite. Zugriff am 18.10.2023, von
-https://www.gida-global.org/care.
+[https://www.gida-global.org/care](https://www.gida-global.org/care).
 
 Research Data Alliance International Indigenous Data Sovereignty Interest Group. (2019, September).
-“CARE Principles for Indigenous Data Governance.” The Global Indigenous Data Alliance. GIDA-
-global.org
+“CARE Principles for Indigenous Data Governance.” The Global Indigenous Data Alliance. [GIDA-global.org](GIDA-global.org)
 
 Rösch, H. (2021). 1.5 Forschungsethik und Forschungsdaten. In M. Putnings, H. Neuroth & J.
-Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (pp. 115-140). Berlin, Boston: De Gruyter Saur. https://doi.org/10.1515/9783110657807- 006.
+Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (pp. 115-140). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-006](https://doi.org/10.1515/9783110657807-006).
 
 
 ## Quellen:
 
 Böker, E. (2022, 15. November). Ethische Aspekte und FDM. Forschungsdaten.info. Zugriff am
-18.10.2023, von https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/.
+18.10.2023, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/).
 
 Böker, E. (2023, 12. Mai). Ethische Aspekte im FDM. Forschungsdaten.info. Zugriff am 18.10.2023,
-von https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/ethische-aspekte-im-fdm/.
+von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/ethische-aspekte-im-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/ethische-aspekte-im-fdm/).
 
 Carroll, S. R., Hudson, M., Chapman, J. et al. (2019, 1. September). Die CARE-Prinzipien für
-indigene Data Governance. https://doi.org/10.5281/zenodo.5995059.
+indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.org/10.5281/zenodo.5995059).
 
 Deutsche Forschungsgemeinschaft. (2023, 13. Juni). Zum Umgang mit sicherheitsrelevanter
 Forschung. Zugriff am 18.10.2023, von
-https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/sicherheitsrelevante_forschung/index.html.
+[https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/sicherheitsrelevante_forschung/index.html](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/sicherheitsrelevante_forschung/index.html).
 
 Forschungsdaten.info. (2023, 5. Oktober). Glossar _–_ Praxis Kompakt _–_ Forschungsdaten und
-Forschungsdatenmanagement. Zugriff am 18.10.2023, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269898.
+Forschungsdatenmanagement. Zugriff am 18.10.2023, von [https://forschungsdaten.info/praxis-kompakt/glossar/#c269898](https://forschungsdaten.info/praxis-kompakt/glossar/#c269898).
 
 GIDA – Global Indigenous Data Alliance. (o. D.). CARE Principles for Indigenous Data Governance.
-Hauptseite. Zugriff am 18.10.2023, von https://www.gida-global.org/care.
+Hauptseite. Zugriff am 18.10.2023, von [https://www.gida-global.org/care](https://www.gida-global.org/care).

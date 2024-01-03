@@ -4,11 +4,10 @@
 **Ausgangslage**
  
 - Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
+
 - Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
 
-## Lernziele für Thema 1: Was sind Forschungsdaten?
-
-**Lernziele für den Unterricht in Präsenz**
+## Lernziele für den Unterricht in Präsenz
 
 ||||
 | --- | --- | --- |
@@ -127,7 +126,7 @@ L. fragt, ob S. noch offene Fragen haben
 | Taxonomiestufe 5 | Synthese (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil abgeben können |
 
-## Quellen:  
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)  
 

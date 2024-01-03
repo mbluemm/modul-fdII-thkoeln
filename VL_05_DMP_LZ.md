@@ -1,30 +1,35 @@
 #  VL5: Dokumentation von Daten 
 
-Ausgangslage
+**Ausgangslage**
 
-<ul><li>Die S. haben wenige bis keine Erfahrung beim Dokumentieren von Daten.</li><li>Die S. wissen nicht, worauf sie beim Umgang mit Daten achten müssen.</li></ul>
+- Die S. haben wenige bis keine Erfahrung beim Dokumentieren von Daten.
 
-### Lernziele für den Online-Kurs (LiaScript)
+- Die S. wissen nicht, worauf sie beim Umgang mit Daten achten müssen.
+
+## Lernziele für den Online-Kurs
 
 ||||
 | :--- | :--- | :--- |
 | 1 | Die S. können beschreiben (1), was der Nutzen des Dokumentierens von Daten ist und herausstellen (2), welche Relevanz dies hat. | Die S. haben gelernt, welche Komponenten eine Dokumentation von Daten enthalten kann, und weshalb diese so wichtig ist. |
 | 2 | Die S. können herausstellen (2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Die S. verstehen die Korrelation zwischen und Relevanz von Forschungsprojekten und deren Dokumentation. |
 
-### Lernziele für den Unterricht in Präsenz
+## Lernziele für den Unterricht in Präsenz
 
 ||||
 | :--- | :--- | :--- |
 | 3 | Die S. sind in der Lage, für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren (5) und ihre Entscheidung zu begründen (6). | Die S. lernen so, das angeeignete Wissen im Nachgang für (Daten- )Projekte in ihrem Studium anzuwenden und Daten zu dokumentieren. |
 
-## Detaillierte Kursplanung [1] 
+## Detaillierte Kursplanung[^1] 
 
-### Online-Kurs (LiaScript)
+**Online-Kurs**
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema:<br><br>Infotext, inkl. Grafiken.<br><br>Video:<br><br>[2min Video](https://youtu.be/cMP9v7Se6cY): FDM erklärt ([Quelle: H-BRS](https://www.h-brs.de/de/bib/forschungsdatenmanagement))<br><br>Drag&Drop-Aufgabe + Hilfsmittel Checkliste | Die S. können beschreiben (1), was der Nutzen des Dokumentierens von Daten ist und herausstellen (2), welche Relevanz dies hat.<br><br>Die S. können herausstellen (2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Text und Erklärvideo als Informationsquelle<br><br>Drag&Drop-Aufgabe Hilfsmittel Checkliste | EA |
+| Ca. 20 min. | Einführung in das Thema:<br><br>Infotext, inkl. Grafiken.<br><br>Video:<br><br>[2min Video](https://youtu.be/cMP9v7Se6cY): FDM erklärt ([Quelle: H-BRS](https://www.h-brs.de/de/bib/forschungsdatenmanagement))<br><br>Drag&Drop-Aufgabe + Hilfsmittel Checkliste | Die S. können beschreiben(1), was der Nutzen des Dokumentierens von Daten ist und herausstellen(2), welche Relevanz dies hat.<br><br>Die S. können herausstellen(2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Text und Erklärvideo als Informationsquelle<br><br>Drag&Drop-Aufgabe Hilfsmittel Checkliste | EA |
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase | Transferaufgabe | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase | EA |
+
+---
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -38,7 +43,7 @@ Ausgangslage
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 70 min. | Gruppeneinteilung<br><br>Gruppen-Aufgabe zu „Dokumentation von Daten“<br><br>L. berät die Gruppen bei Herausforderungen und Schwierigkeiten | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel in Gruppenarbeit<br><br>Die S. sind in der Lage, für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren (5) und ihre Entscheidung zu begründen (6).<br> Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Erarbeitung von Fallbeispielen in Gruppenarbeit | GA |
+| Ca. 70 min. | Gruppeneinteilung<br><br>Gruppen-Aufgabe zu „Dokumentation von Daten“<br><br>L. berät die Gruppen bei Herausforderungen und Schwierigkeiten | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel in Gruppenarbeit<br><br>Die S. sind in der Lage, für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren(5) und ihre Entscheidung zu begründen(6).<br> Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Erarbeitung von Fallbeispielen in Gruppenarbeit | GA |
 
 #### Abschluss
 
@@ -92,12 +97,10 @@ Checkliste zur Datendokumentation
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-Quellen:
+## Quellen:
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
-
-[1] EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = LehrvortragLehrvortrag

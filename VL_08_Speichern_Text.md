@@ -54,25 +54,27 @@ Es ist hilfreich (VerbundFDB 2018):
 - offene W-LAN-Verbindungen zu vermeiden.
 - gute Virus- und Malwarescanner zu verwenden.
 - DSGVO-konforme Clouddienste, wie etwa die Cloud-Speicherlösung sciebo, zu wählen
-    (https://hochschulcloud.nrw/).^1^
+    (https://hochschulcloud.nrw/).[^1]
 
 Hinweis: Kostenlose Clouddienste (bspw. Google Drive, Dropbox, OneDrive) sollten nicht verwendet
 werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen. In Amerika sind aufgrund des USA PATRIOT Acts (2001) die eigenen Daten vor einem Zugriff Dritter nicht geschützt
 
 (Krähwinkel, Langner, Lipp et al. 2022).
 
-^1^ Hier empfiehlt es sich zu prüfen, wie lange auf die Hochschuldienste zugegriffen werden kann.
+[^1]: Hier empfiehlt es sich zu prüfen, wie lange auf die Hochschuldienste zugegriffen werden kann.
 
 
 ## Sicherer Passwortschutz
 
 Was ist ein gutes Passwort?
+===
 
 Die Daten (Dateien und Ordner) sollten wo es möglich ist, beispielsweise bei sensiblen Daten, mit
 einem Passwort geschützt sein.
 Für einen Überblick von sicheren Passwörtern kann Passwortmanagement-Software helfen.
 
 Beispiele für Passwortregel
+===
 
 Universitäten und Hochschulen haben interne Leitlinien zum Umgang mit Forschungsdaten erstellt,
 wie beispielsweise die Leitlinie der Technischen Hochschule Köln (Sauther-Patrascu und Dmitrieva
@@ -93,7 +95,7 @@ hinaus, verfügbar und interpretierbar hält.
 
 Frage: Glauben Sie es wäre für künftige Studierende hilfreich an dieser Stelle noch Informationen zum
 Erstellen von sicheren Passwörtern sowie zur Verwaltung von Passwörtern zu erhalten?
-https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/
+[https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/](https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/)
 
 
 ## Datenformate
@@ -138,7 +140,7 @@ Dateiformate können folgendermaßen konvertiert werden:
 Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
 Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
 
-^2^ Praxishandbuch Forschungsdatenmanagement (Putnings, Neuroth, und Neumann 2021).
+[^2]: Praxishandbuch Forschungsdatenmanagement (Putnings, Neuroth, und Neumann 2021).
 
 ![](https://)
 Quelle: Digitalbevaringdk Lyd_Digitalisering
@@ -147,53 +149,56 @@ Quelle: Digitalbevaringdk Lyd_Digitalisering
 ## Leitfragen (Aufgabe)
 
 Leitfragen
+===
 
 - Was ist die Relevanz von Daten/Dateispeicherung und Backup im FDM?
 - Wissensübertragung: Welche Rolle spielt die Dateispeicherung im Studium? Worauf ist hier zu achten? Welche Probleme können entstehen?
 
 Aufgabe:
+===
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-## Weiterführende Literatur und Links (optional):
+## Weiterführende Literatur und Links (optional)
 
 Böker, E. (2023a, 5. Mai). Datenübertragung. Forschungsdaten.info. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/.
+[https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/)
 
 Böker, E. (2023b, 24. Juli). Formate erhalten. Forschungsdaten.info. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/.
+[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
 
 Forschungsdaten.info. (2023, 5. Mai). Passworthilfen. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/.
+[https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/](https://forschungsdaten.info/themen/speichern-und-rechnen/passworthilfen/)
 
 Forschungsdaten.info. (2023, 11. August). Speichern und Übertragen großer Datenmengen. Zugriff
-am 18.10.2023, von https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/.
+am 18.10.2023, von [https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/](https://forschungsdaten.info/themen/speichern-und-rechnen/speichern-und-uebertragen-grosser-datenmengen/).
 
 Putnings, M., Neuroth, H., & Neumann, J. (2021, 19. Dezember). Praxishandbuch
-Forschungsdatenmanagement. De Gruyter Saur. https://doi.org/10.1515/9783110657807.
+Forschungsdatenmanagement. De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
 Weber, A. & Piesche, C. (2021). 4.2 Datenspeicherung, -kuration und Langzeitverfügbarkeit. In M.
 Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (pp. 327-
-356). Berlin, Boston: De Gruyter Saur. https://doi.org/10.1515/9783110657807- 019.
+356). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-019](https://doi.org/10.1515/9783110657807-019).
 
 Weiner, B., Wünsche, S., Kühne, S. et al. (2020, 30. April). Crashkurs Forschungsdatenmanagement.
-Zenodo. https://doi.org/10.5281/zenodo.3778431.
+Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.3778431).
 
 
 ## Quellen:
 
 Forschungsdaten.info. (2023a, 5. Mai). Datensicherheit und Backup. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/.
+[https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/).
 
 Forschungsdaten.info. (2023b, 5. Mai). Datenspeicherung und die Lebensdauer von Datenträgern.
-Zugriff am 18.10.2023, von https://forschungsdaten.info/themen/speichern-und-rechnen/datenspeicherung-und-die-lebensdauer-von-datentraegern/.
+Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/speichern-und-rechnen/datenspeicherung-und-die-lebensdauer-von-datentraegern/](https://forschungsdaten.info/themen/speichern-und-rechnen/datenspeicherung-und-die-lebensdauer-von-datentraegern/)
 
 Krähwinkel, E., Langner, P., Lipp, R., et al. (2022). HeFDI Data Learning Materials:
 Forschungsdatenmanagement _–_ eine Online-Einführung (Version 1.0). Zenodo.
-https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ.
+[https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ)
 
 Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten.
-Abgerufen am 20. Oktober 2023, von https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf
+Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
 
 VerbundFDB. (2018, 20. Juli). Daten benennen und organisieren. Zugriff am 18.10.2023, von
-https://www.forschungsdaten-bildung.de/dateien-benennen.
+[https://www.forschungsdaten-bildung.de/dateien-benennen](https://www.forschungsdaten-bildung.de/dateien-benennen)

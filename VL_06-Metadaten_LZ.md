@@ -1,11 +1,12 @@
 #  VL6: Metadaten 
 
-Ausgangslage
+**Ausgangslage**
 
-* Die S. arbeiten mit Metadaten ohne ein konkretes Verständnis davon zu haben.
-* Den S. ist die Bedeutung von Metadaten für das FDM nicht bewusst.
+- Die S. arbeiten mit Metadaten ohne ein konkretes Verständnis davon zu haben.
 
-Lernziele für den Online-Kurs (LiaScript)
+- Den S. ist die Bedeutung von Metadaten für das FDM nicht bewusst.
+
+## Lernziele für den Online-Kurs
 
 ||||
 | :--- | :--- | :--- |
@@ -14,14 +15,17 @@ Lernziele für den Online-Kurs (LiaScript)
 | Lernziele für den Unterricht in Präsenz |
 | 3 | Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten (5) und ihre Entscheidung zu begründen (6). | Die S. können Metadaten selber erstellen und ihr erworbenes Wissen künftig in Studienprojekten umsetzen. |
 
-## Detaillierte Kursplanung [1] 
+## Detaillierte Kursplanung[^1] 
 
-### Online-Kurs
+**Online-Kurs**
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>Video von Mirjam Blümm / oder neu erstelltes Video<br>Quiz zu „Arten von Metadaten” | Die S. können Metadaten bezeichnen (2) und erläutern (2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br>>Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben (1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
+| Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>Video von Mirjam Blümm / oder neu erstelltes Video<br>Quiz zu „Arten von Metadaten” | Die S. können Metadaten bezeichnen(2) und erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br>>Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
+
+---
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -36,7 +40,7 @@ Lernziele für den Online-Kurs (LiaScript)
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Gruppeneinteilung zur Praktischen Übung<br>Gruppenaufgabe: Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von zur Verfügung gestellten Hilfsmitteln<br> Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten (5) und ihre Entscheidung zu begründen (6).  Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Die S. werden in kleine Gruppen aufgeteilt.<br>Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren.<br>Erarbeitung von Fallbeispielen in Gruppenarbeit<br>Vorbereitung von Impulsvorträgen | GA |
+| Ca. 30 min. | Gruppeneinteilung zur Praktischen Übung<br>Gruppenaufgabe: Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von zur Verfügung gestellten Hilfsmitteln<br> Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten(5) und ihre Entscheidung zu begründen(6).  Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Die S. werden in kleine Gruppen aufgeteilt.<br>Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren.<br>Erarbeitung von Fallbeispielen in Gruppenarbeit<br>Vorbereitung von Impulsvorträgen | GA |
 | Ca. 30 min. | Präsentation der einzelnen Gruppen mit jeweils anschließender Besprechung von Erkenntnissen / Beobachtungen | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
 | Ca. 60 min. | Alternativ zu Gruppenaufgabe:<br>Metadaten spielerisch mit Lego vermitteln | Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Gruppenarbeit | GA |
 
@@ -53,12 +57,13 @@ Lernziele für den Online-Kurs (LiaScript)
 Begrüßung
 
 (ca. 20 Min.) Diskussion
+===
 
-Alternative*1*
+Alternative 1:
 
 Methode: Kopfstandmethode im Plenum „Was zeichnet eine möglichst schlechte Metadatenpraxis aus?“
 
-Alternative 2
+Alternative 2:
 
 Vorstellung und Lösung von zwei Scary Tales im Plenum
 
@@ -69,6 +74,7 @@ Vorstellung und Lösung von zwei Scary Tales im Plenum
 #### Arbeitsphase 
 
 Praktische Übung (Szenarien)
+===
 
 (ca. 30 Min.) L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag.
 
@@ -90,11 +96,12 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 
 Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download))
 
-###  Quiz zu Arten von Metadaten  
+Quiz zu Arten von Metadaten
 
 ##  Materialien zur Praktischen Übung (Szenarien) 
 
-###  Scary Tales 
+Scary Tales
+===
 
 31 - Unbeschriebenes Blatt ([https://forschungsdaten-thueringen.de/geschichten/articles/unbeschriebenes-blatt-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/unbeschriebenes-blatt-de.html))
 
@@ -102,11 +109,14 @@ Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5
 
 ###  Alternative Gruppenaufgabe 
 
-Praktische Übung: Metadaten spielerisch mit Lego vermitteln (ca. 60 Min.)
+Praktische Übung
+===
+
+Metadaten spielerisch mit Lego vermitteln (ca. 60 Min.)
 
 Original:[http://dx.doi.org/10.36399/gla.pubs.196477](http://dx.doi.org/10.36399/gla.pubs.196477) (Donaldson, M. and Mahon, M.: LEGO® Metadata for Reproducibility game pack)
 
-Deutsche Übersetzung:[https://doi.org/10.5281/zenodo.3733163](https://doi.org/10.5281/zenodo.3733163) (Biernacka, Katarzyna (Übersetzerin), Donaldson, M. and Mahon, M.: LEGO® Metadaten für die Reproduzierbarkeit
+Deutsche Übersetzung:[https://doi.org/10.5281/zenodo.3733163](https://doi.org/10.5281/zenodo.3733163) Biernacka, Katarzyna (Übersetzerin), Donaldson, M. and Mahon, M.: LEGO® Metadaten für die Reproduzierbarkeit
 
 ## Taxonomiestufen
 
@@ -119,14 +129,10 @@ Deutsche Übersetzung:[https://doi.org/10.5281/zenodo.3733163](https://doi.org/1
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-Quellen:
+## Quellen:
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
-
-[1] EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag
-
-

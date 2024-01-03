@@ -15,6 +15,7 @@ Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten, d
 - zugänglich (Accessible),
 - austauschbar (Interoperable),
 - und nachnutzbar (Reusable)
+
 sind.
 
 An der TH Köln sollen Studierende, die wissenschaftlich arbeiten, (Forschende) mit ihren Daten FAIR
@@ -111,7 +112,7 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
     erhalten und verstanden werden können, was die Nachhaltigkeit von Forschung und Daten
     sicherstellt.
 
- ## Nachteile der FAIR-Prinzipien:
+ ### Nachteile der FAIR-Prinzipien:
 
 - Zeitaufwand: Die Anwendung der FAIR-Prinzipien erfordert zusätzliche Zeit und Ressourcen
     für die Erstellung von Metadaten, die Datenorganisation und die Einhaltung von Standards.
@@ -141,37 +142,37 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ## Weiterführende Literatur und Links (optional):
 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
-for Indigenous data futures. Sci Data 8, 108. https://doi.org/10.1038/s41597- 021 - 00892 - 0.
+for Indigenous data futures. Sci Data 8, 108. [https://doi.org/10.1038/s41597-021-00892-0](https://doi.org/10.1038/s41597-021-00892-0).
 
 Forschungsdaten.info. (2023, 21. Juli). FAIRe Daten. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/.
+[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/).
 
 Friedrich, T. & Recker, J. (2021). 5.1 Auffindbarkeit und Nutzbarkeit von Daten. In M. Putnings, H.
 Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 405-426). Berlin,
-Boston: De Gruyter Saur. https://doi.org/10.1515/9783110657807- 023.
+Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-023](https://doi.org/10.1515/9783110657807-023).
 
-GO FAIR. (o. D.). FAIR Principles. Zugriff am 18.10.2023, von https://www.go-fair.org/fair-principles/.
+GO FAIR. (o. D.). FAIR Principles. Zugriff am 18.10.2023, von [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
+
 Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
-https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien/.
+[https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien/](https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien/).
 
 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding
 Principles for scientific data management and stewardship. Sci Data 3, 160018.
-https://doi.org/10.1038/sdata.2016.18.
+[https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 
 Böker, E. (2023b, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
 
 ## Quellen:
 
 Böker, E. (2023a, 5. Mai). Zitieren von Daten. Forschungsdaten.info. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/.
+[https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
 
 Forschungsdaten.info. (2023, 21. Juli). FAIRe Daten. Zugriff am 18.10.2023, von
-https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/.
+[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/).
 
-GO FAIR. (o. D.). FAIR Principles. Zugriff am 18.10.2023, von https://www.go-fair.org/fair-principles/.
+GO FAIR. (o. D.). FAIR Principles. Zugriff am 18.10.2023, von [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
 Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
-https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien/.
+[https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien](https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien).
 
 Sauther-Patrascu, K., Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Präsidium der
-TH Köln. Zugriff am 20.10.2023, von https://www.th-
-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf.
+TH Köln. Zugriff am 20.10.2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).

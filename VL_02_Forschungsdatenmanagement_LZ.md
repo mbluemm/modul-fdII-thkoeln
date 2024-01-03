@@ -21,7 +21,7 @@
 
 ## Detaillierte Kursplanung[^1]
 
-**Online-Kurs (Vorbereitung)**
+**Online-Phase (Vorbereitung)**
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | --- | --- | --- | --- | --- |
