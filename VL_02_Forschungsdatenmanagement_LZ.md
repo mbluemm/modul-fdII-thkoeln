@@ -1,7 +1,6 @@
 # VL2: Was ist Forschungsdatenmanagement?  
 
-Ausgangslage
-===
+**Ausgangslage**
 
 + Die S. wissen nicht genau, welche Aspekte Forschungsdatenmanagement beinhaltet und weshalb es (insbesondere in Bezug auf ihr Studium) von Bedeutung ist.
 + Die S. wissen nicht, worauf sie beim Umgang mit Daten in ihrem Studium (insbesondere bei ihren Forschungsprojekten) achten müssen.

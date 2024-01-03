@@ -18,8 +18,6 @@
 
 ## Detaillierte Kursplanung[^1]
 
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
-
 | VL 1: Was sind Forschungsdaten? |||||
 | :---: | --- | --- | --- | :---: |
 | Einstiegsphase |
@@ -34,6 +32,9 @@
 | Abschluss |
 | Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
 | Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+
+---
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ## Präsenzphase / Erläuterung
 
@@ -112,6 +113,7 @@ L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen 
 
 L. fragt, ob S. noch offene Fragen haben
 
+---
 [^2]: Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten
 
 ## Taxonomiestufen
@@ -125,8 +127,7 @@ L. fragt, ob S. noch offene Fragen haben
 | Taxonomiestufe 5 | Synthese (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil abgeben können |
 
-Quellen:  
-====
+## Quellen:  
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)  
 

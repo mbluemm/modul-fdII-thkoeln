@@ -1,29 +1,33 @@
 # VL12: Kollaboratives Arbeiten
 
-Ausgangslage
+**Ausgangslage**
 
-<ul><li>Die S. wissen nicht, auf welche Aspekte sie beim kollaborativen Arbeiten mit Daten achten müssen.</li><li>Die S. wissen nicht, wie man effektiv und sicher beim kollaborativen Arbeiten mit Daten zusammenarbeitet, einschließlich Tools, Best Practices und Datenschutzaspekten.</li><li>Die S. kennen keine (wenige) Tools und Plattformen, die sie für kollaboratives Arbeiten mit Daten verwenden können.</li></ul>
+- Die S. wissen nicht, auf welche Aspekte sie beim kollaborativen Arbeiten mit Daten achten müssen.
 
-### Lernziele für den Online-Kurs (LiaScript)
+- Die S. wissen nicht, wie man effektiv und sicher beim kollaborativen Arbeiten mit Daten zusammenarbeitet, einschließlich Tools, Best Practices und Datenschutzaspekten.
 
-||||
-| :--- | :--- | :--- |
-| 1 | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen (1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Die S. wissen, welche Tools (z. B. Cloudsysteme) sie für welche Aufgaben verwenden können, um am sinnvollsten kollaborativ mit Daten zu arbeiten. |
+- Die S. kennen keine (wenige) Tools und Plattformen, die sie für kollaboratives Arbeiten mit Daten verwenden können.
 
-### Lernziele für den Unterricht in Präsenz
+## Lernziele für den Online-Kurs
 
 ||||
 | :--- | :--- | :--- |
-| 2 | Die S. können kritisch beurteilen (6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Benennungsschema, Zugriffsrechte etc.) |
-| 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten (6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. Dieses Wissen nehmen die S. mit in ihr Studium, wonach sie strukturiert und sinnvoll mit Daten kollaborativ in Gruppenarbeiten arbeiten. |
+| 1 | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Die S. wissen, welche Tools (z. B. Cloudsysteme) sie für welche Aufgaben verwenden können, um am sinnvollsten kollaborativ mit Daten zu arbeiten. |
 
-## Detaillierte Kursplanung [1] 
+## Lernziele für den Unterricht in Präsenz
 
-### Online-Kurs (LiaScript)
+||||
+| :--- | :--- | :--- |
+| 2 | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Benennungsschema, Zugriffsrechte etc.) |
+| 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten(6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. Dieses Wissen nehmen die S. mit in ihr Studium, wonach sie strukturiert und sinnvoll mit Daten kollaborativ in Gruppenarbeiten arbeiten. |
+
+## Detaillierte Kursplanung[^1] 
+
+### Online-Phase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung zum Thema „Kollaboratives Arbeiten“.  Hervorhebung wichtiger Aspekte zum Thema, inkl. Relevanz im Datenlebenszyklus / FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen (1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Infotext, Grafik des DLZ  ODER  Rechercheaufgabe zu Tools (Hinweis: nur in Verbindung mit der Arbeitsphase vor Ort) | EA |
+| Ca. 30 min. | Einführung zum Thema „Kollaboratives Arbeiten“.  Hervorhebung wichtiger Aspekte zum Thema, inkl. Relevanz im Datenlebenszyklus / FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Infotext, Grafik des DLZ  ODER  Rechercheaufgabe zu Tools (Hinweis: nur in Verbindung mit der Arbeitsphase vor Ort) | EA |
 
 ### Präsenzphase
 
@@ -32,7 +36,7 @@ Ausgangslage
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca.  15 min. | Diskussion im PL  Erfahrungsaustausch | Die S. können kritisch beurteilen (6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Hier außerdem explizit eine Verbindung zum Studium herstellen.  L. soll folgende Fragen in die Diskussion mit einbinden:  Wie empfinden S. „kollaboratives Arbeiten“ im Studium?  Was sind die Vor- und Nachteile?  Was würden sie gerne verbessern? | PL |
+| Ca.  15 min. | Diskussion im PL  Erfahrungsaustausch | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Hier außerdem explizit eine Verbindung zum Studium herstellen.  L. soll folgende Fragen in die Diskussion mit einbinden:  Wie empfinden S. „kollaboratives Arbeiten“ im Studium?  Was sind die Vor- und Nachteile?  Was würden sie gerne verbessern? | PL |
 
 #### Arbeitsphase
 
@@ -86,7 +90,7 @@ ODER
 
 Abschlussreflexion
 
-### Aufgabe
+## Aufgabe
 
 Tools und Plattformen für eine kollaborative Arbeit mit Daten
 
