@@ -29,6 +29,9 @@
 | --- | --- | --- | --- | --- |
 | Ca. 30 min. | Einführung zum Thema „Kollaboratives Arbeiten“.  Hervorhebung wichtiger Aspekte zum Thema, inkl. Relevanz im Datenlebenszyklus / FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Infotext, Grafik des DLZ  ODER  Rechercheaufgabe zu Tools (Hinweis: nur in Verbindung mit der Arbeitsphase vor Ort) | EA |
 
+---
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+
 ### Präsenzphase
 
 #### Einstiegsphase
@@ -137,12 +140,10 @@ Aspekte, auf die die S. achten und für ihr jeweiliges Tool beantworten müssen:
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-Quellen:
+## Quellen:
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele definieren*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-definieren.html](https://wb-web.de/material/methoden/lernziele-definieren.html)
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Formulierungshilfen für Lernziele*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html](https://wb-web.de/material/methoden/formulierungshilfen-fur-lernziele.html)
-
-[1] EA = Einzelarbeit; GA = Gruppenarbeit; PL = Plenum; L = Lehrende\*r; S = Studierende; LV = LehrvortragLehrvortrag
