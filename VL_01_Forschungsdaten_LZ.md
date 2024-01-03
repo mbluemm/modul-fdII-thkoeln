@@ -1,10 +1,10 @@
 
 # VL1: Was sind Forschungsdaten?
 
-Ausgangslage
-====
+**Ausgangslage**
  
-Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
+- Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
+- Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
 
 ## Lernziele für Thema 1: Was sind Forschungsdaten?
 
@@ -13,7 +13,7 @@ Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studiu
 ||||
 | --- | --- | --- |
 | 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren[(2)](#10). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
-| 2 | Die S. können verschiedene Formen von Forschungsdaten benennen (1). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
+| 2 | Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#10). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
 | 3 | Die S. können zuordnen[(5)](#10), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
 
 ## Detaillierte Kursplanung[^1]
@@ -49,6 +49,7 @@ Als Einstieg in den Kurs können die S. sich untereinander austauschen und sich 
 - Mit welchen Forschungsdaten haben sie bereits im Studium gearbeitet?  
 
 Daraufhin leitet L. eine offene Diskussion ein, in der jede Kleingruppe ihre Gedanken/Antworten dem Plenum vorstellt.  
+
 L. fasst die Antworten zusammen und zieht daraus Schlüsse, ob die S. Vorkenntnisse zum Thema Forschungsdaten haben und wenn Vorkenntnisse vorhanden sind, mit welchen Daten die S. im Studium bereits gearbeitet haben.
 
 Einführung in den Kurs
