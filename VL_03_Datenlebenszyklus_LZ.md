@@ -109,7 +109,11 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 
 Quiz
 ===
-<!-- Named links? -->
+
+<!-- 
+comment: Named links? 
+-->
+
 [https://miro.com/app/board/uXjVPBfQ8qM=/](https://miro.com/app/board/uXjVPBfQ8qM=/) oder andere DLZs (bspw.[https://zenodo.org/record/8087764](https://zenodo.org/record/8087764))
 
 Lektüre
