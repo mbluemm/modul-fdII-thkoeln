@@ -1,19 +1,23 @@
 
 # VL1: Was sind Forschungsdaten?
 
+<!-- style="color: red; width: 45%; font-size: 24px; float: left" -->
 > Ausgangslage
 
 - Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
 
 - Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
 
-> Lernziele für den Unterricht in Präsenz
+<section>
+
+## Lernziele für den Unterricht in Präsenz
 
 ||||
 | --- | --- | --- |
-| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren[(2)](#10). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
-| 2 | Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#10). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
-| 3 | Die S. können zuordnen[(5)](#10), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
+| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren[(2)](#4). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
+| 2 | Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#4). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
+| 3 | Die S. können zuordnen[(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
+</section>
 
 ## Detaillierte Kursplanung[^1]
 
@@ -22,12 +26,12 @@
 | Einstiegsphase |
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | Ca. 5 min | Begrüßung | L. stellt sich vor und startet den Kurs. |  |  |
-| Ca. 20 min | [(Ice Breaker)](#3) | Die S. besprechen intuitiv folgendes (ohne vorherige Einleitung):<br><br> + Was sind Forschungsdaten<br> + Welche Forschungsdaten kennen sie bereits?<br> + Mit welchen Forschungsdaten haben sie bereits im Studium gearbeitet?<br><br> Die S. können Forschungsdaten mit denen sie in ihrem Studium bereits gearbeitet haben identifizieren[(2)](#10). | Zuerst besprechen sich die S. in Kleingruppen (2-3) und beantworten die drei Fragen.<br><br> Daraufhin werden die Antworten von jeder (einigen) Gruppe(n) im Plenum geteilt. <br> Das bietet die Möglichkeit, für die S. sich und deren Wissen zum Thema Forschungsdaten auszutauschen. | GA / PL |
+| Ca. 20 min | [(Ice Breaker)](#3) | Die S. besprechen intuitiv folgendes (ohne vorherige Einleitung):<br><br> + Was sind Forschungsdaten<br> + Welche Forschungsdaten kennen sie bereits?<br> + Mit welchen Forschungsdaten haben sie bereits im Studium gearbeitet?<br><br> Die S. können Forschungsdaten mit denen sie in ihrem Studium bereits gearbeitet haben identifizieren[(2)](#4). | Zuerst besprechen sich die S. in Kleingruppen (2-3) und beantworten die drei Fragen.<br><br> Daraufhin werden die Antworten von jeder (einigen) Gruppe(n) im Plenum geteilt. <br> Das bietet die Möglichkeit, für die S. sich und deren Wissen zum Thema Forschungsdaten auszutauschen. | GA / PL |
 | Ca. 15 min | Einführung in den Kurs:<br><br> + Wie ist der Kurs gestaltet, <br> + was wird von den Studierenden erwartet. <br><br> Erster Blick auf Materialien und Aufgaben | L. bietet S. Orientierung: <br><br> L. macht [Lernziele](#1), Lernwege und Leistungserwartungen transparent <br><br> L. erklärt die Grundidee und den Mehrwert von Flipped Classroom <br><br> L. ermöglicht Zugang zu und erklärt Umgang mit E-Learning-System. | LMS | LV |
 | Arbeitsphase |
 | Ca. 10 min | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen: <br> - Was ist Forschung (überhaupt)? <br> (weitere Fragen unten) | Brainstorming / Diskussion | PL |
-| Ca. 15 min | Thema: Definition Forschungsdaten. | L. bezieht sich auf die Diskussion [(Ice Breaker)](#3) in der Einstiegsphase und bespricht folgendes: <br><br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br><br> Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#10). | Lehrvortrag mit Visualisierung (bspw. Foliensatz) | LV |
-| ca. 15 min | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung. | Die S. können zuordnen[(5)](#10), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
+| Ca. 15 min | Thema: Definition Forschungsdaten. | L. bezieht sich auf die Diskussion [(Ice Breaker)](#3) in der Einstiegsphase und bespricht folgendes: <br><br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br><br> Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#4). | Lehrvortrag mit Visualisierung (bspw. Foliensatz) | LV |
+| ca. 15 min | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung. | Die S. können zuordnen[(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
 | Abschluss |
 | Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
 | Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
@@ -37,7 +41,9 @@
 
 ## Präsenzphase / Erläuterung
 
-> Einstiegsphase
+<section>
+
+### Einstiegsphase
 
 **Ice Breaker**
 
@@ -64,8 +70,11 @@ L. erklärt die Kursgestaltung:
   * Was wird von den S. erwartet? Welche Prüfungsform gibt es? Was müssen S. für ECTS tun? (Leistungserwartungen)  
 
 - Optional: Vorstellung von Prüfungsform „Lernportfolio“ (inkl. Blick auf eine Mustervorlage)
+</section>
 
-> Arbeitsphase
+<article>
+
+### Arbeitsphase
 
 **Diskussion und Brainstorming**
 
@@ -97,8 +106,11 @@ S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellte
 **Interaktion zur Relevanz von Forschungsdaten in der Forschung**
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
+</article>
 
-> Abschluss
+<article>
+
+### Abschluss
 
 L. erklärt Erwartungen für nächste Stunde
 
@@ -111,6 +123,7 @@ L. fragt, ob S. noch offene Fragen haben
 
 ---
 [^2]: Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten
+</article>
 
 ## Taxonomiestufen
 
