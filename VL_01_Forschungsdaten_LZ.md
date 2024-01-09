@@ -1,19 +1,19 @@
 
 # VL1: Was sind Forschungsdaten?
 
-**Ausgangslage**
+> Ausgangslage
 
 - Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
 
 - Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
 
-**Lernziele für den Unterricht in Präsenz**
+> Lernziele für den Unterricht in Präsenz**
 
 ||||
 | --- | --- | --- |
-| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren[(2)](#11). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
-| 2 | Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#11). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
-| 3 | Die S. können zuordnen[(5)](#11), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
+| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren[(2)](#10). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
+| 2 | Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#10). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
+| 3 | Die S. können zuordnen[(5)](#10), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -37,8 +37,7 @@
 
 ## Präsenzphase / Erläuterung
 
-Einstiegsphase
-=====
+> Einstiegsphase
 
 **Ice Breaker**
 
@@ -52,8 +51,7 @@ Daraufhin leitet L. eine offene Diskussion ein, in der jede Kleingruppe ihre Ged
 
 L. fasst die Antworten zusammen und zieht daraus Schlüsse, ob die S. Vorkenntnisse zum Thema Forschungsdaten haben und wenn Vorkenntnisse vorhanden sind, mit welchen Daten die S. im Studium bereits gearbeitet haben.
 
-Einführung in den Kurs
-====
+> Einführung in den Kurs
 
 L. erklärt die Kursgestaltung:  
 
@@ -67,8 +65,8 @@ L. erklärt die Kursgestaltung:
 
 - Optional: Vorstellung von Prüfungsform „Lernportfolio“ (inkl. Blick auf eine Mustervorlage)
 
-Arbeitsphase
-====
+> Arbeitsphase
+
 **Diskussion und Brainstorming**
 
 L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende Aspekte:
@@ -96,12 +94,11 @@ L. zeigt Fallbeispiel GTD.
 
 S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt habe, zu welche Zwecke die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können
 
-Interaktion zur Relevanz von Forschungsdaten in der Forschung
-====
+**Interaktion zur Relevanz von Forschungsdaten in der Forschung**
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
 
-### Abschluss
+> Abschluss
 
 L. erklärt Erwartungen für nächste Stunde
 
