@@ -63,8 +63,7 @@
 
 ### Einstiegsphase
 
-
-#### Ice Breaker
+> Ice Breaker
 
 Als Einstieg in den Kurs können die S. sich untereinander austauschen und sich somit intuitiv mit dem Thema vertraut machen. Die S. diskutieren in Kleingruppen die folgenden Fragen:  
 
@@ -76,7 +75,7 @@ Daraufhin leitet L. eine offene Diskussion ein, in der jede Kleingruppe ihre Ged
 
 L. fasst die Antworten zusammen und zieht daraus Schlüsse, ob die S. Vorkenntnisse zum Thema Forschungsdaten haben und wenn Vorkenntnisse vorhanden sind, mit welchen Daten die S. im Studium bereits gearbeitet haben.
 
-#### Einführung in den Kurs
+> Einführung in den Kurs
 
 L. erklärt die Kursgestaltung:  
 
@@ -91,11 +90,9 @@ L. erklärt die Kursgestaltung:
 - Optional: Vorstellung von Prüfungsform „Lernportfolio“ (inkl. Blick auf eine Mustervorlage)
 </section>
 
-<article>
+<section>
 
 ### Arbeitsphase
-
-<section>
 
 #### Diskussion und Brainstorming
 
@@ -105,9 +102,6 @@ L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende A
 + Wie läuft das ab? Was passiert in der Forschung? Und worauf sollte geachtet werden?  
 
 Hier sollen die S. aktiv mitreden, damit eine offene Diskussion zu dem Thema entsteht.
-</section>
-
-<section>
 
 #### Lehrvortrag
 
@@ -120,9 +114,6 @@ L. kann sich auf die Leitfragen (unten) beziehen.
 + Wie werden Forschungsdaten erhoben?  
 + L. gibt ggf. Beispiele aus eigener Erfahrung  
 + In welchen Studienfächern sind welche Forschungsdaten relevant?
-</section>
-
-<section>
 
 #### Interaktion
 
@@ -136,9 +127,8 @@ S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellte
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
 </section>
-</article>
 
-<article>
+<section>
 
 ### Abschluss
 
@@ -153,7 +143,7 @@ L. fragt, ob S. noch offene Fragen haben
 
 ---
 [^2]: Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten
-</article>
+</section>
 
 ## Taxonomiestufen
 
