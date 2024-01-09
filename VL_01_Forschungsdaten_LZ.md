@@ -1,7 +1,6 @@
 
 # VL1: Was sind Forschungsdaten?
 
-<!-- style="color: red; width: 45%; font-size: 24px; float: left" -->
 > Ausgangslage
 
 - Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
