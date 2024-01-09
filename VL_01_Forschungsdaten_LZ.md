@@ -52,10 +52,11 @@
 | :---: | --- | --- | --- | :---: |
 | Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
 | Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+</section>
 
 ---
 [^1]:**Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
-</section>
+
 
 ## Präsenzphase / Erläuterung
 
@@ -94,7 +95,7 @@ L. erklärt die Kursgestaltung:
 
 ### Arbeitsphase
 
-#### Diskussion und Brainstorming
+> Diskussion und Brainstorming
 
 L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende Aspekte:
 
@@ -103,7 +104,7 @@ L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende A
 
 Hier sollen die S. aktiv mitreden, damit eine offene Diskussion zu dem Thema entsteht.
 
-#### Lehrvortrag
+> Lehrvortrag
 
 L. bezieht sich auf den Ice Breaker und erläutert das Thema Forschungsdaten in einem kleinem Lehrvortrag.  
 Impuls (s. Text zur VL „Was sind Forschungsdaten?“).  
@@ -115,15 +116,13 @@ L. kann sich auf die Leitfragen (unten) beziehen.
 + L. gibt ggf. Beispiele aus eigener Erfahrung  
 + In welchen Studienfächern sind welche Forschungsdaten relevant?
 
-#### Interaktion
-
-> Besprechung von Fallbeispielen
+> Interaktion: Besprechung von Fallbeispielen
 
 L. zeigt Fallbeispiel GTD.
 
 S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt habe, zu welche Zwecke die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können
 
-> Relevanz von Forschungsdaten in der Forschung**
+> Interaktion: Relevanz von Forschungsdaten in der Forschung**
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
 </section>
@@ -140,10 +139,10 @@ L. erklärt Erwartungen für nächste Stunde
 L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt[^2] 
 
 L. fragt, ob S. noch offene Fragen haben
+</section>
 
 ---
 [^2]: Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten
-</section>
 
 ## Taxonomiestufen
 
