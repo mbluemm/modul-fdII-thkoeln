@@ -13,7 +13,7 @@ narrator: Deutsch Female
 
 comment:  Linkliste mit Links zur Anzeige des jeweiligen Vorlesungsskripts im Live-Editor von Lia Script
 
-tags:     LiaScript, Preview utori
+tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
