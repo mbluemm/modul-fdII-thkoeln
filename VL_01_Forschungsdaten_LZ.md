@@ -7,7 +7,7 @@
 
 - Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
 
-> Lernziele für den Unterricht in Präsenz**
+> Lernziele für den Unterricht in Präsenz
 
 ||||
 | --- | --- | --- |
