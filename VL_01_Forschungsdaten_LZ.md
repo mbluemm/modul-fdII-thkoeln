@@ -2,7 +2,6 @@
 # VL1: Was sind Forschungsdaten?
 
 <section>
-
 ### Ausgangslage
 
 - Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
@@ -64,7 +63,6 @@
 
 ### Einstiegsphase
 
-<section>
 
 #### Ice Breaker
 
@@ -78,7 +76,7 @@ Daraufhin leitet L. eine offene Diskussion ein, in der jede Kleingruppe ihre Ged
 
 L. fasst die Antworten zusammen und zieht daraus Schlüsse, ob die S. Vorkenntnisse zum Thema Forschungsdaten haben und wenn Vorkenntnisse vorhanden sind, mit welchen Daten die S. im Studium bereits gearbeitet haben.
 
-> Einführung in den Kurs
+#### Einführung in den Kurs
 
 L. erklärt die Kursgestaltung:  
 
@@ -138,6 +136,7 @@ S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellte
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
 </section>
+</article>
 
 <article>
 
