@@ -17,7 +17,7 @@ tags:     LiaScript, Preview utori
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-import:   https://liascript.github.io/course/?https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/VL_01_Forschungsdaten_LZ.md#1
+import:   
           
 -->
 
