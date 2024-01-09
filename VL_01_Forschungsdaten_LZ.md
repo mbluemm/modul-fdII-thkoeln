@@ -96,7 +96,7 @@ L. erklärt die Kursgestaltung:
 
 ### Arbeitsphase
 
-> Diskussion und Brainstorming
+### Diskussion und Brainstorming
 
 L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende Aspekte:
 
@@ -105,7 +105,7 @@ L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende A
 
 Hier sollen die S. aktiv mitreden, damit eine offene Diskussion zu dem Thema entsteht.
 
-> Lehrvortrag
+### Lehrvortrag
 
 L. bezieht sich auf den Ice Breaker und erläutert das Thema Forschungsdaten in einem kleinem Lehrvortrag.  
 Impuls (s. Text zur VL „Was sind Forschungsdaten?“).  
@@ -117,13 +117,13 @@ L. kann sich auf die Leitfragen (unten) beziehen.
 - L. gibt ggf. Beispiele aus eigener Erfahrung  
 - In welchen Studienfächern sind welche Forschungsdaten relevant?
 
-> Interaktion: Besprechung von Fallbeispielen
+### Interaktion: Besprechung von Fallbeispielen
 
 L. zeigt Fallbeispiel GTD.
 
 S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt habe, zu welche Zwecke die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können
 
-> Interaktion: Relevanz von Forschungsdaten in der Forschung
+### Interaktion: Relevanz von Forschungsdaten in der Forschung
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
 
