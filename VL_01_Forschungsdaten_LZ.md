@@ -89,6 +89,7 @@ L. erklärt die Kursgestaltung:
   * Was wird von den S. erwartet? Welche Prüfungsform gibt es? Was müssen S. für ECTS tun? (Leistungserwartungen)  
 
 - Optional: Vorstellung von Prüfungsform „Lernportfolio“ (inkl. Blick auf eine Mustervorlage)
+
 </section>
 
 <section>
@@ -122,9 +123,10 @@ L. zeigt Fallbeispiel GTD.
 
 S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt habe, zu welche Zwecke die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können
 
-> Interaktion: Relevanz von Forschungsdaten in der Forschung**
+> Interaktion: Relevanz von Forschungsdaten in der Forschung
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
+
 </section>
 
 <section>
