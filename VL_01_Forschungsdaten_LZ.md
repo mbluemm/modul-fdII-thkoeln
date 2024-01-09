@@ -64,7 +64,7 @@
 
 ### Einstiegsphase
 
-> Ice Breaker
+#### Ice Breaker
 
 Als Einstieg in den Kurs können die S. sich untereinander austauschen und sich somit intuitiv mit dem Thema vertraut machen. Die S. diskutieren in Kleingruppen die folgenden Fragen:  
 
