@@ -100,8 +100,8 @@ L. erklärt die Kursgestaltung:
 
 L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende Aspekte:
 
-* Was ist Forschung (überhaupt)?  
-+ Wie läuft das ab? Was passiert in der Forschung? Und worauf sollte geachtet werden?  
+- Was ist Forschung (überhaupt)?  
+- Wie läuft das ab? Was passiert in der Forschung? Und worauf sollte geachtet werden?  
 
 Hier sollen die S. aktiv mitreden, damit eine offene Diskussion zu dem Thema entsteht.
 
@@ -111,11 +111,11 @@ L. bezieht sich auf den Ice Breaker und erläutert das Thema Forschungsdaten in 
 Impuls (s. Text zur VL „Was sind Forschungsdaten?“).  
 L. kann sich auf die Leitfragen (unten) beziehen.  
 
-* Was sind Forschungsdaten?  
-+ Was gibt es für Unterschiede?  
-+ Wie werden Forschungsdaten erhoben?  
-+ L. gibt ggf. Beispiele aus eigener Erfahrung  
-+ In welchen Studienfächern sind welche Forschungsdaten relevant?
+- Was sind Forschungsdaten?  
+- Was gibt es für Unterschiede?  
+- Wie werden Forschungsdaten erhoben?  
+- L. gibt ggf. Beispiele aus eigener Erfahrung  
+- In welchen Studienfächern sind welche Forschungsdaten relevant?
 
 > Interaktion: Besprechung von Fallbeispielen
 
@@ -135,8 +135,8 @@ S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu
 
 L. erklärt Erwartungen für nächste Stunde
 
-* Was wird als Vorbereitung für die nächste Stunde erwartet?  
-+ Blick auf die Aufgaben im LMS  
+- Was wird als Vorbereitung für die nächste Stunde erwartet?  
+- Blick auf die Aufgaben im LMS  
 
 L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt[^2] 
 
