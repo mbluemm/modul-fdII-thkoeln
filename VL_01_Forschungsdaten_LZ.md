@@ -1,12 +1,14 @@
 
 # VL1: Was sind Forschungsdaten?
 
-Ausgangslage
-===
+<section>
+
+### Ausgangslage
 
 - Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
 
 - Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
+</section>
 
 <section>
 
@@ -21,23 +23,40 @@ Ausgangslage
 
 ## Detaillierte Kursplanung[^1]
 
-| VL 1: Was sind Forschungsdaten? |||||
-| :---: | --- | --- | --- | :---: |
-| Einstiegsphase |
+<section>
+
+### Einstiegsphase 
+
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
+| :---: | --- | --- | --- | :---: |
 | Ca. 5 min | Begrüßung | L. stellt sich vor und startet den Kurs. |  |  |
 | Ca. 20 min | [(Ice Breaker)](#3) | Die S. besprechen intuitiv folgendes (ohne vorherige Einleitung):<br><br> + Was sind Forschungsdaten<br> + Welche Forschungsdaten kennen sie bereits?<br> + Mit welchen Forschungsdaten haben sie bereits im Studium gearbeitet?<br><br> Die S. können Forschungsdaten mit denen sie in ihrem Studium bereits gearbeitet haben identifizieren[(2)](#4). | Zuerst besprechen sich die S. in Kleingruppen (2-3) und beantworten die drei Fragen.<br><br> Daraufhin werden die Antworten von jeder (einigen) Gruppe(n) im Plenum geteilt. <br> Das bietet die Möglichkeit, für die S. sich und deren Wissen zum Thema Forschungsdaten auszutauschen. | GA / PL |
 | Ca. 15 min | Einführung in den Kurs:<br><br> + Wie ist der Kurs gestaltet, <br> + was wird von den Studierenden erwartet. <br><br> Erster Blick auf Materialien und Aufgaben | L. bietet S. Orientierung: <br><br> L. macht [Lernziele](#1), Lernwege und Leistungserwartungen transparent <br><br> L. erklärt die Grundidee und den Mehrwert von Flipped Classroom <br><br> L. ermöglicht Zugang zu und erklärt Umgang mit E-Learning-System. | LMS | LV |
-| Arbeitsphase |
+</section>
+
+<section>
+
+### Arbeitsphase
+
+| Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
+| :---: | --- | --- | --- | :---: |
 | Ca. 10 min | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen: <br> - Was ist Forschung (überhaupt)? <br> (weitere Fragen unten) | Brainstorming / Diskussion | PL |
 | Ca. 15 min | Thema: Definition Forschungsdaten. | L. bezieht sich auf die Diskussion [(Ice Breaker)](#3) in der Einstiegsphase und bespricht folgendes: <br><br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br><br> Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#4). | Lehrvortrag mit Visualisierung (bspw. Foliensatz) | LV |
 | ca. 15 min | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung. | Die S. können zuordnen[(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
-| Abschluss |
+</section>
+
+<section>
+
+### Abschluss
+
+| Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
+| :---: | --- | --- | --- | :---: |
 | Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
 | Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ---
 [^1]:**Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+</section>
 
 ## Präsenzphase / Erläuterung
 
@@ -45,7 +64,9 @@ Ausgangslage
 
 ### Einstiegsphase
 
-**Ice Breaker**
+<section>
+
+#### Ice Breaker
 
 Als Einstieg in den Kurs können die S. sich untereinander austauschen und sich somit intuitiv mit dem Thema vertraut machen. Die S. diskutieren in Kleingruppen die folgenden Fragen:  
 
@@ -76,7 +97,9 @@ L. erklärt die Kursgestaltung:
 
 ### Arbeitsphase
 
-**Diskussion und Brainstorming**
+<section>
+
+#### Diskussion und Brainstorming
 
 L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende Aspekte:
 
@@ -84,8 +107,11 @@ L. führt das übergreifende Thema „Forschung“ ein und erläutert folgende A
 + Wie läuft das ab? Was passiert in der Forschung? Und worauf sollte geachtet werden?  
 
 Hier sollen die S. aktiv mitreden, damit eine offene Diskussion zu dem Thema entsteht.
+</section>
 
-**Lehrvortrag**
+<section>
+
+#### Lehrvortrag
 
 L. bezieht sich auf den Ice Breaker und erläutert das Thema Forschungsdaten in einem kleinem Lehrvortrag.  
 Impuls (s. Text zur VL „Was sind Forschungsdaten?“).  
@@ -96,17 +122,22 @@ L. kann sich auf die Leitfragen (unten) beziehen.
 + Wie werden Forschungsdaten erhoben?  
 + L. gibt ggf. Beispiele aus eigener Erfahrung  
 + In welchen Studienfächern sind welche Forschungsdaten relevant?
+</section>
 
-**Interaktion Besprechung von Fallbeispielen**
+<section>
+
+#### Interaktion
+
+> Besprechung von Fallbeispielen
 
 L. zeigt Fallbeispiel GTD.
 
 S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt habe, zu welche Zwecke die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können
 
-**Interaktion zur Relevanz von Forschungsdaten in der Forschung**
+> Relevanz von Forschungsdaten in der Forschung**
 
 S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu.
-</article>
+</section>
 
 <article>
 
