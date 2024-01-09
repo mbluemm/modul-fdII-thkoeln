@@ -42,6 +42,10 @@
 | Ca. 10 min | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen: <br> - Was ist Forschung (überhaupt)? <br> (weitere Fragen unten) | Brainstorming / Diskussion | PL |
 | Ca. 15 min | Thema: Definition Forschungsdaten. | L. bezieht sich auf die Diskussion [(Ice Breaker)](#3) in der Einstiegsphase und bespricht folgendes: <br><br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br><br> Die S. können verschiedene Formen von Forschungsdaten benennen[(1)](#4). | Lehrvortrag mit Visualisierung (bspw. Foliensatz) | LV |
 | ca. 15 min | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung. | Die S. können zuordnen[(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
+
+---
+[^1]:**Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+
 </section>
 
 <section>
@@ -53,10 +57,6 @@
 | Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
 | Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 </section>
-
----
-[^1]:**Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
-
 
 ## Präsenzphase / Erläuterung
 
@@ -139,10 +139,11 @@ L. erklärt Erwartungen für nächste Stunde
 L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt[^2] 
 
 L. fragt, ob S. noch offene Fragen haben
-</section>
 
 ---
 [^2]: Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten
+
+</section>
 
 ## Taxonomiestufen
 
