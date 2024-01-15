@@ -116,3 +116,21 @@ Just as she said this, she noticed that one of the trees had a door leading righ
 Once more she found herself in the long hall, and close to the little glass table. 'Now, I'll manage better this time,' she said to herself, and began by taking the little golden key, and unlocking the door that led into the garden. Then she went to work nibbling at the mushroom (she had kept a piece of it in her pocket) till she was about a foot high: then she walked down the little passage: and then--she found herself at last in the beautiful garden, among the bright flower-beds and the cool fountains.
 
 ## Source: <https://www.cs.cmu.edu/~rgs/alice-VII.html>
+
+<!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 600px;" -->
+``````````
+♂ Adam ━━━━━┓
+            ┣━━━━ ♂ Baldur ━━━━━┓
+♀ Adele ━━━━┛                   ┣━━━━ ♂ Casanova
+♂ Alfred ━━━┓                   ┣━━━━ ♂ Clemens ━━━━┓
+            ┣━━━━ ♀ Barbara ━━━━┛                   ┃
+♀ Alwine ━━━┛                                       ┣━━━━ ♂ Donald
+♂ Anton ━━━━┓                                       ┣━━━━ ♀ Daisy
+            ┣━━━━ ♀ Berta ━━━━━━┓                   ┃
+♀ Anna ━━━━━┛                   ┣━━━━ ♀ Cleopatra ━━┛
+♂ Arthur ━━━┓                   ┣━━━━ ♀ Cosima
+            ┣━━━━ ♂ Bernd ━━━━━━┛
+            ┣━━━━ ♂ Boris
+♀ Adriane ━━┛
+``````````
+https://liascript.github.io/course/?https://raw.githubusercontent.com/liaBooks/Arbeitsbuch-Prolog/master/README.md#11
