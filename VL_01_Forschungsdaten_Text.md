@@ -1,33 +1,18 @@
 # Was sind Forschungsdaten?
+<section>
 
 In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu definieren und zu klären, welche Rolle FD im Forschungsprozess spielen.
-
-## Was sind Forschungsdaten?
 
 Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuchungen beispielsweise durch Digitalisierung, Quellenforschungen, Experimente oder Messungen gesammelt, generiert oder analysiert werden. Diese Daten spielen eine essenzielle Rolle bei der Erstellung von
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
 
-``` ascii
- .------------------------------------------------------------------------.
- | Dokumente in digitaler Form,                                           |
- | bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt|
- | und die im Laufe von  wissenschaftlichen Forschungstätigkeiten erfasst |
- | oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses       |
- | verwendet werden oder die in der Forschungsgemeinschaft allgemein für  |
- | die Validierung von Forschungsfeststellungen und -ergebnissen als      |
- | notwendig erachtet werden Richtlinie (EU) 2019/1024 Des Europäischen   |
- | Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die  |
- | Weiterverwendung von Informationen des öffentlichen Sektors,           |
- | Art. 2, Abs.9                                                          |
- '------------------------------------------------------------------------'
-```
+Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden. <br> Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 
 
-Gesetzliche Definition von Forschungsdaten
-=======
-||
-| ---- |
-| Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden |
-|Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 |
+> Gesetzliche Definition von Forschungsdaten
+
+Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden
+<br>
+Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 
 
 Forschungsdaten liegen in allen wissenschaftlichen Disziplinen vor, die mit Daten arbeiten, wie den
 Naturwissenschaften und den Sozial- und Wirtschaftswissenschaften, bis hin zu spezifischen
@@ -62,16 +47,18 @@ in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-B
 ![](https://)
 Quelle: Digitalbevaringdk Bevaringsmetoder_DigitalBevaring
 
+</section>
+
 ## Welche Datentypen gibt es?
 
 Es gibt Primärdaten und Sekundärdaten[^1]
 
-Primärdaten
+> Primärdaten
 
 - sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden.
 - Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
 
-Sekundärdaten
+> Sekundärdaten
 
 - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
@@ -86,15 +73,15 @@ gezielte Herangehensweise, um diese Daten bestmöglich zu organisieren, zu siche
 sowie zukünftige wissenschaftliche Erkenntnisse zu nutzen. Dieses Thema wird in der zweiten
 Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
- ## Leitfragen
+ ### Leitfragen
 
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
 
- ## Lektüre
+ ### Lektüre
  Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von https://www.forschungsdaten.org/index.php/Forschungsdaten.
 
- ## Materialien
+ ### Materialien
 
  Global Terrorism Database (GTD)
 
@@ -133,7 +120,7 @@ jeweiligen Attentat verletzt oder getötet wurden.
 [^5]: START (2022).
 [^6]: START (2020).
 
-## Weiterführende Literatur und Links
+## Weiterführende Literatur
 
 Böker, E. (2023, 5. Mai). Was sind Forschungsdaten. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/).
 
