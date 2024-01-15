@@ -1,12 +1,15 @@
 # Was sind Forschungsdaten?
 <section>
 
-In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu definieren und zu klären, welche Rolle FD im Forschungsprozess spielen.
+> In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu definieren und zu klären, welche Rolle FD im Forschungsprozess spielen.
 
+<br>
 Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuchungen beispielsweise durch Digitalisierung, Quellenforschungen, Experimente oder Messungen gesammelt, generiert oder analysiert werden. Diese Daten spielen eine essenzielle Rolle bei der Erstellung von
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
 
-Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden. <br> Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 
+<br>
+
+> Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden. <br> Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 
 
 ## Gesetzliche Definition von Forschungsdaten
 
@@ -91,20 +94,24 @@ und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und na
 Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder
 aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Zie
 und eingesetzte Waffen _–_ systematisch klassifiziert.
-
+<br>
 Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993[^4] verübt wurden. Nach
 einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
 rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu Verzerrungen bei
 der Analyse und Interpretation der Ergebnisse führt, ist der entsprechende Datensatz nicht mehr in der
 Datenbank gespeichert, sondern wird in einem separaten Datenblatt zur Verfügung gestellt.
-
+<br>
 Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten
 terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig
 haben kann.
+<br>
+
+![Abbildung 1:](gfx/GDT_Attentate.png)<!-- style="max-width: 100%;" -->
 
 Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate.
 Sina Bock[^5]
 
+<br>
 Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine
 kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von
 Forschungsdaten eignen. Die 2020 GTD Heat Map[^6] zeigt beispielsweise die geographische Verteilung
