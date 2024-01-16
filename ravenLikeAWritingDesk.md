@@ -1,9 +1,9 @@
 <!--
-author:   Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
 
-email:    sina.bock@th-koeln.de
+email:    mirjam.bluemm@th-koeln.de
 
-logo:     
+logo:    
 
 version:  0.0.1
 
@@ -11,7 +11,7 @@ language: de
 
 narrator: Deutsch Female
 
-comment:  Testdatei für den Kurs
+comment:  
 
 tags:     LiaScript, Preview
 
