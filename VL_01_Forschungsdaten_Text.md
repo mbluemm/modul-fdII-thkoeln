@@ -72,8 +72,8 @@ Klarheit dessen Definitionen, die für den fortlaufenden Kurs von Relevanz sind:
 
 in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 
-![](https://)
-Quelle: Digitalbevaringdk Bevaringsmetoder_DigitalBevaring
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:FunctionalPreservation_DigitalPreservation.png"><img width="512" alt="FunctionalPreservation DigitalPreservation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FunctionalPreservation_DigitalPreservation.png/512px-FunctionalPreservation_DigitalPreservation.png"></a>
 
 </section>
 
