@@ -11,8 +11,8 @@ language: de
 
 narrator: Deutsch Female
 
-comment:  
-
+comment:  Linkliste mit Links zur Anzeige des jeweiligen Vorlesungsskripts im Live-Editor von Lia Script
+          
 tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
@@ -20,13 +20,7 @@ tags:     LiaScript, Preview
 link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
 
 import:   
-
-          
--->
-
-<!--
-comment:  Linkliste mit Links zur Anzeige des jeweiligen Vorlesungsskripts im Live-Editor von Lia Script
-          
+     
 -->
 
 # BdK7.3.1 / DIS26b Infrastrukturen für Forschungsdaten / Forschungsdaten II (WS 2023/2024)
