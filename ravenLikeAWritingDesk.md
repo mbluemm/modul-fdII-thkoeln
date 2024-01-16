@@ -145,7 +145,7 @@ Hatter and Hare dunking Dormouse
 Just as she said this, she noticed that one of the trees had a door leading right into it. 'That's very curious!' she thought. 'But everything's curious today. I think I may as well go in at once.' And in she went.
 Once more she found herself in the long hall, and close to the little glass table. 'Now, I'll manage better this time,' she said to herself, and began by taking the little golden key, and unlocking the door that led into the garden. Then she went to work nibbling at the mushroom (she had kept a piece of it in her pocket) till she was about a foot high: then she walked down the little passage: and then--she found herself at last in the beautiful garden, among the bright flower-beds and the cool fountains.
 
-## Source: https://www.cs.cmu.edu/~rgs/alice-VII.html
+> Source: https://www.cs.cmu.edu/~rgs/alice-VII.html
 
 <!-- style="display: block; margin-left: auto; margin-right: auto; max-width: 600px;" -->
 ``````````
@@ -165,5 +165,5 @@ Once more she found herself in the long hall, and close to the little glass tabl
 ``````````
 
 <div class="container">
-<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVNLiBT34=/?moveToViewport=28061,-26570,59488,39039&embedId=464892809366" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVNLiBT34=/?moveToViewport=28061,-26570,59488,39039&embedId=464892809366" frameborder="0" scrolling="yes" allow="fullscreen; clipboard-read" allowfullscreen></iframe>
 </div>
