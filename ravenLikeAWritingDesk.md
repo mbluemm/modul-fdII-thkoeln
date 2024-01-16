@@ -139,9 +139,8 @@ Once more she found herself in the long hall, and close to the little glass tabl
 ``````````
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaBooks/Arbeitsbuch-Prolog/master/README.md#11
 
-<iframe src="https://miro.com/app/board/uXjVNLiBT34=/?moveToWidget=3458764575761702240&cot=14"></iframe>
-
-
-<iframe src="...index.html?file://.../Readme.md">
+<iframe src="https://miro.com/app/board/uXjVNLiBT34=/?moveToWidget=3458764571553997760&cot=14"></iframe>
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNLiBT34=/?moveToViewport=28061,-26570,59488,39039&embedId=464892809366" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+<iframe src="https://miro.com/app/embed/uXjVNLiBT34=/?pres=1&frameId=3458764571553997760&embedId=340349648736" frameborder="0" scrolling="yes" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
