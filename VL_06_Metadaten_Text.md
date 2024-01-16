@@ -30,6 +30,10 @@ In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und w
 fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen die gängigsten
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 
+![Was sind Metadaten? ](Metadata_DigitalPreservation_512.png)
+<br>
+<a href="https://commons.wikimedia.org/wiki/File:Metadata_DigitalPreservation.png">Jørgen Stamp</a>, <a href="https://creativecommons.org/licenses/by/2.5/dk/deed.en">CC BY 2.5 DK</a>, via Wikimedia Commons
+
 ## Was sind Metadaten und warum sind diese wichtig?
 
 Daten sprechen meist nicht für sich selbst, denn es steckt viel mehr hinter ihnen und dem Kontext
