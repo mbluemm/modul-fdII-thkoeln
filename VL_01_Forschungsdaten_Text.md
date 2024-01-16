@@ -132,7 +132,7 @@ terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschu
 haben kann.
 <br>
 
-![Abbildung 1:](gfx/GDT_Attentate.png)<!-- style="max-width: 100%;" -->
+![Abbildung 1:](gfx/img/GTD_Attentate_Region.svg)<!-- style="max-width: 100%;" -->
 
 Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate.
 Sina Bock[^5]
