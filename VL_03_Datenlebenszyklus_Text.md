@@ -1,3 +1,29 @@
+<!--
+author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+
+email:    mirjam.bluemm@th-koeln.de
+
+logo:    
+
+version:  0.0.1
+
+language: de
+
+narrator: Deutsch Female
+
+comment:  Vorlesungsskript zum Thema: Datenlebenszyklus
+
+tags:     LiaScript, Preview
+
+@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
+
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
+
+import:   
+
+          
+-->
+
 # VL3: Datenlebenszyklus
 
 In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
@@ -26,7 +52,9 @@ dargestellt werden:
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Archivierung.
 
-![](https://)
+<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVNLiBT34=/?moveToViewport=28061,-26570,59488,39039&embedId=464892809366" frameborder="0" scrolling="yes" allow="fullscreen; clipboard-read" allowfullscreen></iframe>
+</div>
+
 Quelle: Arbeitskompass zum Thema FDM
 
 ### Forschungsvorhaben oder Projekt planen
