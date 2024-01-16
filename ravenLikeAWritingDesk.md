@@ -1,9 +1,13 @@
 # CHAPTER VII
 
-## A Mad Tea-Party
+> ## A Mad Tea-Party
 
 There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it: a Dormouse was sitting between them, fast asleep, and the other two were using it as a cushion, resting their elbows on it, and talking over its head. 'Very uncomfortable for the Dormouse,' thought Alice; 'only, as it's asleep, I suppose it doesn't mind.'
 The table was a large one, but the three were all crowded together at one corner of it: 'No room! No room!' they cried out when they saw Alice coming. 'There's plenty of room!' said Alice indignantly, and she sat down in a large arm-chair at one end of the table.
+<br>
+
+![Hinweis: ](gfx/icons/icons8-idee-100.svg)<!-- style="width: 25%;" -->
+
 Mad Tea Party
 'Have some wine,' the March Hare said in an encouraging tone.
 Alice looked all round the table, but there was nothing on it but tea. 'I don't see any wine,' she remarked.
