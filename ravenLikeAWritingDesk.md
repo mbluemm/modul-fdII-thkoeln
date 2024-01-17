@@ -33,7 +33,7 @@ The table was a large one, but the three were all crowded together at one corner
 <br>
 
 <iframe src="https://h5p.org/h5p/embed/707" width="1090" height="232" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Memory Game"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-![Hinweis: ](gfx/icons/icons8-idee-100.svg)<!-- style="width: 25%;" --> <a target="_blank" href="https://icons8.com/icon/hlyd8DkvAJTp/idee">Idee</a> Icon von <a target="_blank" href="https://icons8.com">Icons8</a>
+
 
 Mad Tea Party
 'Have some wine,' the March Hare said in an encouraging tone.
@@ -50,6 +50,9 @@ The Hatter opened his eyes very wide on hearing this; but all he said was, 'Why 
 'Then you should say what you mean,' the March Hare went on.
 'I do,' Alice hastily replied; 'at least--at least I mean what I say--that's the same thing, you know.'
 'Not the same thing a bit!' said the Hatter. 'You might just as well say that "I see what I eat" is the same thing as "I eat what I see"!'
+
+![Hinweis: ](gfx/icons/icons8-idee-100.svg)<!-- style="width: 25%;" --> <a target="_blank" href="https://icons8.com/icon/hlyd8DkvAJTp/idee">Idee</a> Icon von <a target="_blank" href="https://icons8.com">Icons8</a>
+
 Hatter engaging in rhetoric
 'You might just as well say,' added the March Hare, 'that "I like what I get" is the same thing as "I get what I like"!'
 'You might just as well say,' added the Dormouse, who seemed to be talking in his sleep, 'that "I breathe when I sleep" is the same thing as "I sleep when I breathe"!'
