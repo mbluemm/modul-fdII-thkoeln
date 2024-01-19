@@ -61,7 +61,8 @@ Audiodateien, Videoclips und interaktive Visualisierungen. Diese Vielfalt an For
 zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensammlungen
 hinausgehen.
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tekst_Digitalisering.png"><img width="512" alt="Tekst Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tekst_Digitalisering.png/512px-Tekst_Digitalisering.png"></a>
 Quelle: Digitalbevaringdk Tekst_Digitalisering
 
 In diesem Kurs wird öfter auf „Daten“ und „Dateien“ eingegangen. Im Nachfolgenden finden Sie zur
