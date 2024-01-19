@@ -41,6 +41,9 @@ Mad Tea Party
 
 Alice looked all round the table, but there was nothing on it but tea. 'I don't see any wine,' she remarked.
 'There isn't any,' said the March Hare.
+
+![media/h5p/CY_wissenspyramide-aufgabe-45976.h5p](https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/media/h5p/ude.h5p)
+
 'Then it wasn't very civil of you to offer it,' said Alice angrily.
 'It wasn't very civil of you to sit down without being invited,' said the March Hare.
 'I didn't know it was your table,' said Alice; 'it's laid for a great many more than three. Your hair wants cutting,' said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.
