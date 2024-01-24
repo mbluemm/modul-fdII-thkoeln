@@ -25,3 +25,10 @@
     font-weight: bold;
     color: #df950c;
   }
+
+  .h2 {
+    background-image:linear-gradient(90deg,rgb(219, 71, 8),rgb(240, 173, 30),rgb(193, 27, 149),purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   }
+   
