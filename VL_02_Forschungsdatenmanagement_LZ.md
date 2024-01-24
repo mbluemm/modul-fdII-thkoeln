@@ -47,7 +47,7 @@ import:
 
 | | | | 
 | :--- | :--- | :--- |
-| 3 | Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen[(5)](#14). | Die S. können überschneidende Aspekte des FDMs in ihrem Studium wiederfinden. |
+| 3 | Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Die S. können überschneidende Aspekte des FDMs in ihrem Studium wiederfinden. |
 | 4 | Die S. können die Relevanz und Vor- und Nachteile von FDM gegenüberstellen [(4)](#14). | Hier müssen die S. ihr erlerntes Wissen anwenden, um die Relevanz und Vor- und Nachteile von FDM gegenüber zu stellen. |
 </section>
 
@@ -59,16 +59,17 @@ import:
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ durch Infotext (+ optionales Video) | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben[(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Beantworten von Leitfragen (unten) im Lernportfolio. | EA |
+| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ durch Infotext (+ optionales Video) | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Beantworten von Leitfragen (unten) im Lernportfolio. | EA |
 | Ca. 20 min. | Einführung GWP und kurze Einordnung vom FDM in Open Science. | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+
 </section>
 
 <section>
 
-> ### Präsenzphase
+### Präsenzphase
 
 > #### Einstiegsphase
 
@@ -81,8 +82,8 @@ import:
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
 | Ca. 15 min | Wissenspool zum Thema FDM | L. schafft Basis für gemeinsame Arbeit | Wissenspool (Mindmap) | PL |
-| Ca. 30 min | Offene Diskussion im Plenum zur Relevanz und den Vor- und ggf. Nachteilen vom FDM (mit Bezug auf das Studium). | Die S. können die Relevanz und Vor- und Nachteile von FDM gegenüberstellen[(4)](#14).  <br>Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen[(5)](#14). | Diskussion | PL |
-| ca. 25 min. | Übung zum DFG Kontext  <br>Diskussion im Plenum | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen[(1)](#14). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen  <br>Anschließende Diskussion im Plenum | GA / PL |
+| Ca. 30 min | Offene Diskussion im Plenum zur Relevanz und den Vor- und ggf. Nachteilen vom FDM (mit Bezug auf das Studium). | Die S. können die Relevanz und Vor- und Nachteile von FDM gegenüberstellen [(4)](#14).  <br>Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Diskussion | PL |
+| ca. 25 min. | Übung zum DFG Kontext  <br>Diskussion im Plenum | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen  <br>Anschließende Diskussion im Plenum | GA / PL |
 
 > ### Abschluss
 
