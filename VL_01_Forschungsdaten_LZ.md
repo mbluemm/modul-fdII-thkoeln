@@ -28,7 +28,7 @@ import:
 
 <section>
 
-> ## Ausgangslage
+> ### Ausgangslage
 
 - Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
 
@@ -37,7 +37,7 @@ import:
 
 <section>
 
-> ## Lernziele für den Unterricht in Präsenz
+> ### Lernziele für den Unterricht in Präsenz
 
 ||||
 | --- | --- | --- |
