@@ -75,19 +75,19 @@
 }*/
 
 thead th:nth-child(1) {
-  width: 30%;
-}
-
-thead th:nth-child(2) {
-  width: 20%;
-}
-
-thead th:nth-child(3) {
   width: 15%;
 }
 
+thead th:nth-child(2) {
+  width: 25%;
+}
+
+thead th:nth-child(3) {
+  width: 25%;
+}
+
 thead th:nth-child(4) {
-  width: 35%;
+  width: 25%;
 }
 
 th,
