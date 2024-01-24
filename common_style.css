@@ -121,9 +121,9 @@
   }
 
   .lia-quote {
-    background-color: rgba(163, 90, 205, 0.311);
+    background-color: rgba(163, 90, 205, 0.377);
   }
 
-  blockquote {
+  .blockquote {
     background-color: rgba(105, 90, 205, 0.27);
   }
