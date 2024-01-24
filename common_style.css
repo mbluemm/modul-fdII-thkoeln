@@ -120,6 +120,7 @@
     height: 100%;
   }
 
-  .blockquote{
-    color:linear-gradient(90deg,rgb(219, 71, 8),rgb(199, 21, 133),rgb(240, 173, 30));
+  .lia-quote {
+    background-color: linear-gradient(90deg,rgb(219, 71, 8),rgb(199, 21, 133),rgb(240, 173, 30));
+    padding: 2.4rem;
   }
