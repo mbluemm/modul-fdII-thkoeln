@@ -119,3 +119,7 @@
     width: 100%;
     height: 100%;
   }
+
+  .blockquote{
+    background-image:linear-gradient(90deg,rgb(219, 71, 8),rgb(199, 21, 133),rgb(240, 173, 30));
+  }
