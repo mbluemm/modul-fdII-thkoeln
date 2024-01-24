@@ -109,8 +109,7 @@ Organisatorisches
 
 > ### Arbeitsphase  
 
-Wissenspool
-===
+**Wissenspool**
 
 Die S. tragen in einem Wissenspool ihr Vorwissen aus der Selbstlernphase zum Thema „Was ist FDM?“ zusammen. Die S. (geleitet von L.) sollen einen konkreten Bezug zu ihrem Studium herstellen  
 Welche Rolle spielt FDM in ihrem Studium? In ihrem Fach?  
@@ -119,8 +118,7 @@ Diskussion in Plenum über die Beiträge u. Erarbeitung neuer Stichpunkte
 - L. leitet eine offene Diskussion zur Relevanz von FDM, sowie Vor- und Nachteile im Plenum ein
 - L. gibt ggf. Beispiele aus eigener Erfahrung / aus der Fachdisziplin
 
-Besprechung von Fallbeispielen
-===
+**Besprechung von Fallbeispielen**
 
 Die S. sollen ein Bezug auf ihr Studium herstellen.  
 Diskussion und Ergänzung des Wissenspools  
