@@ -121,6 +121,5 @@
   }
 
   .lia-quote {
-    background-color: linear-gradient(90deg,rgb(219, 71, 8),rgb(199, 21, 133),rgb(240, 173, 30));
-    padding: 2.4rem;
+    background-color: rgba(199, 21, 134, 0.278);
   }
