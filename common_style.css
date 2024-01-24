@@ -11,7 +11,7 @@
     color: rgb(102, 9, 169);
   }
 
-  h2 {
+  .h2 {
     display: block;
     font-size: 1.5em;
     margin-top: 0.83em;
@@ -26,7 +26,7 @@
     -webkit-text-fill-color: transparent;
   }
 
-  h3 {
+  .h3 {
     display: block;
     font-size: 1.17em;
     margin-top: 1em;
@@ -37,7 +37,7 @@
     color: rgb(199, 21, 133);
   }
 
-  h4 {
+  .h4 {
     margin-top: 1.33em;
     margin-bottom: 1.33em;
     margin-left: 0;
@@ -47,11 +47,11 @@
 
 /* Tables */
 
-  table {
+  .table {
     display: table;
     border-collapse: separate;
     border-spacing: 2px;
-    border-color: gray;
+    border-color: rgb(94, 2, 164);
   }
 
   .tbody {
@@ -74,36 +74,36 @@
   border: 3px solid purple;
 }*/
 
-thead th:nth-child(1) {
+.thead th:nth-child(1) {
   width: 15%;
 }
 
-thead th:nth-child(2) {
+.thead th:nth-child(2) {
   width: 25%;
 }
 
-thead th:nth-child(3) {
+.thead th:nth-child(3) {
   width: 25%;
 }
 
-thead th:nth-child(4) {
+.thead th:nth-child(4) {
   width: 25%;
 }
 
-th,
-td {
+.th,
+.td {
   padding: 20px;
 }
 
 /* Illustrations */
 
-  img {
-    display: inline-block;
-  }
+.img {
+  display: inline-block;
+}
 
 /* Responsive iframes */
 
-   .container {
+  .container {
     position: relative;
     overflow: hidden;
     width: 100%;
