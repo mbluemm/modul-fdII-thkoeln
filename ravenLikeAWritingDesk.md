@@ -20,8 +20,7 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/comm
 link:     https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
 
 import:   
-
-          
+      
 -->
 
 # CHAPTER VII
