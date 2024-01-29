@@ -388,7 +388,7 @@ setTimeout (function(){
 [[ ]] Gleichstand
 
 # Diagramme
-
+``````
 ASCII-Art
                         Multiline
    2.0 | DOTS          
@@ -412,6 +412,6 @@ ASCII-Art
        |
      0 +-------------------------
        0 x-axis  1
-
+``````
 
 🤝‍👨🏿👦🧑🏿⚔📼📂🗃📝
