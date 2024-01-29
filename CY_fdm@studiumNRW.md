@@ -1,7 +1,7 @@
 <!--
-author:   Ceren
+author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
 
-email:    
+email:    mirjam.bluemm@th-koeln.de
 
 logo:    
 
@@ -17,11 +17,11 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
+link:     
 
 import:   
 
-          
+
 -->
 
 # Veranschaulichung
