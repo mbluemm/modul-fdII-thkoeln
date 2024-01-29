@@ -60,7 +60,7 @@ import:
 ## Testfile (Preview)
 
 - [ravenLikeAWritingDesk](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/ravenLikeAWritingDesk.md)
-- [CY_fdmAtstudiumNRW](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_fdmATstudiumNRW.md)
+- [CY_fdmAtstudiumNRW](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_fdmAtstudiumNRW.md)
 
 </section>
 
