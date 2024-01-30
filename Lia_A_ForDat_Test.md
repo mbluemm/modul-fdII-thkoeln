@@ -36,7 +36,6 @@ Lassen Sie sich zunächst den im Binärcode kodierten Text mit Klick auf 'Umwand
 
 <button type="button" onclick="clearInput()">Eingabe löschen</button>
 
-<div style="flex: 1; ">
 <strong><label>Ausgabe</label></strong>
 <br>
 
@@ -46,14 +45,20 @@ Lassen Sie sich zunächst den im Binärcode kodierten Text mit Klick auf 'Umwand
 <script>
 function convertBinaryToASCII() {
     const binaryInput = document.getElementById("binaryInput").value;
+
+    console.log(binaryInput);
     
     let asciiText = "";
 
     binaryInput.split(" ").forEach(function(binary) {
         const paddedBinary = binary.padStart(8, '0');
+
+        console.log(paddedBinary);
         
         const decimalValue = parseInt(paddedBinary, 2);
             asciiText += String.fromCharCode(decimalValue);
+
+        console.log(asciiText);
     });
 
         document.getElementById("result").textContent = asciiText;
