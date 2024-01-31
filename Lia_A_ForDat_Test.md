@@ -31,7 +31,6 @@ Lassen Sie sich zunächst den im Binärcode kodierten Text mit Klick auf 'Umwand
 <br>
 
 <button type="button" onclick="convertBinaryToASCII()">Umwandeln</button>
-
 <button type="button" onclick="clearInput()">Eingabe löschen</button>
 
 <strong><label>Ausgabe</label></strong>
@@ -39,6 +38,8 @@ Lassen Sie sich zunächst den im Binärcode kodierten Text mit Klick auf 'Umwand
 
 <div id="result" style="border: 1px solid #000; padding: 10px;">
 </div>
+
+<br>
 
 <script>
 function convertBinaryToASCII() {
@@ -82,11 +83,14 @@ Generieren Sie hier selbst eine Ausgabe in Binärcode. <br>
 
 <button type="button" onclick="convertTextToBinary()">Umwandeln</button>
 
+<br>
+
 <strong><label>Ausgabe</label></strong>
 
 <br>
 
 <div id="binaryResult" style="border: 1px solid #000; padding: 10px;"></div>
+
 <br>
 
 <script>
