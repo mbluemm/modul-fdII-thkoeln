@@ -15,6 +15,59 @@ import: https://raw.githubusercontent.com/liaTemplates/processingjs/master/READM
 
 tags:     Forschungsdaten, Datenmanagement, Studium, Bachelor, Digital Literacy
 
+script:   https://www.biwascheme.org/release/biwascheme-0.8.0-min.js
+
+@BiwaScheme.eval
+<script>
+// window.console = console
+
+BiwaScheme.Console.puts = function(str, x){ console.stream(str + (x ? '\n' : '')) }
+
+var biwa = new BiwaScheme.Interpreter(console.error)
+biwa.evaluate(`@input`, function(result) {
+  if (result && result != "#<undef>") {
+    console.debug(result)
+  }
+});
+"LIA: stop"
+</script>
+@end
+
+
+@BiwaScheme.evalWithTerminal
+<script>
+// window.console = console
+
+BiwaScheme.Console.puts = function(str, x){ console.stream(str + (x ? '\n' : '')) }
+
+var biwa = new BiwaScheme.Interpreter(console.error)
+
+setTimeout(function() {
+  biwa.evaluate(`@input`, function(result) {
+    if (result && result != "#<undef>") {
+      console.debug(result)
+    }
+  });
+}, 100)
+
+send.handle("input", input => {
+  try{
+    biwa.evaluate(input, function(result) {
+      if (result && result != "#<undef>") {
+        console.debug(result)
+      }
+    })
+  } catch (e) {
+    console.error(e);
+  }
+})
+
+send.handle("stop", e => { console.log("execution stopped") })
+
+"LIA: terminal"
+</script>
+
+@end
 -->
 
 # Umwandlung in Binärcode
