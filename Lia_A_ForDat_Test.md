@@ -11,6 +11,8 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
+import: https://raw.githubusercontent.com/liaTemplates/processingjs/master/README.md
+
 tags:     Forschungsdaten, Datenmanagement, Studium, Bachelor, Digital Literacy
 
 -->
@@ -53,21 +55,6 @@ function clearInput() {
 }
 </script>
 
-<script>
-        function convertTextToBinary() {
-            var textInput = document.getElementById("textInput").value;
-            let binaryCode = "";
-
-            for (let i = 0; i < textInput.length; i++) {
-                var charCode = textInput.charCodeAt(i);
-                var binaryChar = charCode.toString(2).padStart(8, '0');
-                binaryCode += binaryChar + " ";
-            }
-
-            document.getElementById("binaryResult").textContent = binaryCode;
-        }
-</script>
-
 <strong><label for="binaryInput">Eingabe Binärcode</label></strong>
 <br>
 
@@ -87,6 +74,21 @@ function clearInput() {
 <br>
     
 Generieren Sie hier selbst eine Ausgabe in Binärcode. <br>
+
+<script>
+        function convertTextToBinary() {
+            var textInput = document.getElementById("textInput").value;
+            let binaryCode = "";
+
+            for (let i = 0; i < textInput.length; i++) {
+                var charCode = textInput.charCodeAt(i);
+                var binaryChar = charCode.toString(2).padStart(8, '0');
+                binaryCode += binaryChar + " ";
+            }
+
+            document.getElementById("binaryResult").textContent = binaryCode;
+        }
+</script>
 
 <strong><label for="textInput">Eingabe Text</label></strong>
 
