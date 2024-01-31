@@ -24,42 +24,50 @@ ToDo:
 Lassen Sie sich zunächst den im Binärcode kodierten Text mit Klick auf 'Umwandeln' anzeigen, um näheres über den Standard zu erfahren. Spielen Sie mit dem Beispielcode oder erzeugen Sie eigene Übersetzungen. Finden Sie z. B. heraus, wie Zeilenumbrüche oder Leerzeichen kodiert sind?
 
 <script>
-function convertBinaryToASCII() {
-    const binaryInput = document.getElementById("binaryInput").value;
 
+const binaryInput = ""
+const paddedBinary = ""
+const decimalValue = ""
+
+function convertBinaryToASCII() {
+    binaryInput = document.getElementById("binaryInput").value;
     //console.log(binaryInput);
     
     let asciiText = "";
 
     binaryInput.split(" ").forEach(function(binary) {
-        const paddedBinary = binary.padStart(8, '0');
-
+        paddedBinary = binary.padStart(8, '0');
         //console.log(paddedBinary);
         
-        const decimalValue = parseInt(paddedBinary, 2);
-            asciiText += String.fromCharCode(decimalValue);
+        decimalValue = parseInt(paddedBinary, 2);
+        //console.log(decimalValue);
 
+        asciiText += String.fromCharCode(decimalValue);
         //console.log(asciiText);
     });
 
         document.getElementById("result").textContent = asciiText;
-            }
+}
 
-    function clearInput() {
-        //document.getElementById("binaryInput").value = "";
+function clearInput() {
+    //document.getElementById("binaryInput").value = "";
         
-        document.getElementById("result").textContent = "";
-            }
+    document.getElementById("result").textContent = "";
+}
 </script>
 
 <script>
-        function convertTextToBinary() {
-            const textInput = document.getElementById("textInput").value;
+    const charCode = ""
+    const textInput = ""
+    const binaryChar = ""
+
+    function convertTextToBinary() {
+        textInput = document.getElementById("textInput").value;
             let binaryCode = "";
 
             for (let i = 0; i < textInput.length; i++) {
-                const charCode = textInput.charCodeAt(i);
-                const binaryChar = charCode.toString(2).padStart(8, '0');
+                charCode = textInput.charCodeAt(i);
+                binaryChar = charCode.toString(2).padStart(8, '0');
                 binaryCode += binaryChar + " ";
             }
 
