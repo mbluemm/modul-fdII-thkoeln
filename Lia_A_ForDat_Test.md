@@ -25,41 +25,42 @@ Lassen Sie sich zunächst den im Binärcode kodierten Text mit Klick auf 'Umwand
 
 <script>
 function convertBinaryToASCII() {
-    const binaryInput = document.getElementById("binaryInput").value;
+    var binaryInput = document.getElementById("binaryInput").value;
 
     //console.log(binaryInput);
     
     let asciiText = "";
 
     binaryInput.split(" ").forEach(function(binary) {
-        const paddedBinary = binary.padStart(8, '0');
+        var paddedBinary = binary.padStart(8, '0');
 
         //console.log(paddedBinary);
         
-        const decimalValue = parseInt(paddedBinary, 2);
-            asciiText += String.fromCharCode(decimalValue);
+        var decimalValue = parseInt(paddedBinary, 2);
+        
+        asciiText += String.fromCharCode(decimalValue);
 
         //console.log(asciiText);
     });
 
         document.getElementById("result").textContent = asciiText;
-            }
+}
 
-    function clearInput() {
-        //document.getElementById("binaryInput").value = "";
+function clearInput() {
+    //document.getElementById("binaryInput").value = "";
         
-        document.getElementById("result").textContent = "";
-            }
+    document.getElementById("result").textContent = "";
+}
 </script>
 
 <script>
         function convertTextToBinary() {
-            const textInput = document.getElementById("textInput").value;
+            var textInput = document.getElementById("textInput").value;
             let binaryCode = "";
 
             for (let i = 0; i < textInput.length; i++) {
-                const charCode = textInput.charCodeAt(i);
-                const binaryChar = charCode.toString(2).padStart(8, '0');
+                var charCode = textInput.charCodeAt(i);
+                var binaryChar = charCode.toString(2).padStart(8, '0');
                 binaryCode += binaryChar + " ";
             }
 
@@ -84,10 +85,8 @@ function convertBinaryToASCII() {
 </div>
 
 <br>
-
-        
+    
 Generieren Sie hier selbst eine Ausgabe in Binärcode. <br>
-
 
 <strong><label for="textInput">Eingabe Text</label></strong>
 
