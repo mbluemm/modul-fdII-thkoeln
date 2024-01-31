@@ -24,38 +24,47 @@ ToDo:
 Lassen Sie sich zunächst den im Binärcode kodierten Text mit Klick auf 'Umwandeln' anzeigen, um näheres über den Standard zu erfahren. Spielen Sie mit dem Beispielcode oder erzeugen Sie eigene Übersetzungen. Finden Sie z. B. heraus, wie Zeilenumbrüche oder Leerzeichen kodiert sind?
 
 <script>
-
-const binaryInput = ""
-const paddedBinary = ""
-const decimalValue = ""
-
 function convertBinaryToASCII() {
-    binaryInput = document.getElementById("binaryInput").value;
+    const binaryInput = document.getElementById("binaryInput").value;
+
     //console.log(binaryInput);
     
     let asciiText = "";
 
     binaryInput.split(" ").forEach(function(binary) {
-        paddedBinary = binary.padStart(8, '0');
+        const paddedBinary = binary.padStart(8, '0');
+
         //console.log(paddedBinary);
         
-        decimalValue = parseInt(paddedBinary, 2);
-        //console.log(decimalValue);
+        const decimalValue = parseInt(paddedBinary, 2);
+            asciiText += String.fromCharCode(decimalValue);
 
-        asciiText += String.fromCharCode(decimalValue);
         //console.log(asciiText);
-
-
     });
 
         document.getElementById("result").textContent = asciiText;
-}
+            }
 
-function clearInput() {
-    //document.getElementById("binaryInput").value = "";
+    function clearInput() {
+        //document.getElementById("binaryInput").value = "";
         
-    document.getElementById("result").textContent = "";
-}
+        document.getElementById("result").textContent = "";
+            }
+</script>
+
+<script>
+        function convertTextToBinary() {
+            const textInput = document.getElementById("textInput").value;
+            let binaryCode = "";
+
+            for (let i = 0; i < textInput.length; i++) {
+                const charCode = textInput.charCodeAt(i);
+                const binaryChar = charCode.toString(2).padStart(8, '0');
+                binaryCode += binaryChar + " ";
+            }
+
+            document.getElementById("binaryResult").textContent = binaryCode;
+        }
 </script>
 
 <strong><label for="binaryInput">Eingabe Binärcode</label></strong>
@@ -87,27 +96,6 @@ Generieren Sie hier selbst eine Ausgabe in Binärcode. <br>
 <textarea id="textInput" name="textInput" rows="5" cols="80" required="" data-lt-tmp-id="lt-650923" spellcheck="false" data-gramm="false" data-initial-value="" style="height: 50%"></textarea>
 
 <br>
-
-<script>
-
-const charCode = ""
-const textInput = ""
-const binaryChar = ""
-
-function convertTextToBinary() {
-    textInput = document.getElementById("textInput").value;
-    
-    let binaryCode = "";
-
-        for (let i = 0; i < textInput.length; i++) {
-            charCode = textInput.charCodeAt(i);
-            binaryChar = charCode.toString(2).padStart(8, '0');
-            binaryCode += binaryChar + " ";
-        }
-
-            document.getElementById("binaryResult").textContent = binaryCode;
-}
-</script>
 
 <button type="button" onclick="convertTextToBinary()">Umwandeln</button>
 
