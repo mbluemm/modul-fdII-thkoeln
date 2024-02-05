@@ -5,7 +5,7 @@ email:    fdm@uni-wuppertal.de
 
 version:  0.0.1
 
-language: de
+@language: de
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
