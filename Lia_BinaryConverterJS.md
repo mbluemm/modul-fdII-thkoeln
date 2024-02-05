@@ -58,24 +58,7 @@ Lassen Sie sich zunächst den im Binärcode kodierten Text mit Klick auf 'Umwand
 
 "Umwandeln"</script>
 
-
-<script src="javascript.js">
-function convertTextToBinary() {
-
-    let textInput = document.getElementById("textInput").value;
-    let binaryCode = "";
-
-    for (let i = 0; i < textInput.length; i++) {
-        let charCode = textInput.charCodeAt(i);
-        let binaryChar = charCode.toString(2).padStart(8, '0');
-        binaryCode += binaryChar + " ";
-    }
-
-    document.getElementById("binaryResult").textContent = binaryCode;
-}
-</script>
-
-<script input="button" src="javascript.js">
+<script input="button" value="zefix" src="javascript.js">
 
 const textInput = document.getElementById("textInput").value;
 const binaryCode = "";
