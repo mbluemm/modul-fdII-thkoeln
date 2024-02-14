@@ -39,6 +39,8 @@ fetchPromise.then((response) => {
 
 </script>
 
+<meta content="text/html; charset=UTF-8; X-Content-Type-Options=nosniff" http-equiv="Content-Type" />
+
 # Was sind Forschungsdaten?
 <section>
 
