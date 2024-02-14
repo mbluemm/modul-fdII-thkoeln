@@ -123,12 +123,12 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
 
- ### Lektüre
+### Lektüre
  Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von https://www.forschungsdaten.org/index.php/Forschungsdaten.
 
 ## Weiterführende Materialen und Quellen
 
- > Global Terrorism Database (GTD)
+> Global Terrorism Database (GTD)
 
 Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National
 Consortium for the Study of Terrorism and Responses to Terrorism (START)[^2] kostenlos zur Verfügung
