@@ -169,9 +169,6 @@ jeweiligen Attentat verletzt oder getötet wurden.
 [^4]: START (2021), S. 4.
 [^5]: START (2022).
 [^6]: START (2020).
-</section>
-
-<section>
 
 ### Literatur
 
@@ -181,9 +178,6 @@ Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissensc
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement. Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
-</section>
-
-<section>
 
 ### Quellen
 
