@@ -128,6 +128,7 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
 ## Weiterführende Materialen und Quellen
 
+<section>
 > Global Terrorism Database (GTD)
 
 Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National
@@ -168,14 +169,21 @@ jeweiligen Attentat verletzt oder getötet wurden.
 [^4]: START (2021), S. 4.
 [^5]: START (2022).
 [^6]: START (2020).
+</section>
 
-### Weiterführende Literatur
+<section>
+
+### Literatur
 
 Böker, E. (2023, 5. Mai). Was sind Forschungsdaten. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/).
 
 Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/zenodo.3923602).
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement. Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
+
+</section>
+
+<section>
 
 ### Quellen
 
@@ -184,3 +192,5 @@ Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschu
 START (National Consortium for the Study of Terrorism and Responses to Terrorism). (2022). Global Terrorism Database, 1970 - 2020 [data file](https://www.start.umd.edu/gtd).
 
 START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html](https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html).
+
+</section>
