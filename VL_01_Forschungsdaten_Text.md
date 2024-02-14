@@ -155,7 +155,6 @@ haben kann.
 Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate.
 Sina Bock[^5]
 
-<br>
 Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine
 kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von
 Forschungsdaten eignen. Die 2020 GTD Heat Map[^6] zeigt beispielsweise die geographische Verteilung
@@ -163,6 +162,7 @@ von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate i
 Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem
 jeweiligen Attentat verletzt oder getötet wurden.
 
+<br>
 
 ### Literatur
 
@@ -182,6 +182,7 @@ START (National Consortium for the Study of Terrorism and Responses to Terrorism
 START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html](https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html).
 
 ---
+
 [^2]: START (2022).
 [^3]: ebd .
 [^4]: START (2021), S. 4.
