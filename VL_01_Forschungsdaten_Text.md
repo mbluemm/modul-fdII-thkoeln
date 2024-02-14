@@ -163,12 +163,6 @@ von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate i
 Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem
 jeweiligen Attentat verletzt oder getötet wurden.
 
----
-[^2]: START (2022).
-[^3]: ebd .
-[^4]: START (2021), S. 4.
-[^5]: START (2022).
-[^6]: START (2020).
 
 ### Literatur
 
@@ -186,5 +180,12 @@ Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschu
 START (National Consortium for the Study of Terrorism and Responses to Terrorism). (2022). Global Terrorism Database, 1970 - 2020 [data file](https://www.start.umd.edu/gtd).
 
 START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html](https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html).
+
+---
+[^2]: START (2022).
+[^3]: ebd .
+[^4]: START (2021), S. 4.
+[^5]: START (2022).
+[^6]: START (2020).
 
 </section>
