@@ -18,13 +18,26 @@ tags:     LiaScript, Preview
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
 link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   Access-Control-Allow-Origin: *
-
-
-          
+       
 -->
 
+<script>
+
+const fetchPromise = fetch("https://bar.other/doc", {
+  method: "POST",
+  mode: "cors",
+  headers: {
+    "Content-Type": "text/xml",
+    "X-PINGOTHER": "pingpong",
+  },
+  body: "<person><name>Arun</name></person>",
+});
+
+fetchPromise.then((response) => {
+  console.log(response.status);
+});
+
+</script>
 
 # Was sind Forschungsdaten?
 <section>
