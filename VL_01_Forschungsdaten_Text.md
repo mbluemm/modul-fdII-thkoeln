@@ -43,6 +43,8 @@ Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlic
 >
 > -- Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 
 
+<br>
+
 ## Gesetzliche Definition von Forschungsdaten
 
 > Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt 
@@ -52,6 +54,8 @@ Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlic
 > und -ergebnissen als notwendig erachtet werden
 >
 > -- Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 
+
+<br>
 
 Forschungsdaten liegen in allen wissenschaftlichen Disziplinen vor, die mit Daten arbeiten, wie den
 Naturwissenschaften und den Sozial- und Wirtschaftswissenschaften, bis hin zu spezifischen
@@ -74,6 +78,7 @@ hinausgehen.
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tekst_Digitalisering.png"><img width="512" alt="Tekst Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tekst_Digitalisering.png/512px-Tekst_Digitalisering.png"></a>
+<br>
 Quelle: Digitalbevaringdk Tekst_Digitalisering
 
 In diesem Kurs wird öfter auf „Daten“ und „Dateien“ eingegangen. Im Nachfolgenden finden Sie zur
@@ -113,7 +118,7 @@ gezielte Herangehensweise, um diese Daten bestmöglich zu organisieren, zu siche
 sowie zukünftige wissenschaftliche Erkenntnisse zu nutzen. Dieses Thema wird in der zweiten
 Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
- ### Leitfragen
+ ## Leitfragen und Aufgaben
 
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
@@ -121,7 +126,7 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
  ### Lektüre
  Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von https://www.forschungsdaten.org/index.php/Forschungsdaten.
 
- ### Materialien
+ ## Weiterführende Materialen und Quellen
 
  > Global Terrorism Database (GTD)
 
@@ -164,7 +169,7 @@ jeweiligen Attentat verletzt oder getötet wurden.
 [^5]: START (2022).
 [^6]: START (2020).
 
-## Weiterführende Literatur
+### Weiterführende Literatur
 
 Böker, E. (2023, 5. Mai). Was sind Forschungsdaten. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/](https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/).
 
