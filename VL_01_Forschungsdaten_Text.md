@@ -118,7 +118,7 @@ gezielte Herangehensweise, um diese Daten bestmöglich zu organisieren, zu siche
 sowie zukünftige wissenschaftliche Erkenntnisse zu nutzen. Dieses Thema wird in der zweiten
 Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
- ## Leitfragen und Aufgaben
+## Leitfragen und Aufgaben
 
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
@@ -126,7 +126,7 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
  ### Lektüre
  Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von https://www.forschungsdaten.org/index.php/Forschungsdaten.
 
- ## Weiterführende Materialen und Quellen
+## Weiterführende Materialen und Quellen
 
  > Global Terrorism Database (GTD)
 
