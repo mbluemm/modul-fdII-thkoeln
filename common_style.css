@@ -126,4 +126,16 @@
 
   .blockquote {
     background-color: rgba(90, 148, 205, 0.702);
+    font: 14px/20px italic Times, serif;
+    padding-left: 70px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 10px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 5px;
+    background-image: url(images/openquote4.gif);
+    background-position: middle left;
+    background-repeat: no-repeat;
+    text-indent: 23px;
   }
