@@ -17,7 +17,7 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
+link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd7aaacbacb9896120d3a1a/common_style.css
        
 -->
 
