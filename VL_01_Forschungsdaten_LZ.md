@@ -19,7 +19,7 @@ tags:     LiaScript, Preview
 
 link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
 
-import:   
+import:   https://meyerweb.com/eric/tools/css/reset/reset.css
 
           
 -->
