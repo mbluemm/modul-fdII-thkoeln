@@ -15,10 +15,8 @@ comment:
 
 tags:     LiaScript, Preview
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-limk:    https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/css/foundation.min.css"
-
+link:    https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
+         https://cdn.jsdelivr.net/gh/liascript/custom-style/custom.css
 import:   
       
 -->
