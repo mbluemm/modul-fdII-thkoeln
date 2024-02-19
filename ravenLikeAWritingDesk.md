@@ -54,8 +54,16 @@ Alice looked all round the table, but there was nothing on it but tea. 'I don't 
 The Hatter opened his eyes very wide on hearing this; but all he said was, 'Why is a raven like a writing-desk?'
 'Come, we shall have some fun now!' thought Alice. 'I'm glad they've begun asking riddles.--I believe I can guess that,' she added aloud.
 
-<iframe src="https://github.com/mbluemm/modul-fdII-thkoeln/tree/main/media/h5p/test/index.html" width="1062" height="719" frameborder="0" allowfullscreen="allowfullscreen" title="DMP"></iframe>
-<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe id="github-iframe" src=""></iframe>
+<script>
+    fetch('https://api.github.com/repos/mbluemm/modul-fdII-thkoeln/main/CY_FAIR-Prinzipien.html')
+        .then(function(response) {
+            return response.json();
+        }).then(function(data) {
+            var iframe = document.getElementById('github-iframe');
+            iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
+        });
+</script>
 
 'Do you mean that you think you can find out the answer to it?' said the March Hare.
 'Exactly so,' said Alice.
