@@ -6,26 +6,25 @@ Herzlich willkommen zum Kurs über Forschungsdaten! In diesem Kurs werden wir un
 
 # Was sind Forschungsdaten?
 
-*Definitionsversuch der DFG:*
+**Definitionsversuch der DFG:**
 
 "Zu Forschungsdaten zählen u.a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden. Methodische Testverfahren, wie Fragebögen, Software und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und sollten daher ebenfalls unter den Begriff Forschungsdaten gefasst werden."
 
-(Quelle: https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/)
-
-Da im Forschungsdatenmanagement nahezu immer mit digitalen Forschungsdaten gearbeitet wird, ist die Definition, die Maxi Kindling und Peter Schirmbacher 2013 eingebracht haben, weiterführend:
-"Unter digitalen Forschungsdaten verstehen wir […] alle digital vorliegenden Daten, die während des Forschungsprozesses entstehen oder ihr Ergebnis sind."
-
-(Quelle: Kindling, Maxi und Schirmbacher, Peter: „Die digitale Forschungswelt“ als Gegenstand der Forschung. Information – Wissenschaft – Praxis 64 (2013): S. 130.)
+*Quelle: https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/*
 
 
-*Warum sind Forschungsdaten wichtig?*
+**Warum sind Forschungsdaten wichtig?**
 
 Forschungsdaten spielen eine essenzielle Rolle bei der Erstellung von Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
 
 
-*Forschungsdatentypen*
+**Forschungsdatentypen**
 
-Festhalten lässt sich daher, dass Forschungsdaten (digitale) Daten sind, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse.
+Aufgrund der weit verbreiteten Verwendung digitaler Forschungsdaten im Forschungsdatenmanagement ist die Definition von Maxi Kindling und Peter Schirmbacher aus dem Jahr 2013 von Bedeutung: "Unter digitalen Forschungsdaten verstehen wir [...] alle digital vorliegenden Daten, die während des Forschungsprozesses entstehen oder ihr Ergebnis sind."
+
+*Quelle: Kindling, Maxi und Schirmbacher, Peter: „Die digitale Forschungswelt“ als Gegenstand der Forschung. Information – Wissenschaft – Praxis 64 (2013): S. 130.)*
+
+Forschungsdaten, sei es digital oder anderweitig, entstehen während wissenschaftlicher Tätigkeit, wie Messungen, Befragungen oder Quellenarbeit. Sie dienen als Grundlage für wissenschaftliche Arbeit und dokumentieren deren Ergebnisse. Die Arbeit mit digitalen Forschungsdaten ist mittlerweile ein fester Bestandteil des Forschungsprozesses geworden und ermöglicht eine effiziente Datenerfassung, -verwaltung und -analyse.
 
 Es gibt Primärdaten und Sekundärdaten
 Primärdaten: sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden. Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
@@ -33,7 +32,28 @@ Primärdaten: sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch
 Sekundärdaten: sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen. Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
 
 
-*Datenlebenszyklus*
+**Forschungsdatenlebenszyklus**
+
+Eine professionelle Handhabung von Forschungsdaten ist unerlässlich für wissenschaftliche Tätigkeiten und sichert die Einhaltung hoher Standards. Ein strukturierter Datenlebenszyklus und die Erstellung eines Datenmanagementplans spielen dabei eine zentrale Rolle.
+
+1. Forschungsvorhaben planen
+2. Daten erheben
+3. Daten aufbereiten und analysieren
+4. Daten teilen und publizieren
+5. Daten archivieren
+6. Daten nachnutzen
+
+*Quelle: https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/*
+
+
+**Datenmanagementplan**
+
+Gemäß forschungsdaten.org wird der Datenmanagementplan wie folgt beschrieben:
+
+
+"Ein Datenmanagementplan (DMP) strukturiert den Umgang mit Forschungsdaten eines wissenschaftlichen Projekts. Er beschreibt, wie während der Laufzeit und nach Projektende mit verwendeten Daten verfahren wird. Viele Drittmittelgeber (DFG, FWF, SNF, Horizon Europe, Volkswagenstiftung) erwarten für die Vergabe von Mitteln aus bestimmten Förderlinien Angaben zum Umgang mit Forschungsdaten als Teil eines Förderantrags. [...] Insbesondere lässt sich in einem DMP über den gesamten Forschungsdatenlebenszyklus hinweg der aktuelle Stand und Besonderheiten vermerken. Somit ist es für die Verwaltung und um den Überblick zu behalten, hilfreich."
+
+*Quelle: https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/*
 
 
 # FAIR-Prinzipien
@@ -44,10 +64,10 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
  -	austauschbar (Interoperable),
  -	und nachnutzbar (Reusable) sind.
 
- (Quelle: Forschungsdaten.info, 2023)
+ *Quelle: Forschungsdaten.info, 2023)*
 
 
-• *Findable* (Auffindbar)
+• **Findable** (Auffindbar)
 
   Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
   - Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente
@@ -58,12 +78,12 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
     Auffindbarkeit zu verbessern.
 
 
-• *Accessible* (Zugänglich)
+• **Accessible** (Zugänglich)
 
   Forschungsdaten sollten für alle zugänglich sein, erfordern klare Zugangsregeln und offene Lizenzen zur Wiederverwendung. Sie können in Forschungsdaten-Journalen oder -zentren veröffentlicht werden, jedoch sollten persistente Metadaten vorhanden sein, auch wenn Daten später zurückgezogen werden. Nicht alle Daten eignen sich für eine freie Veröffentlichung, insbesondere sensible oder rechtegeschützte Daten. FAIR bedeutet nicht automatisch Open Access, und es können Hinweise in den Metadaten auf Ansprechpartner verweisen. Die Analyse der Zugänglichkeitsprinzipien kann unter Verwendung von Open-Access-Repositorien wie Zenodo oder Figshare vertieft werden.
 
 
-• *Interoperable* (Interoperabel)
+• **Interoperable** (Interoperabel)
 
   Interoperabilität wird durch verschiedene Maßnahmen erreicht:
   -	Verwendung standardisierter Metadaten: Daten und Metadaten sollten eine formale, allgemein anwendbare Sprache
@@ -74,7 +94,7 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
     enthalten. Dies unterstützt die Nachverfolgbarkeit und Verknüpfung von Informationen.
 
 
-• *Reusable* (Wiederverwendbar)
+• **Reusable** (Wiederverwendbar)
 
   Wiederverwendbarkeit stellt sicher, dass Forschungsdaten und die zugehörigen Metadaten so umfassend beschrieben sind, dass sie für zukünftige Forschungsvorhaben von Mensch und Maschine wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekte von Bedeutung:
   - Detaillierte Beschreibung von Metadaten: Daten und Metadaten sollten ausführlich beschrieben werden.
@@ -85,11 +105,32 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
   - Anpassung an Community-Standards: Die Metadaten sollten den Standards und Praktiken der jeweiligen
     Forschungsgemeinschaft entsprechen, um eine reibungslose Zusammenarbeit und Nutzung zu ermöglichen.
 
-Quelle: Digitalbevaringdk Forside_DigitalBevaring
+*Quelle: Digitalbevaringdk Forside_DigitalBevaring*
 
 
 
 # CARE-Prinzipien
+
+In Ergänzung zu den technischen FAIR-Prinzipien wurden die CARE-Prinzipien als Antwort auf ethische Fragen entwickelt. Diese stehen für Collective Benefit, Authority to Control, Responsibility und Ethics (Kollektiver Nutzen, Kontrolle über die Daten, Verantwortung, Ethik). Die CARE-Prinzipien im Überblick:
+
+• **Collective Benefit** (Kollektiver Nutzen)
+
+- Datenökosysteme sollten so gestaltet sein, dass indigene Völker von den Daten profitieren können.
+
+
+• **Authority to Control** (Befugnis zur Kontrolle)
+
+- Die Rechte und Interessen indigener Völker an ihren Daten müssen anerkannt und ihre Befugnis, diese zu kontrollieren, gestärkt werden.
+
+
+• **Responsibility** (Verantwortung)
+
+- Personen, die mit indigenen Daten arbeiten, sind verantwortlich dafür, wie diese Daten genutzt werden, um die Selbstbestimmung der indigenen Völker und den kollektiven Nutzen zu unterstützen.
+
+
+• **Ethics** (Ethik)
+
+- Die Rechte und das Wohlergehen indigener Völker sollten in allen Phasen des Forschungsdatenzyklus und im gesamten Datenökosystem prioritär behandelt werden.
 
 
 # Teste dein Wissen: FAIR-Prinzipien
