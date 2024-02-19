@@ -41,7 +41,16 @@ Alice looked all round the table, but there was nothing on it but tea. 'I don't 
 The Hatter opened his eyes very wide on hearing this; but all he said was, 'Why is a raven like a writing-desk?'
 'Come, we shall have some fun now!' thought Alice. 'I'm glad they've begun asking riddles.--I believe I can guess that,' she added aloud.
 
-<script sandbox="allow-forms allow-modals" allow="" referrerpolicy="no-referrer" src="http://gist-it.appspot.com/https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien.html"></script>
+<script sandbox="allow-forms allow-modals" allow="" referrerpolicy="no-referrer">
+
+const iframeElem = document.querySelector("iframe");
+
+iframeElem.credentialless = true;
+iframeElem.title = "Fair Prinzipien";
+iframeElem.src = https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien.html
+  "https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)";
+
+</script>
 
 > Source: https://www.cs.cmu.edu/~rgs/alice-VII.html
 
