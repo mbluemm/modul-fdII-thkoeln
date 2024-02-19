@@ -94,7 +94,7 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 # Teste dein Wissen: FAIR-Prinzipien
 
-<iframe src="https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien%20html.html" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title="H5P"></iframe>
+<iframe src="https://github.com/mbluemm/modul-fdII-thkoeln/CY_FAIR-Prinzipien%20html.html" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title="H5P"></iframe>
 
 # Weiterführende Literatur
 
