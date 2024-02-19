@@ -41,15 +41,7 @@ Alice looked all round the table, but there was nothing on it but tea. 'I don't 
 The Hatter opened his eyes very wide on hearing this; but all he said was, 'Why is a raven like a writing-desk?'
 'Come, we shall have some fun now!' thought Alice. 'I'm glad they've begun asking riddles.--I believe I can guess that,' she added aloud.
 
-<iframe id="github-iframe" src=""></iframe>
-<script>
-    fetch('https://api.github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien.html').then(function(response) {
-            return response.json();
-        }).then(function(data) {
-            var iframe = document.getElementById('github-iframe');
-            iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
-        });
-</script>
+<script src="http://gist-it.appspot.com/https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien.html"></script>
 
 > Source: https://www.cs.cmu.edu/~rgs/alice-VII.html
 
