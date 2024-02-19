@@ -28,24 +28,11 @@ import:
 There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it: a Dormouse was sitting between them, fast asleep, and the other two were using it as a cushion, resting their elbows on it, and talking over its head. 'Very uncomfortable for the Dormouse,' thought Alice; 'only, as it's asleep, I suppose it doesn't mind.'
 The table was a large one, but the three were all crowded together at one corner of it: 'No room! No room!' they cried out when they saw Alice coming. 'There's plenty of room!' said Alice indignantly, and she sat down in a large arm-chair at one end of the table.
 
-
-<!--
-<iframe src="/media/h5p/ude.h5p" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title="Wissenspyramide Test"></iframe>
--->
-
 Mad Tea Party
 'Have some wine,' the March Hare said in an encouraging tone.
 
-<!--
-<iframe src="https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/media/h5p/ude.h5p" width="1090" height="232" frameborder="0" allowfullscreen="allowfullscreen" title="UDE Test"></iframe>
--->
-
 Alice looked all round the table, but there was nothing on it but tea. 'I don't see any wine,' she remarked.
 'There isn't any,' said the March Hare.
-
-<!--
-![media/h5p/CY_wissenspyramide-aufgabe-45976.h5p](https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/media/h5p/ude.h5p)
--->
 
 'Then it wasn't very civil of you to offer it,' said Alice angrily.
 'It wasn't very civil of you to sit down without being invited,' said the March Hare.
@@ -56,7 +43,7 @@ The Hatter opened his eyes very wide on hearing this; but all he said was, 'Why 
 
 <iframe id="github-iframe" src=""></iframe>
 <script>
-    fetch('https://api.github.com/repos/mbluemm/modul-fdII-thkoeln/main/CY_FAIR-Prinzipien.html')
+    fetch('https://api.github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien.html')
         .then(function(response) {
             return response.json();
         }).then(function(data) {
