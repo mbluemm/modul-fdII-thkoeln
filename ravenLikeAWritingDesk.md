@@ -47,10 +47,11 @@ const iframeElem = document.querySelector("iframe");
 
 iframeElem.credentialless = true;
 iframeElem.title = "Fair Prinzipien";
-iframeElem.src = https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien.html
-  "https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)";
+iframeElem.src = "https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien.html";
 
 </script>
+
+<br>
 
 > Source: https://www.cs.cmu.edu/~rgs/alice-VII.html
 
