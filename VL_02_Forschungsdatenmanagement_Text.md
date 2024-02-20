@@ -108,6 +108,8 @@ Publikationen und Forschungsdaten fördert nicht nur die Verbreitung von Wissen,
 Reproduzierbarkeit von Ergebnissen und die Teilnahme der breiten Öffentlichkeit an
 wissenschaftlichen Diskussionen.
 
+<section>
+
 ## 4 Grundprinzipien
 
  1. Transparenz
@@ -150,11 +152,15 @@ wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschi
 Patrascu und Dmitrieva 2021). Weitere Informationen zum Thema wissenschaftliche Integrität finden
 Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
+</section>
+
 ## Leitfragen
 
 - Was versteht man unter Forschungsdatenmanagement?
 - Inwiefern betrifft das Thema Forschungsdatenmanagement Bereiche ihres Studiums?
 - Welche Argumente sprechen für Forschungsdatenmanagement, welche Vorbehalte gibt es?
+
+<section>
 
 ## Aufgabe
 
@@ -168,7 +174,9 @@ Forschungsgemeinschaft aufmerksam durch. Deutsche Forschungsgemeinschaft. (2019)
 zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo.
 [http://doi.org/10.5281/zenodo.3923602.](http://doi.org/10.5281/zenodo.3923602.).
 
-## Weiterführende Literatur und Links (optional)
+</section>
+
+## Weiterführende Literatur und Quellen
 
 Arbeitsgruppe Forschungsdaten. (2018). Forschungsdatenmanagement. Eine Handreichung.
 _Arbeitsgruppe Forschungsdaten der Schwerpunktinitiative „Digitale Information_ “ der Allianz der
@@ -187,6 +195,8 @@ Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/ze
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.
 Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
+<section>
+
 ## Quellen
 
 Fühles-Ubach, S. & Heidkamp, P. (2022). Data Literacy _–_ Basiskurs Data Lifecycle. KI-Campus
@@ -194,3 +204,5 @@ Original. DaLI – Data Literacy Initiative. [https://ki-campus.org/courses/dali
 
 Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten.
 Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+
+</section>
