@@ -16,7 +16,7 @@ comment:
 tags:     LiaScript, Preview
 
 link:    https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-         https://cdn.jsdelivr.net/gh/liascript/custom-style/custom.css
+
 import:   
       
 -->
