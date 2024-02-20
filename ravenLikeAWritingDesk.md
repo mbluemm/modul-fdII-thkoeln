@@ -52,7 +52,7 @@ const iframeElem = document.querySelector("iframe");
 
 iframeElem.credentialless = true;
 iframeElem.title = "Fair Prinzipien";
-iframeElem.src = "https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_FAIR-Prinzipien.html";
+iframeElem.src = "https://werner-bock.com/wp-content/uploads/2024/02/CY_FAIR-Prinzipien.html";
 
 </script>
 
