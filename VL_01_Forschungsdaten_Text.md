@@ -21,26 +21,6 @@ link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd
        
 -->
 
-<script>
-
-const fetchPromise = fetch("https://bar.other/doc", {
-  method: "POST",
-  mode: "cors",
-  headers: {
-    "Content-Type": "text/xml",
-    "X-PINGOTHER": "pingpong",
-  },
-  body: "<person><name>Arun</name></person>",
-});
-
-fetchPromise.then((response) => {
-  console.log(response.status);
-});
-
-</script>
-
-<meta content="text/html; charset=UTF-8; X-Content-Type-Options=nosniff" http-equiv="Content-Type" />
-
 # Was sind Forschungsdaten?
 <section>
 
@@ -95,7 +75,9 @@ hinausgehen.
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tekst_Digitalisering.png"><img width="512" alt="Tekst Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tekst_Digitalisering.png/512px-Tekst_Digitalisering.png"></a>
+
 <br>
+
 Quelle: Digitalbevaringdk Tekst_Digitalisering
 
 In diesem Kurs wird öfter auf „Daten“ und „Dateien“ eingegangen. Im Nachfolgenden finden Sie zur
@@ -148,36 +130,24 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 <section>
 > Global Terrorism Database (GTD)
 
-Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National
-Consortium for the Study of Terrorism and Responses to Terrorism (START)[^2] kostenlos zur Verfügung
-gestellt[^3]. Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970
-und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen
-Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder
-aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Zie
-und eingesetzte Waffen _–_ systematisch klassifiziert.
-<br>
-Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993[^4] verübt wurden. Nach
-einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
-rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu Verzerrungen bei
-der Analyse und Interpretation der Ergebnisse führt, ist der entsprechende Datensatz nicht mehr in der
-Datenbank gespeichert, sondern wird in einem separaten Datenblatt zur Verfügung gestellt.
-<br>
-Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten
-terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig
-haben kann.
+Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National Consortium for the Study of Terrorism and Responses to Terrorism (START)[^2] kostenlos zur Verfügung gestellt[^3]. Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970 und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Ziele und eingesetzte Waffen _–_ systematisch klassifiziert.
+
 <br>
 
-![Abbildung 1:](gfx/img/GTD_Attentate_Region.svg)<!-- style="max-width: 100%;" -->
+Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993[^4] verübt wurden. Nach einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
+rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu Verzerrungen bei der Analyse und Interpretation der Ergebnisse führt, ist der entsprechende Datensatz nicht mehr in der Datenbank gespeichert, sondern wird in einem separaten Datenblatt zur Verfügung gestellt.
+<br>
+
+Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig haben kann.
+
+<br>
+
+![Abbildung 1:](gfx/img/GTD_Attentate_Region.svg)
 
 Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate.
 Sina Bock[^5]
 
-Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine
-kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von
-Forschungsdaten eignen. Die 2020 GTD Heat Map[^6] zeigt beispielsweise die geographische Verteilung
-von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit
-Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem
-jeweiligen Attentat verletzt oder getötet wurden.
+Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von Forschungsdaten eignen. Die 2020 GTD Heat Map[^6] zeigt beispielsweise die geographische Verteilung von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem jeweiligen Attentat verletzt oder getötet wurden.
 
 <br>
 
