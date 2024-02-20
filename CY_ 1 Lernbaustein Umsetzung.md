@@ -135,9 +135,15 @@ In Ergänzung zu den technischen FAIR-Prinzipien wurden die CARE-Prinzipien als 
 
 # Teste dein Wissen: FAIR-Prinzipien
 
-[H5P](https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/CY_FAIR-Prinzipien.html)
+<script sandbox="allow-forms allow-modals" allow="" referrerpolicy="no-referrer">
 
-<iframe src="https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/CY_FAIR-Prinzipien.html" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title="H5P"></iframe>
+const iframeElem = document.querySelector("iframe");
+
+iframeElem.credentialless = true;
+iframeElem.title = "Fair Prinzipien";
+iframeElem.src = "https://werner-bock.com/wp-content/uploads/2024/02/CY_FAIR-Prinzipien.html";
+
+</script>
 
 # Weiterführende Literatur
 
