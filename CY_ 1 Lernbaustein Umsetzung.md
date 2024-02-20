@@ -135,6 +135,8 @@ In Ergänzung zu den technischen FAIR-Prinzipien wurden die CARE-Prinzipien als 
 
 # Teste dein Wissen: FAIR-Prinzipien
 
+<iframe width="960" height="600"></iframe>
+
 <script sandbox="allow-forms allow-modals" allow="" referrerpolicy="no-referrer">
 
 const iframeElem = document.querySelector("iframe");
