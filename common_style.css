@@ -8,7 +8,7 @@
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
-    color: rgb(102, 9, 169);
+    color: rgba(9, 12, 169, 0.525);
   }
 
   .h2 {
@@ -34,7 +34,7 @@
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
-    color: rgb(199, 21, 133);
+    color: rgba(27, 21, 199, 0.428);
   }
 
   .h4 {
@@ -51,7 +51,7 @@
     display: table;
     border-collapse: separate;
     border-spacing: 2px;
-    border-color: rgb(94, 2, 164);
+    border-color: rgba(2, 21, 164, 0.458);
   }
 
   .tbody {
