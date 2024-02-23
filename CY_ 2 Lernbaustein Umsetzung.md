@@ -108,10 +108,10 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 
 9. Welche Rolle spielen Zugangs- und Nutzungseinschränkungen für Forschungsdaten?
 
-   [ ] Sie sind irrelevant
-   [ ] Sie schützen die Daten vor unbefugtem Zugriff
-   [X] Sie ermöglichen eine kontrollierte Analyse der Daten
-   [ ] Sie sind nur für öffentliche Daten wichtig
+   [( )] Sie sind irrelevant
+   [( )] Sie schützen die Daten vor unbefugtem Zugriff
+   [(X)] Sie ermöglichen eine kontrollierte Analyse der Daten
+   [( )] Sie sind nur für öffentliche Daten wichtig
 
 
  10. Wie trägt ein effektives Forschungsdatenmanagement (FDM) zur Zusammenarbeit in der wissenschaftlichen Forschung bei?
