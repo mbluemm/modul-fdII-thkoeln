@@ -116,10 +116,10 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 
  10. Wie trägt ein effektives Forschungsdatenmanagement (FDM) zur Zusammenarbeit in der wissenschaftlichen Forschung bei?
 
-    [X] Es erleichtert die Integration in breitere Forschungsgemeinschaften
-    [ ] Es verlangsamt die Zusammenarbeit
-    [ ] Es führt zu Konflikten zwischen Forschenden
-    [ ] Es ist irrelevant
+    [(X)] Es erleichtert die Integration in breitere Forschungsgemeinschaften
+    [( )] Es verlangsamt die Zusammenarbeit
+    [( )] Es führt zu Konflikten zwischen Forschenden
+    [( )] Es ist irrelevant
 
 
 # Weiterführende Literatur
