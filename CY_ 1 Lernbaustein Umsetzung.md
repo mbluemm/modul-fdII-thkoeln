@@ -1,4 +1,4 @@
-1. Lernbaustein: Einführung in Forschungsdaten
+1. Lernbaustein: Wie entstehen Forschungsdaten?
 
 # Von der Idee zur Wissenschaft: Die Entstehung von Forschungsdaten
 
