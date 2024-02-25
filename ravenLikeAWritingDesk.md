@@ -1,50 +1,58 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Sina Bock
 
-email:    mirjam.bluemm@th-koeln.de
-
-logo:    
+email:    sina.bock@th-koeln.de
 
 version:  0.0.1
 
 language: de
 
-narrator: Deutsch Female
-
-comment:  
-
 tags:     LiaScript, Preview
 
-link:    https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
+link:     common_style.css
 
-import:   
-      
 -->
 
 # CHAPTER VII
 
-> ## A Mad Tea-Party
+<h2> A Mad Tea-Party </h2>
 
+<p>
 There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it: a Dormouse was sitting between them, fast asleep, and the other two were using it as a cushion, resting their elbows on it, and talking over its head. 'Very uncomfortable for the Dormouse,' thought Alice; 'only, as it's asleep, I suppose it doesn't mind.'
+<br>
 The table was a large one, but the three were all crowded together at one corner of it: 'No room! No room!' they cried out when they saw Alice coming. 'There's plenty of room!' said Alice indignantly, and she sat down in a large arm-chair at one end of the table.
+</p>
 
-Mad Tea Party
-'Have some wine,' the March Hare said in an encouraging tone.
+> Mad Tea Party
 
-Alice looked all round the table, but there was nothing on it but tea. 'I don't see any wine,' she remarked.
-'There isn't any,' said the March Hare.
+<p>'Have some wine,' the March Hare said in an encouraging tone.
+Alice looked all round the table, but there was nothing on it but tea. 'I don't see any wine,' she remarked. <br>
+'There isn't any,' said the March Hare. </p>
+
+<p>'Is that the way you manage?' Alice asked.
+The Hatter shook his head mournfully. 'Not I!' he replied. 'We quarrelled last March -- just before he went mad, you know --' (pointing with his tea > spoon at the March Hare,) ' -- it was at the great concert given by the Queen of Hearts, and I had to sing </p>
+
+<p>"Twinkle, twinkle, little bat!
+How I wonder what you're at!"</p>
+
+<p>You know the song, perhaps?'
+'I've heard something like it,' said Alice.
+'It goes on, you know,' the Hatter continued, 'in this way:--
+
+- "Up above the world you fly,
+- Like a tea-tray in the sky.
+- Twinkle, twinkle--"'
+
+</p>
+
+Source: https://www.cs.cmu.edu/~rgs/alice-VII.html
+</div>
+
 <br>
 
 <iframe width="960" height="600"></iframe>
 
 <br>
-
-'Then it wasn't very civil of you to offer it,' said Alice angrily.
-'It wasn't very civil of you to sit down without being invited,' said the March Hare.
-'I didn't know it was your table,' said Alice; 'it's laid for a great many more than three. Your hair wants cutting,' said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.
-'You should learn not to make personal remarks,' Alice said with some severity; 'it's very rude.'
-The Hatter opened his eyes very wide on hearing this; but all he said was, 'Why is a raven like a writing-desk?'
-'Come, we shall have some fun now!' thought Alice. 'I'm glad they've begun asking riddles.--I believe I can guess that,' she added aloud.
 
 <script sandbox="allow-forms allow-modals" allow="" referrerpolicy="no-referrer">
 
