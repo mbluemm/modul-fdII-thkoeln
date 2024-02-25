@@ -12,11 +12,6 @@ tags:     LiaScript, Preview
 link:     common_style.css
 
 -->
-#indent {
-    text-indent: 4em;
-    margin: 1em 0 0 0;
-    font-weight: bold;
-  }
 
 # CHAPTER VII
 
