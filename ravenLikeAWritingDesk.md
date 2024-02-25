@@ -9,7 +9,7 @@ language: de
 
 tags:     LiaScript, Preview
 
-link:     common_style.css
+link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd7aaacbacb9896120d3a1a/common_style.css
 
 -->
 
@@ -47,6 +47,7 @@ How I wonder what you're at!"</p>
 - "Up above the world you fly,
 - Like a tea-tray in the sky.
 - Twinkle, twinkle--"'
+
 </p>
 
 Source: https://www.cs.cmu.edu/~rgs/alice-VII.html

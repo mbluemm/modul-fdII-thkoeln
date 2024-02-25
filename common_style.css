@@ -46,19 +46,19 @@
   }
 
   .p.indent {
-    text-indent: 4em;
-  }
-
-  #indent {
-    text-indent: 6em;
+    margin-left: 4em
   }
 
   p {
-    text-indent: 2em;
+    margin-left: 2em
   }
 
-  .p {
-    text-indent: 2em;
+  #indent {
+    margin-left: 6em
+  }
+
+  p + p {
+    font-style: italic;
   }
 
 /* Tables */
