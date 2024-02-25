@@ -12,6 +12,11 @@ tags:     LiaScript, Preview
 link:     common_style.css
 
 -->
+#indent {
+    text-indent: 4em;
+    margin: 1em 0 0 0;
+    font-weight: bold;
+  }
 
 # CHAPTER VII
 
@@ -32,26 +37,24 @@ The table was a large one, but the three were all crowded together at one corner
 
 <p>'Have some wine,' the March Hare said in an encouraging tone.
 Alice looked all round the table, but there was nothing on it but tea. 'I don't see any wine,' she remarked. <br>
-'There isn't any,' said the March Hare. </p>
+'There isn't any,' said the March Hare.</p>
 
 <p>'Is that the way you manage?' Alice asked.
 The Hatter shook his head mournfully. 'Not I!' he replied. 'We quarrelled last March -- just before he went mad, you know --' (pointing with his tea > spoon at the March Hare,) ' -- it was at the great concert given by the Queen of Hearts, and I had to sing </p>
 
-<p>"Twinkle, twinkle, little bat!
+<p id="indent">"Twinkle, twinkle, little bat!
 How I wonder what you're at!"</p>
 
-<p>You know the song, perhaps?'
+<p id="indent">You know the song, perhaps?'
 'I've heard something like it,' said Alice.
 'It goes on, you know,' the Hatter continued, 'in this way:--
 
 - "Up above the world you fly,
 - Like a tea-tray in the sky.
 - Twinkle, twinkle--"'
-
 </p>
 
 Source: https://www.cs.cmu.edu/~rgs/alice-VII.html
-
 
 <br>
 

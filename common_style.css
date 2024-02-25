@@ -45,14 +45,20 @@
     font-weight: bold;
   }
 
+  .p.indent {
+    text-indent: 4em;
+  }
+
+  #indent {
+    text-indent: 6em;
+  }
+
   p {
     text-indent: 2em;
-    margin: 1em 0 0 0;
-    font-weight: bold;
   }
-  p + p {
-    text-indent: 4em;
-    margin: 0;
+
+  .p {
+    text-indent: 2em;
   }
 
 /* Tables */
