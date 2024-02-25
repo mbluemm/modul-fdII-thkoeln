@@ -25,6 +25,9 @@ There was a table set out under a tree in front of the house, and the March Hare
 The table was a large one, but the three were all crowded together at one corner of it: 'No room! No room!' they cried out when they saw Alice coming. 'There's plenty of room!' said Alice indignantly, and she sat down in a large arm-chair at one end of the table.
 </p>
 
+<!-- style="background-color: tomato;"-->
+> **Warning**
+>
 > Mad Tea Party
 
 <p>'Have some wine,' the March Hare said in an encouraging tone.
@@ -52,6 +55,7 @@ Source: https://www.cs.cmu.edu/~rgs/alice-VII.html
 
 <br>
 
+<!--
 <iframe width="960" height="600"></iframe>
 
 <br>
@@ -65,6 +69,7 @@ iframeElem.title = "Fair Prinzipien";
 iframeElem.src = "https://werner-bock.com/wp-content/uploads/2024/02/CY_FAIR-Prinzipien.html";
 
 </script>
+-->
 
 <br>
 
