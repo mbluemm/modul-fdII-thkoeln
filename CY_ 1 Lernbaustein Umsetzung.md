@@ -22,7 +22,7 @@ Forschungsdaten spielen eine essenzielle Rolle bei der Erstellung von Erkenntnis
 
 Aufgrund der weit verbreiteten Verwendung digitaler Forschungsdaten im Forschungsdatenmanagement ist die Definition von Maxi Kindling und Peter Schirmbacher aus dem Jahr 2013 von Bedeutung: "Unter digitalen Forschungsdaten verstehen wir [...] alle digital vorliegenden Daten, die während des Forschungsprozesses entstehen oder ihr Ergebnis sind."
 
-*Quelle: Kindling, Maxi und Schirmbacher, Peter: „Die digitale Forschungswelt“ als Gegenstand der Forschung. Information – Wissenschaft – Praxis 64 (2013): S. 130.)*
+*Quelle: Kindling, Maxi und Schirmbacher, Peter: „Die digitale Forschungswelt“ als Gegenstand der Forschung. Information – Wissenschaft – Praxis 64 (2013): S. 130.*
 
 Forschungsdaten, sei es digital oder anderweitig, entstehen während wissenschaftlicher Tätigkeit, wie Messungen, Befragungen oder Quellenarbeit. Sie dienen als Grundlage für wissenschaftliche Arbeit und dokumentieren deren Ergebnisse. Die Arbeit mit digitalen Forschungsdaten ist mittlerweile ein fester Bestandteil des Forschungsprozesses geworden und ermöglicht eine effiziente Datenerfassung, -verwaltung und -analyse.
 
@@ -64,7 +64,7 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
  -	austauschbar (Interoperable),
  -	und nachnutzbar (Reusable) sind.
 
- *Quelle: Forschungsdaten.info, 2023)*
+ *Quelle: https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/*
 
 
 • **Findable** (Auffindbar)
