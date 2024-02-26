@@ -43,14 +43,15 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 
 # Teste dein Wissen: Forschungsdatenmanagement
 
-1. Welche Rolle spielt Forschungsdatenmanagement (FDM) im Forschungsprozess?
+1) Welche Rolle spielt Forschungsdatenmanagement (FDM) im Forschungsprozess?
 
 [( )] Es ist irrelevant
 [( )] Es schafft Unordnung in den Daten
 [(X)] Es legt die Grundlage für eine nachhaltige, transparente und effiziente Forschungspraxis
 [( )] Es beeinflusst nicht die Forschungsergebnisse
 
-2. Was ist das Ziel des Forschungsdatenmanagements (FDM)?
+
+2) Was ist das Ziel des Forschungsdatenmanagements (FDM)?
 
 [( )] Daten zu löschen
 [( )] Daten zu verstecken
@@ -58,7 +59,7 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 [( )] Die Daten für immer zu sperren
 
 
-3. Warum ist die Dokumentation von Forschungsdaten wichtig?
+3) Warum ist die Dokumentation von Forschungsdaten wichtig?
 
 [( )] Nur für akademische Zitationen
 [(X)] Um wichtige Entscheidungen im Projekt festzuhalten
@@ -66,7 +67,7 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 [( )] Um die Forschungsdaten zu verstecken
 
 
-4. Welche Rolle spielen Metadaten bei der Dokumentation von Forschungsdaten?
+4) Welche Rolle spielen Metadaten bei der Dokumentation von Forschungsdaten?
 
 [( )] Sie sind irrelevant
 [(X)] Sie helfen bei der Beschreibung und Organisation der Daten
@@ -74,7 +75,7 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 [( )] Sie sind nur für qualitative Daten wichtig
 
 
-5. Warum ist es wichtig, ethische und rechtliche Aspekte im Umgang mit Forschungsdaten zu beachten?
+5) Warum ist es wichtig, ethische und rechtliche Aspekte im Umgang mit Forschungsdaten zu beachten?
 
 [( )] Nur aus formellen Gründen
 [(X)] Um sicherzustellen, dass die Datenschutzbestimmungen eingehalten werden
@@ -82,7 +83,7 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 [( )] Um die Daten ungeschützt zu lassen
 
 
-6. Was ist ein Datenmanagementplan (DMP)?
+6) Was ist ein Datenmanagementplan (DMP)?
 
 [( )] Ein Plan, um Daten zu löschen
 [( )] Ein Plan, um Daten zu verstecken
@@ -90,7 +91,7 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 [(X)] Ein Plan, um Daten zu organisieren und zu sichern
 
 
-7. Welchen Zweck hat eine ausführliche Projektdokumentation im Studienkontext?
+7) Welchen Zweck hat eine ausführliche Projektdokumentation im Studienkontext?
 
 [( )] Nur für akademische Zitationen
 [(X)] Um wichtige Entscheidungen im Projekt festzuhalten
@@ -98,7 +99,7 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 [( )] Um die Forschungsdaten zu verstecken
 
 
-8. Wie können Forschungsdaten langfristig zugänglich gemacht und bewahrt werden?
+8) Wie können Forschungsdaten langfristig zugänglich gemacht und bewahrt werden?
 
 [( )] Durch Löschen der Daten
 [( )] Durch Sperren der Daten
@@ -106,7 +107,7 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 [( )] Durch kurzfristige Aufbewahrung der Daten
 
 
-9. Welche Rolle spielen Zugangs- und Nutzungseinschränkungen für Forschungsdaten?
+9) Welche Rolle spielen Zugangs- und Nutzungseinschränkungen für Forschungsdaten?
 
 [( )] Sie sind irrelevant
 [( )] Sie schützen die Daten vor unbefugtem Zugriff
@@ -114,7 +115,7 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 [( )] Sie sind nur für öffentliche Daten wichtig
 
 
- 10. Wie trägt ein effektives Forschungsdatenmanagement (FDM) zur Zusammenarbeit in der wissenschaftlichen Forschung bei?
+10) Wie trägt ein effektives Forschungsdatenmanagement (FDM) zur Zusammenarbeit in der wissenschaftlichen Forschung bei?
 
 [(X)] Es erleichtert die Integration in breitere Forschungsgemeinschaften
 [( )] Es verlangsamt die Zusammenarbeit
