@@ -32,7 +32,7 @@ Primärdaten: sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch
 Sekundärdaten: sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen. Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
 
 
-**Forschungsdatenlebenszyklus**
+# Forschungsdatenlebenszyklus
 
 Eine professionelle Handhabung von Forschungsdaten ist unerlässlich für wissenschaftliche Tätigkeiten und sichert die Einhaltung hoher Standards. Ein strukturierter Datenlebenszyklus und die Erstellung eines Datenmanagementplans spielen dabei eine zentrale Rolle.
 
