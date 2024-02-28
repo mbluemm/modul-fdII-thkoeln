@@ -42,23 +42,18 @@ werden.“ (Engelhardt, Kusch 2021, S. 451).
 ## Warum ist eine kollaborative Arbeit von Vorteil?
 
 - Hohe Bedeutung von Teamarbeit bei der Datenverarbeitung und -analyse
-- Eine Zusammenarbeit bietet folgende Vorteile:
-    o Interdisziplinarität und breiteres, gesteigertes Fachwissen von unterschiedlichen
-       Beteiligten,
-    o Effizienzsteigerung
-       ▪ Bessere Verteilung von Arbeitsaufträgen
-    o Nutzung von Synergien
-       ▪ Einbringung persönlicher Stärken und Fähigkeiten
-       ▪ Die Kombination von technischem Know-how, kreativen Ansätzen und
-          fachlichem Verständnis führt oft zu innovativen Lösungen, die allein schwer
-          zu erreichen wären.
-    o Kreativere Lösungsfindung, Innovation, bessere Entscheidungsfindung
-       ▪ Ideenaustausch, diskursive Prozesse
-    o Fehlererkennung und -korrektur
-       ▪ In der Gruppe können potenzielle Fehler oder Unstimmigkeiten effektiver
-          erkannt und korrigiert werden. Das gegenseitige Überprüfen sowie das
-          gemeinsame Diskutieren trägt dazu bei, Genauigkeit und Verlässlichkeit der
-          Datenarbeit zu erhöhen.
+
+Eine Zusammenarbeit bietet folgende Vorteile:
+- Interdisziplinarität und breiteres, gesteigertes Fachwissen von unterschiedlichen Beteiligten
+- Effizienzsteigerung, unter Anderem durch Verteilung von Arbeitsaufträgen
+- Nutzung von Synergien
+   - Einbringung persönlicher Stärken und Fähigkeiten
+   - Die Kombination von technischem Know-how, kreativen Ansätzen und fachlichem Verständnis führt oft zu innovativen Lösungen,  
+      die allein schwer zu erreichen wären.
+- Kreativere Lösungsfindung, bessere Entscheidungsfindung, durch Ideenaustausch und diskursive Prozesse
+- Bessere Fehlererkennung und -korrektur
+ 
+Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, Genauigkeit und Verlässlichkeit der Datenarbeit zu erhöhen.
 
 ## Welche Herausforderungen müssen beim kollaborativen Arbeiten gemeistert werden?
 
