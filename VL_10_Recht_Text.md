@@ -25,6 +25,7 @@ import:
 -->
 
 # Rechtliche Aspekte
+
 ```
 Hinweis
 Die angegebene Information dient lediglich als Orientierung für Studierende und Forschende. Sie
@@ -48,7 +49,7 @@ Dritten beachten. Jede:r Student:in der TH Köln ist in der wissenschaftlichen A
 Einhaltung verpflichtet und trägt die Verantwortung dafür, dass sein/ihr Verhalten diesen Standards
 entspricht. Verstöße gegen Richtlinien können Konsequenzen haben.
 Weitere Informationen zum Thema wissenschaftliche Integrität finden Sie auf dem entsprechenden
-Portal der Deutschen Forschungsgemeinschaft.
+Portal der Deutschen Forschungsgemeinschaft. [https://wissenschaftliche-integritaet.de](https://wissenschaftliche-integritaet.de)
 
 ![](https://)
 Quelle: Digitalbevaringdk OmSitet_DigitalBevaring
