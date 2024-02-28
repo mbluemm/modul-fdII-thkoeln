@@ -32,7 +32,6 @@ import:
 
 - Die S. wissen nicht, wie man effektiv und sicher beim kollaborativen Arbeiten mit Daten zusammenarbeitet, einschließlich Tools, Best Practices und Datenschutzaspekten.
 
-- Die S. kennen keine (wenige) Tools und Plattformen, die sie für kollaboratives Arbeiten mit Daten verwenden können.
 
 ## Lernziele für den Online-Kurs
 
@@ -53,7 +52,7 @@ import:
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung zum Thema „Kollaboratives Arbeiten“.  Hervorhebung wichtiger Aspekte zum Thema, inkl. Relevanz im Datenlebenszyklus / FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Infotext, Grafik des DLZ  ODER  Rechercheaufgabe zu Tools (Hinweis: nur in Verbindung mit der Arbeitsphase vor Ort) | EA |
+| Ca. 40 min. | Einführung zum Thema „Kollaboratives Arbeiten“.  Hervorhebung wichtiger Aspekte zum Thema, inkl. Relevanz im Datenlebenszyklus / FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Infotext, Grafik des DLZ und  Rechercheaufgabe zu Tools | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -65,13 +64,13 @@ import:
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca.  15 min. | Diskussion im PL  Erfahrungsaustausch | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Hier außerdem explizit eine Verbindung zum Studium herstellen.  L. soll folgende Fragen in die Diskussion mit einbinden:  Wie empfinden S. „kollaboratives Arbeiten“ im Studium?  Was sind die Vor- und Nachteile?  Was würden sie gerne verbessern? | PL |
+| Ca.  15 min. | Diskussion im PL Erfahrungsaustausch | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Hier soll eine Verbindung zum Studium hergestellt werden.  Folgende Fragen sollen in die Diskussion einfließen:  Wie empfinden S. „kollaboratives Arbeiten“ im Studium?  Was sind die Vor- und Nachteile?  Was würden sie gerne verbessern? | PL |
 
 #### Arbeitsphase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 50 min. | Vorstellung der Tools  Abschließend 5-10 Min. Reflexionsphase im Plenum | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten (6). | Vorstellung der Tools (aufbauend auf die Aufgabe von der Online-Phase) im Plenum oder als Gallery Walk bzw. alternativ Marktplatz-Methode | GA / PL |
+| Ca. 50 min. | Vorstellung der Tools durch S. <br> Abschließend 5-10 Min. Reflexionsphase im Plenum | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten (6). | Vorstellung der Tools (aufbauend auf die Aufgabe von der Online-Phase) im Plenum oder als Gallery Walk bzw. alternativ Marktplatz-Methode | GA / PL |
 
 #### Abschluss
 
@@ -94,6 +93,7 @@ Begrüßung
 ### Arbeitsphase
 
 (ca. 50 Min.) Vorträge von Tools
+
 ===
 
 Aufbauend auf die Aufgabe aus der Online-Phase, stellen die S. hier individuell ihre jeweils recherchierten Tools vor.
@@ -124,9 +124,7 @@ Abschlussreflexion
 
 Tools und Plattformen für eine kollaborative Arbeit mit Daten
 
-Die S. recherchieren zu einem ausgewählten Tool oder Plattform (in vorheriger Stunde haben sich die S. über Miro eingetragen)
-
-Aspekte, auf die die S. achten und für ihr jeweiliges Tool beantworten müssen:
+Die S. wählen jeweils ein Tool oder Plattform, tragen ihre Wahl in einer Liste ein und recherchieren die folgenden Aspekte:
 
 - Vor- / Nachteile des Tools/der Plattform
 - Ort des Servers / der Firma
