@@ -32,23 +32,14 @@ Prinzipien mit sich bringen können.
 
 ## FAIR-Prinzipien
 
-Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessible (Zugänglich),
-Interoperable (Interoperabel) und Reusable (Wiederverwendbar).
-Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare
-Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten, damit diese
+Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessible (Zugänglich), Interoperable (Interoperabel) und Reusable (Nachnutzbar).
+Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten, damit diese
 
-- (auf)findbar (Findable),
-- zugänglich (Accessible),
-- austauschbar (Interoperable),
-- und nachnutzbar (Reusable)
+<!-- Grafik von Kerstin, FAIR ggff. Übersetzung von "reusable" im Text anpassen-->
 
 sind.
 
-An der TH Köln sollen Studierende, die wissenschaftlich arbeiten, (Forschende) mit ihren Daten FAIR
-umgehen, d.h. die Forschungsdaten sollen FAIR (s. o.) sein. Die FAIR-Prinzipien haben zum Ziel,
-Forschungsdaten für Menschen und Maschinen (z. B. Computern) optimal aufzubereiten und
-zugänglich zu machen. Damit soll die Auffindbarkeit von Datensätzen und deren
-Wiederverwendbarkeit gewährleistet sein (Sauther-Patrascu und Dmitrieva, 2021).
+An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet sein (Sauther-Patrascu und Dmitrieva, 2021).
 
 ```
 Quelle: Forschungsdaten.info, 2023
@@ -164,6 +155,9 @@ Aufgabe:
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
+## Lektüre
+
+<!-- Ergänzende Materialien in LZ - Vereinheitlichung von Blöcken -->
 
 ## Weiterführende Literatur und Links (optional):
 
