@@ -53,8 +53,8 @@ import:
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einführung zum Thema rechtliche Aspekte und Rechtsgrundlagen im FDM. <br>Erläuterungen zum Thema Datenschutz und personenbezogene Daten. <br>Definition von Aspekten, die im FDM beachtet werden müssen und rechtlich bindend sind (insbesondere bei der Datenerhebung). | Die S. können die wichtigsten Aspekte des Datenschutzes (inkl. der Rechtsgrundlagen zum Schutz personenbezogener Daten) im FDM beschreiben (2). | Die S. müssen das LZ im Lernportfolio beantworten (für eine ggf. Diskussion im Plenum). | EA |
-| Ca. 15 min. | Einführung zum Thema Urheberrecht von Forschungsdaten. <br>Erläuterung worauf, insbesondere bei der Nachnutzung von Daten, im Forschungsprozess geachtet werden muss. <br>Hervorhebung von relevanten Rechtsaspekten unterschiedlicher Lizenzen. | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern (2). | Die S. müssen die Leitfragen im Lernportfolio beantworten (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 15 min. | Einführung zum Thema rechtliche Aspekte und Rechtsgrundlagen im FDM. <br> Erläuterungen zum Thema Datenschutz und personenbezogene Daten. <br> Definition von Aspekten, die im FDM beachtet werden müssen und rechtlich bindend sind (insbesondere bei der Datenerhebung). | Die S. können die wichtigsten Aspekte des Datenschutzes (inkl. der Rechtsgrundlagen zum Schutz personenbezogener Daten) im FDM beschreiben (2). | Die S. müssen das LZ im Lernportfolio beantworten (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 15 min. | Einführung zum Thema Urheberrecht von Forschungsdaten. <br> Erläuterung worauf, insbesondere bei der Nachnutzung von Daten, im Forschungsprozess geachtet werden muss. <br>Hervorhebung von relevanten Rechtsaspekten unterschiedlicher Lizenzen. | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern (2). | Die S. müssen die Leitfragen im Lernportfolio beantworten (für eine ggf. Diskussion im Plenum). | EA |
 
 ---
 [^2]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit
@@ -66,20 +66,20 @@ import:
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | ScaryTale & Diskussion <br>Zum Einstieg wird eine ScaryTale im Plenum „gespielt“. <br>UND <br>Besprechung der zuvor beantworteten Leitfrage sowie des LZ. | Die S. können kritisch beurteilen(6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | L. führt die ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden. <br>Daraufhin erfolgt zur Beantwortung des LZ und der Leitfrage, die zuhause im Lernportfolio beantwortet wurden, eine Diskussion. | PL |
+| Ca. 15 min. | ScaryTale & Diskussion <br> Zum Einstieg wird eine ScaryTale im Plenum „gespielt“. <br> UND <br>Besprechung der zuvor beantworteten Leitfrage sowie des LZ. | Die S. können kritisch beurteilen(6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | L. führt die ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden. <br>Daraufhin erfolgt zur Beantwortung des LZ und der Leitfrage, die zuhause im Lernportfolio beantwortet wurden, eine Diskussion. | PL |
 
 #### Arbeitsphase
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Detaillierte Definition von (inkl. besonders sensiblen) personenbezogenen Daten. <br>Hervorhebung, was bei personenbezogenen Daten im gesamten Forschungsprozess beachtet werden muss. <br>Auflistung von unterschiedlichen Forschungsdaten mit (besonders sensiblen) Personenbezug. | Die S. können herausstellen(4), was personenbezogene und sensible Daten sind, und entsprechende Beispiele einordnen (4). | Die S. können folgende Fragen beantworten (ggf. als eine Art Quiz/Mindmap): <br>Was sind personenbezogene Daten? <br>Welche Aspekte müssen bei der Datenerhebung und –verarbeitung von personenbezogenen Daten beachtet werden? <br>Was sind Beispiele für Forschungsdaten mit (besonders sensiblen) Personenbezug? <br>Daraufhin werden diese Aspekte im PL besprochen. | EA / PL |
-| Ca. 50 min. | Gruppenarbeit <br>Die S. müssen anhand von Beispielen relevante rechtliche Aspekte hervorheben. <br>In ihren Gruppen, und anschließend im PL, müssen sie Leitfragen beantworten (unten in der Liste notiert). | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen(4). | L. teilt die S. in Gruppen ein. Die Beispiele werden von L. vorgegeben. <br>Die Gruppen müssen dann jeweils zusammenarbeiten, um die Aufgabe zu erledigen. <br>Danach leitet die L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. <br>Die S. sollten folgendes beantworten: <br>Welche Art von Daten sind in diesem Beispiel zu sehen? <br>Wer ist Urheber:in des Datensatzes? <br>Unter welcher Lizenz sind diese Daten veröffentlicht? <br>Dürfen die Daten nachgenutzt werden? <br>Wurden personenbezogene Daten anonymisiert/ pseudonymisiert? | GA / PL |
+| Ca. 15 min. | Einzelarbeit <br> Detaillierte Definition von (inkl. besonders sensiblen) personenbezogenen Daten. <br> Hervorhebung, was bei personenbezogenen Daten im gesamten Forschungsprozess beachtet werden muss. <br> Auflistung von unterschiedlichen Forschungsdaten mit (besonders sensiblen) Personenbezug. Anschließend werden gesammelte Aspekte im PL besprochen. | Die S. können herausstellen(4), was personenbezogene und sensible Daten sind, und entsprechende Beispiele einordnen(4). | Die S. können folgende Fragen beantworten (ggf. als eine Art Quiz/Mindmap): <br> Was sind personenbezogene Daten? <br> Welche Aspekte müssen bei der Datenerhebung und –verarbeitung von personenbezogenen Daten beachtet werden? <br> Was sind Beispiele für Forschungsdaten mit (besonders sensiblen) Personenbezug? | EA / PL |
+| Ca. 45 min. | Gruppenarbeit <br> Die S. müssen anhand von Beispielen relevante rechtliche Aspekte hervorheben. <br> In ihren Gruppen, und anschließend im PL, müssen sie Leitfragen beantworten (unten in der Liste notiert). | Die S. sind in der Lage, die wichtigsten rechtlichen Aspekte im Umgang mit Daten für ein Beispiel einzuordnen(4). | L. teilt die S. in Gruppen ein. Die Beispiele werden von L. vorgegeben. <br> Die Gruppen müssen dann jeweils zusammenarbeiten, um die Aufgabe zu erledigen. <br> Danach leitet die L. eine offene Diskussion ein und bittet die Gruppen, ihre Arbeit vorzustellen. <br> Die S. sollten folgendes beantworten: <br> Welche Art von Daten sind in diesem Beispiel zu sehen? <br> Wer ist Urheber: in des Datensatzes? <br> Unter welcher Lizenz sind diese Daten veröffentlicht? <br> Dürfen die Daten nachgenutzt werden? <br> Wurden personenbezogene Daten anonymisiert/ pseudonymisiert? | GA / PL |
 
 #### Abschluss
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 5 min. | Offene Fragen / Unklarheiten klärenAusblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. <br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 10 min. | Offene Fragen / Unklarheiten klären Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde. <br> L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 
 ##  Präsenzphase 
@@ -96,12 +96,14 @@ Begrüßung
 L. bereitet die Aufgabe vor (bspw. Quiz oder Mindmap) und erläutert den 
 
 Arbeitsauftrag:
+
 ===
 
 Die S. bearbeiten die Aufgabe individuell.
 Anschließend bringt L. die S. zusammen und es gibt eine abschließende Besprechung zu der Aufgabe.
 
 (ca. 50 Min.) Gruppenarbeit
+
 ===
 
 L. teilt die S. in Gruppen ein und stellt die Beispiele vor.
