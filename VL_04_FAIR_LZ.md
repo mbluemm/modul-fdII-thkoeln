@@ -28,7 +28,7 @@ import:
 **Ausgangslage**
 
 - Das Bewusstsein für FAIR-Prinzipien ist bei den S. nicht vorhanden.
-- FAIR-Prinzipien sind im BA-Level theoretisch anwendbar (ggf. F und R), aber werden nicht geprüft.
+- FAIR-Prinzipien sind im BA-Level anwendbar – insbesondere Findable (Auffindbar) und Reusable (Nachnutzbar) –, aber werden nicht geprüft.
 
 ## Lernziele für den Online-Kurs
 
@@ -41,12 +41,13 @@ import:
 | 4 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen(5). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeiten (mit Daten) beachten zu können. |
 
 ## Detaillierte Kursplanung[^1]
+<!-- Layout von Tabellenzelle "Inhalt"-->
 
 **Online-Kurs**
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema:  Infotext zu FAIR-Prinzipien inkl. Grafiken.  Aufschlüsselung des Akronyms  Bezug zu Leitlinie in der Hochschule  Relevanz von FDM  Video von GOfair  Best-Practice-Beispiel: “Fairytale”  Quiz | Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Text und Erklärvideo als Informationsquelle  Best-Practice-Beispiel Fairytale, um auf den Mehrwert von fairen Daten aufmerksam zu machen.  Optionales Quiz | EA |
+| Ca. 20 min. | Einführung in das Thema:  Infotext zu FAIR-Prinzipien inkl. Grafiken.  Aufschlüsselung des Akronyms,  Bezug zu Leitlinie in der Hochschule, Relevanz von FDM  <br> <br> Optionale Angebote: <br> Video von GOfair, <br> Best-Practice-Beispiel “Fairytale”, <br> Quiz | Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Text <br> Optionale Informationsquellen: Erklärvideo, Best-Practice-Beispiel oder Quiz | EA |
 | Ca. 10 Min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
 
 ---
@@ -67,13 +68,13 @@ import:
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 20 Min. | Gruppeneinteilung  Gruppen-Aufgabe zu „Fairness von Daten“. | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von Fragen in Gruppenarbeit (insgesamt 3 Gruppen).  alternativ:  Die S. suchen sich eigene Datensätze aus.  alternativ:  Kopfstandmethode - Wie mache ich meine Daten möglichst unfair?  Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) fair (für sich und für Dritte) zusammenzustellen(5).  Die S. sind in der Lage, die Fairness von Daten zu beurteilen(6).  - Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Erarbeitung von Fallbeispielen in Gruppenarbeit  Vorbereitung von Impulsvorträgen | GA |
-| Ca. 45 Min. | Präsentation der einzelnen Gruppen (jeweils ca. 5 Min. pro Gruppe) mit jeweils anschließender Diskussion im Plenum (jeweils ca. 10 Min.) | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
+| Ca. 40 Min. | Präsentation der einzelnen Gruppen (jeweils ca. 5 Min. pro Gruppe) mit jeweils anschließender Diskussion im Plenum (jeweils ca. 10 Min.) | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
 
 #### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 5. Min. | Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde  L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 10. Min. | Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde  L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ## Präsenzphase /Erläuterungen
 
@@ -88,7 +89,7 @@ Aufgabe:
 
 Benennen Sie die Vor- und Nachteile von FAIR-Prinzipien
 
-\*Alternativ: Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.
+\* Alternativ: Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.
 
 (ca. 10 Min.) Methode: Diskussion im Plenum über festgehaltene Beiträge
 
@@ -113,12 +114,13 @@ Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
 
 L. teilt die S. in Gruppen von 3 bis 5 S. ein und erläutert den Arbeitsauftrag:
 
+<!-- aus der Beispielsammlung @KaFrit, Zeitangabe überprüfen -->
 Jede Gruppe bekommt ein Fallbeispiel. Die einzelnen Fallbeispiele sollen die jeweiligen Gruppen besprechen (20 Min.) und anhand folgender Fragen so ausarbeiten, dass sie sie dem Plenum im Anschluss in 5 Min. vorstellen können:
 
 - Bei welchen Aspekten wurden die FAIR-Prinzipien berücksichtigt?
 - Wie können die unFAIRen Aspekte verbessert werden?
 
-Besprechung von Fallbeispielen mit anschließender Diskussion (pro Gruppe ca. 5 Min. Vorstellung + ca. 10 Min. Diskussion)
+Besprechung von Fallbeispielen mit anschließender Diskussion (pro Gruppe ca. 10 Min. Vorstellung + ca. 10 Min. Diskussion)
 
 ### Abschluss
 

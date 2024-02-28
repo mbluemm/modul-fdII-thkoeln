@@ -146,9 +146,8 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 ## Leitfragen (Aufgabe)
 
 Leitfragen:
-Was sind Vor- und Nachteile von FAIRen Daten?
-
-1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium relevant?
+<!-- zu 2) "in Ihrem Studium angewendet/umgesetzt wurden" als Unterschied zu Frage 1 @mbluemm -->
+1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium relevant sind.
 
 Aufgabe:
