@@ -93,8 +93,10 @@ Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, 
 
 ## Aufgabe
 
-Wählen Sie ein beliebiges Tool/ eine beliebige Plattform für eine kollaborative Arbeit mit Daten und
-bereiten Sie eine Kurzpräsentation vor (5 Min.). Recherchieren Sie für die Kurzpräsentation folgende
+Wählen Sie jeweils ein beliebiges Tool/ eine beliebige Plattform für eine kollaborative Arbeit mit Daten, tragen Sie sich in die Auswahlliste ein und
+bereiten Sie eine Kurzpräsentation vor (5 Min.). 
+
+Recherchieren Sie für die Kurzpräsentation folgende
 Aspekte:
 
 - Vor- / Nachteile des Tools/der Plattform
