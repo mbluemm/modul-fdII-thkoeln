@@ -66,7 +66,7 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
  -	austauschbar (Interoperable),
  -	und nachnutzbar (Reusable) sind.
 
- *Quelle: https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/*
+ *Quelle: https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten*
 
 
 • **Findable** (Auffindbar)
