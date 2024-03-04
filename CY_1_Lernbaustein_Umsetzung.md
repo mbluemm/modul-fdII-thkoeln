@@ -31,6 +31,8 @@ Primärdaten: sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch
 
 Sekundärdaten: sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen. Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
 
+*Quelle: Sauther-Patrascu und Dmitrieva (2021): S. 7-8*
+
 
 # Forschungsdatenlebenszyklus
 
@@ -105,7 +107,7 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
   - Anpassung an Community-Standards: Die Metadaten sollten den Standards und Praktiken der jeweiligen
     Forschungsgemeinschaft entsprechen, um eine reibungslose Zusammenarbeit und Nutzung zu ermöglichen.
 
-*Quelle: Digitalbevaringdk Forside_DigitalBevaring*
+*Quelle: Digitalbevaringdk Forside_DigitalBevaring* **NACHFRAGEN** *(Sina & Kathi)*
 
 
 
@@ -131,6 +133,8 @@ In Ergänzung zu den technischen FAIR-Prinzipien wurden die CARE-Prinzipien als 
 • **Ethics** (Ethik)
 
 - Die Rechte und das Wohlergehen indigener Völker sollten in allen Phasen des Forschungsdatenzyklus und im gesamten Datenökosystem prioritär behandelt werden.
+
+*Quelle: Carroll, S. R., Hudson, M., Chapman, J. et al. (2019)*
 
 
 # Teste dein Wissen: FAIR-Prinzipien
