@@ -61,8 +61,8 @@ import:
 
 - [ravenLikeAWritingDesk](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/ravenLikeAWritingDesk.md)
 - [CY_fdmAtstudiumNRW](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_fdmAtstudiumNRW.md)
-- [CY_1. Lernbaustein](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_%201%20Lernbaustein%20Umsetzung.md)
-- [CY_2. Lernbaustein](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_%202%20Lernbaustein%20Umsetzung.md)
+- [CY_1. Lernbaustein](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_1_Lernbaustein_Umsetzung.md)
+- [CY_2. Lernbaustein](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/CY_2_Lernbaustein_Umsetzung.md)
 - [Lia_A_ForDat_Test.md](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/Lia_A_ForDat_Test.md)
 - [Lia_BinaryConverterJS.md](http://liascript.github.io/course/?https://github.com/mbluemm/modul-fdII-thkoeln/blob/main/Lia_BinaryConverterJS.md)
 
