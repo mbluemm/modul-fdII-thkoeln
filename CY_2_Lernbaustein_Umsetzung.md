@@ -43,6 +43,8 @@ Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu
 
 # Teste dein Wissen: Forschungsdatenmanagement
 
+> Jetzt bist du gefragt! Teste dein Wissen über die Grundlagen des Forschungsdatenmanagements. Jede Frage hat nur eine richtige Antwort.
+
 1) Welche Rolle spielt Forschungsdatenmanagement (FDM) im Forschungsprozess?
 
 [( )] Es ist irrelevant
