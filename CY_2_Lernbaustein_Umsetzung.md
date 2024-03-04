@@ -2,7 +2,7 @@
 
 # Von Datenchaos zu Datenhelden: Wie Forschungsdatenmanagement für Ordnung sorgt
 
-In diesem Kurs werden wir die Bedeutung des Forschungsdatenmanagements (FDM) untersuchen und wie es dazu beiträgt, das Datenchaos zu bewältigen. Wir werden die verschiedenen Aspekte des FDMs erkunden und wie es Forscherinnen und Forscher dabei unterstützt, ihre Daten effektiv zu organisieren, zu sichern und langfristig zugänglich zu machen. Lasst uns gemeinsam entdecken, wie das FDM uns zu Datenhelden machen kann!"
+Herzlich willkommen zum Kurs über Forschungsdatenmanagement! In diesem Kurs werden wir die Bedeutung des Forschungsdatenmanagements (FDM) untersuchen und wie es dazu beiträgt, das Datenchaos zu bewältigen. Wir werden die verschiedenen Aspekte des FDMs erkunden und wie es Forscherinnen und Forscher dabei unterstützt, ihre Daten effektiv zu organisieren, zu sichern und langfristig zugänglich zu machen. Lasst uns gemeinsam entdecken, wie das FDM uns zu Datenhelden machen kann!"
 
 
 
