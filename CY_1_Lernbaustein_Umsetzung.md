@@ -139,7 +139,7 @@ In Ergänzung zu den technischen FAIR-Prinzipien wurden die CARE-Prinzipien als 
 
 # Teste dein Wissen: FAIR-Prinzipien
 
-<!-- style="background-color: lime;"--> In dieser interaktiven Übung seid ihr gefragt! Eure Aufgabe ist es, die angegebenen Begriffe den jeweiligen FAIR-Prinzipien zuzuordnen.
+> In dieser interaktiven Übung seid ihr gefragt! Eure Aufgabe ist es, die angegebenen Begriffe den jeweiligen FAIR-Prinzipien zuzuordnen.
 
 
 <iframe width="960" height="600"></iframe>
