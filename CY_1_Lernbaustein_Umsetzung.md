@@ -18,7 +18,7 @@ Herzlich willkommen zum Kurs über Forschungsdaten! In diesem Kurs werden wir un
 Forschungsdaten spielen eine essenzielle Rolle bei der Erstellung von Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
 
 
-**Forschungsdatentypen**
+## Forschungsdatentypen
 
 Aufgrund der weit verbreiteten Verwendung digitaler Forschungsdaten im Forschungsdatenmanagement ist die Definition von Maxi Kindling und Peter Schirmbacher aus dem Jahr 2013 von Bedeutung: "Unter digitalen Forschungsdaten verstehen wir [...] alle digital vorliegenden Daten, die während des Forschungsprozesses entstehen oder ihr Ergebnis sind."
 
@@ -26,7 +26,7 @@ Aufgrund der weit verbreiteten Verwendung digitaler Forschungsdaten im Forschung
 
 Forschungsdaten, sei es digital oder anderweitig, entstehen während wissenschaftlicher Tätigkeit, wie Messungen, Befragungen oder Quellenarbeit. Sie dienen als Grundlage für wissenschaftliche Arbeit und dokumentieren deren Ergebnisse. Die Arbeit mit digitalen Forschungsdaten ist mittlerweile ein fester Bestandteil des Forschungsprozesses geworden und ermöglicht eine effiziente Datenerfassung, -verwaltung und -analyse.
 
-Es gibt Primärdaten und Sekundärdaten
+**Es gibt Primärdaten und Sekundärdaten**
 Primärdaten: sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden. Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
 
 Sekundärdaten: sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen. Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
@@ -48,7 +48,7 @@ Eine professionelle Handhabung von Forschungsdaten ist unerlässlich für wissen
 *Quelle: https://forschungsdaten.info/themen/informieren-und-planen/datenlebenszyklus/*
 
 
-**Datenmanagementplan**
+## Datenmanagementplan
 
 Gemäß forschungsdaten.org wird der Datenmanagementplan wie folgt beschrieben:
 
@@ -139,7 +139,7 @@ In Ergänzung zu den technischen FAIR-Prinzipien wurden die CARE-Prinzipien als 
 
 # Teste dein Wissen: FAIR-Prinzipien
 
-<!-- style="background-color: mint;"--> In dieser interaktiven Übung seid ihr gefragt! Eure Aufgabe ist es, die angegebenen Begriffe den jeweiligen FAIR-Prinzipien zuzuordnen.
+<!-- style="background-color: lime;"--> In dieser interaktiven Übung seid ihr gefragt! Eure Aufgabe ist es, die angegebenen Begriffe den jeweiligen FAIR-Prinzipien zuzuordnen.
 
 
 <iframe width="960" height="600"></iframe>
