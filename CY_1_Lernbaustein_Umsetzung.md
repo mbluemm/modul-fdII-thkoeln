@@ -107,7 +107,7 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
   - Anpassung an Community-Standards: Die Metadaten sollten den Standards und Praktiken der jeweiligen
     Forschungsgemeinschaft entsprechen, um eine reibungslose Zusammenarbeit und Nutzung zu ermöglichen.
 
-*Quelle: Digitalbevaringdk Forside_DigitalBevaring* **NACHFRAGEN** *(Sina & Kathi)*
+*Quelle: Digitalbevaringdk Forside_DigitalBevaring* **NACHFRAGEN (Sina & Kathi)**
 
 
 
