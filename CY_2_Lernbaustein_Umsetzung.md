@@ -20,17 +20,23 @@ Die Relevanz von Forschungsdatenmanagement (FDM) im Forschungsprozess ist von en
 
 ## Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
 
-*Reproduzierbarkeit und Vertrauenswürdigkeit:* Ein solides FDM gewährleistet die Nachvollziehbarkeit und Reproduzierbarkeit von Forschungsergebnissen. Durch klare Dokumentation der Datenerhebung, -verarbeitung und -analyse können andere Forschende die Schritte rekonstruieren und Ergebnisse überprüfen, was das Vertrauen in wissenschaftliche Erkenntnisse stärkt.
+**Reproduzierbarkeit und Vertrauenswürdigkeit:**
+Ein solides FDM gewährleistet die Nachvollziehbarkeit und Reproduzierbarkeit von Forschungsergebnissen. Durch klare Dokumentation der Datenerhebung, -verarbeitung und -analyse können andere Forschende die Schritte rekonstruieren und Ergebnisse überprüfen, was das Vertrauen in wissenschaftliche Erkenntnisse stärkt.
 
-*Wissensbewahrung:* Forschungsdaten sind wertvolle Ressourcen, die für spätere Analysen und Studien genutzt werden können. Ein strukturiertes FDM stellt sicher, dass Daten langfristig zugänglich und nutzbar bleiben, auch wenn Forschende die Institution verlassen oder Projekte abgeschlossen werden.
+**Wissensbewahrung:**
+Forschungsdaten sind wertvolle Ressourcen, die für spätere Analysen und Studien genutzt werden können. Ein strukturiertes FDM stellt sicher, dass Daten langfristig zugänglich und nutzbar bleiben, auch wenn Forschende die Institution verlassen oder Projekte abgeschlossen werden.
 
-*Datenintegrität:* Durch klare Datenmanagementverfahren können Fehler und Datenverluste minimiert werden. Ein durchdachtes FDM hilft, die Integrität der Daten über den gesamten Lebenszyklus hinweg zu gewährleisten.
+**Datenintegrität:**
+Durch klare Datenmanagementverfahren können Fehler und Datenverluste minimiert werden. Ein durchdachtes FDM hilft, die Integrität der Daten über den gesamten Lebenszyklus hinweg zu gewährleisten.
 
-*Zusammenarbeit und Vernetzung:* Einheitliche Standards und Praktiken im FDM erleichtern die Zusammenarbeit zwischen Forschenden, Institutionen und Disziplinen. Gemeinsame Plattformen und Dateninfrastrukturen fördern den Austausch von Daten und erleichtern die Integration in breitere Forschungsgemeinschaften.
+**Zusammenarbeit und Vernetzung:**
+Einheitliche Standards und Praktiken im FDM erleichtern die Zusammenarbeit zwischen Forschenden, Institutionen und Disziplinen. Gemeinsame Plattformen und Dateninfrastrukturen fördern den Austausch von Daten und erleichtern die Integration in breitere Forschungsgemeinschaften.
 
-*Datenschutz und Ethik:* Angesichts zunehmender Datenschutzanforderungen ist ein effektives FDM notwendig, um personenbezogene Daten angemessen zu schützen und ethische Richtlinien einzuhalten.
+**Datenschutz und Ethik:**
+Angesichts zunehmender Datenschutzanforderungen ist ein effektives FDM notwendig, um personenbezogene Daten angemessen zu schützen und ethische Richtlinien einzuhalten.
 
-*Fördermittel und Sichtbarkeit:* Viele Förderinstitutionen und Verlage fordern mittlerweile die Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln erleichtern und die Sichtbarkeit der Forschung erhöhen.
+**Fördermittel und Sichtbarkeit:**
+Viele Förderinstitutionen und Verlage fordern mittlerweile die Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln erleichtern und die Sichtbarkeit der Forschung erhöhen.
 
 *Quelle: NACHFRAGEN*
 
