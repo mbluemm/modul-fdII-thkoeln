@@ -10,7 +10,7 @@ Herzlich willkommen zum Kurs über Forschungsdaten! In diesem Kurs werden wir un
 
 "Zu Forschungsdaten zählen u.a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden. Methodische Testverfahren, wie Fragebögen, Software und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und sollten daher ebenfalls unter den Begriff Forschungsdaten gefasst werden."
 
-*Quelle: https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten/*
+*Quelle: https://forschungsdaten.info/themen/informieren-und-planen/was-sind-forschungsdaten*
 
 
 **Warum sind Forschungsdaten wichtig?**
