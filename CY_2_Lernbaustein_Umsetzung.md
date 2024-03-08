@@ -12,10 +12,13 @@ Forschungsdatenmanagement (FDM) umfasst sämtliche Stadien des Forschungsprozess
 
 *Quelle: Sauther-Patrascu und Dmitrieva, 2021*
 
+# Warum ist FDM wichtig?
 
 Die Relevanz von Forschungsdatenmanagement (FDM) im Forschungsprozess ist von entscheidender Bedeutung, da es die Grundlage für eine nachhaltige, transparente und effiziente Forschungspraxis legt. Ein effektives FDM strebt durch umfassende Dokumentation des Forschungsprozesses langfristige Nachvollziehbarkeit und Reproduzierbarkeit der Daten an, während gleichzeitig der Verlust von Daten minimiert wird. Dies fördert die Transparenz bei der Datenerhebung und -verarbeitung und erleichtert die Überprüfung von Forschungsergebnissen, insbesondere bei erforderlichen Validierungen. Langfristig führt erfolgreiches FDM zu Zeit- und Ressourceneinsparungen, unter anderem durch verbesserte Zusammenarbeit, Fehlervermeidung und Schutz vor Datenverlusten.
 
-Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
+*Quelle: NACHFRAGEN*
+
+## Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
 
 *Reproduzierbarkeit und Vertrauenswürdigkeit:* Ein solides FDM gewährleistet die Nachvollziehbarkeit und Reproduzierbarkeit von Forschungsergebnissen. Durch klare Dokumentation der Datenerhebung, -verarbeitung und -analyse können andere Forschende die Schritte rekonstruieren und Ergebnisse überprüfen, was das Vertrauen in wissenschaftliche Erkenntnisse stärkt.
 
@@ -29,10 +32,11 @@ Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
 
 *Fördermittel und Sichtbarkeit:* Viele Förderinstitutionen und Verlage fordern mittlerweile die Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln erleichtern und die Sichtbarkeit der Forschung erhöhen.
 
+*Quelle: NACHFRAGEN*
 
 # Datenmanagementplan
 
-Es ist entscheidend, Daten und Prozesse von Anfang an zu dokumentieren. Diese Dokumentation spielt eine wichtige Rolle in der Planung und Durchführung von Projekten, da sie grundlegende Fragen im Umgang mit Daten und zum Projekt beantwortet. Sie deckt alle Phasen des Datenlebenszyklus ab und zeigt auf, welche Aspekte zu klären sind, um die Daten verfügbar, nachnutzbar und nachvollziehbar zu machen.
+Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu beachten, dass eine Datendokumentation ein lebendiges Dokument ist, da Forschungsprojekte Prozesse sind und einzelne Aspekte während der Projektlaufzeit Gestalt annehmen können. Einige Fragen können zu Beginn eines Forschungsprojekts nicht geklärt werden, und Antworten müssen im Laufe der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden. Es ist entscheidend, Daten und Prozesse von Anfang an zu dokumentieren. Diese Dokumentation spielt eine wichtige Rolle in der Planung und Durchführung von Projekten, da sie grundlegende Fragen im Umgang mit Daten und zum Projekt beantwortet. Sie deckt alle Phasen des Datenlebenszyklus ab und zeigt auf, welche Aspekte zu klären sind, um die Daten verfügbar, nachnutzbar und nachvollziehbar zu machen.
 
 Die Verschriftlichung sorgt für einen einheitlichen Umgang mit Daten und schafft eine verbindliche Grundlage. Durch die Dokumentation sind Antworten zu allen wichtigen Fragen auf einen Blick verfügbar und können besser genutzt werden, insbesondere bei der Rückkehr zu vergangenen Forschungsvorhaben. Die strukturierte Dokumentation macht Daten auch zukünftig besser einsehbar und verständlich und verringert die Gefahr des Datenverlusts.
 
@@ -40,7 +44,7 @@ Das verbesserte Wissensmanagement, das mit der Dokumentation einhergeht, stellt 
 
 Idealerweise wird die Dokumentation am Anfang des Projekts begonnen, um wichtige Entscheidungen zu treffen und Prozesse strukturierter umzusetzen. Je nach Projektgröße und Datenvielfalt kann eine solche Dokumentation zwischen wenigen Absätzen und mehreren Seiten umfassen.
 
-Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu beachten, dass eine Datendokumentation ein lebendiges Dokument ist, da Forschungsprojekte Prozesse sind und einzelne Aspekte während der Projektlaufzeit Gestalt annehmen können. Einige Fragen können zu Beginn eines Forschungsprojekts nicht geklärt werden, und Antworten müssen im Laufe der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
+*Quelle: ResearchDataRepositories PreservationPlan DigitalPreservation von Jørgen Stamp*
 
 
 # Teste dein Wissen: Forschungsdatenmanagement
