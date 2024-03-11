@@ -5,7 +5,6 @@
 Herzlich willkommen zum Kurs über Forschungsdatenmanagement! In diesem Kurs werden wir die Bedeutung des Forschungsdatenmanagements (FDM) untersuchen und wie es dazu beiträgt, das Datenchaos zu bewältigen. Wir werden die verschiedenen Aspekte des FDMs erkunden und wie es Forscherinnen und Forscher dabei unterstützt, ihre Daten effektiv zu organisieren, zu sichern und langfristig zugänglich zu machen. Lasst uns gemeinsam entdecken, wie das FDM uns zu Datenhelden machen kann!
 
 
-
 # Was ist Forschungsdatenmanagement?
 
 Forschungsdatenmanagement (FDM) umfasst sämtliche Stadien des Forschungsprozesses, von der Datenerfassung bis zur Archivierung oder Löschung. Ziel ist es, einen geordneten Ablauf und klare Struktur für den Datenlebenszyklus zu schaffen. Durch FDM werden Daten organisiert, gesichert und langfristig zugänglich gemacht. Dies fördert Transparenz, Reproduzierbarkeit und Zusammenarbeit in der Forschung. Die Aufgaben des FDM variieren je nach Disziplin und Art der Daten, können jedoch die Dokumentation, Sicherung der Daten und Einhaltung von Datenschutzbestimmungen umfassen. Leitlinien für das FDM sind in vielen Forschungseinrichtungen verfügbar und unterstützen einen strukturierten Umgang mit Forschungsdaten.
