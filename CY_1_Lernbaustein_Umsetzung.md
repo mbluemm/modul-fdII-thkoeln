@@ -163,3 +163,13 @@ iframeElem.src = "https://werner-bock.com/wp-content/uploads/2024/02/CY_FAIR-Pri
 # Weiterführende Literatur
 
 # Literaturverzeichnis
+
+• EU-Richtlinie (2019/1024)
+
+• Kindling, Maxi und Schirmbacher, Peter: „Die digitale Forschungswelt“
+
+• Sauther-Patrascu, K. S. & S. Dmitrieva, 2021: Forschung und Wissenstransfer
+
+• Forschungsdaten.info
+
+• Digitalbevaringdk
