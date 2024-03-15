@@ -110,6 +110,12 @@ Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessi
 *Quelle: Digitalbevaringdk Forside_DigitalBevaring* **NACHFRAGEN (Sina & Kathi)**
 
 
+## Vor- und Nachteile der FAIR-Prinzipien
+
+• **Vorteile**: Erhöhte Sichtbarkeit und Zitierbarkeit, Förderung der Wiederverwendung, Bessere Kollaboration und Qualitätskontrolle, Nachhaltigkeit und Langzeitarchivierung.
+
+• **Nachteile**: Zeitaufwand und Komplexität, Datenschutz und ethische Richtlinien, Disziplinäre Unterschiede in der Anwendbarkeit.
+
 
 # CARE-Prinzipien
 
