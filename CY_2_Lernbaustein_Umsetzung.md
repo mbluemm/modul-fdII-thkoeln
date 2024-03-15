@@ -39,6 +39,17 @@ Viele Förderinstitutionen und Verlage fordern mittlerweile die Einhaltung besti
 
 *Quelle: NACHFRAGEN*
 
+##
+
+FDM in Open Science
+
+• Open Science: Offener Zugang zu wissenschaftlichem Wissen, Publikationen, Forschungsdaten und Methoden. Strebt nach Transparenz, Reproduzierbarkeit, Wiederverwendbarkeit und offener Kommunikation in der Wissenschaft.
+
+• Ziele: Verbesserung der Forschungsqualität, effizientere Forschungsförderung, Sicherung guter wissenschaftlicher Praxis, Verbesserung des Wissenstransfers.
+
+*Quelle: Fühles-Ubach, H. & Heidkamp, S. (2022)*
+
+
 # Datenmanagementplan
 
 Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation. Es ist wichtig zu beachten, dass eine Datendokumentation ein lebendiges Dokument ist, da Forschungsprojekte Prozesse sind und einzelne Aspekte während der Projektlaufzeit Gestalt annehmen können. Einige Fragen können zu Beginn eines Forschungsprojekts nicht geklärt werden, und Antworten müssen im Laufe der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden. Es ist entscheidend, Daten und Prozesse von Anfang an zu dokumentieren. Diese Dokumentation spielt eine wichtige Rolle in der Planung und Durchführung von Projekten, da sie grundlegende Fragen im Umgang mit Daten und zum Projekt beantwortet. Sie deckt alle Phasen des Datenlebenszyklus ab und zeigt auf, welche Aspekte zu klären sind, um die Daten verfügbar, nachnutzbar und nachvollziehbar zu machen.
@@ -141,3 +152,7 @@ Idealerweise wird die Dokumentation am Anfang des Projekts begonnen, um wichtige
 
 
 # Literaturverzeichnis
+
+• Fühles-Ubach, S. & Heidkamp, P. (2022). Data Literacy – Basiskurs Data Lifecycle. KI-Campus Original. DaLI – Data Literacy Initiative. https://ki-campus.org/courses/dali-basis-THK2021.
+
+• Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Abgerufen am 20. Oktober 2023, von https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf.

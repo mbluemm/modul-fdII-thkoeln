@@ -164,12 +164,12 @@ iframeElem.src = "https://werner-bock.com/wp-content/uploads/2024/02/CY_FAIR-Pri
 
 # Literaturverzeichnis
 
-• EU-Richtlinie (2019/1024)
+• Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo. http://doi.org/10.5281/zenodo.3923602.
 
-• Kindling, Maxi und Schirmbacher, Peter: „Die digitale Forschungswelt“
+• *Kindling, Maxi und Schirmbacher, Peter: „Die digitale Forschungswelt“*
 
-• Sauther-Patrascu, K. S. & S. Dmitrieva, 2021: Forschung und Wissenstransfer
+• Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Abgerufen am 20. Oktober 2023, von https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf
 
-• Forschungsdaten.info
+• *Forschungsdaten.info*
 
-• Digitalbevaringdk
+• *Digitalbevaringdk*
