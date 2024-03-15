@@ -39,9 +39,7 @@ Viele Förderinstitutionen und Verlage fordern mittlerweile die Einhaltung besti
 
 *Quelle: NACHFRAGEN*
 
-##
-
-FDM in Open Science
+## FDM in Open Science
 
 • Open Science: Offener Zugang zu wissenschaftlichem Wissen, Publikationen, Forschungsdaten und Methoden. Strebt nach Transparenz, Reproduzierbarkeit, Wiederverwendbarkeit und offener Kommunikation in der Wissenschaft.
 
