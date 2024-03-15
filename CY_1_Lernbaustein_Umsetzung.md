@@ -15,7 +15,7 @@ Herzlich willkommen zum Kurs über Forschungsdaten! In diesem Kurs werden wir un
 
 **Warum sind Forschungsdaten wichtig?**
 
-Forschungsdaten spielen eine essenzielle Rolle bei der Erstellung von Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
+Forschungsdaten spielen eine essenzielle Rolle bei der Erstellung von Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen. Solides Forschungsdatenmanagement (FDM) gewährleistet die Glaubwürdigkeit wissenschaftlicher Erkenntnisse durch die Sicherstellung von Nachvollziehbarkeit und Reproduzierbarkeit. Es ermöglicht langfristige Zugänglichkeit und Wiederverwendbarkeit von Daten, minimiert Fehler und Datenverluste, fördert Zusammenarbeit und Datenschutz, erleichtert den Zugang zu Fördermitteln und erhöht die Sichtbarkeit der Forschung.
 
 
 ## Forschungsdatentypen
