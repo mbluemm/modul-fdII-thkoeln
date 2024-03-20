@@ -24,6 +24,8 @@ link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd
 # Was sind Forschungsdaten?
 <section>
 
+<!-- Hier Überschrift Lernziele ergänzen -->
+
 > In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu definieren und zu klären, welche Rolle FD im Forschungsprozess spielen.
 
 <br>
@@ -68,10 +70,14 @@ Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. Forschung
 nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
 zur Unterstützung von Forschungsarbeiten beitragen.
 
+<!-- hier Icons Datentypen ergänzen: G-0049_BUW_Icon_Datentypen_Messung ; G-0016_BUW_Icon_Erhebung; G-0050_BUW_Icon_Datentypen_Sensor ; G-0017_BUW_Icon_Analyse ; G-0057_BUW_Icon_Datentyp_Survey ; G-0055_BUW_Icon_Datentyp_Text ; 0004_THK_Datentyp_Objekte --> 
+
 Digitale Forschungsdaten präsentieren sich in verschiedenen Formen, darunter Texte, Bilder,
 Audiodateien, Videoclips und interaktive Visualisierungen. Diese Vielfalt an Formaten und Disziplinen
 zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensammlungen
 hinausgehen.
+
+<!-- G-0055_BUW_Icon_Datentyp_Text ; G-0053_BUW_Icon_Datentyp_Bild ; 0002_THK_Datentyp: Audiodateien; G-0054_BUW_Icon_Datentyp_AV -->
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tekst_Digitalisering.png"><img width="512" alt="Tekst Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tekst_Digitalisering.png/512px-Tekst_Digitalisering.png"></a>
@@ -117,7 +123,7 @@ gezielte Herangehensweise, um diese Daten bestmöglich zu organisieren, zu siche
 sowie zukünftige wissenschaftliche Erkenntnisse zu nutzen. Dieses Thema wird in der zweiten
 Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
-<!-- Bei Datenbank noch 0001_THK_Beispiel einfügen sowie Layout bei Leitfragen, Lektüre, Beispiel etc. anpassen und entsprechende Icons, die wir gestern festgelegt haben, ergänzen -->
+<!-- Bei Datenbank noch 0001_THK_Beispiel einfügen sowie Layout bei Leitfragen, Lektüre, Beispiel etc. anpassen und entsprechende Icons, die wir gestern festgelegt haben, ergänzen. Aufgabe: 0034_THK_Aufgabe ; Leitfragen: 0025_THK_Fragezeichen ; Lektüre: 0038_THK_Buch ; Quellen- und Weiterführende Materialien: nochmal besprechen -->
 
 ## Leitfragen und Aufgaben
 
