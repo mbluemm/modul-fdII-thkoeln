@@ -36,8 +36,8 @@ import:
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14). | Die S. verstehen den Datenlebenszyklus und welche Rolle dieser im FDM spielt / worauf zu achten ist. |
-| 2 | Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Beschreibungen/Merkmalen/ Inhalten zu verknüpfen. |
+| 1 | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14). | Die S. verstehen den Datenlebenszyklus und welche Rolle dieser im FDM spielt/worauf zu achten ist. |
+| 2 | Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Die S. setzen ihr erlerntes Wissen um, um die Phasen des Datenlebenszyklus mit deren Beschreibungen/Merkmalen/Inhalten zu verknüpfen. |
 
 ## Lernziele für den Unterricht in Präsenz
 
@@ -54,7 +54,7 @@ import:
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 30 min. | Einführung zum Datenlebenszyklus.<br><br>Beschreibung der Stationen und deren Merkmale.<br><br>Erläuterung, welche Rolle der DLZ im Forschungsprozess/ im FDM spielt. | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14).<br><br>Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Text und Erklärvideo als Informationsquelle.<br><br>Interaktiver Datenlebenszyklus.<br><br>Beantworten von zwei Leitfragen (unten) im Lernportfolio. | EA |
-
+<!-- hier noch Drag&Drop-Aufgabe ergänzen "Ordne die Stationen dem Datenlebenszyklus zu" (5 Min.) -->
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
@@ -103,7 +103,7 @@ Die S. besprechen, welche Stationen (Phasen) des DLZ ihnen im Studium begegnet s
 (ca. 45 min.) Methode: Gruppenarbeit
 ===
 
-L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag: Die Gruppen bekommen ein Beispielprojekt und sollen dieses anhand von gezielten Fragen in Arbeitsschritte einteilen und mit allen wichtigen Aspekten (z.B. korrektes Zitieren, Dokumentation etc.) zum DLZ und FDM verbinden.
+L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag: Die Gruppen bekommen ein Beispielprojekt und sollen dieses anhand von gezielten Fragen in Arbeitsschritte einteilen und mit allen wichtigen Aspekten (z. B. korrektes Zitieren, Dokumentation etc.) zum DLZ und FDM verbinden.
 
 S. sollen für das Beispielprojekt folgendes beantworten:
 
@@ -131,21 +131,6 @@ L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
 
 L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
 
-## (Mögliche) Ergänzende Materialien im LMS
-
-Quiz
-===
-
-<!-- 
-comment: Named links? 
--->
-
-[https://miro.com/app/board/uXjVPBfQ8qM=/](https://miro.com/app/board/uXjVPBfQ8qM=/) oder andere DLZs (bspw.[https://zenodo.org/record/8087764](https://zenodo.org/record/8087764))
-
-Lektüre
-===
-
-Stefanie Rümpel. *Der Lebenszyklus von Forschungsdaten*. In:  Handbuch Forschungsdatenmanagement. Stephan Büttner, Hans-Christoph Hobohm, Lars Müller (Hrsg.). Bock + Herchen. Bad Honnef. 2011. S. 25-34.
 
 ## Taxonomiestufen
 
