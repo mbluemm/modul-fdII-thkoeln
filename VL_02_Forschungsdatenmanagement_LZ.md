@@ -83,7 +83,7 @@ import:
 | :--- | :--- | :--- | :--- | :--- |
 | Ca. 15 min. | Wissenspool zum Thema FDM | L. schafft Basis für gemeinsame Arbeit | Wissenspool (Mindmap) | PL |
 | Ca. 30 min. | Offene Diskussion im Plenum zur Relevanz und den Vor- und Nachteilen vom FDM (mit Bezug auf das Studium). | Die S. können die Relevanz und Vor- und Nachteile von FDM gegenüberstellen [(4)](#14).  <br>Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Diskussion | PL |
-| ca. 25 min. | Übung zum DFG Kontext  <br>Diskussion im Plenum | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen  <br>Anschließende Diskussion im Plenum | GA / PL |
+| Ca. 25 min. | Übung zum DFG Kontext  <br>Diskussion im Plenum | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen  <br>Anschließende Diskussion im Plenum | GA / PL |
 
 > ### Abschluss
 
