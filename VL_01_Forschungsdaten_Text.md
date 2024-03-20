@@ -24,7 +24,7 @@ link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd
 # Was sind Forschungsdaten?
 <section>
 
-<!-- Hier Überschrift Lernziele ergänzen -->
+<!-- Hier Überschrift Lernziele ergänzen; mögliche Abbildungen für die VL: 0041_THK_Forschungsarbeit ; G-0063_BUW_Gruppe_Wissenschaft ; 0042_THK_Daten ; 0043_THK_Digitalisierung -->
 
 > In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu definieren und zu klären, welche Rolle FD im Forschungsprozess spielen.
 
