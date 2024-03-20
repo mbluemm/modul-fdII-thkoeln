@@ -83,8 +83,8 @@ Quelle: Digitalbevaringdk Tekst_Digitalisering
 In diesem Kurs wird öfter auf „Daten“ und „Dateien“ eingegangen. Im Nachfolgenden finden Sie zur
 Klarheit dessen Definitionen, die für den fortlaufenden Kurs von Relevanz sind:
 
-- Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“, und
-- eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
+- Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“, und <!-- 0032_THK_Datensatz -->
+- eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“. <!-- 0028_THK_OrdnerPC -->
 
 in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 
@@ -97,12 +97,12 @@ in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-B
 
 Es gibt Primärdaten und Sekundärdaten[^1]
 
-> Primärdaten
+> Primärdaten <!-- G-0094_BUW_a_Icon_Primaerdaten -->
 
 - sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden.
 - Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
 
-> Sekundärdaten
+> Sekundärdaten <!-- G-0094_BUW_b_Icon_Sekundaerdaten -->
 
 - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
@@ -116,6 +116,8 @@ Die steigende Menge und Vielfalt an Forschungsdaten in unterschiedlichen Diszipl
 gezielte Herangehensweise, um diese Daten bestmöglich zu organisieren, zu sichern und für aktuelle
 sowie zukünftige wissenschaftliche Erkenntnisse zu nutzen. Dieses Thema wird in der zweiten
 Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
+
+<!-- Bei Datenbank noch 0001_THK_Beispiel einfügen sowie Layout bei Leitfragen, Lektüre, Beispiel etc. anpassen und entsprechende Icons, die wir gestern festgelegt haben, ergänzen -->
 
 ## Leitfragen und Aufgaben
 
