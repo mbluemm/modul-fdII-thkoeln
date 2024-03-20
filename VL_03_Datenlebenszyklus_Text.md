@@ -28,7 +28,9 @@ import:
 
 In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
 
-## Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
+<!-- Überschrift/Abschnitt mit Lernzielen ergänzen sowie Video einfügen --> 
+
+## Der Datenlebenszyklus: Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
 
 Im breiten Feld des Forschungsdatenmanagements spielt der Umgang mit Daten -insbesondere der
 Datenlebenszyklus - eine wichtige Rolle, denn er deckt alle wichtigen Phasen des
@@ -49,6 +51,8 @@ dargestellt werden:
 - Speicherung und Austausch der Daten (eventuell Teilen mit Kommilitonen oder Lehrenden)
 - Veröffentlichung der Daten (möglicherweise intern oder extern an der Universität) und Archivierung zur Nachnutzung (sicher und zugänglich speichern)
 
+<!-- Icons (unter Absatz?) ergänzen: G-0015_BUW _Icon_Planung ; G-0016_BUW_Icon_Erhebung; G-0017_BUW_Icon_Analyse ; G-0038_BUW_Icon_Diskette ; 0009_THK_Veroeffentlichen -->
+
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Archivierung.
 
@@ -57,7 +61,11 @@ der Planung und endend mit der Archivierung.
 
 Quelle: Arbeitskompass zum Thema FDM
 
+<!-- vorübergehend Abbildung von Datenlebenyzklus anstelle iframe verwenden, als Quelle dann uns angeben; später dann durch 0039_THK_Arbeitskompass, wenn interaktive Abbildung von Medienagentur vorliegt -->
+
 ### Forschungsvorhaben oder Projekt planen
+
+<!-- G-0015_BUW _Icon_Planung -->
 
 Zu Beginn des Forschungsvorhabens oder Projekts steht die Planung an, einschließlich der ersten
 Erstellung einer Dokumentation. Während des gesamten Projekts ist die kontinuierliche
@@ -74,7 +82,10 @@ Benennungen von Dateien und Speicherorte festgelegt. Zudem sollten Überlegungen
 Zusammenarbeit während des Projekts sowie zur möglichen gemeinsamen Nutzung von Daten nach
 Projektende angestellt werden.
 
+
 ### Daten erfassen: Selbst erheben oder zum Nachnutzen finden
+
+<!-- G-0016_BUW_Icon_Erhebung -->
 
 Bei der Wiederverwendung von Daten von Dritten ist es notwendig, die Zustimmung zur Datennutzung
 einzuholen, möglicherweise durch die Anwendung von offenen Lizenzen. Wenn eigene Daten
@@ -89,6 +100,8 @@ einschließlich der einheitlichen Speicherung, Sicherung und Verwaltung der Date
 Erfassung und Erstellung von Metadaten und einer gründlichen Dokumentation.
 
 ### Mit Daten arbeiten: Aufbereiten und analysieren
+
+<!-- G-0017_BUW_Icon_Analyse -->
 
 Während der Datenverarbeitung erfolgt die praktische Bearbeitung von Daten, einschließlich
 Aufbereitung, Analyse und Interpretation. In dieser Phase werden die Daten, die entweder selbst
@@ -111,6 +124,8 @@ Quelle: Digitalbevaringdk2021 International_DigitalBevaring
 
 ### Daten speichern und austauschen
 
+<!-- G-0038_BUW_Icon_Diskette -->
+
 Bei der Aufbewahrung und Sicherung von Daten ist es wichtig, neben den klaren Dateinamen und
 einer geregelten Versionskontrolle aus vorherigen Phasen, auch eine gut durchdachte Ordnerstruktur
 und die 3- 2 - 1 - Backup-Regel zu berücksichtigen. Bei der Weitergabe und gemeinsamen Nutzung von
@@ -123,6 +138,8 @@ Fachartikeln oder als Beitrag in einem Datendossier, gibt es zusätzliche Überl
 in den kommenden beiden Abschnitten behandelt und sind besonders relevant für Forschende.
 
 ### Daten archivieren und veröffentlichen
+
+<!-- 0009_THK_Veroeffentlichen -->
 
 Es besteht auch die Möglichkeit, Daten, insbesondere im Rahmen von Publikationen, der
 Öffentlichkeit zugänglich zu machen und sie über einen längeren Zeitraum aufzubewahren. In solchen
@@ -147,6 +164,8 @@ Untersuchungen verwendet werden. Dies ermöglicht die Überprüfung, Bestätigun
 bisheriger Ergebnisse oder Erkenntnisse, was auch als Replikation oder Qualitätssicherung bekannt
 ist. Ferner könnten aus denselben Daten neue Erkenntnisse gewonnen werden.
 
+<!-- Ab hier Infobox einfügen? --> 
+
 Um bereits erhobene und veröffentlichte Daten gemäß wissenschaftlichen Standards nachzunutzen,
 sind einige Faktoren zu berücksichtigen.
 
@@ -164,10 +183,14 @@ Die Daten müssen:
     durchgeführt und welche Ergebnisse wurden erzielt? Was möchte ich untersuchen und wie
     unterscheidet es sich von bisheriger Nutzung?
 
+<!-- 0024_THK_Qualitätskontrolle neben Abschnitt einfügen -->
+
 Mehr dazu, was bei der Nachnutzung von Daten beachtet werden muss unter “rechtliche und ethische Aspekte”.
 
 ![](https://)
 Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
+
+<!-- Drag&Drop zu "Ordne die Stationen dem Datenlebenszyklus zu" --> 
 
 ## Weiterführende Literatur und Links (optional)
 
@@ -185,6 +208,8 @@ Hochschule Bonn-Rhein-Sieg. (2023). Forschungsdatenmanagement. Zugriff am 18.10.
 Krähwinkel, E., Langner, P., Lipp, R., et al. (2022). HeFDI Data Learning Materials:
 Forschungsdatenmanagement _–_ eine Online-Einführung (Version 1.0). Zenodo.
 [https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ](https://zenodo.org/records/6373596#.Y9Jfo4fMJPZ).
+
+Rümpel, S. (2011). Der Lebenszyklus von Forschungsdaten. In S. Büttner, H.-C. Hobohm & L. Müller (Ed.), Handbuch Forschungsdatenmanagement (S. 25-34). Bad Honnef.
 
 ## Quellen
 
