@@ -47,14 +47,14 @@ dargestellt werden:
 - Planung des Forschungsvorhabens oder Projekts
 - Erfassung der Daten: Entweder durch eigene Datenerhebung oder Suche nach und Nutzung
     von bereits vorhandenen Daten Anderer
+- Verwaltung und Organisation der Daten
 - Arbeit mit den Daten: Aufbereitung und Analyse der Daten
-- Speicherung und Austausch der Daten (eventuell Teilen mit Kommilitonen oder Lehrenden)
-- Veröffentlichung der Daten (möglicherweise intern oder extern an der Universität) und Archivierung zur Nachnutzung (sicher und zugänglich speichern)
+- Aufbewahrung und Bereitstellung der Daten
 
-<!-- Icons (unter Absatz?) ergänzen: G-0015_BUW _Icon_Planung ; G-0016_BUW_Icon_Erhebung; G-0017_BUW_Icon_Analyse ; G-0038_BUW_Icon_Diskette ; 0009_THK_Veroeffentlichen -->
+<!-- Icons (unter Absatz?) ergänzen: G-0015_BUW _Icon_Planung ; G-0016_BUW_Icon_Erhebung; 0006_THK_Organisieren; G-0017_BUW_Icon_Analyse ; G-0018_BUW_Icon_Archivierung ; 0009_THK_Veroeffentlichen -->
 
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
-der Planung und endend mit der Archivierung.
+der Planung und endend mit der Aufbewahrung.
 
 <iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVNLiBT34=/?moveToViewport=28061,-26570,59488,39039&embedId=464892809366" frameborder="0" scrolling="yes" allow="fullscreen; clipboard-read" allowfullscreen></iframe>
 </div>
@@ -74,30 +74,41 @@ an schriftlich festzuhalten, wie die Daten im Laufe des Projekts behandelt werde
 Klarheit und Einheitlichkeit zu sorgen.
 In diesem Abschnitt liegt ein besonderes Augenmerk darauf, das Untersuchungsdesign festzulegen,
 eine Kultur der Datenerfassung zu etablieren und rechtliche sowie ethische Gesichtspunkte zu
-berücksichtigen. Ebenso gehört zur Planung die Erstellung eines Zeitplans sowie die Durchsicht
-bereits vorhandener Literatur und die Identifizierung von Daten, die bereits vorhanden sind und später
-genutzt werden können. Es ist wichtig, sich mit den entsprechenden Lizenzen vertraut zu machen
+berücksichtigen. Ebenso gehört zur Planung die Erstellung eines Zeitplans. Es ist wichtig, sich mit den entsprechenden Lizenzen vertraut zu machen
 oder zu entscheiden, ob eigene Daten erhoben werden sollen. Hierbei werden auch Datenformate,
 Benennungen von Dateien und Speicherorte festgelegt. Zudem sollten Überlegungen zur
 Zusammenarbeit während des Projekts sowie zur möglichen gemeinsamen Nutzung von Daten nach
-Projektende angestellt werden.
-
+Projektende angestellt werden. 
+Um diese Aspekte schriftlich festzuhalten und ihnen somit somit einen 
+verbindlichen Charakter zu verleihen, ist es ratsam 
+eine Dokumentation oder einen Datenmanagementplan zu erstellen. 
+Außerdem wird in diesem Schritt bereits die Datenhaltung nach 
+Abschluss des Projekts geplant.
 
 ### Daten erfassen: Selbst erheben oder zum Nachnutzen finden
 
 <!-- G-0016_BUW_Icon_Erhebung -->
 
-Bei der Wiederverwendung von Daten von Dritten ist es notwendig, die Zustimmung zur Datennutzung
-einzuholen, möglicherweise durch die Anwendung von offenen Lizenzen. Wenn eigene Daten
-erhoben werden, sind verschiedene Schritte wie Experimente, Beobachtungen, Messungen oder
-Simulationen erforderlich. Es ist von höchster Bedeutung, bei der eigenen Datenerhebung strenge
-Richtlinien und gesetzliche Vorschriften einzuhalten. Die Einwilligung zur Verarbeitung von sensiblen
-Daten muss eingeholt werden. Fehler während der Datenerfassung könnten sich negativ auf den
-gesamten Forschungsprozess auswirken, daher ist hier äußerste Vorsicht geboten.
+Zu Beginn sollte eine Recherche und Durchsicht bereits vorhandener Literatur und die Identifizierung von Daten, die bereits vorhanden sind und später genutzt werden können, erfolgen.
+Bei der Nachnutzung von Daten Dritter ist es notwendig, die Zustimmung zur Datennutzung einzuholen, möglicherweise durch die Anwendung von offenen Lizenzen.  
+
+Wenn eigene Daten erhoben werden, etwa in Experimenten, Beobachtungen, 
+Messungen oder Simulationen, ist es von höchster Bedeutung, 
+fachspezifische Standards und gesetzliche Vorschriften einzuhalten. 
+Die Einwilligung zur Verarbeitung von sensiblen Daten muss eingeholt werden. 
+Fehler während der Datenerfassung könnten sich negativ auf den gesamten Forschungsprozess auswirken, daher ist hier äußerste Vorsicht geboten. 
+Darüber hinaus ist sowohl bei der Nachnutzung von Daten als auch bei der Datenerhebung Metadaten zu dokumentieren.
+
+### Daten verwalten und organisieren
+
+<!-- 0006_THK_Organisieren -->
 
 In dieser Phase kommt die Umsetzung der zuvor geplanten wesentlichen Schritte ins Spiel,
-einschließlich der einheitlichen Speicherung, Sicherung und Verwaltung der Daten sowie der
-Erfassung und Erstellung von Metadaten und einer gründlichen Dokumentation.
+einschließlich der einheitlichen Speicherung, Sicherung und Verwaltung der Daten sowie der 
+Erfassung und Erstellung von Metadaten und einer gründlichen Dokumentation. 
+Bei der Aufbewahrung und Sicherung von Daten ist es wichtig, 
+neben den klaren Dateinamen und einer geregelten Versionskontrolle aus vorherigen Phasen, 
+auch eine gut durchdachte Ordnerstruktur und die 3-2-1-Backup-Regel zu berücksichtigen.
 
 ### Mit Daten arbeiten: Aufbereiten und analysieren
 
@@ -110,21 +121,20 @@ Dateneingabe, Digitalisierung, Konvertierung, Transkription oder Übersetzung er
 wichtig, die Daten hier zu sichern, zu überprüfen, zu validieren und bei Bedarf zu reinigen oder zu
 anonymisieren. Bei der Datenverarbeitung können verschiedene Tools und sogar
 Programmiersprachen sehr hilfreich sein. Nach der quantitativen, qualitativen oder gemischten
-Analyse und Interpretation der bearbeiteten Daten werden die Ergebnisse in Form von verbalen
+Analyse und Interpretation der bearbeiteten Daten werden diese interpretiert und bewertet. Die daraus hervorgehenden Ergebnisse werden dann wiederum in Form von verbalen
 Erklärungen, Bewertungen und visuellen Darstellungen präsentiert.
 
 Auch in diesem Abschnitt ist eine sorgfältige Organisation und Dokumentation aller Schritte,
 besonders mit Blick auf zukünftiges Verständnis, äußerst ratsam. Um die Bearbeitung und
 Wiederauffindbarkeit der Daten zu erleichtern, werden bei der Speicherung und Sicherung sinnvolle
-Dateinamen verwendet, Versionskontrolle beachtet und zusätzliche Metadaten eingefügt. Außerdem
-wird in diesem Schritt bereits die Datenhaltung nach Abschluss des Projekts geplant.
+Dateinamen verwendet, Versionskontrolle beachtet und zusätzliche Metadaten eingefügt. 
 
 ![](https://)
 Quelle: Digitalbevaringdk2021 International_DigitalBevaring
 
-### Daten speichern und austauschen
+### Daten aufbewahren und bereitstellen
 
-<!-- G-0038_BUW_Icon_Diskette -->
+<!-- G-0018_BUW_Icon_Archivierung ; 0009_THK_Veroeffentlichen -->
 
 Bei der Aufbewahrung und Sicherung von Daten ist es wichtig, neben den klaren Dateinamen und
 einer geregelten Versionskontrolle aus vorherigen Phasen, auch eine gut durchdachte Ordnerstruktur
