@@ -26,6 +26,8 @@ import:
 
 # Was ist Forschungsdatenmanagement?
 
+<!-- LN 31-33 in einen Absatz zu Lernzielen vor "Was ist Forschungsdatenmanagement", bei dem Absatz mit Lernzielen Abbildung 0053_THK_Tools ergänzen  -->
+
 In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und dessen Rolle in
 Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschungspraxis verortet
 wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenhängt.
@@ -39,6 +41,8 @@ langfristig zugänglich, nutzbar und überprüfbar sein. Außerdem sorgt es daf�
 reproduziert werden können und von anderen genutzt werden können, um neue Erkenntnisse zu
 generieren.
 
+<!-- Abbildung 0047_THK_DMP ergänzen --> 
+
 Die Aufgaben des FDM variieren je nach Disziplin, Art der Daten und Forschungsumgebung. Dazu
 gehören die Dokumentation, die Festlegung von Dateinamen und -strukturen, die Sicherung der
 Daten, die Einhaltung von Datenschutzbestimmungen, die Unterstützung bei der Auswahl geeigneter
@@ -48,7 +52,7 @@ und Zusammenarbeit in der wissenschaftlichen Forschung.
 
 Viele Forschungseinrichtungen haben bereits Leitlinien für das FDM herausgegeben, die als erster
 Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren (Sauther-
-Patrascu und Dmitrieva 2021).
+Patrascu und Dmitrieva 2021). <!-- 0007_THK_Leitlinien neben den Absatz ergänzen -->
 
 ## Die Relevanz von Forschungsdatenmanagement
 
@@ -62,75 +66,81 @@ erfolgreiches FDM zu Zeit- und Ressourceneinsparungen. Dies kann unter anderem d
 verbesserte Zusammenarbeit (durch gemeinsame Standards und Plattformen), Fehlervermeidung und
 Schutz vor Datenverlusten begründet sein.
 
+<!-- Abbildung 0041_THK_Forschungsarbeit ergänzen -->
+
 Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
 
 Reproduzierbarkeit und Vertrauenswürdigkeit: Ein solides FDM gewährleistet die
 Nachvollziehbarkeit und Reproduzierbarkeit von Forschungsergebnissen. Durch klare Dokumentation
 der Datenerhebung, -verarbeitung und -analyse können andere Forschende die Schritte
 rekonstruieren und Ergebnisse überprüfen, was das Vertrauen in wissenschaftliche Erkenntnisse
-stärkt.
+stärkt. <!-- G-0020_BUW_Icon_Nachnutzung neben den Absatz -->
 
 Wissensbewahrung: Forschungsdaten sind wertvolle Ressourcen, die für spätere Analysen und
 Studien genutzt werden können. Ein strukturiertes FDM stellt sicher, dass Daten langfristig zugänglich
 und nutzbar bleiben, auch wenn Forschende die Institution verlassen oder Projekte abgeschlossen
-werden.
+werden. <!-- G-0019_BUW_Icon_Zugang oder 0020_THK_Idee neben den Absatz -->
 
 Datenintegrität: Durch klare Datenmanagementverfahren können Fehler und Datenverluste minimiert
 werden. Ein durchdachtes FDM hilft, die Integrität der Daten über den gesamten Lebenszyklus hinweg
-zu gewährleisten.
+zu gewährleisten. <!-- 0008_THK_GWP neben den Absatz -->
 
 Zusammenarbeit und Vernetzung: Einheitliche Standards und Praktiken im FDM erleichtern die
 Zusammenarbeit zwischen Forschenden, Institutionen und Disziplinen. Gemeinsame Plattformen und
 Dateninfrastrukturen fördern den Austausch von Daten und erleichtern die Integration in breitere
-Forschungsgemeinschaften.
+Forschungsgemeinschaften. <!-- G-0092_BUW_Icon_Zusammenarbeit neben den Absatz -->
 
 Datenschutz und Ethik: Angesichts zunehmender Datenschutzanforderungen ist ein effektives FDM
 notwendig, um personenbezogene Daten angemessen zu schützen und ethische Richtlinien
-einzuhalten.
+einzuhalten. <!-- G-0154_BUW_Icon_Ethikkommission neben den Absatz -->
 
 Fördermittel und Sichtbarkeit: Viele Förderinstitutionen und Verlage fordern mittlerweile die
 Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln
-erleichtern und die Sichtbarkeit der Forschung erhöhen.
+erleichtern und die Sichtbarkeit der Forschung erhöhen. <!-- 0007_THK_Leitlinien neben den Absatz -->
 
-### FDM in Open Science
+## FDM in Open Science
 
 Open Science und FDM sind zwei Konzepte, die Hand in Hand gehen, um die Forschungslandschaft
 grundlegend zu verändern und zu verbessern. Beide Ansätze teilen das Ziel, Wissenschaft offener,
 transparenter, nachvollziehbarer und kollaborativer zu gestalten, um die Qualität und den
-gesellschaftlichen Nutzen von Forschung zu maximieren.
+gesellschaftlichen Nutzen von Forschung zu maximieren. <!-- 0014_THK_Open_Science neben den Absatz -->
 
-## Open Science
+### Open Science
 
 Open Science bezieht sich auf den offenen Zugang zu wissenschaftlichem Wissen, Publikationen,
 Forschungsdaten und Methoden. Es strebt danach, wissenschaftliche Erkenntnisse für alle zugänglich
 zu machen, unabhängig von institutionellen oder geografischen Grenzen. Offener Zugang zu
 Publikationen und Forschungsdaten fördert nicht nur die Verbreitung von Wissen, sondern auch die
 Reproduzierbarkeit von Ergebnissen und die Teilnahme der breiten Öffentlichkeit an
-wissenschaftlichen Diskussionen.
+wissenschaftlichen Diskussionen. <!-- G-0019_BUW_Icon_Zugang neben den Absatz -->
 
 <section>
 
-## 4 Grundprinzipien
+### 4 Grundprinzipien
 
  1. Transparenz
  2. Reproduzierbarkeit
  3. Wiederverwendbarkeit
  4. offene Kommunikation
 
-## Ziele
+<!-- G-0086_BUW_Icon_Transparenz ; G-0091_BUW_Icon_Reproduzierbarkeit ; G-0020_BUW_Icon_Nachnutzung ; G-0092_BUW_Icon_Zusammenarbeit -->
+
+### Ziele
 
 - Qualität der Forschung verbessern,
 - Forschungsförderung effizienter einsetzen,
 - Bestandteil der Sicherung guter wissenschaftlicher Praxis,
 - Wissenstransfer verbessern
 
-(Fühles-Ubach und Heidkamp 2022)
+<!-- G-0133_BUW_Icon_Symbol-Qualität ; G-0132_BUW_Icon_Kosteneffizienz ; 0008_THK_GWP ; 0009_THK_Veroeffentlichen -->
+
+(Fühles-Ubach und Heidkamp 2022) <!-- wie einbinden? --> 
 
 FDM hingegen konzentriert sich auf den Datenlebenszyklus, von der Erhebung über die Verarbeitung
 bis zur langfristigen Speicherung und Nutzung. Es legt den Grundstein für die systematische
 Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM stellt sicher, dass
 
-Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben.
+Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben. <!-- 0010_THK_DMP_Dokumentation ; 0022_THK_fröhliche_Person -->
 
 ## Was ist Gute wissenschaftliche Praxis?
 
@@ -141,9 +151,9 @@ Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Que
 Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im Kapitel
 “Dokumentation von Daten”), (Sauther-Patrascu und Dmitrieva 2021).
 
-Quelle: Digitalbevaringdk Forside_DigitalBevaring
+Quelle: Digitalbevaringdk Forside_DigitalBevaring <!-- hier fehlt noch eine Abbildung? Neben den Absatz noch 0008_THK_GWP ergänzen --> 
 
-## Leitlinien für das wissenschaftliche Arbeiten
+### Leitlinien für das wissenschaftliche Arbeiten
 
 Weitere Hinweise zur Befolgung der GWP sind in den „Leitlinien zur Sicherung guter
 wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft festgehalten. An diese angelehnt,
@@ -151,6 +161,8 @@ gibt es institutsinterne Richtlinien zu guter wissenschaftlicher Praxis und für
 wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschiedet hat (Sauther-
 Patrascu und Dmitrieva 2021). Weitere Informationen zum Thema wissenschaftliche Integrität finden
 Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
+
+<!-- 0007_THK_Leitlinien --> 
 
 </section>
 
@@ -160,12 +172,15 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 - Inwiefern betrifft das Thema Forschungsdatenmanagement Bereiche ihres Studiums?
 - Welche Argumente sprechen für Forschungsdatenmanagement, welche Vorbehalte gibt es?
 
+<!-- 0025_THK_Fragezeichen --> 
+
 <section>
 
 ## Aufgabe
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
+<!-- 0034_THK_Aufgabe --> 
 
 ## Lektüre
 
@@ -174,9 +189,12 @@ Forschungsgemeinschaft aufmerksam durch. Deutsche Forschungsgemeinschaft. (2019)
 zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo.
 [http://doi.org/10.5281/zenodo.3923602.](http://doi.org/10.5281/zenodo.3923602.).
 
+<!-- 0038_THK_Buch --> 
+
 </section>
 
 ## Weiterführende Literatur und Quellen
+<!-- G-0044_BUW_Icon_Findability --> 
 
 Arbeitsgruppe Forschungsdaten. (2018). Forschungsdatenmanagement. Eine Handreichung.
 _Arbeitsgruppe Forschungsdaten der Schwerpunktinitiative „Digitale Information_ “ der Allianz der
