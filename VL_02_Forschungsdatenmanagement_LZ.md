@@ -59,8 +59,8 @@ import:
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ durch Infotext (+ optionales Video) | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Beantworten von Leitfragen (unten) im Lernportfolio. | EA |
-| Ca. 20 min. | Einführung GWP und kurze Einordnung vom FDM in Open Science. | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
+| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ durch Infotext | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Beantworten von Leitfragen (unten) im Lernportfolio. | EA |
+| Ca. 20 min. | Einführung GWP und kurze Einordnung von FDM in Open Science. | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -75,14 +75,14 @@ import:
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
-| Ca. 10 min | Organisatorisches | Klärung von offenen Fragen. | Hier können jegliche Aspekte zum Kurs besprochen werden, wie z.B. Prüfungsleistungen oder die Nutzung LiaScript. | PL |
+| Ca. 10 min. | Organisatorisches | Klärung von offenen Fragen. | Hier können jegliche Aspekte zum Kurs besprochen werden, wie z.B. Prüfungsleistungen oder die Nutzung LiaScript. | PL |
 
 > ### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | :--- | :--- | :--- | :--- | :--- |
-| Ca. 15 min | Wissenspool zum Thema FDM | L. schafft Basis für gemeinsame Arbeit | Wissenspool (Mindmap) | PL |
-| Ca. 30 min | Offene Diskussion im Plenum zur Relevanz und den Vor- und ggf. Nachteilen vom FDM (mit Bezug auf das Studium). | Die S. können die Relevanz und Vor- und Nachteile von FDM gegenüberstellen [(4)](#14).  <br>Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Diskussion | PL |
+| Ca. 15 min. | Wissenspool zum Thema FDM | L. schafft Basis für gemeinsame Arbeit | Wissenspool (Mindmap) | PL |
+| Ca. 30 min. | Offene Diskussion im Plenum zur Relevanz und den Vor- und Nachteilen vom FDM (mit Bezug auf das Studium). | Die S. können die Relevanz und Vor- und Nachteile von FDM gegenüberstellen [(4)](#14).  <br>Die S. sind in der Lage, das angewandte Wissen zum Thema FDM auf relevante Aspekte in ihrem Studium zu beziehen [(5)](#14). | Diskussion | PL |
 | ca. 25 min. | Übung zum DFG Kontext  <br>Diskussion im Plenum | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen  <br>Anschließende Diskussion im Plenum | GA / PL |
 
 > ### Abschluss
@@ -113,41 +113,30 @@ Organisatorisches
 
 Die S. tragen in einem Wissenspool ihr Vorwissen aus der Selbstlernphase zum Thema „Was ist FDM?“ zusammen. Die S. (geleitet von L.) sollen einen konkreten Bezug zu ihrem Studium herstellen  
 Welche Rolle spielt FDM in ihrem Studium? In ihrem Fach?  
-Diskussion in Plenum über die Beiträge u. Erarbeitung neuer Stichpunkte
+Diskussion im Plenum über die Beiträge u. Erarbeitung neuer Stichpunkte
 
-- L. leitet eine offene Diskussion zur Relevanz von FDM, sowie Vor- und Nachteile im Plenum ein
-- L. gibt ggf. Beispiele aus eigener Erfahrung / aus der Fachdisziplin
+- L. leitet eine offene Diskussion zur Relevanz von FDM sowie Vor- und Nachteile im Plenum ein
+- L. gibt ggf. Beispiele aus eigener Erfahrung/aus der Fachdisziplin
 
 **Besprechung von Fallbeispielen**
 
 Die S. sollen ein Bezug auf ihr Studium herstellen.  
 Diskussion und Ergänzung des Wissenspools  
 Übung mit DFG-Kodex. Anschließende Diskussion im Plenum  
-Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen mit anschließender Diskussion im Plenum.
+Arbeit in Kleingruppen und Beantwortung von vorbereiteten Fragen mit anschließender Diskussion im Plenum. <!-- Ergänzung der Leitfragen, die von FD2-Gruppe erstellt wurden -->
 
 > ### Abschluss
 
-L. erklärt Erwartungen für nächste Stunde
-
-- Was wird als Vorbereitung für die nächste Stunde erwartet?
-- Blick auf die Aufgaben im LMS
-
-L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt\*  
-\*Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten  
-L. fragt, ob die S. noch offene Fragen haben
+L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind. 
+L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
 
 </section>
 
-## (Mögliche) Ergänzende Materialien im LMS
-
-- Einleitungsvideo mit Legetechnik
-- [Simples Beispiel (Legetechnick Video - free account), wie man ggf. FDM einleiten könnte.](https://videos.simpleshow.com/1WU20yUyee)
-- Gamification-Element
-- anhand dessen Stellen wir Probleme (eines Charakters) dar und gehen dann auf die einzelnen Kapitel ein, wie man es dann richtig machen sollte/kann.
-- Scarytale-typ im Videospiel-Format
-- Vllt. wie ein "Escape Room": Unterschiedliche Aspekte im Raum werden beleuchtet (zB Unordnung im Schrank, Error auf dem PC-Bildschirm) -> dann zu Lösungen kommen.
+## (Mögliche) Ergänzende Materialien im LMS 
 
 FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können,[https://zenodo.org/record/7377582](https://zenodo.org/record/7377582)
+
+<!-- in die Text-Datei und nicht in LZ, oder ? -->
 
 ## Taxonomiestufen
 
