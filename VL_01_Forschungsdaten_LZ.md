@@ -38,7 +38,7 @@ link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd
 
 ||||
 | --- | --- | --- |
-| 1 | Die S. können Forschungsdaten von denen sie in ihrem Studium bereits gehört haben identifizieren [(2)](#4). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
+| 1 | Die S. können Forschungsdaten, von denen sie in ihrem Studium bereits gehört haben, identifizieren [(2)](#4). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
 | 2 | Die S. können verschiedene Formen von Forschungsdaten benennen [(1)](#4). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
 | 3 | Die S. können zuordnen [(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
 </section>
@@ -51,9 +51,9 @@ link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd
 
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | :---: | --- | --- | --- | :---: |
-| Ca. 5 min | Begrüßung | L. stellt sich vor und startet den Kurs. |  |  |
-| Ca. 20 min | [(Ice Breaker)](#3) | Die S. besprechen intuitiv folgendes (ohne vorherige Einleitung):<br><br> + Was sind Forschungsdaten<br> + Welche Forschungsdaten kennen sie bereits?<br> + Mit welchen Forschungsdaten haben sie bereits im Studium gearbeitet?<br><br> Die S. können Forschungsdaten mit denen sie in ihrem Studium bereits gearbeitet haben identifizieren [(2)](#4). | Zuerst besprechen sich die S. in Kleingruppen (2-3) und beantworten die drei Fragen.<br><br> Daraufhin werden die Antworten von jeder (einigen) Gruppe(n) im Plenum geteilt. <br> Das bietet die Möglichkeit, für die S. sich und deren Wissen zum Thema Forschungsdaten auszutauschen. | GA / PL |
-| Ca. 15 min | Einführung in den Kurs:<br><br> + Wie ist der Kurs gestaltet, <br> + was wird von den Studierenden erwartet. <br><br> Erster Blick auf Materialien und Aufgaben | L. bietet S. Orientierung: <br><br> L. macht [Lernziele](#1), Lernwege und Leistungserwartungen transparent <br><br> L. erklärt die Grundidee und den Mehrwert von Flipped Classroom <br><br> L. ermöglicht Zugang zu und erklärt Umgang mit E-Learning-System. | LMS | LV |
+| Ca. 5 min. | Begrüßung | L. stellt sich vor und startet den Kurs. |  |  |
+| Ca. 20 min. | [(Ice Breaker)](#3) | Die S. besprechen intuitiv folgendes (ohne vorherige Einleitung):<br><br> + Was sind Forschungsdaten<br> + Welche Forschungsdaten kennen sie bereits?<br> + Mit welchen Forschungsdaten haben sie bereits im Studium gearbeitet?<br><br> Die S. können Forschungsdaten mit denen sie in ihrem Studium bereits gearbeitet haben identifizieren [(2)](#4). | Zuerst besprechen sich die S. in Kleingruppen (2-3) und beantworten die drei Fragen.<br><br> Daraufhin werden die Antworten von jeder (einigen) Gruppe(n) im Plenum geteilt. <br> Das bietet die Möglichkeit, für die S. sich und deren Wissen zum Thema Forschungsdaten auszutauschen. | GA / PL |
+| Ca. 15 min. | Einführung in den Kurs:<br><br> + Wie ist der Kurs gestaltet, <br> + was wird von den Studierenden erwartet? <br><br> Erster Blick auf Materialien und Aufgaben | L. bietet S. Orientierung: <br><br> L. macht [Lernziele](#1), Lernwege und Leistungserwartungen transparent <br><br> L. erklärt die Grundidee und den Mehrwert von Flipped Classroom <br><br> L. ermöglicht Zugang zu und erklärt Umgang mit E-Learning-System. | LMS | LV |
 </section>
 
 <section>
@@ -62,9 +62,9 @@ link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd
 
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | :---: | --- | --- | --- | :---: |
-| Ca. 10 min | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen: <br> - Was ist Forschung (überhaupt)? <br> (weitere Fragen unten) | Brainstorming / Diskussion | PL |
-| Ca. 15 min | Thema: Definition Forschungsdaten. | L. bezieht sich auf die Diskussion [(Ice Breaker)](#3) in der Einstiegsphase und bespricht folgendes: <br><br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br><br> Die S. können verschiedene Formen von Forschungsdaten benennen [(1)](#4). | Lehrvortrag mit Visualisierung (bspw. Foliensatz) | LV |
-| ca. 15 min | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung. | Die S. können zuordnen [(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
+| Ca. 10 min. | Thema: Forschung | Folgende Aspekte werden von L. eingeführt und im Plenum besprochen: <br> - Was ist Forschung (überhaupt)? <br> (weitere Fragen in der Erläuterung) | Brainstorming / Diskussion | PL |
+| Ca. 15 min. | Thema: Definition Forschungsdaten. | L. bezieht sich auf die Diskussion [(Ice Breaker)](#3) in der Einstiegsphase und bespricht folgendes: <br><br> Wie kommen Forschungsdaten zustande? <br> Mit welchen Forschungsdaten wird im Studium in welchen Fächern gearbeitet? <br><br> Die S. können verschiedene Formen von Forschungsdaten benennen [(1)](#4). | Lehrvortrag mit Visualisierung (bspw. Foliensatz) | LV |
+| Ca. 15 min. | Erläuterung der Rolle/Relevanz von Forschungsdaten in der Forschung. | Die S. können zuordnen [(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Diskussion zur Verwendung der Global-Terrorism-Database | PL |
 
 </section>
 
@@ -74,7 +74,7 @@ link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd
 
 | Zeit| Inhalt | Ziele | Methoden / Medien  (Arbeitsschritte)| Sozialform |
 | :---: | --- | --- | --- | :---: |
-| Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben und Umfang Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
+| Ca. 5 min. | Was wird als Vorbereitung für die nächste Stunde erwartet? <br><br> (Aufgaben, Umfang, Zeit, schriftliche Dokumentation) | L. erklärt Erwartungen für nächste Stunde | LMS |  |
 | Ca. 5 min. | Klärung von offenen Fragen und Abschluss | L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ---
@@ -145,7 +145,7 @@ L. kann sich auf die Leitfragen (unten) beziehen.
 
 L. zeigt Fallbeispiel GTD.
 
-S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt habe, zu welche Zwecke die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können
+S. sammeln Ideen, welche Herausforderungen sich in den exemplarisch vorgestellten Forschungsprojekten bei der Erhebung gestellt haben, zu welchen Zwecken die erhobenen Forschungsdaten nachgenutzt werden und wie die Daten kritisch interpretiert werden können. <!-- Den Absatz je nach Beispieldatenbank anpassen -->
 
 #### Interaktion: Relevanz von Forschungsdaten in der Forschung
 
@@ -157,14 +157,11 @@ S. ordnen Forschungsdaten bestimmten Forschungsbereichen, Formen und Formaten zu
 
 > ### Abschluss
 
-L. erklärt Erwartungen für nächste Stunde
+L. gibt Ausblick auf nächstes Thema und erklärt die Erwartungen für die nächste Stunde, inklusive Blick auf die Aufgaben im LMS.
 
-- Was wird als Vorbereitung für die nächste Stunde erwartet?  
-- Blick auf die Aufgaben im LMS  
+L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt.[^2] 
 
-L. teilt mit, in welcher Form die Aufgabe(n) erfüllt werden sollen und welchen zeitlichen Umfang die Kursvorbereitung in etwa einnimmt[^2] 
-
-L. fragt, ob S. noch offene Fragen haben
+L. fragt die S., ob noch Unklarheiten oder offene Fragen vorhanden sind.
 
 ---
 [^2]: Bei Prüfungsform Lernportfolio: Schriftliche Ausarbeitung der Leitfragen in Form von Stichpunkten
