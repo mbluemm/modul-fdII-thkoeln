@@ -126,6 +126,8 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 ## Vor- und Nachteile der FAIR-Prinzipien im Forschungsdatenmanagement
 
+<!-- Abbildung 052_THK_Wiederverwendbarkeit --> 
+
  ### Vorteile der FAIR-Prinzipien:
 
  <!-- 0022_THK_fröhliche_Person -->
