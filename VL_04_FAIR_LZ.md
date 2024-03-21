@@ -135,10 +135,7 @@ Folien 10-15: Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#
 Angaben zum Umgang mit Forschungsdaten. → Hier gibt es oft Leitlinien (z. B. von Institutionen, wie der TH Köln), denen gefolgt werden kann. [https://forschungsdaten-thueringen.de/files/images/Material/2023\_02\_14\_Farify\_your\_data.pdf](https://forschungsdaten-thueringen.de/files/images/Material/2023_02_14_Farify_your_data.pdf)
 
 GO FAIR – FAIR made easy (englisch, 4:06), [https://youtu.be/CEPsTiEgWR4](https://youtu.be/CEPsTiEgWR4)
-
-Quiz: Vier Single-Choice-Fragen (Wofür steht das F? Etc.); eine Dag-&-Drop-Aufgabe: „Ziehe die beschriebenen Aspekte zum passenden Buchstaben“ ; Quiz: [https://howtofair.dk/quiz/](https://howtofair.dk/quiz/) Folien 1-8 (Fairytale) : https://zenodo.org/record/7743920
-
-[https://forskningsdata.dk/fairytale/](https://forskningsdata.dk/fairytale/) Fairytale-Inspiration (englisch)
+<!-- zu Text bei Weiterführendes... -->
 
 ## Taxonomiestufen
 
