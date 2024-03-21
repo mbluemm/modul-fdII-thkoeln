@@ -36,7 +36,7 @@ import:
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können beschreiben (1), was der Nutzen des Dokumentierens von Daten ist und herausstellen (2), welche Relevanz dies hat. | Die S. haben gelernt, welche Komponenten eine Dokumentation von Daten enthalten kann, und weshalb diese so wichtig ist. |
+| 1 | Die S. können beschreiben (1), was der Nutzen einer Dokumentation von Daten ist und herausstellen (2), welche Relevanz dies hat. | Die S. haben gelernt, welche Komponenten eine Dokumentation von Daten enthalten kann, und weshalb diese so wichtig ist. |
 | 2 | Die S. können herausstellen (2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Die S. verstehen die Korrelation zwischen und Relevanz von Forschungsprojekten und deren Dokumentation. |
 
 ## Lernziele für den Unterricht in Präsenz
@@ -51,7 +51,7 @@ import:
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema:<br><br>Infotext, inkl. Grafiken.<br><br>Video:<br><br>[2min Video](https://youtu.be/cMP9v7Se6cY): FDM erklärt ([Quelle: H-BRS](https://www.h-brs.de/de/bib/forschungsdatenmanagement))<br><br>Drag&Drop-Aufgabe + Hilfsmittel Checkliste | Die S. können beschreiben(1), was der Nutzen des Dokumentierens von Daten ist und herausstellen(2), welche Relevanz dies hat.<br><br>Die S. können herausstellen(2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Text und Erklärvideo als Informationsquelle<br><br>Drag&Drop-Aufgabe Hilfsmittel Checkliste | EA |
+| Ca. 20 min. | Einführung in das Thema:<br><br>Infotext<br><br>Video:<br><br>Hilfsmittel Checkliste | Die S. können beschreiben(1), was der Nutzen des Dokumentierens von Daten ist und herausstellen(2), welche Relevanz dies hat.<br><br>Die S. können herausstellen(2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Text und Erklärvideo als Informationsquelle<br><br> Hilfsmittel Checkliste | EA |
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase | Transferaufgabe | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase | EA |
 
 ---
@@ -86,31 +86,26 @@ Begrüßung
 
 ###  Arbeitsphase 
 
-(Ca. 70 Min.) Gruppen-Aufgabe zu „Dokumentation von Daten / DMP“
+(ca. 70 min.) Gruppenaufgabe zu „Dokumentation von Daten / DMP“
 
 L. teilt S. in Gruppen ein und erläutert den Arbeitsauftrag:
 
-Überlegen Sie sich eine Datenmanagement-Strategie für einen eigenen Datensatz (z.B. Vorlesungsmitschriften, Musiksammlung o.Ä.).
+Überlegen Sie sich eine Datenmanagement-Strategie für einen eigenen Datensatz (z. B. Vorlesungsmitschriften, Musiksammlung o. Ä.).
 
 - Wie würden Sie vorgehen?
 - Welche Schritte sind nötig?
 - Versuchen Sie, die Checkliste (Hilfsmittel) auszufüllen.
 
-L. berät die Gruppen bei Herausforderungen und Schwierigkeiten
+L. berät die Gruppen bei Herausforderungen und Schwierigkeiten.
 
 ###  Abschluss 
 
-(10 Min.) Reflexion über Gruppenarbeit (Herausforderungen, Nachteile, Vorteile, Chancen etc.) im Plenum
+(10 min.) Reflexion über Gruppenarbeit (Herausforderungen, Nachteile, Vorteile, Chancen etc.) im Plenum.
 
-L. fragt S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
+L. fragt S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
+L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
 
-##  (Mögliche) Ergänzende Materialien im LMS 
-
-Checkliste zur Datendokumentation
-
-[2min Video](https://youtu.be/cMP9v7Se6cY): FDM erklärt ([Quelle: H-BRS](https://www.h-brs.de/de/bib/forschungsdatenmanagement))
 
 ## Taxonomiestufen
 

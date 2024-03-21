@@ -29,49 +29,64 @@ import:
 In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Prinzipien
 praktisch umgesetzt werden können und welche Vor- und Nachteile die Anwendung der FAIR-
 Prinzipien mit sich bringen können.
+<!-- Überschrift Lernziele hinzufügen + Video von Medienagentur -->
 
 ## FAIR-Prinzipien
 
 Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessible (Zugänglich), Interoperable (Interoperabel) und Reusable (Nachnutzbar).
 Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten, damit diese
 
-<!-- Grafik von Kerstin, FAIR ggff. Übersetzung von "reusable" im Text anpassen-->
+<!-- G-0044_BUW_Icon_Findability, G-0019_BUW_Icon_Zugang, G-0046_BUW_Icon_Interoperability, G-0020_BUW_Icon_Nachnutzung ; FAIR ggff. Übersetzung von "reusable" im Text anpassen-->
 
 sind.
 
-An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet sein (Sauther-Patrascu und Dmitrieva, 2021).
+An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet werden (Sauther-Patrascu und Dmitrieva, 2021).
+
+<!-- 0007_THK_Leitlinien -->
 
 ```
 Quelle: Forschungsdaten.info, 2023
 ```
 ### Findable (Auffindbar):
 
+<!-- G-0044_BUW_Icon_Findability -->
+
 Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 
 - Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige
     Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre
     dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier).
+  <!-- 0021_THK_PID neben Absatz ergänzen -->
 - Umfangreiche Metadaten: Daten werden umfassend mit Metadaten beschrieben. Diese
     Metadaten enthalten klar und explizit die Kennung der beschriebenen Daten.
+    <!-- 0005_THK_Metadaten neben Absatz ergänzen -->
 - Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um
     ihre Organisation und Auffindbarkeit zu verbessern.
+  <!-- G-0038_BUW_Icon_Diskette neben Absatz ergänzen -->
 
 
 ### Accessible (Zugänglich):
 
-Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erfordert klare Zugangsregeln
-und offene Lizenzen, die die Wiederverwendung ermöglichen. Forschungsdaten können in
-Forschungsdaten-Journalen oder Forschungsdatenzentren veröffentlicht werden. Es ist wichtig, dass
-persistente Metadaten vorhanden sind, auch wenn die Daten später zurückgenommen werden
-müssen.
+<!-- G-0019_BUW_Icon_Zugang -->
+
+Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erfordert:
+- klare Zugangsregeln und offene Lizenzen, die die Wiederverwendung ermöglichen.
+  Forschungsdaten können in Forschungsdaten-Journalen oder Forschungsdatenzentren veröffentlicht werden.
+<!-- 0019_THK_Zugriffsrechte neben Absatz ergänzen -->
+- persistente Metadaten, auch wenn die Daten später zurückgenommen werden müssen.
+<!-- 0005_THK_Metadaten neben Absatz ergänzen -->
+
 Es ist jedoch zu beachten, dass nicht alle Forschungsdaten für eine freie Veröffentlichung geeignet
 sind, insbesondere wenn es sich um sensible, personenbezogene Daten handelt oder wenn Rechte
 Dritter involviert sind. FAIR bedeutet nicht automatisch Open Access, da es auch Fälle gibt, in denen
 Daten aufgrund von Einschränkungen nicht frei zugänglich gemacht werden können. In solchen Fällen
 können Hinweise in den Metadaten angegeben werden, um Interessierte an den entsprechenden
 Ansprechpartner zu verweisen.
+<!-- G-0153_BUW_Icon_personenbezogene_Daten und 0016_THK_gesetzliche Vorschriften neben Absatz ergänzen -->
 
 ### Interoperable (Interoperabel):
+
+<!--  G-0046_BUW_Icon_Interoperability -->
 
 Interoperabilität wird durch verschiedene Maßnahmen erreicht:
 
@@ -84,8 +99,11 @@ Interoperabilität wird durch verschiedene Maßnahmen erreicht:
 - Qualifizierte Verweise auf andere Metadaten: Metadaten sollten qualifizierte Verweise auf
     andere Metadaten enthalten. Dies unterstützt die Nachverfolgbarkeit und Verknüpfung von
     Informationen.
+<!-- Abbildung 0044_THK_Metadaten einfügen -->
 
 ### Reusable (Wiederverwendbar):
+
+<!-- G-0020_BUW_Icon_Nachnutzung -->
 
 Wiederverwendbarkeit stellt sicher, dass Forschungsdaten und die zugehörigen Metadaten so
 umfassend beschrieben sind, dass sie für zukünftige Forschungsvorhaben von Mensch und Maschine
@@ -93,12 +111,12 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 - Detaillierte Beschreibung von Metadaten: Daten und Metadaten sollten ausführlich
     beschrieben werden.
+  - Informationen zur Entstehung: Metadaten sollten detaillierte Informationen über die
+    Entstehung der Daten enthalten, einschließlich der verwendeten Methoden, Instrumente und
+    Software.
 - Klare Datennutzungslizenz: Die Daten müssen mit einer eindeutigen und zugänglichen
     Datennutzungslizenz veröffentlicht werden. Dies klärt, unter welchen Bedingungen die Daten
     genutzt werden dürfen.
-- Informationen zur Entstehung: Metadaten sollten detaillierte Informationen über die
-    Entstehung der Daten enthalten, einschließlich der verwendeten Methoden, Instrumente und
-    Software.
 - Anpassung an Community-Standards: Die Metadaten sollten den Standards und Praktiken
     der jeweiligen Forschungsgemeinschaft entsprechen, um eine reibungslose Zusammenarbeit
     und Nutzung zu ermöglichen.
@@ -108,7 +126,11 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 ## Vor- und Nachteile der FAIR-Prinzipien im Forschungsdatenmanagement
 
+<!-- Abbildung 052_THK_Wiederverwendbarkeit --> 
+
  ### Vorteile der FAIR-Prinzipien:
+
+ <!-- 0022_THK_fröhliche_Person -->
 
 - Erhöhte Sichtbarkeit und Zitierbarkeit: Durch die Einhaltung der FAIR-Prinzipien werden
     Forschungsdaten besser auffindbar und zitierbar. Dies trägt dazu bei, die Anerkennung und
@@ -131,6 +153,8 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
  ### Nachteile der FAIR-Prinzipien:
 
+<!-- 0023_THK_nachdenkende_Person -->
+
 - Zeitaufwand: Die Anwendung der FAIR-Prinzipien erfordert zusätzliche Zeit und Ressourcen
     für die Erstellung von Metadaten, die Datenorganisation und die Einhaltung von Standards.
 - Komplexität: Die Umsetzung der Prinzipien erfordert ein Verständnis für
@@ -147,19 +171,21 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 Leitfragen:
 <!-- zu 2) "in Ihrem Studium angewendet/umgesetzt wurden" als Unterschied zu Frage 1 @mbluemm -->
+<!-- 0025_THK_Fragezeichen -->
 1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium relevant sind.
 
 Aufgabe:
+ <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Lektüre
-
-<!-- Ergänzende Materialien in LZ - Vereinheitlichung von Blöcken -->
+ <!-- 0038_THK_Buch -->
+<!-- Vereinheitlichung von Blöcken -->
 
 ## Weiterführende Literatur und Links (optional):
-
+<!-- G-0044_BUW_Icon_Findability -->
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
 for Indigenous data futures. Sci Data 8, 108. [https://doi.org/10.1038/s41597-021-00892-0](https://doi.org/10.1038/s41597-021-00892-0).
 

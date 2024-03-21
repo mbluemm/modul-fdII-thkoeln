@@ -31,26 +31,31 @@ diese hat und welche Informationen in einer Dokumentation enthalten sein können
 Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle relevanten
 Aspekte für Studierende abdeckt und die Sie zukünftig für wichtige Forschungsarbeiten ausfüllen
 können.
+<!-- Icon 0010_THK_DMP_Dokumentation + Überschrift Lernziele einfügen und Video von Medienagentur einfügen -->
 
 ## Über Daten informieren und Daten dokumentieren
 
 Daten und Prozesse sollten von Anfang an dokumentiert werden. Die Dokumentation dient der
 Planung und Durchführung der einzelnen Vorhaben, indem wichtige Fragen im Umgang mit Daten
 und bezüglich des Projektes beantwortet werden. Eine solche Dokumentation deckt alle Phasen des
-Datenlebenszyklus deckt und zeigt auf, welche Aspekte zu klären sind, damit die Daten verfügbar,
+Datenlebenszyklus ab und zeigt auf, welche Aspekte zu klären sind, damit die Daten verfügbar,
 nachnutzbar und nachvollziehbar bleiben.
 
-Die Verschriftlichung sorgt dafür, dass ein einheitlicher Umgang Daten und schafft eine verbindliche
+<!-- interaktiver DMP, wenn von Medienagentur erstellt, einfügen --> 
+
+Die Verschriftlichung sorgt für einen einheitlichen Umgang mit Daten und schafft eine verbindliche
 Grundlage. Sollte man zudem noch einmal auf vergangene Forschungsvorhaben zurückgreifen
 wollen, hat man Antworten zu allen wichtigen Fragen auf einen Blick und in einem Dokument abgelegt
 und kann diese besser (nach)nutzen. Die Daten werden dank der Dokumentation und Strukturierung
 also auch zukünftig für einen selbst besser einsehbar und bleiben verständlich. Auch wird die Gefahr
 des Datenverlusts verringert, da Daten besser auffindbar und nachvollziehbar sind, aber auch
 Regelungen zur Sicherung der Daten verschriftlicht werden und demnach mehr Verbindlichkeit
-erlangen. Das mit der Dokumentation einhergehende verbesserte Wissensmanagement stellt zudem
+erreichen. Das mit der Dokumentation einhergehende verbesserte Wissensmanagement stellt zudem
 sicher, dass Daten auch von Anderen einfacher verstanden und organisiert werden können, etwa,
 wenn man seine Arbeiten an Andere weitergeben möchte oder kollaborativ an einer Studien-
 /Prüfungsleistung arbeitet.
+
+<!-- Abbildung 0050_THK_Kollaboratives_Arbeiten einfügen -->
 
 Im besten Fall wird eine Dokumentation der Daten am Anfang des Projekts begonnen, wenn noch
 keine Daten gesammelt wurden, da somit schon zu Beginn wichtige Entscheidungen gefällt werden
@@ -60,20 +65,21 @@ wenigen Absätzen und mehreren Seiten umfassen.
 
 * Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation.
 
-Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
-Prozesse. Einzelne Aspekte können nehmen erst während der Projektlaufzeit Gestalt an. Eventuell
-müssen einige Punkte im Laufe des Vorhabens immer wieder angepasst und vervollständigt.
-
-> Hinweis:<br/><br/>Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
+> Hinweis:<br/><br/> Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
+Prozesse. Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
 > Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
 
 Die nachfolgenden Leitfragen helfen, einer ausführlichen Projektdokumentation im Studienkontext
 nachzukommen. Aspekte wie “Was fällt an Daten überhaupt an?” und “Wie speichere ich die Daten
-am Besten?” können so geklärt und festgehalten werden.
+am besten?” können so geklärt und festgehalten werden.
 
-(Quelle: ResearchDataRepositories PreservationPlan DigitalPreservation von Jørgen Stamp)
+(Quelle: ResearchDataRepositories PreservationPlan DigitalPreservation von Jørgen Stamp) 
+<!-- die Abbildung einen Absatz höher -->
 
 ## Checkliste zur Datendokumentation
+
+<!-- hier auch downloadbares Doc einfügen + hier oder bei Weiterführenden Materialien die beispielhaft ausgefüllte Checkliste der FDII-Gruppe per Link (?) einfügen -->
+<!-- Kommentar der Studis: Wir würden eine Anmerkung einbauen (z.B. im Text), dass normalerweise jeweils ein DMP pro Forschungszweck erstellt wird, und nicht pro Person. Die Gruppenmitglieder sollten alle Zugriff auf diesselbe Version haben z.B. durch digitale kollaborative Tools. -->
 
 (Abgewandelt von: Institut für Bibliothek- und Informationswissenschaft, Humboldt-Universität zu
 Berlin, 2021 u. 2022)
@@ -151,6 +157,7 @@ ______________________
 
  ______________________
 
+<!-- die Punkte durchnummerieren anstelle auflisten (Wunsch der Studis) --> 
 
 Literaturrecherche Wie soll die verwendete Literatur
 organisiert werden?
@@ -204,7 +211,7 @@ wie z.B. eine DOI?
 - [ ] ja
 - [ ] nein
 
-Datensatz Um welche Arten von Daten handelt es sich?
+Datensatz Um welche Arten von Daten handelt es sich? <!-- hier noch Beispiele von Datenarten ergänzen (Wunsch der Studis) --> 
 Sind ethische und rechtliche Vorgaben zu
 berücksichtigen?
 
@@ -260,7 +267,7 @@ Erläuterung verstanden werden oder müssen sie
 aufgearbeitet werden?
 
 Welche Informationen sind für Außenstehende (z. B.
-Dozenten, Studierende) notwendig, um die Daten sowie
+Lehrende, Studierende) notwendig, um die Daten sowie
 die auf ihrer Basis gewonnenen Forschungsergebnisse
 nachvollziehen und nachnutzen zu können?
 
@@ -323,7 +330,7 @@ einem anderen Ort gelagert (z. B. USB-Stick).
 
 ## 4. Datenorganisation
 
-Datenbenennung Wie wurden die Daten benannt? Gibt es ein
+Dateibenennung Wie wurden die Daten benannt? Gibt es ein
 einheitliches Schema? Wenn ja, welches?
 
 Bspw.:
@@ -385,7 +392,7 @@ Weitergabe / Nachnutzung
 Wenn ja,...
 
 Ist es geplant, die Daten nach der Aufgabe zu
-teilen? Z. B. mit Dozenten / Studierenden.
+teilen? Z. B. mit Lehrenden / Studierenden.
 
 - [ ] ja
 - [ ] nein
@@ -405,7 +412,7 @@ aufgearbeitet werden?
 - [ ] nein
 
 ...Welche Informationen (wie Metadaten) sind für
-Außenstehende (z. B. Dozenten, Studierende)
+Außenstehende (z. B. Lehrende, Studierende)
 notwendig, um die Daten sowie die auf ihrer
 Basis gewonnenen Forschungsergebnisse
 nachvollziehen und nachnutzen zu können?
@@ -475,7 +482,7 @@ sicher vernichtet?
 
 
 ## Leitfragen (Aufgabe)
-
+<!-- 0025_THK_Fragezeichen -->
 Leitfragen
 
 - Wofür wird eine Dokumentation von Daten benötigt?
@@ -483,11 +490,12 @@ Leitfragen
     relevant?
 
 Aufgabe:
+<!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Literatur und Links (optional):
-
+<!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
