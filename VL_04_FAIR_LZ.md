@@ -47,8 +47,8 @@ import:
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema:  Infotext zu FAIR-Prinzipien inkl. Grafiken.  Aufschlüsselung des Akronyms,  Bezug zu Leitlinie in der Hochschule, Relevanz von FDM  <br> <br> Optionale Angebote: <br> Video von GOfair, <br> Best-Practice-Beispiel “Fairytale”, <br> Quiz | Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Text <br> Optionale Informationsquellen: Erklärvideo, Best-Practice-Beispiel oder Quiz | EA |
-| Ca. 10 Min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
+| Ca. 20 min. | Einführung in das Thema:  Infotext zu FAIR-Prinzipien.  Aufschlüsselung des Akronyms,  Bezug zu Leitlinie in der Hochschule, Relevanz von FDM  <br> <br> Optional: <br> Video von GOfair, <br> Best-Practice-Beispiel “Fairytale”, <br> | Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Text <br> Optional: Erklärvideo, Best-Practice-Beispiel | EA |
+| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -59,30 +59,30 @@ import:
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 5 Min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 5 Min. | Mindmap zu Vor- und Nachteilen von FAIR-Prinzipien  alternativ:  Tandem: „Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?“ | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen(4).  alternativ:  Ergebnissicherung, Vertiefung der Inhalte aus der Online-Phase  Die S. können Ihre schriftlichen Ausarbeitungen ergänzen  Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Wissenspool  oder:  Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.  alternativ:  Think-Pair-Share im Tandem | PL / GA |
+| Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
+| Ca. 5 min. | Mindmap zu Vor- und Nachteilen von FAIR-Prinzipien  alternativ:  Tandem: „Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?“ | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen(4).  alternativ:  Ergebnissicherung, Vertiefung der Inhalte aus der Online-Phase  Die S. können Ihre schriftlichen Ausarbeitungen ergänzen  Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Wissenspool  oder:  Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.  alternativ:  Think-Pair-Share im Tandem | PL / GA |
 | Ca. 10 Min. | Diskussion im Plenum über festgehaltene Beiträge | s. o. | Diskussion | PL |
 
 #### Arbeitsphase
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 Min. | Gruppeneinteilung  Gruppen-Aufgabe zu „Fairness von Daten“. | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von Fragen in Gruppenarbeit (insgesamt 3 Gruppen).  alternativ:  Die S. suchen sich eigene Datensätze aus.  alternativ:  Kopfstandmethode - Wie mache ich meine Daten möglichst unfair?  Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) fair (für sich und für Dritte) zusammenzustellen(5).  Die S. sind in der Lage, die Fairness von Daten zu beurteilen(6).  - Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Erarbeitung von Fallbeispielen in Gruppenarbeit  Vorbereitung von Impulsvorträgen | GA |
+| Ca. 20 min. | Gruppeneinteilung  Gruppen-Aufgabe zu „Fairness von Daten“. | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von Fragen in Gruppenarbeit (insgesamt 3 Gruppen).  alternativ:  Die S. suchen sich eigene Datensätze aus.  alternativ:  Kopfstandmethode - Wie mache ich meine Daten möglichst unfair?  Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) fair (für sich und für Dritte) zusammenzustellen(5).  Die S. sind in der Lage, die Fairness von Daten zu beurteilen(6).  - Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Erarbeitung von Fallbeispielen in Gruppenarbeit  Vorbereitung von Impulsvorträgen | GA |
 | Ca. 40 Min. | Präsentation der einzelnen Gruppen (jeweils ca. 5 Min. pro Gruppe) mit jeweils anschließender Diskussion im Plenum (jeweils ca. 10 Min.) | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
 
 #### Abschluss
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 10. Min. | Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde  L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 10 min. | Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung | L. erklärt Erwartungen für nächste Stunde  L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
-## Präsenzphase /Erläuterungen
+## Präsenzphase / Erläuterungen
 
 ### Einstiegsphase
 
 Begrüßung
 
-(ca. 5 Min.) Methode: Wissenspool (Mindmap)\*
+(ca. 5 min.) Methode: Wissenspool (Mindmap)\*
 
 Aufgabe:
 ===
@@ -91,9 +91,9 @@ Benennen Sie die Vor- und Nachteile von FAIR-Prinzipien
 
 \* Alternativ: Pro-Kontra-Diskussion mit zufälliger Einteilung der S. in eine Pro- und eine Kontragruppe, für die es jeweils Argumente zu finden gilt.
 
-(ca. 10 Min.) Methode: Diskussion im Plenum über festgehaltene Beiträge
+(ca. 10 min.) Methode: Diskussion im Plenum über festgehaltene Beiträge
 
-Weiterführende Fragen, z.B.
+Weiterführende Fragen, z. B.
 
 - Was ist mit personenbezogenen Daten?
 - Was ist mit Geschäftsgeheimnissen / Geheimhaltung / Patente?
@@ -101,32 +101,32 @@ Weiterführende Fragen, z.B.
 
 alternativ:
 
-(ca. 5 Min.) Methode: Think – Pair – Share
+(ca. 5 min.) Methode: Think – Pair – Share
 
 Aufgabe:
 ===
 
 Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
 
-(ca. 10 Min.) Methode: Diskussion im Plenum über festgehaltene Beiträge
+(ca. 10 min.) Methode: Diskussion im Plenum über festgehaltene Beiträge
 
 ### Arbeitsphase
 
 L. teilt die S. in Gruppen von 3 bis 5 S. ein und erläutert den Arbeitsauftrag:
 
 <!-- aus der Beispielsammlung @KaFrit, Zeitangabe überprüfen -->
-Jede Gruppe bekommt ein Fallbeispiel. Die einzelnen Fallbeispiele sollen die jeweiligen Gruppen besprechen (20 Min.) und anhand folgender Fragen so ausarbeiten, dass sie sie dem Plenum im Anschluss in 5 Min. vorstellen können:
+Jede Gruppe bekommt ein Fallbeispiel. Die einzelnen Fallbeispiele sollen die jeweiligen Gruppen besprechen (20 min.) und anhand folgender Fragen so ausarbeiten, dass sie sie dem Plenum im Anschluss in 5 Min. vorstellen können:
 
 - Bei welchen Aspekten wurden die FAIR-Prinzipien berücksichtigt?
 - Wie können die unFAIRen Aspekte verbessert werden?
 
-Besprechung von Fallbeispielen mit anschließender Diskussion (pro Gruppe ca. 10 Min. Vorstellung + ca. 10 Min. Diskussion)
+Besprechung von Fallbeispielen mit anschließender Diskussion (pro Gruppe ca. 10 min. Vorstellung + ca. 10 min. Diskussion)
 
 ### Abschluss
 
-L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
+L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
+L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
 
 ## (Mögliche) Ergänzende Materialien im LMS
 
