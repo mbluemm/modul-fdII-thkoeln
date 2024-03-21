@@ -1,7 +1,7 @@
 {
-  "name": "basiskurs_fdm",
+  "name": "fdm_th_koeln",
   "version": "0.0.1",
-  "description": "Basiskurs FDM der TH Koeln",
+  "description": "A VuePress project",
   "license": "MIT",
   "type": "module",
   "scripts": {
