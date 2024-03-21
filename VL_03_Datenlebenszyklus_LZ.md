@@ -127,9 +127,9 @@ Reflexion des Themas in Bezug auf das Studium: Die S. sollen überlegen und begr
 
 ### Abschluss
 
-L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
+L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
+L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
 
 
 ## Taxonomiestufen
