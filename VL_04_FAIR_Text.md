@@ -167,6 +167,8 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
     gleichermaßen anwenden, da disziplinspezifische Anforderungen und Datenschutzbedenken
     variieren können.
 
+<!-- Quiz / Wahr oder Falsch: Aufgabe von Train-the-Trainer (S. 33): Wahrheit oder Lüge: Welchen der folgenden Aussagen bezogen auf die FAIR-Prinzipien stimmen Sie zu? 1. Nur offene Daten können auch FAIR sein. 2. Ein gutes Forschungsdatenmanagement ist eine Voraussetzung für Daten, die den FAIR-Prinzipien entsprechen. 3. Sind Daten offen und FAIR, ist auch eine gute Datenqualität garantiert. 4. Je FAIRer und offener Daten sind, desto größer ist das Nachnutzungspotential. -->
+
 ## Leitfragen (Aufgabe)
 
 Leitfragen:
