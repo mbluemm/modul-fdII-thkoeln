@@ -20,6 +20,17 @@ tags:     LiaScript, Preview
 link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd7aaacbacb9896120d3a1a/common_style.css
        
 -->
+# Inhaltsverzeichnis
+
++ [Lernziel](#was-sind-forschungsdaten)
++ [1](#was-sind-forschungsdaten)
+    - [Gesetzliche_Definition](#gesetzliche-definition-von-forschungsdaten)
+    - [Datentypen](#welche-datentypen-gibt-es)
+    - [Relevanz](#die-relevanz-von-forschungsdaten)
++ [3](#leitfragen-und-aufgaben)
++ [4](#lektüre)
++ [5](#literatur)
+
 
 # Was sind Forschungsdaten?
 
