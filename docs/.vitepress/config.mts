@@ -8,21 +8,28 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Vorlesungsskripte', link: '/skripte' },
+      { text: 'Lernziele', link: '/lz' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Materialien',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Zeug 1', link: '' },
+          { text: 'Zeug 2', link: '' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://git.uni-due.de/fdm_studium_lehre/thkoeln/oer_thkoeln.git' }
+    ],
+
+    footer: {
+      message: '<b>Released</b> under the MIT License.',
+      copyright: '© 2024 FDM@Studium.nrw</a>'
+    },
   }
 })
+
