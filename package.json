@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/mbluemm/modul-fdII-thkoeln.git",
   "author": "SinaNLRBock <sina.bock@th-koeln.de>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
 }
