@@ -1,0 +1,8 @@
+{
+  "name": "fd2_thkoeln",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mbluemm/modul-fdII-thkoeln.git",
+  "author": "SinaNLRBock <sina.bock@th-koeln.de>",
+  "license": "MIT"
+}
