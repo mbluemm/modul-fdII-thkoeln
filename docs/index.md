@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Modul FDII - TH Köln"
-  text: "Testseite"
+  name: "FDII - Basiskurs"
+  text: "FDII-Basiskurs"
   tagline: My great project tagline
   actions:
     - theme: brand
