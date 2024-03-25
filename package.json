@@ -2,9 +2,13 @@
   "name": "fd2_thkoeln",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "Testseite für den Basiskurs",
   "repository": "https://github.com/mbluemm/modul-fdII-thkoeln.git",
   "author": "SinaNLRBock <sina.bock@th-koeln.de>",
   "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.1"
+  },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
