@@ -1,4 +1,3 @@
-docs/.vitepress/dist
 docs/.vitepress/cache
 *.log
 .DS_Store
@@ -6,7 +5,6 @@ docs/.vitepress/cache
 .vite_opt_cache
 .vscode
 cache
-dist
 node_modules
 .temp
 *.tgz
