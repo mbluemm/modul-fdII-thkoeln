@@ -69,6 +69,8 @@ export default defineConfig({
         ]
       }
     ],
+
+    logo: '/media/assets/TH_Koeln.png',
     
   }
 }
