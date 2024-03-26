@@ -16,8 +16,8 @@ export default defineConfig({
       {
         text: 'FDM@Studium.nrw',
         items: [
-          { text: 'Projekt', link: '/about/Projekt.md' },
-          { text: 'Förderer', link: '/about/Foerderer.md' }
+          { text: 'FDM@Studium.nrw', link: 'https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97' },
+          { text: 'Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen', link: 'https://www.mkw.nrw/hochschule-und-forschung/digitalisierung-hochschule-und-wissenschaft/forschungsdatenmanagement-fdm' }
         ]
       },
       {
@@ -26,7 +26,7 @@ export default defineConfig({
         { text: 'Landesinitiative_NRW', link: '/about/Landesinitative_NRW.md' },
         { text: 'UDE', link: "/about/UDE" },
         { text: 'BUW', link: "/about/BUW" },
-        { text: 'TH Koeln', link: "/about/TH_Koeln" }
+        { text: 'TH Koeln', link: "https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/fdmstudiumnrw_98785.php" }
         ]
       }],
   
