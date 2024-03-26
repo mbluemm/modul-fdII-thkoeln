@@ -5,13 +5,15 @@ outline: deep
 # Inhaltsverzeichnis
 
 + [Lernziel](#was-sind-forschungsdaten)
-+ [1](#was-sind-forschungsdaten)
++ [Was sind Forschungsdaten](#was-sind-forschungsdaten)
+    
     - [Gesetzliche_Definition](#gesetzliche-definition-von-forschungsdaten)
     - [Datentypen](#welche-datentypen-gibt-es)
     - [Relevanz](#die-relevanz-von-forschungsdaten)
-+ [3](#leitfragen-und-aufgaben)
-+ [4](#lektüre)
-+ [5](#literatur)
+
++ [Leitfragen und Aufgaben](#leitfragen-und-aufgaben)
++ [Lektüre](#lektüre)
++ [Literatur](#literatur)
 
 
 # Was sind Forschungsdaten?
