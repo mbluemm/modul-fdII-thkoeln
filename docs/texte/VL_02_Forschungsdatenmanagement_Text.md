@@ -1,7 +1,19 @@
 
 # Was ist Forschungsdatenmanagement?
 
+# Inhaltsverzeichnis
 
++ [Lernziele](#was-sind-forschungsdaten)
++ [Die Relevanz von Forschungsdatenmanagement](#die-relevanz-von-forschungsdatenmanagement)
++ [FDM in Open Science](#fdm-in-open-science)
+    
+    - [ Was ist Gute wissenschaftliche Praxis?](#was-ist-gute-wissenschaftliche-praxis)
+    - [Datentypen](#welche-datentypen-gibt-es)
+    - [Relevanz](#die-relevanz-von-forschungsdaten)
+
++ [Leitfragen und Aufgaben](#leitfragen)
++ [Lektüre](#lektüre)
++ [Literatur](#literatur)
 
 <!-- LN 31-33 in einen Absatz zu Lernzielen vor "Was ist Forschungsdatenmanagement", bei dem Absatz mit Lernzielen Abbildung 0053_THK_Tools ergänzen  -->
 

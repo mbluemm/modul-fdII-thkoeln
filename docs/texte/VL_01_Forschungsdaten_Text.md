@@ -1,6 +1,6 @@
 # Inhaltsverzeichnis
 
-+ [Lernziel](#was-sind-forschungsdaten)
++ [Lernziele](#was-sind-forschungsdaten)
 + [Was sind Forschungsdaten](#was-sind-forschungsdaten)
     
     - [Gesetzliche_Definition](#gesetzliche-definition-von-forschungsdaten)
