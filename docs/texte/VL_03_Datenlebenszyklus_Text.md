@@ -26,9 +26,23 @@ import:
 
 # VL3: Datenlebenszyklus
 
++ [Lernziele](#was-sind-forschungsdaten)
++ [Die Relevanz von Forschungsdatenmanagement](#die-relevanz-von-forschungsdatenmanagement)
++ [FDM in Open Science](#fdm-in-open-science)
+    
+    - [ Was ist Gute wissenschaftliche Praxis?](#was-ist-gute-wissenschaftliche-praxis)
+    - [Datentypen](#welche-datentypen-gibt-es)
+    - [Relevanz](#die-relevanz-von-forschungsdaten)
+
++ [Leitfragen und Aufgaben](#leitfragen)
++ [Lektüre](#lektüre)
++ [Literatur](#literatur)
+
+## Lernziele
 In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
 
 <!-- Überschrift/Abschnitt mit Lernzielen ergänzen sowie Video einfügen --> 
+
 
 ## Der Datenlebenszyklus: Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
 

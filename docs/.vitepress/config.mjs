@@ -21,7 +21,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Kooperationsprojekte',
+        text: 'Über das Projekt',
         items: [
         { text: 'Landesinitiative_NRW', link: '/about/Landesinitative_NRW.md' },
         { text: 'UDE', link: "/about/UDE" },

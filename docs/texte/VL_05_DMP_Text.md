@@ -137,23 +137,23 @@ ______________________
  '----------------------------'
 ```
 
-- für die Datendokumentation:
+- 1. für die Datendokumentation:
 
  ______________________
 
-- für die Datenerhebung:
+- 2. für die Datenerhebung:
 
  ______________________
 
-- für die Datenspeicherung während des Bearbeitungszeitraums:
+- 3. für die Datenspeicherung während des Bearbeitungszeitraums:
 
  ______________________
 
-- für die Datenspeicherung nach Ende des Bearbeitungszeitraums:
+- 4. für die Datenspeicherung nach Ende des Bearbeitungszeitraums:
 
  ______________________
 
-- für den Schutz der Daten:
+- 5. für den Schutz der Daten:
 
  ______________________
 

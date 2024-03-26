@@ -26,6 +26,20 @@ import:
 
 # FAIR-Prinzipien
 
++ [Lernziele](#was-sind-forschungsdaten)
++ [Die Relevanz von Forschungsdatenmanagement](#die-relevanz-von-forschungsdatenmanagement)
++ [FDM in Open Science](#fdm-in-open-science)
+    
+    - [ Was ist Gute wissenschaftliche Praxis?](#was-ist-gute-wissenschaftliche-praxis)
+    - [Datentypen](#welche-datentypen-gibt-es)
+    - [Relevanz](#die-relevanz-von-forschungsdaten)
+
++ [Leitfragen und Aufgaben](#leitfragen)
++ [Lektüre](#lektüre)
++ [Literatur](#literatur)
+
+## Lernziele
+
 In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Prinzipien
 praktisch umgesetzt werden können und welche Vor- und Nachteile die Anwendung der FAIR-
 Prinzipien mit sich bringen können.
@@ -172,10 +186,9 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 ## Leitfragen (Aufgabe)
 
 Leitfragen:
-<!-- zu 2) "in Ihrem Studium angewendet/umgesetzt wurden" als Unterschied zu Frage 1 @mbluemm -->
 <!-- 0025_THK_Fragezeichen -->
 1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
-2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium relevant sind.
+2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium angewendet wurden.
 
 Aufgabe:
  <!-- 0034_THK_Aufgabe -->
