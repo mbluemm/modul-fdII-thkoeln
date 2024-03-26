@@ -1,25 +1,7 @@
-<!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+---
+outline: deep
+---
 
-email:    mirjam.bluemm@th-koeln.de
-
-logo:    
-
-version:  0.0.1
-
-language: de
-
-narrator: Deutsch Female
-
-comment:  
-
-tags:     LiaScript, Preview
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-link:     https://github.com/mbluemm/modul-fdII-thkoeln/blob/81374760c5426a03dbd7aaacbacb9896120d3a1a/common_style.css
-       
--->
 # Inhaltsverzeichnis
 
 + [Lernziel](#was-sind-forschungsdaten)
