@@ -9,7 +9,7 @@ titleTemplate: Vorlesungskripte, Lerzielmatrizen, Kursmaterialien
 hero:
   name: "FDII - Basiskurs"
   tagline: The best things in life aren't things!
-  image:
+  logo: /medien/assets/TH_Koeln.png
   src: 
 
   alt: FDM@TH_Koeln
