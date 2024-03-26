@@ -5,6 +5,8 @@ layout: home
 title: FDM Basiskurs
 titleTemplate: Vorlesungskripte, Lerzielmatrizen, Kursmaterialien
 
+lastUpdated: true
+
 
 hero:
   name: "FDII - Basiskurs"

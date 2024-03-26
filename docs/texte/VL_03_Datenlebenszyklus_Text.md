@@ -21,7 +21,6 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/comm
 
 import:   
 
-          
 -->
 
 # VL3: Datenlebenszyklus
@@ -70,8 +69,7 @@ dargestellt werden:
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Aufbewahrung.
 
-<iframe class="responsive-iframe" src="https://miro.com/app/live-embed/uXjVNLiBT34=/?moveToViewport=28061,-26570,59488,39039&embedId=464892809366" frameborder="0" scrolling="yes" allow="fullscreen; clipboard-read" allowfullscreen></iframe>
-</div>
+<!-- Arbeitskompass -->
 
 Quelle: Arbeitskompass zum Thema FDM
 
@@ -195,17 +193,13 @@ sind einige Faktoren zu berücksichtigen.
 
 Die Daten müssen:
 
-- zugänglich sein. Offene Daten / “Open Data” bzw. Daten mit offenen Lizenzen dürfen
-    verwendet werden (z. B. Creative Commons).
+- zugänglich sein. Offene Daten / “Open Data” bzw. Daten mit offenen Lizenzen dürfen verwendet werden (z. B. Creative Commons).
 - zitierfähig und langfristig verfügbar sein. Das heißt, sie verfügen über alle notwendigen
     Informationen und über eine dauerhafte Kennung, einen sogenannten Persistent Identifier
     (PID), wie z. B. eine DOI oder eine URN.
 - qualitativ hochwertig sein. Das heißt, sie sind vollständig, fehlerfrei, bereinigt und lückenlos.
 - in weit verbreiteten und nicht-proprietären Dateiformaten verfügbar sein.
-- erschlossen sein. Metadaten und eine Dokumentation der Daten erleichtern die Interpretation
-    und Reproduzierbarkeit der Daten. Welche Untersuchungen wurden mit diesen Daten
-    durchgeführt und welche Ergebnisse wurden erzielt? Was möchte ich untersuchen und wie
-    unterscheidet es sich von bisheriger Nutzung?
+- erschlossen sein. Metadaten und eine Dokumentation der Daten erleichtern die Interpretation und Reproduzierbarkeit der Daten. Welche Untersuchungen wurden mit diesen Daten durchgeführt und welche Ergebnisse wurden erzielt? Was möchte ich untersuchen und wie unterscheidet es sich von bisheriger Nutzung?
 
 <!-- 0024_THK_Qualitätskontrolle neben Abschnitt einfügen -->
 
@@ -214,7 +208,7 @@ Mehr dazu, was bei der Nachnutzung von Daten beachtet werden muss unter “recht
 ![](https://)
 Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 
-<!-- Drag&Drop zu "Ordne die Stationen dem Datenlebenszyklus zu" --> 
+<!-- Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 
 
 ## Weiterführende Literatur und Links (optional)
 
