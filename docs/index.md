@@ -17,13 +17,13 @@ hero:
   actions:
     - theme: brand
       text: Vorlesungskripte
-      link: /skripte
+      link: /texte/VL_01_Forschungsdaten_Text.md
     - theme: alt
-      text: Lerzielmatrizen
-      link: /lz
+      text: Lerzielmatrizen/
+      link: /lz/VL_01_Forschungsdaten_LZ.md
     - theme: brand
       text: Einführung
-      link: /start
+      link: /start/einfuehrung.md
 
 features:
   - title: OER
