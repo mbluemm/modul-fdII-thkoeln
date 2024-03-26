@@ -173,7 +173,7 @@ Global Indigenous Data Alliance (GIDA). (o. D.). Hauptseite. Zugriff am 18.10.20
 [https://www.gida-global.org/care](https://www.gida-global.org/care).
 
 Research Data Alliance International Indigenous Data Sovereignty Interest Group. (2019, September).
-“CARE Principles for Indigenous Data Governance.” The Global Indigenous Data Alliance. [GIDA-global.org](GIDA-global.org)
+“CARE Principles for Indigenous Data Governance.” The Global Indigenous Data Alliance. [https://www.gida-global.org](https://www.gida-global.org)
 
 Rösch, H. (2021). 1.5 Forschungsethik und Forschungsdaten. In M. Putnings, H. Neuroth & J.
 Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (pp. 115-140). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-006](https://doi.org/10.1515/9783110657807-006).
