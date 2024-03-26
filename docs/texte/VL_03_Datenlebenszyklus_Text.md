@@ -64,7 +64,13 @@ dargestellt werden:
 - Arbeit mit den Daten: Aufbereitung und Analyse der Daten
 - Aufbewahrung und Bereitstellung der Daten
 
-<!-- Icons (unter Absatz?) ergänzen: G-0015_BUW _Icon_Planung ; G-0016_BUW_Icon_Erhebung; 0006_THK_Organisieren; G-0017_BUW_Icon_Analyse ; G-0018_BUW_Icon_Archivierung ; 0009_THK_Veroeffentlichen -->
+<!-- Icons (unter Absatz?) ergänzen:
+G-0015_BUW_Icon_Planung
+G-0016_BUW_Icon_Erhebung
+0006_THK_Organisieren
+G-0017_BUW_Icon_Analyse
+G-0018_BUW_Icon_Archivierung
+0009_THK_Veroeffentlichen -->
 
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Aufbewahrung.
