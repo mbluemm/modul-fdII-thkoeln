@@ -150,7 +150,7 @@ Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen ver
 
 <br>
 
-![Abbildung 1:](gfx/img/GTD_Attentate_Region.svg)
+![Abbildung 1:](medien/abbildungen/GTD_Attentate_Region.svg)
 
 Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate.
 Sina Bock[^5]
