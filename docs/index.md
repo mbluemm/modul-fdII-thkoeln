@@ -8,7 +8,6 @@ titleTemplate: Vorlesungskripte, Lerzielmatrizen, Kursmaterialien
 
 hero:
   name: "FDII - Basiskurs"
-  text: "FDII-Basiskurs"
   tagline: The best things in life aren't things!
   image:
   src: 

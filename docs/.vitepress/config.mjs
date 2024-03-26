@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https:/vitepress.dev/reference/site-config
 
 export default defineConfig({
-  title: 'FDM Basiskurs',
+  //title: 'FDM Basiskurs',
   lang: 'de-DE',
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
 
