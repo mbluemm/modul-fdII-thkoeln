@@ -53,7 +53,6 @@ export default defineConfig({
       text: 'Vorlesungsskripte',
       collapsible: true,
       items: [
-        { text: 'VL 01 VL 01 Forschungsdaten Text', link: "/texte/VL_01_Forschungsdaten_Text.md" },
         { text: 'VL 01 Forschungsdaten Text', link: '/texte/VL_01_Forschungsdaten_Text.md' },
         { text: 'VL 02 Forschungsdatenmanagement Text', link: '/texte/VL_02_Forschungsdatenmanagement_Text.md' },
         { text: 'VL 03 Datenlebenszyklus Text', link: '/texte/VL_03_Datenlebenszyklus_Text.md' },       
