@@ -71,6 +71,16 @@ export default defineConfig({
     ],
 
     logo: '/media/assets/TH_Koeln.png',
+
+    socialLinks: [
+      { icon: 'github',
+        link: 'https://github.com/mbluemm/modul-fdII-thkoeln' },
+    ],
+
+    footer: {
+      message: '<b>Released</b> under the MIT License.',
+      copyright: 'Copyright © 2024 <a href="https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97" target="_blank">FDM@Studium.NRW</a>'
+    },
     
   }
 }
