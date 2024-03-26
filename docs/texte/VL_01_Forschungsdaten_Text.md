@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Inhaltsverzeichnis
 
 + [Lernziel](#was-sind-forschungsdaten)

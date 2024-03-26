@@ -1,8 +1,11 @@
 
 # Was ist Forschungsdatenmanagement?
 
+
+
 <!-- LN 31-33 in einen Absatz zu Lernzielen vor "Was ist Forschungsdatenmanagement", bei dem Absatz mit Lernzielen Abbildung 0053_THK_Tools ergänzen  -->
 
+## Lernziele
 In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und dessen Rolle in
 Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschungspraxis verortet
 wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenhängt.
