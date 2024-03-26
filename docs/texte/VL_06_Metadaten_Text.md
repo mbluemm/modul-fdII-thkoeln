@@ -31,7 +31,7 @@ fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 
 <!-- style="width: 25%;" -->
-![Was sind Metadaten? ](/gfx/img/Metadata_DigitalPreservation_512.png)
+![Was sind Metadaten? ](/medien/abbildungen/Metadata_DigitalPreservation_512.png)
 <br>
 <a href="https://commons.wikimedia.org/wiki/File:Metadata_DigitalPreservation.png">Jørgen Stamp</a>, <a href="https://creativecommons.org/licenses/by/2.5/dk/deed.en">CC BY 2.5 DK</a>, via Wikimedia Commons
 
