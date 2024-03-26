@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build with VitePress
-        run: npm run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
+        run: yarn run docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
