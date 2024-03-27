@@ -201,6 +201,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Literatur und Links (optional):
 <!-- G-0044_BUW_Icon_Findability -->
+<!-- hier noch 04_Poster_FAIRDATA einfügen aus sciebo-Ordner --> 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
 for Indigenous data futures. Sci Data 8, 108. [https://doi.org/10.1038/s41597-021-00892-0](https://doi.org/10.1038/s41597-021-00892-0).
 
@@ -219,8 +220,6 @@ Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding
 Principles for scientific data management and stewardship. Sci Data 3, 160018.
 [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
-
-Böker, E. (2023b, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
 
 ## Quellen:
 
