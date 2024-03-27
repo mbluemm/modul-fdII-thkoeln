@@ -108,7 +108,18 @@ Abschluss des Projekts geplant.
 <!-- G-0016_BUW_Icon_Erhebung -->
 
 Zu Beginn sollte eine Recherche und Durchsicht bereits vorhandener Literatur und die Identifizierung von Daten, die bereits vorhanden sind und später genutzt werden können, erfolgen.
-Bei der Nachnutzung von Daten Dritter ist es notwendig, die Zustimmung zur Datennutzung einzuholen, möglicherweise durch die Anwendung von offenen Lizenzen.  
+Bei der Nachnutzung von Daten Dritter ist es notwendig, die Zustimmung zur Datennutzung einzuholen, möglicherweise durch die Anwendung von offenen Lizenzen.
+
+Um bereits erhobene und veröffentlichte Daten gemäß wissenschaftlichen Standards nachzunutzen,
+sind einige Faktoren zu berücksichtigen. Die Daten müssen:
+
+- zugänglich sein. Offene Daten / “Open Data” bzw. Daten mit offenen Lizenzen dürfen verwendet werden (z. B. Creative Commons).
+- zitierfähig und langfristig verfügbar sein. Das heißt, sie verfügen über alle notwendigen
+    Informationen und über eine dauerhafte Kennung, einen sogenannten Persistent Identifier
+    (PID), wie z. B. eine DOI oder eine URN.
+- qualitativ hochwertig sein. Das heißt, sie sind vollständig, fehlerfrei, bereinigt und lückenlos.
+- in weit verbreiteten und nicht-proprietären Dateiformaten verfügbar sein.
+- erschlossen sein. Metadaten und eine Dokumentation der Daten erleichtern die Interpretation und Reproduzierbarkeit der Daten. Welche Untersuchungen wurden mit diesen Daten durchgeführt und welche Ergebnisse wurden erzielt? Was möchte ich untersuchen und wie unterscheidet es sich von bisheriger Nutzung? <!-- 0024_THK_Qualitätskontrolle neben Abschnitt einfügen -->
 
 Wenn eigene Daten erhoben werden, etwa in Experimenten, Beobachtungen, 
 Messungen oder Simulationen, ist es von höchster Bedeutung, 
@@ -153,63 +164,21 @@ Quelle: Digitalbevaringdk2021 International_DigitalBevaring
 ### Daten aufbewahren und bereitstellen
 
 <!-- G-0018_BUW_Icon_Archivierung ; 0009_THK_Veroeffentlichen -->
+Bei der Aufbewahrung und Bereitstellung von Daten ist es wichtig, dass diese zugänglich, zitierfähig, qualitativ 
+und erschlossen sind (genauer unter dem Punk „Daten erfassen“ <!-- hier interner Link zu dem Text -->). 
+Außerdem sollten in weit verbreiteten und nicht-proprietären Dateiformaten verfügbar sein.
 
-Bei der Aufbewahrung und Sicherung von Daten ist es wichtig, neben den klaren Dateinamen und
-einer geregelten Versionskontrolle aus vorherigen Phasen, auch eine gut durchdachte Ordnerstruktur
-und die 3- 2 - 1 - Backup-Regel zu berücksichtigen. Bei der Weitergabe und gemeinsamen Nutzung von
-Daten, sei es mit Kommilitonen für Studienprojekte oder zur Abgabe bei Lehrkräften, ist es
-entscheidend, die Datenethik und rechtliche Aspekte im Auge zu behalten und Zugriffsrechte
-angemessen zu verwalten.
+Bei der Weitergabe und gemeinsamen Nutzung von Daten, sei es mit Kommilitonen für Studienprojekte oder zur Abgabe bei Lehrkräften, 
+ist es entscheidend, die Datenethik und rechtliche Aspekte im Auge zu behalten und Zugriffsrechte angemessen zu verwalten. 
 
-Wenn es darum geht, Daten zu veröffentlichen, sei es als eigene Ergänzung zu wissenschaftlichen
-Fachartikeln oder als Beitrag in einem Datendossier, gibt es zusätzliche Überlegungen. Diese werden
-in den kommenden beiden Abschnitten behandelt und sind besonders relevant für Forschende.
-
-### Daten archivieren und veröffentlichen
-
-<!-- 0009_THK_Veroeffentlichen -->
-
-Es besteht auch die Möglichkeit, Daten, insbesondere im Rahmen von Publikationen, der
-Öffentlichkeit zugänglich zu machen und sie über einen längeren Zeitraum aufzubewahren. In solchen
-Fällen ist es entscheidend, eine Langzeitarchivierung zu berücksichtigen. Um eine vorbildliche
-wissenschaftliche Praxis zu gewährleisten, wird empfohlen, (Roh)Daten für einen Zeitraum von zehn
-Jahren verfügbar zu halten, wie es in den Leitlinien der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft, 2019) festgelegt ist.
-
-Bei Langzeitarchivierungen oder Publikationen sind weitere Schritte erforderlich. Dazu gehört die
-Auswahl eines geeigneten Archivs, wie beispielsweise eines Repositoriums, sowie die Definition der
-Urheberrechte und Festlegung von Zugriffsrechten für diejenigen, die auf die Daten zugreifen sollen
-(z. B. mit Creative Commons-Lizenzen). Die Verwendung angemessener Dateiformate und die
-Hinterlegung der relevanten Metadaten sind ebenfalls wichtig, um sicherzustellen, dass die Daten
-leicht auffindbar und wiederverwendbar sind.
-
-Repositorien, die den FAIR-Prinzipien entsprechen, erfüllen beide Anforderungen.
-
-### Daten nachnutzen
-
-Daten können vom Datenerzeuger selbst oder von Dritten neu oder unter anderen Aspekten
-betrachtet (nachgenutzt) werden. In einer Sekundärdatenanalyse könnten die Daten für weitere
-Untersuchungen verwendet werden. Dies ermöglicht die Überprüfung, Bestätigung oder Widerlegung
-bisheriger Ergebnisse oder Erkenntnisse, was auch als Replikation oder Qualitätssicherung bekannt
-ist. Ferner könnten aus denselben Daten neue Erkenntnisse gewonnen werden.
-
-<!-- Ab hier Infobox einfügen? --> 
-
-Um bereits erhobene und veröffentlichte Daten gemäß wissenschaftlichen Standards nachzunutzen,
-sind einige Faktoren zu berücksichtigen.
-
-Die Daten müssen:
-
-- zugänglich sein. Offene Daten / “Open Data” bzw. Daten mit offenen Lizenzen dürfen verwendet werden (z. B. Creative Commons).
-- zitierfähig und langfristig verfügbar sein. Das heißt, sie verfügen über alle notwendigen
-    Informationen und über eine dauerhafte Kennung, einen sogenannten Persistent Identifier
-    (PID), wie z. B. eine DOI oder eine URN.
-- qualitativ hochwertig sein. Das heißt, sie sind vollständig, fehlerfrei, bereinigt und lückenlos.
-- in weit verbreiteten und nicht-proprietären Dateiformaten verfügbar sein.
-- erschlossen sein. Metadaten und eine Dokumentation der Daten erleichtern die Interpretation und Reproduzierbarkeit der Daten. Welche Untersuchungen wurden mit diesen Daten durchgeführt und welche Ergebnisse wurden erzielt? Was möchte ich untersuchen und wie unterscheidet es sich von bisheriger Nutzung?
-
-<!-- 0024_THK_Qualitätskontrolle neben Abschnitt einfügen -->
-
-Mehr dazu, was bei der Nachnutzung von Daten beachtet werden muss unter “rechtliche und ethische Aspekte”.
+Bei einer Publikation oder Langzeitarchivierung sind weitere Schritte erforderlich. Dazu gehört die Auswahl eines geeigneten Archivs, 
+wie beispielsweise eines Repositoriums, sowie die Definition der Urheberrechte und Festlegung von Zugriffsrechten für diejenigen, 
+die auf die Daten zugreifen sollen (z. B. mit Creative Commons-Lizenzen).  Die Verwendung angemessener Dateiformate und 
+die Hinterlegung der relevanten Metadaten sind ebenfalls wichtig, um sicherzustellen, 
+dass die Daten leicht auffindbar und wiederverwendbar sind. Repositorien, die den FAIR-Prinzipien entsprechen, 
+erfüllen beide Anforderungen. Um eine vorbildliche wissenschaftliche Praxis zu gewährleisten, wird empfohlen, 
+(Roh)Daten für einen Zeitraum von zehn Jahren verfügbar zu halten, wie es in den Leitlinien 
+der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft, 2019) festgelegt ist.
 
 ![](https://)
 Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
