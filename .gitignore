@@ -5,3 +5,4 @@
 node_modules
 .temp
 *.tgz
+DS_Store
