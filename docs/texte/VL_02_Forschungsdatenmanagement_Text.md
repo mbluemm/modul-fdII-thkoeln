@@ -156,8 +156,10 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 </section>
 
-## Leitfragen
+## Leitfragen und Aufgaben 
 
+Leitfragen 
+===
 - Was versteht man unter Forschungsdatenmanagement?
 - Inwiefern betrifft das Thema Forschungsdatenmanagement Bereiche ihres Studiums?
 - Welche Argumente sprechen für Forschungsdatenmanagement, welche Vorbehalte gibt es?
@@ -166,14 +168,14 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 <section>
 
-## Aufgabe
-
+Aufgabe
+===
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 <!-- 0034_THK_Aufgabe --> 
 
-## Lektüre
-
+Lektüre
+===
 Lesen Sie die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen
 Forschungsgemeinschaft aufmerksam durch. Deutsche Forschungsgemeinschaft. (2019). Leitlinien
 zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo.
