@@ -30,7 +30,7 @@ import:
 
 - Die Ablage von Daten erfolgt bei den S. aufgrund fehlender Sensibilisierung größtenteils unstrukturiert und ad hoc.
 
-- Es wird auf keine Nachnutzbarkeit (auch von Dritten) geachtet.
+- Es wird auf keine Nachnutzbarkeit (auch seitens Dritter) geachtet.
 
 ## Lernziele für den Online-Kurs (LiaScript)
 
@@ -75,7 +75,7 @@ import:
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden/Medien   (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 40 min. | Gruppenarbeit zum Thema Dateiablage. <br>Anhand einer Liste von Beispielen sollen die S. in Gruppen gute von schlechten Ordnerstrukturen und Dateibenennungskonventionen unterscheiden. <br>Anschließend kurze Besprechung/Auflösung im PL. | Die S. sind in der Lage, anhand von Beispielen geeignete (nachhaltige) und weniger geeignete Ordnerstrukturen sowie Dateibenennungskonventionen voneinander zu unterscheiden(4) und dies kritisch zu bewerten(6). | L. teilt die S. in Gruppen ein. <br>Die L. stellt den S. eine Liste von ca. drei Beispielen vor. Diese sind Beispiele von geeigneten (nachhaltigen) und weniger geeigneten Ordnerstrukturen und Dateibenennungskonventionen. <br>Die S. müssen dessen Sinnhaftigkeit und Nachhaltigkeit einordnen und bewerten. <br>Anschließend tragen die Gruppen ihre Bewertungen im PL vor und es erfolgt eine gemeinsame Reflexion und Diskussion. | GA / PL |
-| Ca. 25 min. | Einzelarbeit <br>Eigene Datenablage sinnvoll überarbeiten. <br>ODER <br>In Zweiergruppen sollen die S. die Dateien des Anderen sinnvoller benennen. <br>ALTERNATIV <br>Beispiel-Datenablage sinnvoll überarbeiten. | Die S. sind in der Lage, einen eigenen Datensatz/für eigene Dateien (oder einen Beispieldatensatz) eine sinnvolle Benennungskonvention (inkl. Versionierungsmethoden) und eine effiziente Ordnerstruktur zu entwickeln(5). | Die S. können sich ihre eigenen Dateien (oder die eines Anderen) vornehmen und diese sinnvoll und nachhaltig benennen und in Ordner strukturieren. <br>ALTERNATIV <br>2. Die L. bietet ein Beispiel von einer chaotischen Dateibenennung und Struktur. Die S. müssen diese bearbeiten und die Dateien sinnvoll umbenennen und strukturieren. <br>Anschließend eine kurze abschließende Diskussion im PL. | EA / PL |
+| Ca. 25 min. | Einzelarbeit <br>Eigene Datenablage sinnvoll überarbeiten. <br>ODER <br>In Zweiergruppen sollen die S. die Dateien des Anderen sinnvoller benennen. <br>ALTERNATIV <br>Beispiel-Datenablage sinnvoll überarbeiten. | Die S. sind in der Lage, einen eigenen Datensatz/für eigene Dateien (oder einen Beispieldatensatz) eine sinnvolle Benennungskonvention (inkl. Versionierungsmethoden) und eine effiziente Ordnerstruktur zu entwickeln(5). | Die S. können sich ihre eigenen Dateien (oder die eines Anderen) vornehmen und diese sinnvoll und nachhaltig benennen und in Ordner strukturieren. <br>ALTERNATIV <br>2. L. bietet ein Beispiel von einer chaotischen Dateibenennung und Struktur. Die S. müssen diese bearbeiten und die Dateien sinnvoll umbenennen und strukturieren. <br>Anschließend eine kurze abschließende Diskussion im PL. | EA / PL |
 
 #### Abschluss
 
@@ -107,19 +107,20 @@ Beantwortung von Leitfrage 3: Erläuterung der Sinnhaftigkeit und Relevanz einer
 ===
 
 L. teilt die S. in Gruppen auf und stellt den S. die Liste von ca. drei Beispielen vor. Die Gruppen setzen sich zusammen und bearbeiten die Aufgabe.
-
 Die S. müssen die Sinnhaftigkeit und Nachhaltigkeit der Datenablage (Ordnerstruktur und Dateibenennungskonventionen) der Beispiele einordnen und bewerten.
 
-Nach der Gruppenarbeit bringt L. Alle Gruppen zusammen. Jede Gruppe trägt ihre Bewertung mit Anregung zur Reflexion und Diskussion vor.
+Nach der Gruppenarbeit bringt L. alle Gruppen zusammen. Jede Gruppe trägt ihre Bewertung mit Anregung zur Reflexion und Diskussion vor.
 
 (ca. 25 Min.) Einzelarbeit, zwei Möglichkeiten
 ===
 
 1. Eigene Datenablage sinnvoll überarbeiten 
 
-Die S. können sich jeweils ihre eigenen Dateien vornehmen\* und diese sinnvoll und nachhaltig benennen und in Ordner strukturieren.
-
-\* die S. können sich frei entscheiden, welche ihrer Daten und Dateien sie gerne umstrukturieren und umbenennen (und die Benennungskonvention in einer separaten Textdatei festhalten) möchten. Dies können Dateien aus einem bestimmten (Studiums)Projekt, aus einem bestimmten Semester oder auch Privatdateien (z. B. Rechnungen etc.) sein, dessen Ordnerstruktur und Dateibenennungen sie gerne sinnvoll überarbeiten möchten.
+Die S. können sich jeweils ihre eigenen Dateien vornehmen und diese sinnvoll und nachhaltig benennen und in Ordner strukturieren.
+Die S. können sich frei entscheiden, welche ihrer Daten und Dateien sie gerne umstrukturieren und umbenennen 
+(und die Benennungskonvention in einer separaten Textdatei festhalten) möchten. 
+Dies können Dateien aus einem bestimmten StudienProjekt, aus einem bestimmten Semester o
+der auch Privatdateien (z. B. Rechnungen etc.) sein, dessen Ordnerstruktur und Dateibenennungen sie gerne sinnvoll überarbeiten möchten.
 
 ODER
 
@@ -127,15 +128,17 @@ Die S. können in Zweiergruppen die jeweils gegenseitigen Dateien sinnvoll struk
 
 2. Beispiel-Datenablage sinnvoll überarbeiten 
 
-Die L. bietet ein Beispiel von einer chaotischen Dateibenennung und Struktur. Die S. müssen dieses bearbeiten, indem sie die Dateien sinnvoll umbenennen (und die Benennungskonvention in einer separaten Textdatei festhalten) und umstrukturieren.
+L. bietet ein Beispiel von einer chaotischen Dateibenennung und Struktur. Die S. müssen dieses bearbeiten, indem sie die Dateien sinnvoll umbenennen (und die Benennungskonvention in einer separaten Textdatei festhalten) und umstrukturieren.
 
 Anschließend holt L. alle S. zurück ins PL und leitet eine kurze abschließende Diskussion ein.
 
 ### Abschluss 
 
-L. fragt S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
+L. fragt S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
-L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
+L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
+
+<!-- Aufgaben 1, 2, 3, u. 6 von FDII- Kurs ergänzen -->
 
 ## Taxonomiestufen
 
