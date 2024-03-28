@@ -1,3 +1,5 @@
+# Was sind Forschungsdaten?
+
 # Inhaltsverzeichnis
 
 + [Lernziele](#was-sind-forschungsdaten)
@@ -12,7 +14,7 @@
 + [Literatur](#literatur)
 
 
-# Was sind Forschungsdaten?
+
 
 
 <section>
@@ -38,7 +40,7 @@ Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlic
 
 <br>
 
-## Gesetzliche Definition von Forschungsdaten
+## Definition von Forschungsdaten des Europäischen Parlaments
 
 > Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt 
 > und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt 
