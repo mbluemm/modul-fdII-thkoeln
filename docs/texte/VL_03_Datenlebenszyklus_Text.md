@@ -183,7 +183,14 @@ der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft, 2019) fes
 ![](https://)
 Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 
-<!-- Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 
+
+## Leitfragen und Aufgaben
+### Leitfragen
+<!-- Wo sind die Leitfragen hin? Hatten wir die aussortiert? -->
+<!-- Aufgabe : Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 
+
+## Lektüre
+Stefanie Rümpel. Der Lebenszyklus von Forschungsdaten. In:  Handbuch Forschungsdatenmanagement. Stephan Büttner, Hans-Christoph  Hobohm, Lars Müller (Hrsg.). Bock + Herchen. Bad Honnef. 2011. S. 25-34.
 
 ## Weiterführende Literatur und Links (optional)
 
