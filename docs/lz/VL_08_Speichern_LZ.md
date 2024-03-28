@@ -38,7 +38,7 @@ import:
 ||||
 | :--- | :--- | :--- |
 | 1 | Die S. können die 3-2-1-Backup-Regel beschreiben(1) und die Relevanz der (gesicherten) Datenspeicherung/von Backups, insbesondere im FDM, erläutern(2). | Den S. wird bewusst, welche Wichtigkeit das ordentliche Speichern von Daten und die Erstellung von mehreren Backups haben. Daraufhin setzen sie die 3-2-1-Backupregel für ihre Dateien/in ihren Projekte um. |
-| 2 | Die S. können geeignete Speichersysteme (online/Cloudsysteme sowie lokale Träger) aufzählen(1). | Die S. wissen, auf welchen lokalen Trägern und insbesondere online-Systemen (z. B. Cloudsysteme der Hochschule), sie ihre Daten speichern können. Sie setzen dieses Wissen in ihrem Studium ein. |
+| 2 | Die S. können geeignete Speichersysteme (Onlinesysteme sowie lokale Träger) aufzählen(1). | Die S. wissen, auf welchen lokalen Trägern und insbesondere Onlinesystemen (z. B. Cloudsysteme der Hochschule) sie ihre Daten speichern können. Sie setzen dieses Wissen in ihrem Studium ein. |
 | 3 | Die S. können erläutern(2), warum Rohdaten separat gespeichert werden sollten. | Die S. verstehen, was Rohdaten (bzw. Primärdaten) sind, wie sie sich von Sekundärdaten unterscheiden und wieso diese separat gespeichert werden sollen. |
 | 4 | Die S. können geeignete Dateiformate für die Archivierung und Nachnutzung nennen(1). | Die S. lernen unterschiedliche Dateiformate kennen und wissen, welche Dateiformate zur Datenteilung und Nachnutzung besonders geeignet sind. |
 
@@ -49,7 +49,7 @@ import:
 | 5 | Die S. können verschiedene Dateiformate identifizieren und Dateitypen zuordnen(5). | Die S. wissen, auf welche Aspekte sie bei Dateiformaten der verschiedenen Datentypen zu achten haben, damit diese langfristig nachnutzbar bleiben. |
 | 6 | Die S. sind in der Lage, ungeeignete Datenspeicherung kritisch zu evaluieren(6) und notwendige Schritte für die Dateisicherung zu bestimmen(4). | Die S. erkennen, wenn Daten/Dateien nicht richtig gespeichert/gesichert wurden und wissen, wie diese abgespeichert/gesichert werden sollten. Sie können dieses Wissen (auch in ihrem Studium) umsetzen. |
 | 7 | Die S. können bewerten(6), für welche Anforderungen und Anwendungsszenarien welche Speichersysteme geeignet sind sowie dessen Nutzen und Risiken einordnen(4). | Die S. können das erlernte Wissen anwenden, um die Eignung unterschiedlicher Speichersysteme für diverse Szenarien zu beurteilen. |
-| 8 | Die S. sind in der Lage, zu begründen(6), welchen Mehrwert eine strukturierte und nachhaltige Daten-/Dateispeicherung für sie selbst und für andere bietet und können dies (inkl. der 3-2-1 Backup-Regel) in ihrem Studium anwenden. | Die S. verstehen, wofür eine strukturierte und nachhaltige Speicherung von Daten/Dateien sinnvoll ist. |
+| 8 | Die S. sind in der Lage zu begründen(6), welchen Mehrwert eine strukturierte und nachhaltige Daten-/Dateispeicherung für sie selbst und für andere bietet und können dies (inkl. der 3-2-1-Backup-Regel) in ihrem Studium anwenden. | Die S. verstehen, wofür eine strukturierte und nachhaltige Speicherung von Daten/Dateien sinnvoll ist. |
 
 ## Detaillierte Kursplanung[^1]
 
@@ -58,9 +58,9 @@ import:
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 10 min. | Einführung in das Thema Datenspeicherung.<br>- Wichtige Aspekte zur Speicherung von Daten hervorheben.<br>- Die 3-2-1-Backup-Regel definieren.<br>- Die Relevanz der Daten/Dateispeicherung im Forschungsprozess erläutern. | S. können die 3-2-1-Backup-Regel beschreiben(1) und die Relevanz der (gesicherten) Datenspeicherung/von Backups, insbesondere im FDM, erläutern(2). | Infotexte zu den Inhalten, inkl. Grafiken.<br>Erklärvideo<br>Antwort zu beiden Leitfragen im Lernportfolio notieren (für eine ggf. Diskussion im Plenum). | EA |
-| Ca. 5 min. | Thema:<br>Medien (Cloudsysteme, lokale Datenträger etc.) zur Daten / Dateispeicherung. | S. können unterschiedliche Speichersysteme (online/Cloudsysteme sowie lokale Träger), die sich für eine Datenspeicherung eignen, aufzählen(1). | Infotexte, Grafiken, Beispiele.<br>Optionale Aufgabe: Drag-the-words (oder Quiz für das gesamte Thema). | EA |
-| Ca. 5 min. | Die Relevanz der Daten/Dateispeicherung im Forschungsprozess erläutern (mit Bezug auf Rohdaten).<br>Nachnutzung von Daten/Dateien im Forschungsprozess (Bezug zum Studium herstellen). | S. können erläutern(2), warum Rohdaten\* separat gespeichert werden sollten.<br>\*unverarbeitete Originaldaten | Als eine Art Merkmal / Hinweis notieren. | EA |
-| Ca. 10 min. | Definition von unterschiedlichen Dateiformaten (für unterschiedliche Daten).<br>Hervorhebung von Relevanz von Dateiformaten in Bezug auf Nachnutzung. | S. können geeignete Dateiformate für die Archivierung und Nachnutzung nennen(1). | Infotexte, Grafiken.<br>Optionale Single-Choice-Fragen für unterschiedliche Dateiformate.<br>Ggf. In der Form eines interaktiven Videos mit Beispielen. | EA |
+| Ca. 5 min. | Thema:<br>Medien (Onlinesysteme, lokale Datenträger etc.) zur Daten-/Dateispeicherung. | S. können unterschiedliche Speichersysteme (Onlinesysteme sowie lokale Träger), die sich für eine Datenspeicherung eignen, aufzählen(1). | Infotexte, Grafiken, Beispiele. | EA |
+| Ca. 5 min. | Die Relevanz der Daten-/Dateispeicherung im Forschungsprozess erläutern (mit Bezug auf Rohdaten).<br>Nachnutzung von Daten/Dateien im Forschungsprozess (Bezug zum Studium herstellen). | S. können erläutern(2), warum Rohdaten\* separat gespeichert werden sollten.<br>\*unverarbeitete Originaldaten | Infotexte | EA |
+| Ca. 10 min. | Definition von unterschiedlichen Dateiformaten (für unterschiedliche Daten).<br>Hervorhebung von Relevanz von Dateiformaten in Bezug auf Nachnutzung. | S. können geeignete Dateiformate für die Archivierung und Nachnutzung nennen(1). | Infotexte | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
@@ -72,7 +72,7 @@ import:
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen<br>Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | ScaryTales und Beispiele (beide unten in einer Liste zu finden).<br>Zum Einstieg werden zwei ScaryTales im Plenum „gespielt“.<br>L. wählt zwei ScaryTales aus der Liste aus. | Die S. sind in der Lage ein schlechtes Beispiel (schlechte Datenspeicherung/Datenverlust) kritisch zu evaluieren(6) und notwendige Schritte zu bestimmen (4), die zu befolgen wären, um die Daten auf korrekte Weise zu sichern. | L. führt die erste ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden.<br>Das gleiche dann mit der zweiten ScaryTale. <br>ODER <br>Mit einem weiteren (negativen) Beispiel. | PL |
+| Ca. 15 min. | ScaryTales und Beispiele (beide unten in einer Liste zu finden).<br>Zum Einstieg werden zwei ScaryTales im Plenum „gespielt“.<br>L. wählt zwei ScaryTales aus der Liste aus. | Die S. sind in der Lage ein schlechtes Beispiel (schlechte Datenspeicherung/Datenverlust) kritisch zu evaluieren(6) und notwendige Schritte zu bestimmen (4), die zu befolgen wären, um die Daten auf korrekte Weise zu sichern. | L. führt die erste ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden.<br>Das gleiche mit der zweiten ScaryTale. <br>ODER <br>Mit einem weiteren (negativen) Beispiel. | PL |
 
 ### Arbeitsphase
 
@@ -99,14 +99,14 @@ Begrüßung
 Aufgabe
 ===
 
-Raten Sie und finden gemeinsam eine Antwort auf die ScaryTales.
+Raten Sie und finden Sie gemeinsam eine Antwort auf die ScaryTales.
 
 - Wo liegen die Fehler?
 - Was ist falsch gelaufen?
 - Wie kann es revidiert werden?
-- Was hätte man richtig tun müssen?
+- Was hätte korrekterweise getan werden müssen?
 
-Alternativ: Beispiele, wie zum Thema Cyberangriff, besprechen
+Alternativ: Beispiele, wie zum Thema Cyberangriff, besprechen. <!-- anders einbinden -->
 
 ### Arbeitsphase
 
@@ -128,14 +128,14 @@ L. teilt die S. in Gruppen ein. Die Gruppen setzen sich zusammen und machen sich
 
 2. Was sind Nutzen und Risiken von Speichersystemen?
 
-Nach der Gruppenarbeit bringt L. Alle Gruppen zusammen. Jede Gruppe trägt ihre Gedanken mit offener Diskussion vor.
+Nach der Gruppenarbeit bringt L. alle Gruppen zusammen. Jede Gruppe trägt ihre Gedanken mit offener Diskussion vor.
 
 (ca. 10 Min.) Abschließende Diskussion
 ===
 
-L. Eröffnet eine abschließende Diskussion zum Thema „Anwendung/Relevanz von Daten/Dateispeicherung im Studium.“
+L. eröffnet eine abschließende Diskussion zum Thema „Anwendung/Relevanz von Daten-/Dateispeicherung im Studium.“
 
-z. B. Ein offenes Gespräch, wie bisher Daten gespeichert werden, welche Clouds etc. genutzt werden, eine Einschätzung, ob diese wirklich so gut sind und ob sich für die S. jetzt (nach dem erlernten Wissen) etwas im Verhalten ändert?
+z. B. ein offenes Gespräch, wie bisher Daten gespeichert werden, welche Clouds etc. genutzt werden, eine Einschätzung, ob diese wirklich so gut sind und ob sich für die S. jetzt (nach dem erlernten Wissen) etwas im Verhalten ändert?
 
 Die S. werden dazu angeregt, ihr erlerntes Wissen zum Thema „Speicherung von Daten“ in Bezug auf FDM auf ihr Studium zu übertragen.
 
@@ -144,7 +144,7 @@ Die S. werden dazu angeregt, ihr erlerntes Wissen zum Thema „Speicherung von D
 - L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
 - L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
 
-### Materialien
+### Materialien zur Präsenzphase
 
 ScaryTales zum Thema „Speichern von Daten“
 ===
