@@ -7,7 +7,7 @@ export default defineConfig({
   lang: 'de-DE',
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
 
-  base: '/',
+  base: 'https://github.com/mbluemm/modul-fdII-thkoeln',
 
   themeConfig: {
     // https:/vitepress.dev/reference/default-theme-config
