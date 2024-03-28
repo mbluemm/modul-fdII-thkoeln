@@ -25,34 +25,38 @@ import:
 -->
 
 # Ordnerstruktur und Dateibenennungen
-
-In diesem Themenblock lernen Sie über die Relevanz einer Ordnerstruktur, Dokumentation,
-Speicherung und Benennung von Daten und Dateien im Forschungsprozess und welche Aspekte
+<!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen --> 
+## Lernziele
+In diesem Themenblock lernen Sie die Relevanz einer Ordnerstruktur, Dokumentation,
+Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und welche Aspekte
 dabei zu beachten sind.
-
+<!-- Video von Medienagentur einfügen --> 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
 ![](https://)
 Quelle: Digitalbevaringdk HvadErDigitalBevaring DigitalBevaring
-
+<!-- mit Abbildung 0051_THK_Datenchaos ersetzen --> 
 Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
-gute Struktur und Benennung empfehlenswert. Als Erinnerung aus VL1, beschreibt das DWDS Daten
+gute Struktur und Benennung empfehlenswert. 
+<!--0006_THK_Organisieren einfügen -->
+
+Als Erinnerung aus VL1, beschreibt das DWDS Daten
 als „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o. Ä. gewonnene
 Informationen“ und eine Datei als „unter einem gemeinsamen Namen auf einem Datenträger
-gespeicherte und zugreifbare Menge von Daten“[^1].
+gespeicherte und zugreifbare Menge von Daten“[^1]. <!-- das anders vom Layout her einbinden? --> 
 
 Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 
-- Es ist eine Grundvoraussetzung der guten wissenschaftlichen Praxis.
+- Es ist eine Grundvoraussetzung der Guten wissenschaftlichen Praxis. <!-- 0008_THK_GWP neben Text einfügen -->
 - Je größer die Datenmenge ist, umso wichtiger ist ein gutes Datenmanagement.
 - Der aktuellste Forschungsstand ist schnell identifizierbar.
 - Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig
-    sichergestellt.
+    sichergestellt. <!-- G-0020_BUW_Icon_Nachnutzung neben Text einfügen -->
        o Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
        o Bei Änderungen besteht Klarheit und Struktur zwischen unterschiedlichen Versionen.
-       o Daten werden somit auch für Dritte nachvollziehbar
+       o Daten werden somit auch für Dritte nachvollziehbar.
           ▪ Vereinfacht die Zusammenarbeit
-          ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse.
+          ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse. <!-- ist das mit dem Einzug so gewollt? --> 
 - Das Risiko eines Datenverlusts wird minimiert. Die Daten sind sicher gespeichert und auffindbar.
     o Vorbeugungsmaßnahme von versehentlichem Löschen oder Überschreiben von
        Daten/Dateien.
@@ -66,7 +70,7 @@ Wissenschaften, [https://www.dwds.de/wb/Daten](https://www.dwds.de/wb/Daten) und
 Quelle: Digitalbevaringdk Database DigitalBevaring
 
 ## Gute Ordnerstruktur
-
+<!-- 0027_THK_Ordnerstruktur --> 
 Für eine übersichtliche Ordnerstruktur bei der Speicherung von Daten und Dateien sollten folgende
 
 Aspekte beachtet sein:
@@ -84,7 +88,7 @@ Aspekte beachtet sein:
     o konsequent,
     o und klar ersichtlich und für Dritte nachvollziehbar.
 
-Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
+- Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
 Rechnern sein.
 
 * unverarbeitete Originaldaten
@@ -92,42 +96,40 @@ Rechnern sein.
 ```
 Empfehlung:
 Eine Dokumentation der Ordnerstruktur und Dateibenennungen in einer separaten (.txt) Datei auf
-oberster (Baum-)Ebene aufbewahren.
-Zur Nachvollziehbarkeit zu einem späteren Zeitpunkt oder von anderen.
+oberster (Baum-)Ebene aufbewahren. Zur Nachvollziehbarkeit zu einem späteren Zeitpunkt oder von anderen.
 ```
-
+<!-- 0020_THK_Idee daneben einfügen --> 
 ## Dateien benennen
 
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#)
 
 Neben einer sinnvoll gegliederten und konsequenten Ordnerstruktur ist auch eine klare Benennung
 von Dateien essentiell, denn diese führt zu
-
 - einer strukturierten Speicherung,
 - Übersichtlichkeit und einer logischen Sortierung,
 - Nachvollziehbarkeit und Auffindbarkeit,
 und ermöglicht die Unterscheidung einzelner Dateien.
 
-## Aspekte für eine Dateibenennung
-
+### Aspekte für eine Dateibenennung
+<!--0029_THK_Dateibenennung einfügen -->
 Dateien können nach unterschiedlichen Konventionen benannt werden. Damit Dateien strukturiert,
 übersichtlich, nachvollziehbar und auffindbar sind, sollten Dateibenennungen
 
 - das jeweilige Erstellungsdatum enthalten*
-    o Datumsformat: JJJJ-MM-TT[^2]
+    o Datumsformat: JJJJ-MM-TT[^2] <!-- ist die Empfehlung so gut? oder ohne Bindestriche? oder mehr Alternativen aufzeigen? --> 
     o Datumsangabe: Am Anfang des Dateinamens; chronologische Sortierung
        z.B. „2023- 05 - 17_Projekt_Erdnussbutter“
 - Rückschlüsse auf den Inhalt der Dateien ermöglichen
     o deskriptive Informationen ordnen die Datei ihrem Kontext zu
 - auch von Außenstehenden nachvollziehbar sein
-    o wo Abkürzungen notwendig sind, sollten ein Abkürzungsverzeichnis in einer
+    o wo Abkürzungen notwendig sind, sollte ein Abkürzungsverzeichnis in einer
        separaten Datei angelegt werden
 - möglichst einheitlich/konsistent gewählt werden
-    exemplarische Schreibkoventionen bei Dateibenennungen
+- exemplarische Schreibkoventionen bei Dateibenennungen <!-- das eher als Infobox einfügen? --> 
        o Großbuchstabe markiert den Anfang eines neuen Wortes: „projektErdnussbutter“
        o Unterstrich markiert den Anfang eines neuen Wortes „Projekt_Erdnussbutter“
        o Unterscheidung zwischen Groß- und Kleinbuchstaben (case-sensitiv)
-          „projekt_erdnussbutter“ vs _projekt_Erdnussbutter“
+          „projekt_erdnussbutter“ vs. „_projekt_Erdnussbutter“
 
 [^2]: Das Format MM/TT/JJ ist für US-Amerikaner eindeutig. In Europa wird hauptsächlich das Format TT/MM/JJ verwendet. Japan
 verwendet JJ/MM/TT. Als Separatoren können Slashs, Striche oder Punkte verwendet werden. In einigen Ländern werden
@@ -135,18 +137,14 @@ kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vg
 
 
 - so kurz wie möglich, so lang wie nötig sein (Empfehlung:wenn möglich setzen sich
-    Dateibenennungen maximal aus 255 Zeichen zusammen)
+    Dateibenennungen maximal aus 255 Zeichen zusammen <!-- mit Mouse-over einbinden --> )
 - auf Umlaute (ä, ö, ü) verzichten bzw. diese auflösen (ae, ue, oe)
-- Keine Leerzeichen, Punkte und Sonderzeichen (wie / \ { } [ ] < > ( ) * % # ‘ ; “ , :?! & @ $)
-    enthalten, da Leer- und Sonderzeichen eine besondere Bedeutung innerhalb eines
-    Betriebssystems haben. Slash / (Linux) und Backslash \ (Windows) werden beispielsweise
-    bei Pfadangaben verwendet
-    Lediglich Unterstrich und Bindestrich sind erlaubt.
-- eine Versionierung beinhalten (v1 etc.), die nach jeder Dateiänderung aktualisiert wird**
-    2023 - 05 - 17_Projekt_Erdnussbutter_v1 statt "2023- 05 - 17_Projekt_Erdnussbutter _neu"
+- Keine Leerzeichen, Punkte und Sonderzeichen enthalten. (Leer- und Sonderzeichen haben eine besondere Bedeutung innerhalb eines Betriebssystems. Slash / (Linux) und Backslash \ (Windows) werden beispielsweise bei Pfadangaben verwendet <!-- Mouse-over--> ) Lediglich Unterstrich und Bindestrich sind erlaubt.
+- eine Versionierung beinhalten (v01 etc.), die nach jeder Dateiänderung aktualisiert wird**
+    2023 - 05 - 17_Projekt_Erdnussbutter_v01 statt "2023- 05 - 17_Projekt_Erdnussbutter_neu"
     2023 - 05 - 17_Projekt_Erdnussbutter_ v10 statt _2023- 05 - 17_Projekt_Erdnussbutter_final
-    2023 - 05 - 17_Projekt_Erdnussbutter_v1 wird nach einer (umfangreichen) Änderung zu
-    2023 - 05 - 17_Projekt_Erdnussbutter_v
+    2023 - 05 - 17_Projekt_Erdnussbutter_v01 wird nach einer (umfangreichen) Änderung zu
+    2023 - 05 - 17_Projekt_Erdnussbutter_v02
 
 * Hinweis: Das Erstellungs- und das Änderungsdatum können beim Kopieren auf externe Backupdatenträger überschrieben
 werden.
@@ -160,7 +158,7 @@ zu einem späteren Zeitpunkt oder von anderen)
 ** Empfehlung: Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den
 Archivordner („Archiv“) im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit
 unterschiedlichen Bearbeitungsständen.
-
+<!-- beide Male oben 0020_THK_Idee einfügen --> 
 ```
 \
 { }
@@ -178,6 +176,7 @@ unterschiedlichen Bearbeitungsständen.
 ```
 
 ## Beispiel: Dateibenennung
+<!-- 0001_THK_Beispiel einfügen -->
 
 ```
 Datum_[Status]-Dokumententyp-[Autor:in]-Inhalt[_Version]
@@ -204,7 +203,7 @@ werden.
 
 Leitfragen
 ===
-
+<!-- 0025_THK_Fragezeichen -->
 - Welche Merkmale sind bei einer strukturierten und nachhaltigen Datenablage (Ordnerstruktur
     und Dateibenennung) im besten Fall zu beachten?
 - Was ist die Relevanz von einer nachhaltigen Datenablage (Ordnerstruktur und
@@ -214,17 +213,17 @@ Leitfragen
 
 Aufgabe
 ===
-
+ <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ScaryTale
 ===
-
+ <!-- 0038_THK_Buch -->
 Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html](https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html)
 
 ## Weiterführende Literatur und Links (optional)
-
+<!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023, 24. Juli). Formate erhalten. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
 
