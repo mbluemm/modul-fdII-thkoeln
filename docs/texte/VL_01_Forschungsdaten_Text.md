@@ -129,6 +129,7 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
 ## Leitfragen und Aufgaben
 
+### Leitfragen
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
 
