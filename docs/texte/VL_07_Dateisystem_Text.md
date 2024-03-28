@@ -191,7 +191,7 @@ Felder
 - Inhalt: Thema / Inhalt des Dokuments
 - Version: Bei versionierten Dokumenten wird die Version bei jeder Änderung hochgezählt z.B.
     _v1, _v2, ...
-
+<!-- Eigentlich wird sich doch für Unter- ODER Bindestriche entschieden und nicht gemixt. Datumsangabe checken, ob das so unserer Norm entspricht...--> 
 Zur gleichzeitigen Umbenennung mehrerer Dateien, können unterschiedliche Softwaretools verwendet
 werden.
 
