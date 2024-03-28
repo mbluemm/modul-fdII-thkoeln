@@ -189,7 +189,7 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen ve
 |Sozial- und Wirtschaftswissenschaften | DDI |
 
 (Krähwinkel, Langner, Lipp et al., 2022)
-<!-- hier noch Beispiele von Metadaten einfügen (s. Beispielsammlung) --> 
+<!-- hier noch Beispiele von Metadaten einfügen (s. Beispielsammlung), Quiz einfügen --> 
 ## Leitfragen und Aufgaben
 
 Leitfragen 
