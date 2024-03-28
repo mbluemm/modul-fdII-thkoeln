@@ -32,7 +32,7 @@ In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und w
 fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen die gängigsten
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 
-<!-- hier noch Video von Medienagentur ergänzen --> 
+<!-- hier noch Video von Medienagentur und irgendwo im Skript eventuell noch Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download)) ergänzen --> 
 <!-- style="width: 25%;" -->
 
 ## Was sind Metadaten und warum sind diese wichtig?
