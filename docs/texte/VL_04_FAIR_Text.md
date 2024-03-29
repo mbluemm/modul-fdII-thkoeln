@@ -235,3 +235,5 @@ Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 
 Sauther-Patrascu, K., Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Präsidium der
 TH Köln. Zugriff am 20.10.2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+
+# Test 

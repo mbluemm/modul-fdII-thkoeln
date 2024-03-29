@@ -24,7 +24,7 @@ hero:
       link: /lz/VL_01_Forschungsdaten_LZ.md
     - theme: brand
       text: Einführung
-      link: /start/einfuehrung.md
+      link: /start/Einfuehrung.md
 
 features:
   - title: OER
