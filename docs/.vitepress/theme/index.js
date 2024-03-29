@@ -1,7 +1,7 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
-import '/assets/common_style.css'
+import 'docs/.vitepress/theme/index.js'
 
 /** @type {import('vitepress').Theme} */
 export default {
