@@ -25,15 +25,15 @@ import:
 -->
 
 # Metadaten
+<!-- 0005_THK_Metadaten ergänzen --> 
+## Lernziele 
 
 In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und was es für
 fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen die gängigsten
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 
+<!-- hier noch Video von Medienagentur und irgendwo im Skript eventuell noch Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download)) ergänzen --> 
 <!-- style="width: 25%;" -->
-![Was sind Metadaten? ](/medien/abbildungen/Metadata_DigitalPreservation_512.png)
-<br>
-<a href="https://commons.wikimedia.org/wiki/File:Metadata_DigitalPreservation.png">Jørgen Stamp</a>, <a href="https://creativecommons.org/licenses/by/2.5/dk/deed.en">CC BY 2.5 DK</a>, via Wikimedia Commons
 
 ## Was sind Metadaten und warum sind diese wichtig?
 
@@ -54,9 +54,13 @@ Dokumentation. Dafür ist es wichtig, im besten Fall bereits bei der Erstellung 
 Aspekte rund um die Daten festzuhalten. Je länger man die Metadaten-Erstellung hinauszögert, umso
 eher läuft man Gefahr, dass einige Informationen nicht mehr rekonstruiert werden können (bspw. die
 Herkunft einzelner Daten).
+<!-- Abbildung 0044_THK_Metadaten austauschen/ergänzen -->
+![Was sind Metadaten? ](/medien/abbildungen/Metadata_DigitalPreservation_512.png)
+<br>
+<a href="https://commons.wikimedia.org/wiki/File:Metadata_DigitalPreservation.png">Jørgen Stamp</a>, <a href="https://creativecommons.org/licenses/by/2.5/dk/deed.en">CC BY 2.5 DK</a>, via Wikimedia Commons
 
 ## Wozu dienen Metadaten?
-
+<!-- 0005_THK_Metadaten ergänzen --> 
 (Wieder-)Auffindbarkeit: Metadaten ermöglichen es, Forschungsdaten effizient zu finden. Wenn
 nach Daten zu einem bestimmten Thema gesucht wird, helfen Metadaten, die relevanten Datensätze
 zu identifizieren.
@@ -88,7 +92,6 @@ verschiedenen Fachrichtungen. Wenn Daten aus unterschiedlichen Disziplinen in ä
 beschrieben werden, wird die Integration und Nutzung in interdisziplinären Forschungsprojekten
 erleichtert.
 
-
 Rechtliche und ethische Aspekte: Metadaten können auch Informationen über die rechtlichen und
 ethischen Aspekte der Datennutzung enthalten. Zum Beispiel können sie die Einwilligung der
 Teilnehmer oder Datenschutzrichtlinien dokumentieren.
@@ -97,25 +100,27 @@ Verwaltung und Organisation: Metadaten helfen dabei, große Mengen an Forschungs
 organisieren und zu verwalten. Sie erleichtern die Identifizierung, Gruppierung und Kategorisierung
 von Daten.
 
-### Arten von Metadaten
- ##Fächerübergreifende Metadaten:
+## Arten von Metadaten
+<!-- Abbildung 0045_THK_Rechercheergebnisse ergänzen -->
+ ### Fächerübergreifende Metadaten:
 
-„**Bibliografische Metadaten** wie Titel, Autoren, Beschreibung oder Keywords ermöglichen die
-Zitation von Daten und Code und helfen bei der Auffindbarkeit und thematischen Eingrenzung.“
-
+**Bibliografische Metadaten** dienen der Zitation von Daten und somit der Auffindbarkeit. 
+Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.  
+<!-- das folgende in Textfeld -->
 - Titel
 - Autor*innen
-- Abstract
+- Beschreibung / Abstract
 - Keywords
     o Titel: „Untersuchung der Auswirkungen von Klimawandel auf Artenvielfalt in
        tropischen Regenwäldern“
     o Zusammenfassung: Kurze Beschreibung des Forschungsziels und der Methoden.
     o Stichwörter: „Klimawandel“, „Artenvielfalt“, „Regenwald“, „Ökologie“.
 
-„**Administrative Metadaten** zu Dateitypen, Standorten, Zugriffsrechten und Lizenzen helfen bei der
-Verwaltung und langfristigen Erhaltung der Daten.“
-
+**Administrative Metadaten** sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
+<!-- das folgende in Textfeld -->
+- Dateityp
 - Dateiformat
+- Standort
 - Nutzungsbedingungen
 - Lizenzen
 - Zugriffsrecht
@@ -123,24 +128,23 @@ Verwaltung und langfristigen Erhaltung der Daten.“
     o Erstellungsdatum: 15. Juni 2023
     o Rechte: Urheberrecht bei Dr. Anna Müller, Datenzugriff nur für autorisierte Forscher.
 
-## Fachspezifische Metadaten:
+### Fachspezifische Metadaten:
 
-„**Prozessmetadaten / Kontextuelle Metadaten** beschreiben die Schritte und Aktionen mit ihren
-verwendeten Methoden und Hilfsmitteln, die zur Entstehung und Verarbeitung der Daten angewendet
-wurden.“
-
+**Prozessmetadaten / Kontextuelle Metadaten** umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, 
+inklusive der verwendeten Methoden und Hilfsmitteln.
+<!-- das folgende in Textfeld -->
 - Projekt
 - Methodik
 - Arbeitsschritte
-    o Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern (Projektcode:
-       RAINBIO)
+    o Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern
+  (Projektcode:RAINBIO)
     o Methodik: Systematische Stichprobenentnahme und Artenidentifikation
     o Arbeitsschritte: Erhebung von Daten während der Regenzeit, in verschiedenen
 
 - Höhenlagen.
 
-Strukturelle Metadaten: Informationen zur Datenstruktur.
-
+**Strukturelle Metadaten**: stellen Informationen zur Datenstruktur dar.
+<!-- das folgende in Textfeld -->
 - Dateiformat
 - Felder
 - Relationen
@@ -149,9 +153,9 @@ Strukturelle Metadaten: Informationen zur Datenstruktur.
     o Relationen: Verknüpfung von Artbeobachtungen mit geografischen Koordinaten.
 
 
-Technische Metadaten umfassen Informationen zur technischen Infrastruktur. Die technischen
+**Technische Metadaten** umfassen Informationen zur technischen Infrastruktur. Die technischen
 Metadaten werden in vielen Fällen automatisch generiert.
-
+<!-- das folgende in Textfeld -->
 - Dateigröße
 - Dateiformat
 - (Auflösung)
@@ -161,8 +165,9 @@ Metadaten werden in vielen Fällen automatisch generiert.
     o Auflösung: 1920x1080 Pixel
     o Aufnahmegerät: Canon EOS 5D Mark IV
 
-„**Inhaltsbeschreibende bzw. deskriptive Metadaten** können je nach Disziplin sehr unterschiedlich
-aufgebaut sein und geben zusätzliche Informationen zu Inhalt und Entstehung der Daten.“ (Böker, 2023a)
+„**Inhaltsbeschreibende bzw. deskriptive Metadaten** variieren je nach Fachdisziplin und Methode. Sie bieten weitere Informationen zum Inhalt und der Datenerhebung.“ 
+
+(<!-- Aufzählungen und Beispiele aus: ? --> Böker, 2023a)
 
 ## Metadatenstandards
 
@@ -171,8 +176,7 @@ standardisiert, dokumentiert. Sogenannte Metadatenstandards bedeuten also eine e
 standardisierte Art und Weise der Dokumentation. Ähnliche Datensätze werden dadurch inhaltlich und
 strukturell gleichförmig beschrieben. Außerdem dienen sie dazu, dass Forschergruppen auch untereinander Daten austauschen und verstehen können (Biernacka, Buchholz, Danker et al., 2021).
 
-„In der folgenden Tabelle sind beispielhaft einige Metadatenstandards verschiedener Disziplinen
-aufgeführt.“
+Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen verschiedener Disziplinen aufgelistet: 
 
 | Wissenschaftsdisziplin| Name des/der Standards | 
 | -------- | :------: |
@@ -185,24 +189,24 @@ aufgeführt.“
 |Sozial- und Wirtschaftswissenschaften | DDI |
 
 (Krähwinkel, Langner, Lipp et al., 2022)
+<!-- hier noch Beispiele von Metadaten einfügen (s. Beispielsammlung), Quiz einfügen --> 
+## Leitfragen und Aufgaben
 
-## Leitfragen (Aufgabe)
-
-Leitfragen
+Leitfragen 
 ===
-
+<!-- 0025_THK_Fragezeichen -->
 - Welche Rolle spielen Metadaten im Forschungsdatenmanagement?
 - Welche Herausforderungen können bei der Sammlung von Metadaten auftreten?
 - Warum ist es wichtig, Metadaten langfristig aufzubewahren?
 
 Aufgabe
 ===
-
+ <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die Materialien durch und beantworten Sie für sich die Fragen. Dokumentieren und
 reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Literatur und Links (optional):
-
+<!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023b, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
 Digital Curation Centre (DCC). (o. D.). List of Metadata Standards. Zugriff am 18.10.2023, von [https://www.dcc.ac.uk/guidance/standards/metadata/list](https://www.dcc.ac.uk/guidance/standards/metadata/list)

@@ -26,6 +26,7 @@ import:
 
 # Dokumentation von Daten
 
+## Lernziele 
 In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
 diese hat und welche Informationen in einer Dokumentation enthalten sein können. Außerdem wird
 Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle relevanten

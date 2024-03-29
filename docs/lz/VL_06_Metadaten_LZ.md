@@ -38,7 +38,11 @@ import:
 | :--- | :--- | :--- |
 | 1 | Die S. können Metadaten bezeichnen (2) und erläutern (2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/Forschungsprozess haben. | Die S. setzen sich mit Metadaten sowie der Einordnung und dem Verständnis der Relevanz von Metadaten im FDM/Forschungsprozess auseinander. |
 | 2 | Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben (1). | Die S. können Metadaten in der (Forschungs- )Praxis erkennen. |
-| Lernziele für den Unterricht in Präsenz |
+
+## Lernziele für den Unterricht in Präsenz
+
+||||
+| :--- | :--- | :--- |
 | 3 | Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten (5) und ihre Entscheidung zu begründen (6). | Die S. können Metadaten selber erstellen und ihr erworbenes Wissen künftig in Studienprojekten umsetzen. |
 
 ## Detaillierte Kursplanung[^1] 
@@ -47,7 +51,7 @@ import:
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>Video von Mirjam Blümm / oder neu erstelltes Video<br>Quiz zu „Arten von Metadaten” | Die S. können Metadaten bezeichnen(2) und erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br>>Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
+| Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>optionales Video und Quiz<br> | Die S. können Metadaten bezeichnen(2) und erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br>>Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
 
 ---
@@ -66,7 +70,7 @@ import:
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Gruppeneinteilung zur Praktischen Übung<br>Gruppenaufgabe: Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel anhand von zur Verfügung gestellten Hilfsmitteln<br> Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten(5) und ihre Entscheidung zu begründen(6).  Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Die S. werden in kleine Gruppen aufgeteilt.<br>Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren.<br>Erarbeitung von Fallbeispielen in Gruppenarbeit<br>Vorbereitung von Impulsvorträgen | GA |
+| Ca. 30 min. | Gruppeneinteilung zur praktischen Übung<br>Gruppenaufgabe: Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel mittels zur Verfügung gestellten Hilfsmitteln<br> Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten(5) und ihre Entscheidung zu begründen(6).  Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Die S. werden in kleine Gruppen aufgeteilt.<br>Jede Gruppe erhält ein Szenario + Hilfsmittel und soll Metadaten für die darin beschriebenen Daten identifizieren.<br>Erarbeitung von Fallbeispielen in Gruppenarbeit<br>Vorbereitung von Impulsvorträgen | GA |
 | Ca. 30 min. | Präsentation der einzelnen Gruppen mit jeweils anschließender Besprechung von Erkenntnissen / Beobachtungen | Ergebnissicherung | Impulsvorträge der Gruppen und Plenumsdiskussion | PL |
 | Ca. 60 min. | Alternativ zu Gruppenaufgabe:<br>Metadaten spielerisch mit Lego vermitteln | Vertiefung und Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug | Gruppenarbeit | GA |
 
@@ -118,13 +122,9 @@ L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
 
 L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
 
-##  (Mögliche) Ergänzende Materialien im LMS 
 
-Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download))
-
-Quiz zu Arten von Metadaten
-
-##  Materialien zur Praktischen Übung (Szenarien) 
+##  Materialien zur praktischen Übung (Szenarien)  
+<!-- eher Materialien für die Präsenzphase, oder? --> 
 
 Scary Tales
 ===
@@ -133,10 +133,12 @@ Scary Tales
 
 36 - Lost in Translation ([https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html))
 
-###  Alternative Gruppenaufgabe 
-
-Praktische Übung
+Materialien zur praktischen Übung
 ===
+## Szenarien und Hilfsmittel 
+<!--Szenarien und Hilfsmittel aus Beispielsammlung einfügen --> 
+
+## Alternative Gruppenaufgabe 
 
 Metadaten spielerisch mit Lego vermitteln (ca. 60 Min.)
 

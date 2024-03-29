@@ -26,28 +26,34 @@ import:
 
 # Speichern von Daten
 
-In diesem Themenblock lernen Sie über die Speicherung von Daten und Dateien, welche Aspekte
-dabei im Forschungsprozess zu beachten und welchen Empfehlungen zu befolgen ist. Außerdem
-lernen Sie über Vor- und Nachteile verschiedener Speichermedien sowie unterschiedlicher
-Datenformate. (forschungsdaten.info 2023a; forschungsdaten.info 2023b).
+## Lernziele
+<!-- G-0038_BUW_Icon_Diskette einfügen --> 
+In diesem Themenblock lernen Sie die Speicherung von Daten und Dateien kennen, welche Aspekte 
+dabei im Forschungsprozess zu beachten sind und welchen Empfehlungen zu befolgen ist. 
+Außerdem lernen Sie über Vor- und Nachteile verschiedener Speichermedien sowie unterschiedlicher
+Datenformate. 
 
+(forschungsdaten.info 2023a; forschungsdaten.info 2023b). <!-- what's that? --> 
+<!-- Video von Medienagentur einfügen -->
 ## Daten speichern und das Datenverlustrisiko minimieren
 
-Im FDM ist eine sinnvolle Speicherung von Daten eine Voraussetzung der guten wissenschaftlichen
+Im FDM ist eine sinnvolle Speicherung von Daten eine Voraussetzung für die Gute wissenschaftliche
 Praxis (GWP) und gewährleistet die Möglichkeit einer langfristigen Nachnutzbarkeit der Daten. Um
 möglichst zu verhindern, dass Daten beschädigt werden, verloren gehen oder veralten, ist es sinnvoll,
 bei der Speicherung von Daten und Dateien einige Aspekte zu beachten. So kann vorgebeugt
 werden, dass Daten bspw. aufgrund technischer Fehler etwa durch einen Schaden an der Festplatte
 oder aufgrund veralteter Software nicht mehr lesbar sind oder versehentlich gelöscht werden.
-
+<!-- 0008_THK_GWP und G-0020_BUW_Icon_Nachnutzung neben oberen Absatz ergänzen -->
 Backup- und Datensicherungsmaßnahmen sind unerlässlich: Forschungsdaten müssen vor
 unbefugtem Zugriff (z. B. Cyber/Hackerangriffe) und Datenverlust (z. B. technische Fehler/Brand)
 geschützt werden. Insbesondere sensible, personenbezogene Daten müssen durch
-Pseudonymisierung oder Anonymisierung besonders geschützt werden (Weiner, Wünsche, Kühne et
-al., 2020).
+Pseudonymisierung oder Anonymisierung besonders geschützt werden (Weiner et al. 2020).
+
+Vor- und Nachteile von Speichermedien finden Sie unter (forschungsdaten.info 2023b). 
+<!-- hier Datenspeicherlösungen wie G-0035_BUW_Icon_USB_Stick , G-0037_BUW_Icon_CD , G-0039_BUW_Icon_SD-Karte , 0011_THK_Speicher_Cloud , 0012_THK_Speicher_PC , 0013_THK_Speicher_Festplatte einfügen --> 
 
 ## Wichtige Aspekte bei der Speicherung von Daten
-
+<!-- Abbildung 0046_THK_Speichern einfügen --> 
 Um das Risiko des Datenverlustes bestmöglich zu reduzieren, sollte bei der Sicherung der Daten und
 Dateien insbesondere darauf geachtet werden, dass diese:
 
@@ -55,18 +61,17 @@ Dateien insbesondere darauf geachtet werden, dass diese:
 - in mehreren Kopien,
 - in weit verbreiteten Datenformaten,
 - von den Rohdaten getrennt,
-- strukturiert (zu einem festgelegten Zeitpunkt) und einheitlich erfolgen.
-- Die 3 - 2 - 1 - Regel beachten.
-- Die Sicherung der Daten sollte auch mit einer guten Ordner- und Dateistruktur, inklusive einer geeigneten Dateibenennung, einhergehen.
-
+- strukturiert (zu einem festgelegten Zeitpunkt) und einheitlich erfolgt.
+  
+Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaßen sollte die Sicherung der Daten mit einer guten Ordner- und Dateistruktur, inklusive einer geeigneten Dateibenennung, einhergehen.
+<!-- 0027_THK_Ordnerstruktur , 0006_THK_Organisieren , 0029_THK_Dateibenennung -->
 
 ![](https://)
 Abbildung: forschungsdaten.info 2023a
-
-Hinweis: Vor- und Nachteile von Speichermedien finden Sie unter (forschungsdaten.info 2023b).
+<!-- gegen 0064_THK_3-2-1-Regel eintauschen --> 
 
 ## Empfehlungen zur Datensicherung
-
+<!-- 0020_THK_Idee , G-0038_BUW_Icon_Diskette einfügen -->
 Es ist hilfreich (VerbundFDB 2018):
 
 - alle fünf Jahre die alten externen Speichermedien mit neueren auszutauschen.
@@ -83,15 +88,15 @@ Es ist hilfreich (VerbundFDB 2018):
     (https://hochschulcloud.nrw/).[^1]
 
 Hinweis: Kostenlose Clouddienste (bspw. Google Drive, Dropbox, OneDrive) sollten nicht verwendet
-werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen. In Amerika sind aufgrund des USA PATRIOT Acts (2001) die eigenen Daten vor einem Zugriff Dritter nicht geschützt
+werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen. In Amerika sind aufgrund des USA PATRIOT Acts (2001) die eigenen Daten vor einem Zugriff Dritter nicht geschützt.
 
-(Krähwinkel, Langner, Lipp et al. 2022).
+(Krähwinkel, Langner, Lipp et al. 2022)
 
 [^1]: Hier empfiehlt es sich zu prüfen, wie lange auf die Hochschuldienste zugegriffen werden kann.
-
+<!-- wie einbinden? -->
 
 ## Sicherer Passwortschutz
-
+<!-- sollte das nicht rausgelöscht werden? Und wenn nicht, wie einbinden? --> 
 Was ist ein gutes Passwort?
 ===
 
@@ -125,7 +130,7 @@ Erstellen von sicheren Passwörtern sowie zur Verwaltung von Passwörtern zu erh
 
 
 ## Datenformate
-
+<!-- G-0097_BUW_ff_Icon_Dateiformate anpassen und neben den Abschnitt einsetzen -->
 Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, sollte darauf geachtet
 werden, dass zum einen so wenig unterschiedliche Datenformate wie möglich verwendet werden, zum
 anderen die Daten in:
@@ -161,8 +166,8 @@ Dateiformate können folgendermaßen konvertiert werden:
 
 - verlustfrei → bevorzugt
 - verlustbehaftet → für geringere Dateigrößen
-- sinnhaft → wesentliche Inhalte bleiben bestehen.
-
+- sinnhaft → wesentliche Inhalte bleiben bestehen. 
+<!-- häää? --> 
 Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
 Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
 
@@ -176,18 +181,18 @@ Quelle: Digitalbevaringdk Lyd_Digitalisering
 
 Leitfragen
 ===
-
+<!-- 0025_THK_Fragezeichen -->
 - Was ist die Relevanz von Daten/Dateispeicherung und Backup im FDM?
 - Wissensübertragung: Welche Rolle spielt die Dateispeicherung im Studium? Worauf ist hier zu achten? Welche Probleme können entstehen?
 
 Aufgabe:
 ===
-
+<!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Literatur und Links (optional)
-
+<!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023a, 5. Mai). Datenübertragung. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/)
 
