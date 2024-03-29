@@ -20,7 +20,7 @@ hero:
       text: Vorlesungskripte
       link: /texte/VL_01_Forschungsdaten_Text.md
     - theme: alt
-      text: Lerzielmatrizen
+      text: Lernzielmatrizen
       link: /lz/VL_01_Forschungsdaten_LZ.md
     - theme: brand
       text: Einführung
