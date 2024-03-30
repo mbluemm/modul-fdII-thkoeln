@@ -4,6 +4,11 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   //title: 'FDM Basiskurs',
+  markdown: {
+    languageAlias: {
+      'svg': 'html'
+    }
+  },
   lang: 'de-DE',
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
 
