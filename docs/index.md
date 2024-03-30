@@ -18,7 +18,7 @@ hero:
   actions:
     - theme: brand
       text: Vorlesungskripte
-      link: /texte/VL_01_Forschungsdaten_Text.md
+      link: /texte/VL_01_Forschungsdaten.md
     - theme: alt
       text: Lernzielmatrizen
       link: /lz/VL_01_Forschungsdaten_LZ.md
