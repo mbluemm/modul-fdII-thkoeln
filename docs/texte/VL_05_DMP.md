@@ -64,9 +64,12 @@ wenigen Absätzen und mehreren Seiten umfassen.
 
 * Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation.
 
-> Hinweis:<br/><br/> Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
+::: tip
+Hinweis: Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
 Prozesse. Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
-> Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
+Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
+:::
+
 
 Die nachfolgenden Leitfragen helfen, einer ausführlichen Projektdokumentation im Studienkontext
 nachzukommen. Aspekte wie “Was fällt an Daten überhaupt an?” und “Wie speichere ich die Daten

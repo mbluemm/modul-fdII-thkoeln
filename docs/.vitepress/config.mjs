@@ -53,23 +53,23 @@ export default defineConfig({
       text: 'Vorlesungsskripte',
       collapsible: true,
       items: [
-        { text: 'VL 01 Forschungsdaten Text', link: '/texte/VL_01_Forschungsdaten_Text.md' },
-        { text: 'VL 02 Forschungsdatenmanagement Text', link: '/texte/VL_02_Forschungsdatenmanagement_Text.md' },
-        { text: 'VL 03 Datenlebenszyklus Text', link: '/texte/VL_03_Datenlebenszyklus_Text.md' },       
-        { text: 'VL 04 FAIR Text', link: '/texte/VL_04_FAIR_Text.md' },
-        //{ text: 'VL 05 DMP Text', link: '/texte/VL_05_DMP_Text.md' },
-        //{ text: 'VL 06 Metadaten Text', link: '/texte/VL_06_Metadaten_Text.md' },
-        //{ text: 'VL 07 Dateisystem Text', link: '/texte/VL_07_Dateisystem_Text.md' },
-        //{ text: 'VL 08 Speichern Text', link: '/texte/VL_08_Speichern_Text.md' },
-        //{ text: 'VL 09 Finden Text', link: '/texte/VL_09_Finden_Text.md' },
-        //{ text: 'VL 10 Recht Text', link: '/texte/VL_10_Recht_Text.md' },
-        //{ text: 'VL 11 Ethik Text', link: '/texte/VL_11_Ethik_Text.md' },
-        //{ text: 'VL 12 Team Text', link: '/texte/VL_12_Team_Text.md' },
+        { text: 'VL 01 Forschungsdaten Text', link: '/texte/VL_01_Forschungsdaten.md' },
+        { text: 'VL 02 Forschungsdatenmanagement Text', link: '/texte/VL_02_Forschungsdatenmanagement.md' },
+        { text: 'VL 03 Datenlebenszyklus Text', link: '/texte/VL_03_Datenlebenszyklus.md' },       
+        { text: 'VL 04 FAIR Text', link: '/texte/VL_04_FAIR.md' },
+        { text: 'VL 05 DMP Text', link: '/texte/VL_05_DMP.md' },
+        { text: 'VL 06 Metadaten Text', link: '/texte/VL_06_Metadaten.md' },
+        //{ text: 'VL 07 Dateisystem Text', link: '/texte/VL_07_Dateisystem.md' },
+        //{ text: 'VL 08 Speichern Text', link: '/texte/VL_08_Speichern.md' },
+        //{ text: 'VL 09 Finden Text', link: '/texte/VL_09_Finden.md' },
+        //{ text: 'VL 10 Recht Text', link: '/texte/VL_10_Recht.md' },
+        //{ text: 'VL 11 Ethik Text', link: '/texte/VL_11_Ethik.md' },
+        //{ text: 'VL 12 Team Text', link: '/texte/VL_12_Team.md' },
         ]
       }
     ],
 
-    logo: '/media/assets/TH_Koeln.png',
+    logo: '/assets/TH_Koeln.png',
 
     socialLinks: [
       { icon: 'github',

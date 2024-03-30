@@ -121,7 +121,9 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
     der jeweiligen Forschungsgemeinschaft entsprechen, um eine reibungslose Zusammenarbeit
     und Nutzung zu ermöglichen.
 
-![](https://)
+<!-- SB: richtiges Bild? VL2 Z.157-->
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Forside_DigitalBevaring.png"><img width="256" alt="Forside DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forside_DigitalBevaring.png/512px-Forside_DigitalBevaring.png"></a>
 Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 ## Vor- und Nachteile der FAIR-Prinzipien im Forschungsdatenmanagement
