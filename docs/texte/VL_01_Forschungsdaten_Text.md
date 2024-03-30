@@ -1,21 +1,28 @@
+<!--
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+
+email:    mirjam.bluemm@th-koeln.de
+
+logo:    
+
+version:  0.0.1
+
+language: de
+
+narrator: Deutsch Female
+
+comment:  Vorlesungsskript zum Thema: Was sind Forschungsdaten?
+
+tags:     LiaScript, Preview
+
+@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
+
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
+
+-->
 # Was sind Forschungsdaten?
 
-# Inhaltsverzeichnis
-
-+ [Lernziele](#was-sind-forschungsdaten)
-+ [Was sind Forschungsdaten](#was-sind-forschungsdaten)
-    
-    - [Gesetzliche_Definition](#gesetzliche-definition-von-forschungsdaten)
-    - [Datentypen](#welche-datentypen-gibt-es)
-    - [Relevanz](#die-relevanz-von-forschungsdaten)
-
-+ [Leitfragen und Aufgaben](#leitfragen-und-aufgaben)
-+ [Lektüre](#lektüre)
-+ [Literatur](#literatur)
-
-
-
-
+[[toc]]
 
 <section>
 
@@ -25,6 +32,7 @@
 > In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu definieren und zu klären, welche Rolle FD im Forschungsprozess spielen.
 
 <br>
+
 Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuchungen beispielsweise durch Digitalisierung, Quellenforschungen, Experimente oder Messungen gesammelt, generiert oder analysiert werden. Diese Daten spielen eine essenzielle Rolle bei der Erstellung von
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
 

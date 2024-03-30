@@ -1,5 +1,5 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
@@ -17,14 +17,14 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css    
 -->
 
 # Rechtliche Aspekte
+
+[[toc]]
+
+## Lernziele
 
 ```
 Hinweis
@@ -67,7 +67,9 @@ Diese Rechtsgebiete werden nachfolgend eingeführt, und welche Aspekte Sie dabei
 beachten müssen werden erläutert.
 
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lovgivning_DigitalBevaring.png"><img width="512" alt="Lovgivning DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lovgivning_DigitalBevaring.png/512px-Lovgivning_DigitalBevaring.png"></a>
+
 Quelle: Digitalbevaringdk Lovgivning_DigitalBevaring
 
 ## Einführung zum Thema Datenschutz

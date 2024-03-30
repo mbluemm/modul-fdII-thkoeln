@@ -1,5 +1,5 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
@@ -17,14 +17,14 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
 -->
 
 # Daten finden und nachnutzen
+
+[[toc]]
+
+## Lernziele
 
 In diesem Themenblock bekommen Sie eine Einleitung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
@@ -126,6 +126,7 @@ sich um ein qualitatives Repositorium eignet:
 
 ## Persistente Identifikatoren (PID)
 
+<!-- Quelle? -->
 ![](https://)
 Quelle: Digitalbevaringdk PID_vaelge_PID_choose
 

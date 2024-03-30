@@ -1,5 +1,5 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
@@ -17,33 +17,19 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
 -->
 
 # FAIR-Prinzipien
 
-+ [Lernziele](#was-sind-forschungsdaten)
-+ [Die Relevanz von Forschungsdatenmanagement](#die-relevanz-von-forschungsdatenmanagement)
-+ [FDM in Open Science](#fdm-in-open-science)
-    
-    - [ Was ist Gute wissenschaftliche Praxis?](#was-ist-gute-wissenschaftliche-praxis)
-    - [Datentypen](#welche-datentypen-gibt-es)
-    - [Relevanz](#die-relevanz-von-forschungsdaten)
-
-+ [Leitfragen und Aufgaben](#leitfragen)
-+ [Lektüre](#lektüre)
-+ [Literatur](#literatur)
+[[toc]]
 
 ## Lernziele
 
 In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Prinzipien
 praktisch umgesetzt werden können und welche Vor- und Nachteile die Anwendung der FAIR-
 Prinzipien mit sich bringen können.
-<!-- Überschrift Lernziele hinzufügen + Video von Medienagentur -->
+<!-- Video von Medienagentur -->
 
 ## FAIR-Prinzipien
 
@@ -236,4 +222,3 @@ Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 Sauther-Patrascu, K., Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Präsidium der
 TH Köln. Zugriff am 20.10.2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
 
-# Test 

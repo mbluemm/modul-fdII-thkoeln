@@ -1,5 +1,5 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
@@ -17,25 +17,13 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
 
 -->
 
 # VL3: Datenlebenszyklus
 
-+ [Lernziele](#was-sind-forschungsdaten)
-+ [Die Relevanz von Forschungsdatenmanagement](#die-relevanz-von-forschungsdatenmanagement)
-+ [FDM in Open Science](#fdm-in-open-science)
-    
-    - [ Was ist Gute wissenschaftliche Praxis?](#was-ist-gute-wissenschaftliche-praxis)
-    - [Datentypen](#welche-datentypen-gibt-es)
-    - [Relevanz](#die-relevanz-von-forschungsdaten)
-
-+ [Leitfragen und Aufgaben](#leitfragen)
-+ [Lektüre](#lektüre)
-+ [Literatur](#literatur)
+[[toc]]
 
 ## Lernziele
 In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
@@ -158,7 +146,9 @@ besonders mit Blick auf zukünftiges Verständnis, äußerst ratsam. Um die Bear
 Wiederauffindbarkeit der Daten zu erleichtern, werden bei der Speicherung und Sicherung sinnvolle
 Dateinamen verwendet, Versionskontrolle beachtet und zusätzliche Metadaten eingefügt. 
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:International_DigitalBevaring.png"><img width="256" alt="International DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/International_DigitalBevaring.png"></a>
+
 Quelle: Digitalbevaringdk2021 International_DigitalBevaring
 
 ### Daten aufbewahren und bereitstellen
@@ -180,13 +170,15 @@ erfüllen beide Anforderungen. Um eine vorbildliche wissenschaftliche Praxis zu 
 (Roh)Daten für einen Zeitraum von zehn Jahren verfügbar zu halten, wie es in den Leitlinien 
 der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft, 2019) festgelegt ist.
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:VidenOm_DigitalBevaring.png"><img width="512" alt="VidenOm DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/VidenOm_DigitalBevaring.png/512px-VidenOm_DigitalBevaring.png"></a>
+
 Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 
 
 ## Leitfragen und Aufgaben
 ### Leitfragen
-<!-- Wo sind die Leitfragen hin? Hatten wir die aussortiert? -->
+<!-- Wo sind die Leitfragen hin? Hatten wir die aussortiert? Puh, keine Ahnung, aber kann ich mir nicht wirklich vorstellen -->
 <!-- Aufgabe : Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 
 
 ## Lektüre

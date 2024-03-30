@@ -1,5 +1,5 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
@@ -17,16 +17,16 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
           
 -->
 
 # Speichern von Daten
 
+[[toc]]
+
 ## Lernziele
+
 <!-- G-0038_BUW_Icon_Diskette einfügen --> 
 In diesem Themenblock lernen Sie die Speicherung von Daten und Dateien kennen, welche Aspekte 
 dabei im Forschungsprozess zu beachten sind und welchen Empfehlungen zu befolgen ist. 
@@ -148,18 +148,21 @@ Formate möglichst verlustfrei konvertiert werden können.
 
 Unter den oben genannten Aspekten eignen sich folgende Formate:
 
+<!-- SB: sollte das eine Tabelle sein?-->
 Dateityp Empfohlenes Format^2
 Text pdf/a txt xml
 Tabelle xml csv (mit
 Einschränkungen)
-Foto tiff tif (jpg ist nicht verlusfrei
+Foto tiff tif (jpg ist nicht verlusfrei)
 Grafik png, svg
 Audio wav flac (mit
 Einschränkungen)
 (mp3 ist nicht
 verlustfrei)
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kassetteb%C3%A5nd_Digitalisering.png"><img width="512" alt="Kassettebånd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kassetteb%C3%A5nd_Digitalisering.png/512px-Kassetteb%C3%A5nd_Digitalisering.png"></a>
+
 Quelle: Digitalbevaringdk Kassettebånd_Digitalisering
 
 Dateiformate können folgendermaßen konvertiert werden:
@@ -167,13 +170,15 @@ Dateiformate können folgendermaßen konvertiert werden:
 - verlustfrei → bevorzugt
 - verlustbehaftet → für geringere Dateigrößen
 - sinnhaft → wesentliche Inhalte bleiben bestehen. 
-<!-- häää? --> 
+<!-- häää? SB: wo kommt das denn her?--> 
 Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
 Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
 
 [^2]: Praxishandbuch Forschungsdatenmanagement (Putnings, Neuroth, und Neumann 2021).
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lyd_Digitalisering.png"><img width="512" alt="Lyd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lyd_Digitalisering.png/512px-Lyd_Digitalisering.png"></a>
+
 Quelle: Digitalbevaringdk Lyd_Digitalisering
 
 

@@ -1,5 +1,5 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
@@ -17,14 +17,14 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css  
 -->
 
 # Ethische Aspekte
+
+[[toc]]
+
+## Lernziele
 
 ```
 Hinweis
@@ -39,7 +39,9 @@ verantwortungsvoll mit Daten, insbesondere sensiblen Daten, umgehen müssen.
 
 # Ethische Aspekte
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Links2_DigitalBevaring.png"><img width="512" alt="Links2 DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Links2_DigitalBevaring.png/512px-Links2_DigitalBevaring.png"></a>
+
 Quelle: Digitalbevaringdk Links2_DigitalBevaring
 
 Für einen verantwortungsvollen Umgang mit Daten müssen neben rechtlichen auch ethische Regeln

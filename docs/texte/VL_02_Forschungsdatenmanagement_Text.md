@@ -1,23 +1,35 @@
 
+<!--
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+
+email:    mirjam.bluemm@th-koeln.de
+
+logo:    
+
+version:  0.0.1
+
+language: de
+
+narrator: Deutsch Female
+
+comment:  Vorlesungsskript zum Thema: Was ist Forschungsdatenmanagement?
+
+tags:     LiaScript, Preview
+
+@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
+
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
+
+-->
+
 # Was ist Forschungsdatenmanagement?
 
-# Inhaltsverzeichnis
-
-+ [Lernziele](#was-sind-forschungsdaten)
-+ [Die Relevanz von Forschungsdatenmanagement](#die-relevanz-von-forschungsdatenmanagement)
-+ [FDM in Open Science](#fdm-in-open-science)
-    
-    - [ Was ist Gute wissenschaftliche Praxis?](#was-ist-gute-wissenschaftliche-praxis)
-    - [Datentypen](#welche-datentypen-gibt-es)
-    - [Relevanz](#die-relevanz-von-forschungsdaten)
-
-+ [Leitfragen und Aufgaben](#leitfragen)
-+ [Lektüre](#lektüre)
-+ [Literatur](#literatur)
+[[toc]]
 
 <!-- LN 31-33 in einen Absatz zu Lernzielen vor "Was ist Forschungsdatenmanagement", bei dem Absatz mit Lernzielen Abbildung 0053_THK_Tools ergänzen  -->
 
 ## Lernziele
+
 In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und dessen Rolle in
 Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschungspraxis verortet
 wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenhängt.
@@ -141,7 +153,14 @@ Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Que
 Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im Kapitel
 “Dokumentation von Daten”), (Sauther-Patrascu und Dmitrieva 2021).
 
-Quelle: Digitalbevaringdk Forside_DigitalBevaring <!-- hier fehlt noch eine Abbildung? Neben den Absatz noch 0008_THK_GWP ergänzen --> 
+<!-- SB: Größe von Bidlern? -->
+![Forside_DigitalBevaring](https://upload.wikimedia.org/wikipedia/commons/6/61/Forside_DigitalBevaring.png)
+Quelle: Digitalbevaringdk Forside_DigitalBevaring 
+
+<br>
+
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Forside_DigitalBevaring.png"><img width="256" alt="Forside DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forside_DigitalBevaring.png/512px-Forside_DigitalBevaring.png"></a>
 
 ### Leitlinien für das wissenschaftliche Arbeiten
 
@@ -216,3 +235,6 @@ Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschu
 Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
 
 </section>
+
+
+[https://upload.wikimedia.org/wikipedia/commons/6/61/Forside_DigitalBevaring.png]: https://upload.wikimedia.org/wikipedia/commons/6/61/Forside_DigitalBevaring.png

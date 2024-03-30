@@ -1,5 +1,5 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
@@ -17,14 +17,12 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
 -->
 
 # Dokumentation von Daten
+
+[[toc]]
 
 ## Lernziele 
 In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
@@ -157,8 +155,6 @@ ______________________
 - 5. für den Schutz der Daten:
 
  ______________________
-
-<!-- die Punkte durchnummerieren anstelle auflisten (Wunsch der Studis) --> 
 
 Literaturrecherche Wie soll die verwendete Literatur
 organisiert werden?

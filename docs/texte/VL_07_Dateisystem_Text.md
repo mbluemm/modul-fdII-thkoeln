@@ -1,5 +1,5 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
@@ -17,23 +17,26 @@ tags:     LiaScript, Preview
 
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
+   
 -->
 
 # Ordnerstruktur und Dateibenennungen
 <!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen --> 
+
+[[toc]]
+
 ## Lernziele
 In diesem Themenblock lernen Sie die Relevanz einer Ordnerstruktur, Dokumentation,
 Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und welche Aspekte
 dabei zu beachten sind.
 <!-- Video von Medienagentur einfügen --> 
+
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HvadErDigitalBevaring_DigitalBevaring.png"><img width="512" alt="HvadErDigitalBevaring DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/HvadErDigitalBevaring_DigitalBevaring.png/512px-HvadErDigitalBevaring_DigitalBevaring.png"></a>
+
 Quelle: Digitalbevaringdk HvadErDigitalBevaring DigitalBevaring
 <!-- mit Abbildung 0051_THK_Datenchaos ersetzen --> 
 Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
@@ -51,22 +54,32 @@ Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 - Je größer die Datenmenge ist, umso wichtiger ist ein gutes Datenmanagement.
 - Der aktuellste Forschungsstand ist schnell identifizierbar.
 - Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig
-    sichergestellt. <!-- G-0020_BUW_Icon_Nachnutzung neben Text einfügen -->
-       o Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
-       o Bei Änderungen besteht Klarheit und Struktur zwischen unterschiedlichen Versionen.
-       o Daten werden somit auch für Dritte nachvollziehbar.
-          ▪ Vereinfacht die Zusammenarbeit
-          ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse. <!-- ist das mit dem Einzug so gewollt? --> 
+    sichergestellt. 
+
+    o Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
+    
+    o Bei Änderungen besteht Klarheit und Struktur zwischen unterschiedlichen Versionen.
+    
+    o Daten werden somit auch für Dritte nachvollziehbar.
+
+    ▪ Vereinfacht die Zusammenarbeit.
+    
+    ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse. 
+          
 - Das Risiko eines Datenverlusts wird minimiert. Die Daten sind sicher gespeichert und auffindbar.
     o Vorbeugungsmaßnahme von versehentlichem Löschen oder Überschreiben von
        Daten/Dateien.
+
+<!-- G-0020_BUW_Icon_Nachnutzung neben Text einfügen -->
 
 (Weiner et al. 2020; VerbundFDB 2018)
 
 [^1] in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der
 Wissenschaften, [https://www.dwds.de/wb/Daten](https://www.dwds.de/wb/Daten) und [https://www.dwds.de/wb/Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Database_DigitalBevaring.png"><img width="256" alt="Database DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Database_DigitalBevaring.png/256px-Database_DigitalBevaring.png"></a>
+
 Quelle: Digitalbevaringdk Database DigitalBevaring
 
 ## Gute Ordnerstruktur
