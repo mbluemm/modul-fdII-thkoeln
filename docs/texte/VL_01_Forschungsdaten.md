@@ -21,6 +21,16 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 
 -->
 
+---
+title: VL 01 - Was sind Forschungsdaten?
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
+
 # Was sind Forschungsdaten?
 
 [[toc]]

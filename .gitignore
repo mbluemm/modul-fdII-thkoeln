@@ -6,4 +6,8 @@ node_modules
 .temp
 *.tgz
 .DS_Store
-.vitepress/cache
+cache
+dist
+node_modules
+.temp
+*.tgz

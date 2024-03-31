@@ -16,7 +16,8 @@ export default defineConfig({
 
   themeConfig: {
     // https:/vitepress.dev/reference/default-theme-config
-
+  
+    logo: '/assets/TH_Koeln.png',
     nav: [
       {
         text: 'FDM@Studium.nrw',
@@ -74,8 +75,8 @@ export default defineConfig({
       }
     ],
 
-    logo: '/assets/TH_Koeln.png',
-
+    aside: {
+    },
     socialLinks: [
       { icon: 'github',
         link: 'https://github.com/mbluemm/modul-fdII-thkoeln' },
@@ -84,6 +85,14 @@ export default defineConfig({
     footer: {
       message: '<b>Released</b> under the MIT License.',
       copyright: 'Copyright © 2024 <a href="https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97" target="_blank">FDM@Studium.NRW</a>'
+    },
+
+    lastUpdated: {
+      text: 'Zuletzt aktualisiert am:',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
     },
     
   }
