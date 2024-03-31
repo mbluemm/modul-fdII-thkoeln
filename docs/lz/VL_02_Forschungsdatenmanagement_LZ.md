@@ -1,9 +1,7 @@
 <!--
-author:   Mirjam Blümm, Katharina Fritsch, Janiça Hackenbuchner, Sina Bock
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
-
-logo:    
 
 version:  0.0.1
 
@@ -18,10 +16,7 @@ tags:     LiaScript, Preview
 @btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
 
 link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
+       
 -->
 
 # VL2: Was ist Forschungsdatenmanagement?  
