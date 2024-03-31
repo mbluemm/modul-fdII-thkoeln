@@ -1,18 +1,17 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
+icon: 
+  scr: /assets/logo_TH_Koeln.png
 title: FDM Basiskurs
 titleTemplate: Vorlesungskripte, Lerzielmatrizen, Kursmaterialien
 
 lastUpdated: false
 
 hero:
-  name: "FDII - Basiskurs"
+  name: "FDM - Basiskurs"
   tagline: The best things in life aren't things!
   src: /medien/assets/
-
-  alt: FDM@TH_Koeln
   actions:
     - theme: brand
       text: Vorlesungskripte
@@ -23,11 +22,16 @@ hero:
     - theme: brand
       text: Einführung
       link: /start/Einfuehrung.md
+  image:
+    src: /assets/logo_TH_Koeln.png
+    alt: FDM@TH_Koeln
 
 features:
-  - title: OER
+  - icon: 🦥
+    title: OER
     details: Kurse für das Selbststudium
-  - title: LiaScript
+  - icon: 📚
+    title: LiaScript
     details: Nachnutzbare Lehrmaterialien
 
 ---

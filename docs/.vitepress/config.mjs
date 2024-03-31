@@ -9,6 +9,7 @@ export default defineConfig({
       'svg': 'html'
     }
   },
+  title: 'Technische Hochschule Köln',
   lang: 'de-DE',
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
 
@@ -16,8 +17,7 @@ export default defineConfig({
 
   themeConfig: {
     // https:/vitepress.dev/reference/default-theme-config
-  
-    logo: '/assets/TH_Koeln.png',
+    logo: '/assets/logo_TH_Koeln.png',
     nav: [
       {
         text: 'FDM@Studium.nrw',
