@@ -8,9 +8,7 @@
 - Die S. können keine (oder nur begrenzt) Beispiele von Forschungsdaten im Studium aufzählen. 
 
 - Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
-</section>
 
-<section>
 
 ## Lernziele für den Unterricht in Präsenz
 
@@ -19,7 +17,7 @@
 | 1 | Die S. können Forschungsdaten, von denen sie in ihrem Studium bereits gehört haben, identifizieren [(2)](#4). | Die S. überlegen, ob sie in ihrem Studium bereits Forschungsdaten verwendet haben um sich darüber auszutauschen und Beispiele zu sammeln. |
 | 2 | Die S. können verschiedene Formen von Forschungsdaten benennen [(1)](#4). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
 | 3 | Die S. können zuordnen [(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
-</section>
+
 
 ## Detaillierte Kursplanung[^1]
 
@@ -55,6 +53,8 @@
 
 ### Einstiegsphase
 
+<br/>
+
 #### Ice Breaker
 
 Als Einstieg in den Kurs können die S. sich untereinander austauschen und sich somit intuitiv mit dem Thema vertraut machen. Die S. diskutieren in Kleingruppen die folgenden Fragen:  
@@ -80,10 +80,6 @@ L. erklärt die Kursgestaltung:
   * Was wird von den S. erwartet? Welche Prüfungsform gibt es? Was müssen S. für ECTS tun? (Leistungserwartungen)  
 
 - Optional: Vorstellung von Prüfungsform „Lernportfolio“ (inkl. Blick auf eine Mustervorlage)
-
-</section>
-
-<section>
 
 ### Arbeitsphase
 
