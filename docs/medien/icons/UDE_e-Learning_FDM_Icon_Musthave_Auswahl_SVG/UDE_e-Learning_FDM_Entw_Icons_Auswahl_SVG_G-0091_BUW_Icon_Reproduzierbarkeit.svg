@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Musthave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #206289;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #206289;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        font-size: 70px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fff;
+        font-family: Arial-BoldItalicMT, Arial;
+        font-style: italic;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        font-size: 55px;
+      }
+
+      .cls-2 {
+        fill: #b9ddf3;
+      }
+
+      .cls-4 {
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <g id="Reproduzierbar">
+    <g>
+      <g>
+        <rect class="cls-2" x="538.41" y="244.32" width="184.29" height="261.4"/>
+        <g>
+          <line class="cls-3" x1="554.56" y1="283.91" x2="707.11" y2="283.91"/>
+          <line class="cls-3" x1="554.56" y1="307.9" x2="707.11" y2="307.9"/>
+          <line class="cls-3" x1="554.56" y1="330.05" x2="707.11" y2="330.05"/>
+          <line class="cls-3" x1="707.11" y1="352.19" x2="554.56" y2="352.19"/>
+          <line class="cls-3" x1="707.11" y1="374.34" x2="554.56" y2="374.34"/>
+          <line class="cls-3" x1="707.11" y1="420.47" x2="554.56" y2="420.47"/>
+          <line class="cls-3" x1="707.11" y1="397.41" x2="554.56" y2="397.41"/>
+          <line class="cls-3" x1="707.01" y1="443.54" x2="554.56" y2="443.54"/>
+          <line class="cls-3" x1="554.56" y1="466.13" x2="707.11" y2="466.13"/>
+        </g>
+      </g>
+      <g>
+        <polyline class="cls-4" points="150.73 524.45 150.73 665.96 325.54 665.96 325.54 579.98"/>
+        <polyline class="cls-4" points="630.55 542.57 630.55 665.96 456.12 665.96 456.12 570.12"/>
+        <polygon class="cls-1" points="630.55 524.45 617.88 546.41 643.23 546.41 630.55 524.45"/>
+        <polygon class="cls-1" points="325.54 570.12 312.86 592.07 338.21 592.07 325.54 570.12"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="263.06" y="189.46" width="255.17" height="361.93"/>
+        <g>
+          <line class="cls-3" x1="285.42" y1="244.28" x2="496.65" y2="244.28"/>
+          <line class="cls-3" x1="285.42" y1="277.49" x2="496.65" y2="277.49"/>
+          <line class="cls-3" x1="285.42" y1="308.15" x2="496.65" y2="308.15"/>
+          <line class="cls-3" x1="496.65" y1="338.81" x2="285.41" y2="338.81"/>
+          <line class="cls-3" x1="496.65" y1="369.48" x2="285.41" y2="369.48"/>
+          <line class="cls-3" x1="496.65" y1="433.36" x2="285.41" y2="433.36"/>
+          <line class="cls-3" x1="496.65" y1="401.42" x2="285.41" y2="401.42"/>
+          <line class="cls-3" x1="496.5" y1="465.3" x2="285.41" y2="465.3"/>
+          <line class="cls-3" x1="285.42" y1="496.58" x2="496.65" y2="496.58"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-2" x="58.59" y="239.73" width="184.29" height="261.4"/>
+        <g>
+          <line class="cls-3" x1="74.73" y1="279.32" x2="227.29" y2="279.32"/>
+          <line class="cls-3" x1="74.73" y1="303.31" x2="227.29" y2="303.31"/>
+          <line class="cls-3" x1="74.73" y1="325.45" x2="227.29" y2="325.45"/>
+          <line class="cls-3" x1="227.29" y1="347.59" x2="74.73" y2="347.59"/>
+          <line class="cls-3" x1="227.29" y1="369.74" x2="74.73" y2="369.74"/>
+          <line class="cls-3" x1="227.29" y1="415.88" x2="74.73" y2="415.88"/>
+          <line class="cls-3" x1="227.29" y1="392.81" x2="74.73" y2="392.81"/>
+          <line class="cls-3" x1="227.19" y1="438.94" x2="74.73" y2="438.94"/>
+          <line class="cls-3" x1="74.73" y1="461.54" x2="227.29" y2="461.54"/>
+        </g>
+      </g>
+      <g>
+        <circle class="cls-1" cx="698.1" cy="244.28" r="43.32"/>
+        <circle class="cls-1" cx="215.29" cy="241.06" r="43.32"/>
+        <circle class="cls-1" cx="486.71" cy="189.46" r="55.42"/>
+        <text class="cls-6" transform="translate(184.25 261.15)"><tspan x="0" y="0">v1</tspan></text>
+      </g>
+    </g>
+    <text class="cls-6" transform="translate(665.46 261.74)"><tspan x="0" y="0">v3</tspan></text>
+    <text class="cls-5" transform="translate(443.99 211.86)"><tspan x="0" y="0">v2</tspan></text>
+  </g>
+</svg>
