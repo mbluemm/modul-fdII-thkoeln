@@ -26,7 +26,7 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 
 ## Lernziele
 
-In diesem Themenblock bekommen Sie eine Einleitung in die Suche und Nachnutzung von Daten.
+> In diesem Themenblock bekommen Sie eine Einleitung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
 suchen können und insbesondere worauf Sie (auch zur Einhaltung der guten wissenschaftlichen
 Praxis) achten müssen, um einen Datensatz nachnutzen zu dürfen. Hier lernen Sie über Webseiten
@@ -308,17 +308,15 @@ Ressourcentyp. Identifikator
 Eine Zusammenfassung mit mehr Information, inklusive der acht Prinzipien zur Zitation von
 Forschungsdaten, finden Sie in dieser Zusammenfassung.
 
-## Leitfragen (Aufgabe)
+## Leitfragen und Aufgaben
 
-Leitfragen (für die EA online)
-===
+### Leitfragen (für die EA online)
 
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten / Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
     begünstigen?
 
-Leitfragen (für die GA vor Ort)
-===
+### Leitfragen (für die GA vor Ort)
 
 1. Welche Recherchemöglichkeiten finden Sie hilfreich, welche bringen Sie bei der Recherche
     nicht weiter? Warum?
@@ -326,13 +324,14 @@ Leitfragen (für die GA vor Ort)
 3. Entspricht der von Ihnen ausgewählte Forschungsdatensatz den FAIR-Prinzipien? Warum
     (nicht)?
 
-Aufgabe:
-===
+### Aufgabe:
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
-## Weiterführende Literatur und Links (optional)
+## Weiterführende Materialen und Quellen
+
+### Literatur
 
 Forschungsdaten.info. (2023, 5. Mai). Datenjournale. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/).
@@ -351,7 +350,7 @@ Lin, D., Crabtree, J., Dillo, I. et al. (2020) The TRUST Principles for digital 
 Pampel, H. & Elger, K. (2021). 5.6 Publikation und Zitierung von digitalen Forschungsdaten. In M.
 Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 521-536). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-028](https://doi.org/10.1515/9783110657807-028).
 
-## Quellen:
+### Quellen:
 
 Arimetrics. (2022). What is Metasearch engine. Zugriff am 18.10.2023, von [https://www.arimetrics.com/en/digital-glossary/metasearch-engine](https://www.arimetrics.com/en/digital-glossary/metasearch-engine).
 

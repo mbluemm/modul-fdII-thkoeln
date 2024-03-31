@@ -165,3 +165,9 @@ display: inline-block;
   background-repeat: no-repeat;
   text-indent: 23px;
 }
+
+.custom-block.info {
+  border-color: var(--vp-custom-block-info-border);
+  color: #085ddd;
+  background-color: var(--vp-custom-block-info-bg);
+}

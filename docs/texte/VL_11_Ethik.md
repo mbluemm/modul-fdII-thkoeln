@@ -26,12 +26,12 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 
 ## Lernziele
 
-```
+::: warning
 Hinweis
 Die angegebene Information dient lediglich als Orientierung für Studierende und Forschende. Sie
 ersetzt keine fachkundige Beratung zu ethischen Aspekten im Umgang mit Daten. Somit sind alle
 Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit.
-```
+:::
 
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten ethischen Aspekten, die
 Sie im FDM beachten müssen. Hier lernen Sie über die CARE-Prinzipien und wie Sie
@@ -81,7 +81,7 @@ Insbesondere beim Umgang mit Daten in den folgenden Szenarien, ist eine ethische
 Pflicht (Böker 2023):
 
 - Studien oder Forschung an und mit Menschen (Befragungen, Studien, medizinische
-    Forschung.
+    Forschung).
 - Studien, Projekte, Forschung, die personenbezogene Daten sammeln und archivieren.
 - Forschung, bei der Proben wie etwa Gewebe von Menschen entnommen werden, sowie bei
     Forschung an menschlichen Stammzellen (selbst wenn diese nicht extra entnommen werden).
@@ -104,28 +104,32 @@ in Botswana entworfen und von der Global Indigenous Data Alliance veröffentlich
 
 CARE steht dabei für Collective Benefit, Authority to Control, Responsibility und Ethics [Kollektiver Nutzen, Kontrolle über die Daten, Verantwortung, Ethik]
 
-```
-Collective Benefit
+
+> Collective Benefit
+
 Datenökosysteme müssen so gestaltet sein und funktionieren, dass
 indigene Völker einen Nutzen aus den Daten ziehen können.
-```
-```
-Authority to Control
+
+
+> Authority to Control
+
 Die Rechte und Interessen indigener Völker an indigenen Daten müssen
 anerkannt und ihre Befugnis, diese Daten zu kontrollieren, muss gestärkt
 werden.
 
-Responsibility
+> Responsibility
+
 Diejenigen, die mit indigenen Daten arbeiten, sind dafür verantwortlich,
 mitzuteilen, wie diese Daten verwendet werden, um die
 Selbstbestimmung der indigenen Völker sowie den kollektiven Nutzen zu
 unterstützen.
 
-Ethics
+> Ethics
+
 Die Rechte und das Wohlergehen indigener Völker sollten in allen Phasen
 des Forschungsdatenzyklus und im gesamten Datenökosystem im
 Vordergrund stehen.
-```
+
 Die CARE-Prinzipien dienen insbesondere dazu, Forschende dafür zu sensibilisieren, auch im
 Rahmen von Open Data und Open Science, die Interessen und individuellen und kollektiven Rechte
 zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
@@ -136,23 +140,21 @@ CARE-Prinzipien insbesondere in anthropologischen, sozialwissenschaftlichen und 
 Disziplinen mit ethischen Anforderungen an die Daten zu (GIDA o. D.; Carroll 2019).
 
 
-„Mit Beachtung der CARE-Prinzipien soll u. a. verhindert werden, dass aufgrund unterschiedlicher
-Machtverhältnisse oder historisch bedingter Ungleichheit das Selbstbestimmungsrecht indigener
-Personen und Personengruppen missachtet wird.“ (forschungsdaten.info 2023).
+> „Mit Beachtung der CARE-Prinzipien soll u. a. verhindert werden, dass aufgrund unterschiedlicher
+> Machtverhältnisse oder historisch bedingter Ungleichheit das Selbstbestimmungsrecht indigener
+> Personen und Personengruppen missachtet wird.“ (forschungsdaten.info 2023).
 
 Mehr zum Thema CARE-Prinzipien und was dabei beachtet werden muss finden Sie in GIDAs
 englischen Fassung oder in der deutschen Fassung.
 
-# Leitfrage (Aufgabe)
+## Leitfragen und Aufgaben
 
-Lektüre:
-===
+### Lektüre:
 
 Carroll, S. R., Hudson, M., Chapman, J. et al. (2019, 1. September). Die CARE-Prinzipien für
 indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.org/10.5281/zenodo.5995059).
 
-Leitfragen
-===
+### Leitfragen
 
 1. Kennen Sie Beispiele in denen Forschende in ethische Dilemmata geraten sind? Benennen
     Sie diese.
@@ -161,13 +163,14 @@ Leitfragen
 3. Was bezeichnet man als „Dual Use“? Haben Sie Vorschläge, wie man ihn verhindern
     kann?
 
-Aufgabe:
-===
+### Aufgabe:
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-# Weiterführende Literatur und Links (optional)
+## Weiterführende Materialen und Quellen
+
+### Literatur
 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
 for Indigenous data futures. Sci Data 8, 108. [https://doi.org/10.1038/s41597-021-00892-0](https://doi.org/10.1038/s41597-021-00892-0).
@@ -181,7 +184,7 @@ Rösch, H. (2021). 1.5 Forschungsethik und Forschungsdaten. In M. Putnings, H. N
 Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (pp. 115-140). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-006](https://doi.org/10.1515/9783110657807-006).
 
 
-## Quellen:
+### Quellen:
 
 Böker, E. (2022, 15. November). Ethische Aspekte und FDM. Forschungsdaten.info. Zugriff am
 18.10.2023, von [https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/](https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/gute-wissenschaftliche-praxis-und-fdm/).

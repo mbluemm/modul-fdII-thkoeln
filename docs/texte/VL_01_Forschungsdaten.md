@@ -3,7 +3,7 @@ author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
-logo:    
+logo:    ./assets/TH_Koeln.png
 
 version:  0.0.1
 
@@ -20,16 +20,18 @@ tags:     LiaScript, Preview
 link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
 
 -->
+
 # Was sind Forschungsdaten?
 
 [[toc]]
 
-<section>
-
 <!-- mögliche Abbildungen für die VL: 0041_THK_Forschungsarbeit ; G-0063_BUW_Gruppe_Wissenschaft ; 0042_THK_Daten ; 0043_THK_Digitalisierung -->
 
 ## Lernziele
+
+
 > In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu definieren und zu klären, welche Rolle FD im Forschungsprozess spielen.
+
 
 <br>
 
@@ -55,7 +57,7 @@ Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlic
 > und als Nachweise im Rahmen des Forschungsprozesses verwendet werden 
 > oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen 
 > und -ergebnissen als notwendig erachtet werden
->
+> 
 > -- Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 
 
 <br>
@@ -83,18 +85,22 @@ hinausgehen.
 
 <!-- G-0055_BUW_Icon_Datentyp_Text ; G-0053_BUW_Icon_Datentyp_Bild ; 0002_THK_Datentyp: Audiodateien; G-0054_BUW_Icon_Datentyp_AV -->
 
+<br>
+
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tekst_Digitalisering.png"><img width="512" alt="Tekst Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tekst_Digitalisering.png/512px-Tekst_Digitalisering.png"></a>
 
-<br>
-
 Quelle: Digitalbevaringdk Tekst_Digitalisering
 
-In diesem Kurs wird öfter auf „Daten“ und „Dateien“ eingegangen. Im Nachfolgenden finden Sie zur
-Klarheit dessen Definitionen, die für den fortlaufenden Kurs von Relevanz sind:
+In diesem Kurs wird öfter auf „Daten“ und „Dateien“ eingegangen. Im Nachfolgenden finden Sie Definitionen, die für den fortlaufenden Kurs von Relevanz sind:
 
-- Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“, und <!-- 0032_THK_Datensatz -->
-- eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“. <!-- 0028_THK_OrdnerPC -->
+- Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“
+
+<!-- 0032_THK_Datensatz -->
+
+- eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“. 
+
+<!-- 0028_THK_OrdnerPC -->
 
 in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 
@@ -107,18 +113,20 @@ in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-B
     <figcaption>Jørgen Stamp, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons</figcaption>
 </figure>
 
-</section>
-
 ## Welche Datentypen gibt es?
 
 Es gibt Primärdaten und Sekundärdaten[^1]
 
-> Primärdaten <!-- G-0094_BUW_a_Icon_Primaerdaten -->
+::: info
+Primärdaten <!-- G-0094_BUW_a_Icon_Primaerdaten -->
+:::
 
 - sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden.
 - Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
 
-> Sekundärdaten <!-- G-0094_BUW_b_Icon_Sekundaerdaten -->
+::: info
+Sekundärdaten <!-- G-0094_BUW_b_Icon_Sekundaerdaten -->
+:::
 
 - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
@@ -146,7 +154,6 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
 ## Weiterführende Materialen und Quellen
 
-<section>
 > Global Terrorism Database (GTD)
 
 Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National Consortium for the Study of Terrorism and Responses to Terrorism (START)[^2] kostenlos zur Verfügung gestellt[^3]. Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970 und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Ziele und eingesetzte Waffen _–_ systematisch klassifiziert.
@@ -155,6 +162,7 @@ Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom N
 
 Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993[^4] verübt wurden. Nach einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
 rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu Verzerrungen bei der Analyse und Interpretation der Ergebnisse führt, ist der entsprechende Datensatz nicht mehr in der Datenbank gespeichert, sondern wird in einem separaten Datenblatt zur Verfügung gestellt.
+
 <br>
 
 Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig haben kann.
@@ -195,4 +203,3 @@ START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.sta
 [^5]: START (2022).
 [^6]: START (2020).
 
-</section>

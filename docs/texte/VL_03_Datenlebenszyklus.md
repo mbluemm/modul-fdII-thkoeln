@@ -3,7 +3,6 @@ author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
-logo:    
 
 version:  0.0.1
 
@@ -26,7 +25,8 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 [[toc]]
 
 ## Lernziele
-In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
+
+> In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
 
 <!-- Überschrift/Abschnitt mit Lernzielen ergänzen sowie Video einfügen --> 
 
@@ -177,14 +177,19 @@ Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 
 
 ## Leitfragen und Aufgaben
+
 ### Leitfragen
 <!-- Wo sind die Leitfragen hin? Hatten wir die aussortiert? Puh, keine Ahnung, aber kann ich mir nicht wirklich vorstellen -->
+
+### Aufgaben
 <!-- Aufgabe : Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 
 
-## Lektüre
+### Lektüre
 Stefanie Rümpel. Der Lebenszyklus von Forschungsdaten. In:  Handbuch Forschungsdatenmanagement. Stephan Büttner, Hans-Christoph  Hobohm, Lars Müller (Hrsg.). Bock + Herchen. Bad Honnef. 2011. S. 25-34.
 
-## Weiterführende Literatur und Links (optional)
+## Weiterführende Materialen und Quellen
+
+### Literatur
 
 Büttner, S., Hobohm, H., Müller, L. (Ed.) (2011). Handbuch Forschungsdatenmanagement (S. 25-34).
 Fachhochschule Potsdam. [https://doi.org/10.34678/opus4-208](https://doi.org/10.34678/opus4-208).
@@ -203,7 +208,7 @@ Forschungsdatenmanagement _–_ eine Online-Einführung (Version 1.0). Zenodo.
 
 Rümpel, S. (2011). Der Lebenszyklus von Forschungsdaten. In S. Büttner, H.-C. Hobohm & L. Müller (Ed.), Handbuch Forschungsdatenmanagement (S. 25-34). Bad Honnef.
 
-## Quellen
+### Quellen
 
 Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis.
 Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/zenodo.3923602).

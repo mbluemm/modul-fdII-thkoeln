@@ -27,7 +27,7 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 
 ## Lernziele 
 
-In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und was es für
+> In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und was es für
 fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen die gängigsten
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 
@@ -189,22 +189,26 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen ve
 
 (Krähwinkel, Langner, Lipp et al., 2022)
 <!-- hier noch Beispiele von Metadaten einfügen (s. Beispielsammlung), Quiz einfügen --> 
+
 ## Leitfragen und Aufgaben
 
-Leitfragen 
-===
+### Leitfragen 
+
 <!-- 0025_THK_Fragezeichen -->
 - Welche Rolle spielen Metadaten im Forschungsdatenmanagement?
 - Welche Herausforderungen können bei der Sammlung von Metadaten auftreten?
 - Warum ist es wichtig, Metadaten langfristig aufzubewahren?
 
-Aufgabe
-===
+### Aufgabe
+
  <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die Materialien durch und beantworten Sie für sich die Fragen. Dokumentieren und
 reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-## Weiterführende Literatur und Links (optional):
+## Weiterführende Materialen und Quellen
+
+### Literatur
+
 <!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023b, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
@@ -216,7 +220,7 @@ VerbundFDB. (2022, 09. Juni). Daten dokumentieren. Zugriff am 18.10.2023, von [h
 
 Wikipedia. (2021, 10. Juli). Liste von Metadatenformaten. Zugriff am 18.10.2023, von [https://de.wikipedia.org/wiki/Liste_von_Metadatenformaten](https://de.wikipedia.org/wiki/Liste_von_Metadatenformaten)
 
-## Quellen:
+### Quellen:
 
 Biernacka, K., Buchholz, P., Danker, S. A. et al. (2021). Train-the-Trainer-Konzept zum Thema
 Forschungsdatenmanagement (Version 4). Zenodo. [https://doi.org/10.5281/zenodo.5773203](https://doi.org/10.5281/zenodo.5773203)

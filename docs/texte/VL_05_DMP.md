@@ -3,8 +3,6 @@ author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
-logo:    
-
 version:  0.0.1
 
 language: de
@@ -25,7 +23,7 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 [[toc]]
 
 ## Lernziele 
-In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
+> In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
 diese hat und welche Informationen in einer Dokumentation enthalten sein können. Außerdem wird
 Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle relevanten
 Aspekte für Studierende abdeckt und die Sie zukünftig für wichtige Forschungsarbeiten ausfüllen
@@ -481,20 +479,24 @@ nicht-pseudonymisierten) Originaldaten spätestens
 sicher vernichtet?
 
 
-## Leitfragen (Aufgabe)
+## Leitfragen und Aufgaben
+
+### Leitfragen:
 <!-- 0025_THK_Fragezeichen -->
-Leitfragen
 
 - Wofür wird eine Dokumentation von Daten benötigt?
 - Welche konkreten Aspekte eines Forschungsprozesses/-projektes sind für die Dokumentation
     relevant?
 
-Aufgabe:
+### Aufgabe:
 <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-## Weiterführende Literatur und Links (optional):
+## Weiterführende Materialen und Quellen
+
+### Literatur
+
 <!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
@@ -507,7 +509,7 @@ Helbig, K. (2015). Hinweise und Checkliste zur Erstellung eines Datenmanagementp
 Social Science Research Council. (o. D.). Principles of Documenting Data. Zugriff am 18.10.2023, von
 [https://managing-qualitative-data.org/modules/2/a/](https://managing-qualitative-data.org/modules/2/a/)
 
-## Quellen:
+### Quellen:
 
 Institut für Bibliotheks- und Informationswissenschaft. (2021, 8. Dezember). Datenmanagementplan
 für die Abschlussarbeit _–_ Template. Humboldt-Universtität zu Berlin. Zugriff am 18.10.2023, von

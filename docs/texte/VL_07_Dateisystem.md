@@ -27,7 +27,8 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 [[toc]]
 
 ## Lernziele
-In diesem Themenblock lernen Sie die Relevanz einer Ordnerstruktur, Dokumentation,
+
+> In diesem Themenblock lernen Sie die Relevanz einer Ordnerstruktur, Dokumentation,
 Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und welche Aspekte
 dabei zu beachten sind.
 <!-- Video von Medienagentur einfügen --> 
@@ -39,6 +40,7 @@ dabei zu beachten sind.
 
 Quelle: Digitalbevaringdk HvadErDigitalBevaring DigitalBevaring
 <!-- mit Abbildung 0051_THK_Datenchaos ersetzen --> 
+
 Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
 gute Struktur und Benennung empfehlenswert. 
 <!--0006_THK_Organisieren einfügen -->
@@ -212,10 +214,10 @@ werden.
 
 <!-- Quiz von 07_Arbeitsblatt_Ordnung_Struktur von sciebo-Ordner einfügen --> 
 
-## Leitfragen (Aufgabe)
+## Leitfragen und Aufgaben
 
-Leitfragen
-===
+### Leitfragen:
+
 <!-- 0025_THK_Fragezeichen -->
 - Welche Merkmale sind bei einer strukturierten und nachhaltigen Datenablage (Ordnerstruktur
     und Dateibenennung) im besten Fall zu beachten?
@@ -224,8 +226,8 @@ Leitfragen
 - Wissensübertragung: Welche Rolle spielt eine nachhaltige Datenablage im Studium? Worauf
     ist hier zu achten? Welche Probleme können entstehen?
 
-Aufgabe
-===
+### Aufgabe
+
  <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
@@ -235,7 +237,10 @@ ScaryTale
  <!-- 0038_THK_Buch -->
 Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html](https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html)
 
-## Weiterführende Literatur und Links (optional)
+## Weiterführende Materialen und Quellen
+
+### Literatur
+
 <!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023, 24. Juli). Formate erhalten. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
@@ -247,7 +252,7 @@ Weiner, B., Wünsche, S., Kühne, S. et al. (2020, April 30). Crashkurs Forschun
 Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.3778431)
 
 
-## Quellen
+### Quellen
 
 Biernacka, K., Buchholz, P., Danker, S. A. et al. (2021). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 4). Zenodo. [https://doi.org/10.5281/zenodo.5773203](https://doi.org/10.5281/zenodo.5773203)
 

@@ -182,21 +182,24 @@ Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
 Quelle: Digitalbevaringdk Lyd_Digitalisering
 
 
-## Leitfragen (Aufgabe)
+## Leitfragen und Aufgaben
 
-Leitfragen
-===
+### Leitfragen
+
 <!-- 0025_THK_Fragezeichen -->
 - Was ist die Relevanz von Daten/Dateispeicherung und Backup im FDM?
 - Wissensübertragung: Welche Rolle spielt die Dateispeicherung im Studium? Worauf ist hier zu achten? Welche Probleme können entstehen?
 
-Aufgabe:
-===
+### Aufgabe:
+
 <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-## Weiterführende Literatur und Links (optional)
+## Weiterführende Materialen und Quellen
+
+### Literatur
+
 <!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023a, 5. Mai). Datenübertragung. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/)
@@ -221,7 +224,7 @@ Weiner, B., Wünsche, S., Kühne, S. et al. (2020, 30. April). Crashkurs Forschu
 Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.3778431).
 
 
-## Quellen:
+### Quellen:
 
 Forschungsdaten.info. (2023a, 5. Mai). Datensicherheit und Backup. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/](https://forschungsdaten.info/themen/speichern-und-rechnen/datensicherheit-und-backup/).

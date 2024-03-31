@@ -26,12 +26,12 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 
 ## Lernziele
 
-```
+::: warning
 Hinweis
 Die angegebene Information dient lediglich als Orientierung für Studierende und Forschende. Sie
 ersetzt keine fachkundige Beratung zu rechtlichen Aspekten im Umgang mit Daten. Somit sind alle
 Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit
-```
+:::
 
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten rechtlichen Aspekten, die
 Sie im FDM beachten müssen. Hier lernen Sie über Datenschutz, mitunter Anonymisierung und Pseudonymisierung, das Urheberrecht, die Nachnutzung von Daten und Lizenzierungen vorgestellt.
@@ -107,12 +107,12 @@ Mit einigen Ausnahmen:
 Forschungsdaten sind unter standardisierten Lizenzen (z. B. Creative-Commons-Lizenzen) zu
 veröffentlichen —> dies verringert rechtliche Risiken.
 
-```
+::: tip
 Anonymisierung / Pseudonymisierung
 Durch die Anonymisierung bzw. Pseudonymisierung von personenbezogenen Forschungsdaten
 kann der Personenbezug der Daten eliminiert oder zumindest von den anderen Daten separiert
 werden.
-```
+:::
 
 Quelle: Bundesministerium des Innern und für Heimat. (o D.). Datenschutzerklärung [Pressemeldung](https://www.bmi.bund.de/DE/service/datenschutz/datenschutz_node.html;jsessionid=485ADBB3471A8DC3929B314FEF0B05E
 B.1_cid505#doc9390964bodyText)
@@ -157,9 +157,8 @@ Datenverarbeitungsgrundsätze zu beachten:
 
 Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten.
 
-```
 Quelle: Böker 2023a
-```
+
 
 ## Einführung zum Thema Urheberrecht
 
@@ -177,9 +176,9 @@ Arbeit/Daten) und garantiert das Eigentumsrecht an dem besagten Werk sowie das a
 Entscheidungsrecht über Verwertung und Nutzung durch Dritte. Dieser Schutz beginnt automatisch
 mit der Entstehung des Werkes (§ 11 UrhG).
 
-```
+::: info
 Hinweis: Die Prüfung erfolgt im Einzelfall.
-```
+:::
 
 Jede natürliche Person, die ein Werk durch eigene Leistung geschaffen hat ist ein:e Urheber:in.
 
@@ -249,28 +248,27 @@ Creative-Commons-Lizenzen, oder CC-Lizenzen, wurden bereits in der vorherigen Vo
 „Daten finden und nachnutzen“ vorgestellt. Dort finden Sie mehr Information zu den unterschiedlichen
 Lizenzen. Hier wird auf einige erweiterte rechtliche Aspekte zu den CC-Lizenzen eingegangen.
 
-```
-Gut zu wissen:
+::: tip 
 Bei der Nachnutzung wird durch eine Creative-Commons-Lizenz das
 Urheberpersönlichkeitsrecht nicht berührt. Der/die Urheber:in muss bei jeder Verwertung korrekt
 angegeben werden.
-```
-```
+:::
+
+::: warning
 Falls keine Lizenz existiert, dürfen urheberrechtlich geschützte Daten nur mit ausdrücklicher
 Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
-```
+:::
 
-## Leitfrage (Aufgabe)
+## Leitfragen und Aufgaben:
 
-Leitfragen
-===
+### Leitfragen
+
 
 1. Auf welche rechtlichen Aspekte sollte bei der Datenerhebung geachtet werden?
 
 2. Wem gehören die in einem Forschungsvorhaben erhobenen Forschungsdaten?
 
-Aufgabe: 
-===
+### Aufgabe: 
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
@@ -287,7 +285,9 @@ Reales Beispiel
     außerhalb des Weißen Hauses in seinem Badezimmer aufbewahrte.
     [https://www.spiegel.de/ausland/donald-trump-geheimdokumente-sollten-wirklich-nicht-im-bad-aufbewahrt-werden-a-decafda9-c172-49ec-bdef-47191e82a2e](https://www.spiegel.de/ausland/donald-trump-geheimdokumente-sollten-wirklich-nicht-im-bad-aufbewahrt-werden-a-decafda9-c172-49ec-bdef-47191e82a2e)
 
-## Weiterführende Literatur und Links (optional):
+## Weiterführende Materialen und Quellen
+
+### Literatur
 
 Böker, E., Brettschneider, Peter. (2020, 23. April). Forschungsdaten - Rechte und gute
 wissenschaftliche Praxis. Zenodo. [https://doi.org/10.5281/zenodo.3763040](https://doi.org/10.5281/zenodo.3763040).
@@ -327,7 +327,7 @@ Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum f
 Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (Freund).
 (2020). In Verlag Dr. Otto Schmidt eBooks (S. 47–194). [https://doi.org/10.9785/9783504385781-007](https://doi.org/10.9785/9783504385781-007)
 
-## Quellen:
+### Quellen:
 
 Böker, E. (2023a, 5. Mai). Recht und Forschungsdaten _–_ ein Überblick. Forschungsdaten.info. Zugriff
 am 18.10.2023, von [https://www.forschungsdaten.info/themen/rechte-und-pflichten/recht-und-forschungsdaten-ein-ueberblick/](https://www.forschungsdaten.info/themen/rechte-und-pflichten/recht-und-forschungsdaten-ein-ueberblick/).

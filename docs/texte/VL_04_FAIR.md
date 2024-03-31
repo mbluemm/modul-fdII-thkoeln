@@ -3,7 +3,6 @@ author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
 
 email:    mirjam.bluemm@th-koeln.de
 
-logo:    
 
 version:  0.0.1
 
@@ -26,9 +25,10 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 
 ## Lernziele
 
-In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Prinzipien
+> In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Prinzipien
 praktisch umgesetzt werden können und welche Vor- und Nachteile die Anwendung der FAIR-
 Prinzipien mit sich bringen können.
+
 <!-- Video von Medienagentur -->
 
 ## FAIR-Prinzipien
@@ -44,9 +44,8 @@ An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. E
 
 <!-- 0007_THK_Leitlinien -->
 
-```
 Quelle: Forschungsdaten.info, 2023
-```
+
 ### Findable (Auffindbar):
 
 <!-- G-0044_BUW_Icon_Findability -->
@@ -171,23 +170,25 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 <!-- Quiz / Wahr oder Falsch: Aufgabe von Train-the-Trainer (S. 33): Wahrheit oder Lüge: Welchen der folgenden Aussagen bezogen auf die FAIR-Prinzipien stimmen Sie zu? 1. Nur offene Daten können auch FAIR sein. 2. Ein gutes Forschungsdatenmanagement ist eine Voraussetzung für Daten, die den FAIR-Prinzipien entsprechen. 3. Sind Daten offen und FAIR, ist auch eine gute Datenqualität garantiert. 4. Je FAIRer und offener Daten sind, desto größer ist das Nachnutzungspotential. -->
 
-## Leitfragen (Aufgabe)
 
-Leitfragen:
+## Leitfragen und Aufgaben
+
+### Leitfragen:
 <!-- 0025_THK_Fragezeichen -->
 1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium angewendet wurden.
 
-Aufgabe:
+### Aufgabe:
  <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-## Lektüre
+### Lektüre
  <!-- 0038_THK_Buch -->
-<!-- Vereinheitlichung von Blöcken -->
 
-## Weiterführende Literatur und Links (optional):
+## Weiterführende Materialen und Quellen
+
+### Literatur
 <!-- G-0044_BUW_Icon_Findability -->
 <!-- hier noch 04_Poster_FAIRDATA einfügen aus sciebo-Ordner --> 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
@@ -209,7 +210,7 @@ Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding
 Principles for scientific data management and stewardship. Sci Data 3, 160018.
 [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 
-## Quellen:
+### Quellen:
 
 Böker, E. (2023a, 5. Mai). Zitieren von Daten. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
@@ -223,4 +224,3 @@ Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 
 Sauther-Patrascu, K., Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Präsidium der
 TH Köln. Zugriff am 20.10.2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
-

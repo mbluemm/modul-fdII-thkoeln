@@ -5,14 +5,14 @@ layout: home
 title: FDM Basiskurs
 titleTemplate: Vorlesungskripte, Lerzielmatrizen, Kursmaterialien
 
-lastUpdated: true
-
+lastUpdated: false
 
 hero:
   name: "FDII - Basiskurs"
   tagline: The best things in life aren't things!
   logo: /medien/assets/TH_Koeln.png
-  src: 
+  icon: /medien/assets/TH_Koeln.png
+  src: /medien/assets/
 
   alt: FDM@TH_Koeln
   actions:

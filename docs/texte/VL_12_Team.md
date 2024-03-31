@@ -26,18 +26,20 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/asse
 
 ## Lernziele
 
-In diesem Themenblock lernen Sie die Relevanz und Vorteile von kollaborativer Arbeit mit Daten
+> In diesem Themenblock lernen Sie die Relevanz und Vorteile von kollaborativer Arbeit mit Daten
 kennen, aber auch mögliche Herausforderungen. Ebenso wird thematisiert, was beim kollaborativen
 Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 
 ## Definition
 
+::: info
 „Kollaboratives Arbeiten lässt sich, in einem engeren Sinne, als eine besondere Form der
 Zusammenarbeit definieren, bei der die Beteiligten gemeinsam und gleichzeitig eine Aufgabe, ein
 Projekt oder eben Daten bearbeiten. Dies unterscheidet kollaboratives Arbeiten von der „bloßen“
 Teamarbeit, bei der zwar ein gemeinsames Ziel verfolgt wird, die zur Erreichung notwendigen
 Aufgaben aber nicht notwendigerweise zusammen, sondern von Einzelnen und parallel bearbeitet
 werden.“ (Engelhardt, Kusch 2021, S. 451).
+:::
 
 ## Warum ist eine kollaborative Arbeit von Vorteil?
 
@@ -110,7 +112,9 @@ Aspekte:
 - Lizenzen
 
 
-## Weiterführende Literatur und Links (optional)
+## Weiterführende Materialen und Quellen
+
+### Literatur
 
 Die unten angegebenen Quellen dienen auch als weiterführende Literatur.
 
