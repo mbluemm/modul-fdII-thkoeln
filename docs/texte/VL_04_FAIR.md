@@ -181,9 +181,6 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-### Lektüre
-
- <!-- 0038_THK_Buch -->
 
 ## Weiterführende Materialen und Quellen
 
@@ -191,6 +188,9 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 <!-- G-0044_BUW_Icon_Findability -->
 <!-- hier noch 04_Poster_FAIRDATA einfügen aus sciebo-Ordner --> 
+
+Buch, Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#datendienstag: Datenmanagementpläne und 
+Forschungsdatenmanagement in Forschungsanträgen*. Folien 10-15. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
 for Indigenous data futures. Sci Data 8, 108. [https://doi.org/10.1038/s41597-021-00892-0](https://doi.org/10.1038/s41597-021-00892-0).
@@ -204,20 +204,14 @@ Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-023](https://doi
 
 GO FAIR. (o. D.). FAIR Principles. Zugriff am 18.10.2023, von [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
 
+GO FAIR – FAIR made easy (englisch, 4:06), [https://youtu.be/CEPsTiEgWR4](https://youtu.be/CEPsTiEgWR4)
+
 Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 [https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien/](https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien/).
 
 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding
 Principles for scientific data management and stewardship. Sci Data 3, 160018.
 [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
-
-## (Mögliche) Ergänzende Materialien im LMS
-
-Folien 10-15: Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#datendienstag: Datenmanagementpläne und Forschungsdatenmanagement in Forschungsanträgen*. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
-
-Angaben zum Umgang mit Forschungsdaten. → Hier gibt es oft Leitlinien (z. B. von Institutionen, wie der TH Köln), denen gefolgt werden kann. [https://forschungsdaten-thueringen.de/files/images/Material/2023\_02\_14\_Farify\_your\_data.pdf](https://forschungsdaten-thueringen.de/files/images/Material/2023_02_14_Farify_your_data.pdf)
-
-GO FAIR – FAIR made easy (englisch, 4:06), [https://youtu.be/CEPsTiEgWR4](https://youtu.be/CEPsTiEgWR4)
 
 ### Quellen:
 
@@ -228,6 +222,7 @@ Forschungsdaten.info. (2023, 21. Juli). FAIRe Daten. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/).
 
 GO FAIR. (o. D.). FAIR Principles. Zugriff am 18.10.2023, von [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
+
 Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 [https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien](https://rdm.univie.ac.at/de/forschungsdatenmanagement/fair-und-care-prinzipien).
 
