@@ -1,3 +1,12 @@
+---
+title: VL 01 - Was sind Forschungsdaten?
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
 
 <!--
 author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner

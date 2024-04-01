@@ -13,7 +13,7 @@ export default defineConfig({
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
   base: '/modul-fdII-thkoeln/',
 
-  /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
+/* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
 
   themeConfig: {
     // https:/vitepress.dev/reference/default-theme-config
@@ -43,38 +43,38 @@ export default defineConfig({
     sidebar: [
       {
     text: 'Lernzielmatrizen',
-    collapsible: true,
+    collapsed: true,
     items: [
-      { text: 'VL 01 Forschungsdaten', link: '/lz/VL_01_Forschungsdaten_LZ.md' },
-      { text: 'VL 02 Forschungsdatenmanagement', link: '/lz/VL_02_Forschungsdatenmanagement_LZ.md' },
-      { text: 'VL 03 Datenlebenszyklus', link: '/lz/VL_03_Datenlebenszyklus_LZ.md' },
-      { text: 'VL 04 FAIR', link: '/lz/VL_04_FAIR_LZ.md' },        
-      //{ text: 'VL 05 DMP', link: '/lz/VL_05_DMP_LZ.md' },
-      //{ text: 'VL 06 Metadaten', link: '/lz/VL_06_Metadaten_LZ.md' },
-      //{ text: 'VL 07 Dateisystem', link: '/lz/VL_07_Dateisystem_LZ.md' },
-      //{ text: 'VL 08 Speichern', link: '/lz/VL_08_Speichern_LZ.md' },
-      //{ text: 'VL 09 Finden', link: '/lz/VL_09_Finden_LZ.md' },
-      //{ text: 'VL 10 Recht', link: '/lz/VL_10_Recht_LZ.md' },
-      //{ text: 'VL 11 Ethik', link: '/lz/VL_11_Ethik_LZ.md' },
-      //{ text: 'VL 12 Team', link: '/lz/VL_12_Team_LZ.md' },
+      { text: '1. Forschungsdaten', link: '/lz/VL_01_Forschungsdaten_LZ.md' },
+      { text: '2. FDM', link: '/lz/VL_02_Forschungsdatenmanagement_LZ.md' },
+      { text: '3. DLZ', link: '/lz/VL_03_Datenlebenszyklus_LZ.md' },
+      { text: '4. FAIR', link: '/lz/VL_04_FAIR_LZ.md' },        
+      //{ text: '5. DMP', link: '/lz/VL_05_DMP_LZ.md' },
+      //{ text: '6. Metadaten', link: '/lz/VL_06_Metadaten_LZ.md' },
+      //{ text: '7. Dateisystem', link: '/lz/VL_07_Dateisystem_LZ.md' },
+      //{ text: '8. Speichern', link: '/lz/VL_08_Speichern_LZ.md' },
+      //{ text: '9. Finden', link: '/lz/VL_09_Finden_LZ.md' },
+      //{ text: '10. Recht', link: '/lz/VL_10_Recht_LZ.md' },
+      //{ text: '11. Ethik', link: '/lz/VL_11_Ethik_LZ.md' },
+      //{ text: '12. Team', link: '/lz/VL_12_Team_LZ.md' },
       ]
     },
     {
       text: 'Vorlesungsskripte',
-      collapsible: true,
+      collapsed: true,
       items: [
-        { text: 'VL 01 Forschungsdaten', link: '/texte/VL_01_Forschungsdaten.md' },
-        { text: 'VL 02 Forschungsdatenmanagement', link: '/texte/VL_02_Forschungsdatenmanagement.md' },
-        { text: 'VL 03 Datenlebenszyklus', link: '/texte/VL_03_Datenlebenszyklus.md' },       
-        { text: 'VL 04 FAIR', link: '/texte/VL_04_FAIR.md' },
-        { text: 'VL 05 DMP', link: '/texte/VL_05_DMP.md' },
-        { text: 'VL 06 Metadaten', link: '/texte/VL_06_Metadaten.md' },
-        //{ text: 'VL 07 Dateisystem', link: '/texte/VL_07_Dateisystem.md' },
-        //{ text: 'VL 08 Speichern', link: '/texte/VL_08_Speichern.md' },
-        //{ text: 'VL 09 Finden', link: '/texte/VL_09_Finden.md' },
-        //{ text: 'VL 10 Recht', link: '/texte/VL_10_Recht.md' },
-        //{ text: 'VL 11 Ethik', link: '/texte/VL_11_Ethik.md' },
-        //{ text: 'VL 12 Team', link: '/texte/VL_12_Team.md' },
+        { text: '1. Forschungsdaten', link: '/texte/VL_01_Forschungsdaten.md' },
+        { text: '2. FDM', link: '/texte/VL_02_Forschungsdatenmanagement.md' },
+        { text: '3. Datenlebenszyklus', link: '/texte/VL_03_Datenlebenszyklus.md' },       
+        { text: '4. FAIR', link: '/texte/VL_04_FAIR.md' },
+        { text: '5. DMP', link: '/texte/VL_05_DMP.md' },
+        { text: '6. Metadaten', link: '/texte/VL_06_Metadaten.md' },
+        //{ text: '7. Dateisystem', link: '/texte/VL_07_Dateisystem.md' },
+        //{ text: '8. Speichern', link: '/texte/VL_08_Speichern.md' },
+        //{ text: '9. Finden', link: '/texte/VL_09_Finden.md' },
+        //{ text: '10. Recht', link: '/texte/VL_10_Recht.md' },
+        //{ text: '11. Ethik', link: '/texte/VL_11_Ethik.md' },
+        //{ text: '12. Team', link: '/texte/VL_12_Team.md' },
         ]
       }
     ],
