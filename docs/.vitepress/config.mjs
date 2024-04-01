@@ -1,11 +1,11 @@
 import { defineConfig } from 'vitepress'
 
-// https:/vitepress.dev/reference/site-config
-
 /* ■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+    Konfigurationsdatei
+  □■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■ */
 
-□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■ */
 
+// https:/vitepress.dev/reference/site-config
 export default defineConfig({
 
   title: 'Technische Hochschule Köln',
@@ -13,14 +13,12 @@ export default defineConfig({
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
   base: '/modul-fdII-thkoeln/',
 
-/* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
-
+  // https:/vitepress.dev/reference/default-theme-config
   themeConfig: {
-    // https:/vitepress.dev/reference/default-theme-config
 
     logo: '/assets/logo_TH_Koeln.png',
 
-  /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
+    // ︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Navigation
     nav: [
       {
         text: 'FDM@Studium.nrw',
@@ -39,7 +37,7 @@ export default defineConfig({
         ]
       }],
   
-    /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
+    //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Sidebar
     sidebar: [
       {
     text: 'Lernzielmatrizen',
@@ -78,7 +76,8 @@ export default defineConfig({
         ]
       }
     ],
-    /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
+    
+    //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Aside
     aside: {
     },
     socialLinks: [
@@ -86,13 +85,13 @@ export default defineConfig({
         link: 'https://github.com/mbluemm/modul-fdII-thkoeln' },
     ],
 
-    /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
+    //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Footer 
     footer: {
       message: '<b>Released</b> under the MIT License.',
       copyright: 'Copyright © 2024 <a href="https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97" target="_blank">FDM@Studium.NRW</a>'
     },
 
-    /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
+    //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Timestamp
     lastUpdated: {
       text: 'Zuletzt aktualisiert am:',
       formatOptions: {
