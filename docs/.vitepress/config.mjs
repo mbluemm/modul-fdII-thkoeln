@@ -2,22 +2,25 @@ import { defineConfig } from 'vitepress'
 
 // https:/vitepress.dev/reference/site-config
 
+/* ■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+
+□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■ */
+
 export default defineConfig({
-  //title: 'FDM Basiskurs',
-  markdown: {
-    languageAlias: {
-      'svg': 'html'
-    }
-  },
+
   title: 'Technische Hochschule Köln',
   lang: 'de-DE',
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
-
   base: '/modul-fdII-thkoeln/',
+
+  /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
 
   themeConfig: {
     // https:/vitepress.dev/reference/default-theme-config
+
     logo: '/assets/logo_TH_Koeln.png',
+
+  /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
     nav: [
       {
         text: 'FDM@Studium.nrw',
@@ -36,6 +39,7 @@ export default defineConfig({
         ]
       }],
   
+    /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
     sidebar: [
       {
     text: 'Lernzielmatrizen',
@@ -74,7 +78,7 @@ export default defineConfig({
         ]
       }
     ],
-
+    /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
     aside: {
     },
     socialLinks: [
@@ -82,11 +86,13 @@ export default defineConfig({
         link: 'https://github.com/mbluemm/modul-fdII-thkoeln' },
     ],
 
+    /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
     footer: {
       message: '<b>Released</b> under the MIT License.',
       copyright: 'Copyright © 2024 <a href="https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97" target="_blank">FDM@Studium.NRW</a>'
     },
 
+    /* ¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫¸♬·¯·♩¸¸♪·¯·♫¸¸¸♬·¯·♩¸¸♪·¯·♫ */
     lastUpdated: {
       text: 'Zuletzt aktualisiert am:',
       formatOptions: {
