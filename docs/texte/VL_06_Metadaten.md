@@ -16,9 +16,11 @@ aside: true
 
 ## Lernziele 
 
-> In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und was es für
+::: info
+In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und was es für
 fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen die gängigsten
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
+:::
 
 <!-- hier noch Video von Medienagentur und irgendwo im Skript eventuell noch Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download)) ergänzen --> 
 <!-- style="width: 25%;" -->
@@ -42,13 +44,16 @@ Dokumentation. Dafür ist es wichtig, im besten Fall bereits bei der Erstellung 
 Aspekte rund um die Daten festzuhalten. Je länger man die Metadaten-Erstellung hinauszögert, umso
 eher läuft man Gefahr, dass einige Informationen nicht mehr rekonstruiert werden können (bspw. die
 Herkunft einzelner Daten).
+
 <!-- Abbildung 0044_THK_Metadaten austauschen/ergänzen -->
 ![Was sind Metadaten? ](/medien/abbildungen/Metadata_DigitalPreservation_512.png)
 <br>
 <a href="https://commons.wikimedia.org/wiki/File:Metadata_DigitalPreservation.png">Jørgen Stamp</a>, <a href="https://creativecommons.org/licenses/by/2.5/dk/deed.en">CC BY 2.5 DK</a>, via Wikimedia Commons
 
 ## Wozu dienen Metadaten?
+
 <!-- 0005_THK_Metadaten ergänzen --> 
+
 (Wieder-)Auffindbarkeit: Metadaten ermöglichen es, Forschungsdaten effizient zu finden. Wenn
 nach Daten zu einem bestimmten Thema gesucht wird, helfen Metadaten, die relevanten Datensätze
 zu identifizieren.
@@ -90,6 +95,7 @@ von Daten.
 
 ## Arten von Metadaten
 <!-- Abbildung 0045_THK_Rechercheergebnisse ergänzen -->
+
  ### Fächerübergreifende Metadaten:
 
 **Bibliografische Metadaten** dienen der Zitation von Daten und somit der Auffindbarkeit. 

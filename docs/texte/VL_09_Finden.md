@@ -14,7 +14,8 @@ aside: true
 
 ## Lernziele
 
-> In diesem Themenblock bekommen Sie eine Einleitung in die Suche und Nachnutzung von Daten.
+::: info
+In diesem Themenblock bekommen Sie eine Einleitung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
 suchen können und insbesondere worauf Sie (auch zur Einhaltung der guten wissenschaftlichen
 Praxis) achten müssen, um einen Datensatz nachnutzen zu dürfen. Hier lernen Sie über Webseiten
@@ -22,8 +23,10 @@ zur Datenrecherche, Persistente Identifikatoren (PID), CC-Lizenzen und wie ein D
 zitiert wird.
 Haben Sie sich im Forschungsprozess auf ein Forschungsthema geeinigt, können Sie u. a. mit Hilfe
 von Metasuchmaschinen, Datenportalen und Repositorien passende Datensätze finden.
+:::
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Websites_DigitalPreservation.png"><img width="256" alt="Websites DigitalPreservation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Websites_DigitalPreservation.png/256px-Websites_DigitalPreservation.png"></a>
 Quelle: Digitalbevaringdk Hjemmesider_DigitalBevaring
 
 Im FDM stehen über eine Anzahl an Webseiten veröffentlichte Datensätze zur Verfügung. Diese
@@ -138,8 +141,7 @@ Repositorien können mit Zertifikaten ausgezeichnet werden, die einen Mindestma�
 garantieren. Unter anderen, vergibt die community-basierte und gemeinnützige Organisation
 CoreTrustSeal Core Level Zertifizierungen an Repositorien. Diese basieren auf dem DSA-WDS Core
 Trustworthy Data Repositories Requirements Catalogue. Repositorien sind qualitativ und können
-zertifiziert werden, wenn (Böker 2023a)
-:
+zertifiziert werden, wenn (Böker 2023a):
 
 1. Die Daten im Internet auffindbar sind,
 2. Die Rechtssituation der Daten geklärt ist und diese ohne Einschränkung zugänglich sind,

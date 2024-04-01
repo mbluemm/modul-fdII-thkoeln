@@ -13,11 +13,14 @@ aside: true
 [[toc]]
 
 ## Lernziele 
-> In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
+
+::: info
+In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
 diese hat und welche Informationen in einer Dokumentation enthalten sein können. Außerdem wird
 Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle relevanten
 Aspekte für Studierende abdeckt und die Sie zukünftig für wichtige Forschungsarbeiten ausfüllen
 können.
+:::
 
 <!-- Icon 0010_THK_DMP_Dokumentation + Überschrift Lernziele einfügen und Video von Medienagentur einfügen -->
 
@@ -54,7 +57,7 @@ wenigen Absätzen und mehreren Seiten umfassen.
 * Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation.
 
 ::: tip
-Hinweis: Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
+Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
 Prozesse. Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
 Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
 :::
@@ -472,6 +475,7 @@ sicher vernichtet?
 ## Leitfragen und Aufgaben
 
 ### Leitfragen:
+
 <!-- 0025_THK_Fragezeichen -->
 
 - Wofür wird eine Dokumentation von Daten benötigt?

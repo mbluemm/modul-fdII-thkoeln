@@ -16,9 +16,11 @@ aside: true
 
 ## Lernziele
 
-> In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und dessen Rolle in
+::: info 
+In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und dessen Rolle in
 Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschungspraxis verortet
 wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenhängt.
+:::
 
 Das Forschungsdatenmanagement, oft als FDM abgekürzt, umfasst sämtliche Stadien des
 Forschungsprozesses, beginnend bei der Datenerfassung und Dokumentation, über die Verarbeitung,

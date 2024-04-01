@@ -14,10 +14,11 @@ aside: true
 
 ## Lernziele
 
-> In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
+::: info
+In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
+:::
 
 <!-- Überschrift/Abschnitt mit Lernzielen ergänzen sowie Video einfügen --> 
-
 
 ## Der Datenlebenszyklus: Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
 
@@ -160,9 +161,7 @@ der Deutschen Forschungsgemeinschaft (Deutsche Forschungsgemeinschaft, 2019) fes
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:VidenOm_DigitalBevaring.png"><img width="512" alt="VidenOm DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/VidenOm_DigitalBevaring.png/512px-VidenOm_DigitalBevaring.png"></a>
-
 Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
-
 
 ## Leitfragen und Aufgaben
 

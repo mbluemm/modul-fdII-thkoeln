@@ -31,6 +31,10 @@ oo1oo oo1oo oo1oo oo1oo oo1oo oo1oo oo1oo oo1oo oo1oo oo1oo */
 
 ︶꒦︶︶꒷꒦︶꒷︶︶꒦︶︶꒷꒦︶꒷︶︶꒦︶꒦︶︶꒷꒦︶︶꒷︶︶꒦︶︶꒷꒦︶︶꒷︶︶꒦︶꒦︶︶꒦ */
 
+
+Hover itㅤ[<img src="https://www.wppluginsforyou.com/wp-content/uploads/2020/05/tooltips.png" width="15px" />
+](## "Code preview syntax was generated using gh-linguist-preview")
+
 <h2> A Mad Tea-Party </h2>
 
 <p>

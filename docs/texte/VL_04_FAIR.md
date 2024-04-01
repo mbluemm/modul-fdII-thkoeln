@@ -14,9 +14,11 @@ aside: true
 
 ## Lernziele
 
-> In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Prinzipien
+::: info
+In diesem Themenblock lernen Sie, was das Akronym FAIR bedeutet, wie die FAIR-Prinzipien
 praktisch umgesetzt werden können und welche Vor- und Nachteile die Anwendung der FAIR-
 Prinzipien mit sich bringen können.
+:::
 
 <!-- Video von Medienagentur -->
 

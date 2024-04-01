@@ -15,9 +15,12 @@ aside: true
 
 ## Lernziele
 
-> In diesem Themenblock lernen Sie die Relevanz einer Ordnerstruktur, Dokumentation,
+::: info 
+In diesem Themenblock lernen Sie die Relevanz einer Ordnerstruktur, Dokumentation,
 Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und welche Aspekte
 dabei zu beachten sind.
+:::
+
 <!-- Video von Medienagentur einfügen --> 
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen

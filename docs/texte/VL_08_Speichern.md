@@ -15,13 +15,16 @@ aside: true
 ## Lernziele
 
 <!-- G-0038_BUW_Icon_Diskette einfügen --> 
+::: info
 In diesem Themenblock lernen Sie die Speicherung von Daten und Dateien kennen, welche Aspekte 
 dabei im Forschungsprozess zu beachten sind und welchen Empfehlungen zu befolgen ist. 
 Außerdem lernen Sie über Vor- und Nachteile verschiedener Speichermedien sowie unterschiedlicher
 Datenformate. 
+:::
 
 (forschungsdaten.info 2023a; forschungsdaten.info 2023b). <!-- what's that? --> 
 <!-- Video von Medienagentur einfügen -->
+
 ## Daten speichern und das Datenverlustrisiko minimieren
 
 Im FDM ist eine sinnvolle Speicherung von Daten eine Voraussetzung für die Gute wissenschaftliche

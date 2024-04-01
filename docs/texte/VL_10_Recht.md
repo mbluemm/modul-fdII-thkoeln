@@ -15,14 +15,15 @@ aside: true
 ## Lernziele
 
 ::: warning
-Hinweis
 Die angegebene Information dient lediglich als Orientierung für Studierende und Forschende. Sie
 ersetzt keine fachkundige Beratung zu rechtlichen Aspekten im Umgang mit Daten. Somit sind alle
 Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit
 :::
 
+::: info 
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten rechtlichen Aspekten, die
 Sie im FDM beachten müssen. Hier lernen Sie über Datenschutz, mitunter Anonymisierung und Pseudonymisierung, das Urheberrecht, die Nachnutzung von Daten und Lizenzierungen vorgestellt.
+:::
 
 ## Leitlinien für das wissenschaftliche Arbeiten
 
@@ -57,7 +58,6 @@ beachten müssen werden erläutert.
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lovgivning_DigitalBevaring.png"><img width="512" alt="Lovgivning DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lovgivning_DigitalBevaring.png/512px-Lovgivning_DigitalBevaring.png"></a>
-
 Quelle: Digitalbevaringdk Lovgivning_DigitalBevaring
 
 ## Einführung zum Thema Datenschutz
@@ -144,7 +144,6 @@ Datenverarbeitungsgrundsätze zu beachten:
 ## Praktische Tipps
 
 Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten.
-
 Quelle: Böker 2023a
 
 
@@ -250,7 +249,6 @@ Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
 ## Leitfragen und Aufgaben:
 
 ### Leitfragen
-
 
 1. Auf welche rechtlichen Aspekte sollte bei der Datenerhebung geachtet werden?
 

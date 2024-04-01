@@ -1,12 +1,12 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+
 layout: home
 icon: 
   scr: /assets/logo_TH_Koeln.png
 title: FDM Basiskurs
 titleTemplate: Vorlesungskripte, Lerzielmatrizen, Kursmaterialien
-
-lastUpdated: false
+lastUpdated: true
 
 hero:
   name: "FDM - Basiskurs"
@@ -33,6 +33,5 @@ features:
   - icon: 📚
     title: LiaScript
     details: Nachnutzbare Lehrmaterialien
-
 ---
 
