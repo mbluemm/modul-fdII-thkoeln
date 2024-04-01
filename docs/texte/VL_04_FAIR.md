@@ -70,6 +70,7 @@ Dritter involviert sind. FAIR bedeutet nicht automatisch Open Access, da es auch
 Daten aufgrund von Einschränkungen nicht frei zugänglich gemacht werden können. In solchen Fällen
 können Hinweise in den Metadaten angegeben werden, um Interessierte an den entsprechenden
 Ansprechpartner zu verweisen.
+
 <!-- G-0153_BUW_Icon_personenbezogene_Daten und 0016_THK_gesetzliche Vorschriften neben Absatz ergänzen -->
 
 ### Interoperable (Interoperabel):
@@ -87,6 +88,7 @@ Interoperabilität wird durch verschiedene Maßnahmen erreicht:
 - Qualifizierte Verweise auf andere Metadaten: Metadaten sollten qualifizierte Verweise auf
     andere Metadaten enthalten. Dies unterstützt die Nachverfolgbarkeit und Verknüpfung von
     Informationen.
+
 <!-- Abbildung 0044_THK_Metadaten einfügen -->
 
 ### Reusable (Wiederverwendbar):
@@ -206,6 +208,14 @@ Universität Wien. (o. D.). FAIR und CARE Prinzipien. Zugriff am 18.10.2023, von
 Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding
 Principles for scientific data management and stewardship. Sci Data 3, 160018.
 [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
+
+## (Mögliche) Ergänzende Materialien im LMS
+
+Folien 10-15: Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#datendienstag: Datenmanagementpläne und Forschungsdatenmanagement in Forschungsanträgen*. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
+
+Angaben zum Umgang mit Forschungsdaten. → Hier gibt es oft Leitlinien (z. B. von Institutionen, wie der TH Köln), denen gefolgt werden kann. [https://forschungsdaten-thueringen.de/files/images/Material/2023\_02\_14\_Farify\_your\_data.pdf](https://forschungsdaten-thueringen.de/files/images/Material/2023_02_14_Farify_your_data.pdf)
+
+GO FAIR – FAIR made easy (englisch, 4:06), [https://youtu.be/CEPsTiEgWR4](https://youtu.be/CEPsTiEgWR4)
 
 ### Quellen:
 

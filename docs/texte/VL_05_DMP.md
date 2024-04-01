@@ -1,5 +1,5 @@
 ---
-title: VL 04 - FAIR-Prinzipien
+title: VL 05 - Dokumentation von Daten
 lang: de-DE
 output: 
     html_document: 
@@ -18,6 +18,7 @@ diese hat und welche Informationen in einer Dokumentation enthalten sein können
 Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle relevanten
 Aspekte für Studierende abdeckt und die Sie zukünftig für wichtige Forschungsarbeiten ausfüllen
 können.
+
 <!-- Icon 0010_THK_DMP_Dokumentation + Überschrift Lernziele einfügen und Video von Medienagentur einfügen -->
 
 ## Über Daten informieren und Daten dokumentieren
@@ -57,7 +58,6 @@ Hinweis: Bei einer Datendokumentation handelt sich um ein living document! (Fors
 Prozesse. Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
 Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
 :::
-
 
 Die nachfolgenden Leitfragen helfen, einer ausführlichen Projektdokumentation im Studienkontext
 nachzukommen. Aspekte wie “Was fällt an Daten überhaupt an?” und “Wie speichere ich die Daten

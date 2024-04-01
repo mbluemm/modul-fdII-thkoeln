@@ -1,29 +1,18 @@
-<!--
-author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+---
+title: LZ 04 - FAIR-Prinzipien
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
 
-email:    mirjam.bluemm@th-koeln.de
+# FAIR-Prinzipien
 
-version:  0.0.1
+[[toc]]
 
-language: de
-
-narrator: Deutsch Female
-
-comment:  
-
-tags:     LiaScript, Preview
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
--->
-# VL4: FAIR-Prinzipien
-
-**Ausgangslage**
+## Ausgangslage
 
 - Das Bewusstsein für FAIR-Prinzipien ist bei den S. nicht vorhanden.
 - FAIR-Prinzipien sind im BA-Level anwendbar – insbesondere Findable (Auffindbar) und Reusable (Nachnutzbar) –, aber werden nicht geprüft.
@@ -39,9 +28,10 @@ import:
 | 4 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen(5). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeiten (mit Daten) beachten zu können. |
 
 ## Detaillierte Kursplanung[^1]
+
 <!-- Layout von Tabellenzelle "Inhalt"-->
 
-**Online-Kurs**
+### Online-Kurs
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
@@ -123,15 +113,6 @@ Besprechung von Fallbeispielen mit anschließender Diskussion (pro Gruppe ca. 10
 L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
 L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
-
-## (Mögliche) Ergänzende Materialien im LMS
-
-Folien 10-15: Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#datendienstag: Datenmanagementpläne und Forschungsdatenmanagement in Forschungsanträgen*. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
-
-Angaben zum Umgang mit Forschungsdaten. → Hier gibt es oft Leitlinien (z. B. von Institutionen, wie der TH Köln), denen gefolgt werden kann. [https://forschungsdaten-thueringen.de/files/images/Material/2023\_02\_14\_Farify\_your\_data.pdf](https://forschungsdaten-thueringen.de/files/images/Material/2023_02_14_Farify_your_data.pdf)
-
-GO FAIR – FAIR made easy (englisch, 4:06), [https://youtu.be/CEPsTiEgWR4](https://youtu.be/CEPsTiEgWR4)
-<!-- zu Text bei Weiterführendes... -->
 
 ## Taxonomiestufen
 

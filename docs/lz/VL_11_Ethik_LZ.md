@@ -1,32 +1,22 @@
-<!--
-author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+---
+title: LZ 11 - Ethische Aspekte
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
 
-email:    mirjam.bluemm@th-koeln.de
+# Ethische Aspekte
 
-version:  0.0.1
+[[toc]]
 
-language: de
-
-narrator: Deutsch Female
-
-comment:  
-
-tags:     LiaScript, Preview
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
--->
-
-# VL11: Ethische Aspekte
-
-**Ausgangslage**
+## Ausgangslage
 
 - Die S. kennen die ethischen Richtlinien in Bezug zum FDM (beim Umgang mit Daten) nicht, weshalb sie ethischen Aspekten nicht bewusst folgen.
+
+[[toc]]
 
 ## Lernziele für den Online-Kurs (LiaScript)
 
@@ -43,7 +33,7 @@ import:
 
 ## Detaillierte Kursplanung[^1] 
 
-**Online-Kurs**
+### Online-Kurs
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |

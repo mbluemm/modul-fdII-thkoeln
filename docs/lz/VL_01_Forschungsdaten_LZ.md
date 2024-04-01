@@ -1,25 +1,14 @@
-<!--
-author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+---
+title: LZ 01 - Was sind Forschungsdaten?
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
 
-email:    mirjam.bluemm@th-koeln.de
-
-version:  0.0.1
-
-language: de
-
-narrator: Deutsch Female
-
-comment:  
-
-tags:     LiaScript, Preview
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-       
--->
-
-# VL1: Was sind Forschungsdaten?
+# Was sind Forschungsdaten?
 
 [[toc]]
 
@@ -29,7 +18,6 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/comm
 
 - Die S. wissen nicht, welche Rolle bspw. Datenformate spielen. 
 
-
 ## Lernziele für den Unterricht in Präsenz
 
 ||||
@@ -38,9 +26,9 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/comm
 | 2 | Die S. können verschiedene Formen von Forschungsdaten benennen [(1)](#4). | Hier müssen die S. ihr erlerntes Wissen anwenden, um Datentypen aufzuzählen. |
 | 3 | Die S. können zuordnen [(5)](#4), wie unterschiedliche Forschungsdaten erhoben werden und in welchen Formen und Formaten sie aufweisen könnten. | Hier müssen die S. ihr erlerntes Wissen umsetzen, um Datentypen mit (angegebenen) Messungen und Formen/Formaten zu verknüpfen. |
 
-
 ## Detaillierte Kursplanung[^1]
 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Einstiegsphase 
 
@@ -71,9 +59,11 @@ link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/comm
 
 ## Präsenzphase / Erläuterung
 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
 ### Einstiegsphase
 
-<br/>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 #### Ice Breaker
 
@@ -102,6 +92,8 @@ L. erklärt die Kursgestaltung:
 - Optional: Vorstellung von Prüfungsform „Lernportfolio“ (inkl. Blick auf eine Mustervorlage)
 
 ### Arbeitsphase
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 #### Diskussion und Brainstorming
 

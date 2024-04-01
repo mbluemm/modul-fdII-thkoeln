@@ -207,6 +207,10 @@ Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/ze
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.
 Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
+## (Mögliche) Ergänzende Materialien im LMS 
+
+FDM-"Schiffbrüche" aus dem Forschungsalltag und was Sie daraus lernen können,[https://zenodo.org/record/7377582](https://zenodo.org/record/7377582)
+
 ### Quellen
 
 Fühles-Ubach, S. & Heidkamp, P. (2022). Data Literacy _–_ Basiskurs Data Lifecycle. KI-Campus

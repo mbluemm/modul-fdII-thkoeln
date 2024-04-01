@@ -1,30 +1,18 @@
-<!--
-author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+---
+title: LZ 10 - Rechtliche Aspekte
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
 
-email:    mirjam.bluemm@th-koeln.de
+# Rechtliche Aspekte
 
-version:  0.0.1
+[[toc]]
 
-language: de
-
-narrator: Deutsch Female
-
-comment:  
-
-tags:     LiaScript, Preview
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
--->
-
-# VL10: Rechtliche Aspekte
-
-**Ausgangslage**
+## Ausgangslage
 
 - Die S. haben sich noch nicht mit rechtlichen Aspekten in Bezug zum FDM (beim Umgang mit Daten) auseinandergesetzt.
 
@@ -47,7 +35,7 @@ import:
 
 ## Detaillierte Kursplanung[^2] 
 
-**Online-Kurs**
+### Online-Kurs
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
@@ -92,6 +80,8 @@ Begrüßung
 
 (ca. 15 Min.) Individuelle Bearbeitung der Fragen.
 L. bereitet die Aufgabe vor (bspw. Quiz oder Mindmap) und erläutert den 
+
+<!--SB: Layout?-->
 
 Arbeitsauftrag:
 

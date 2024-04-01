@@ -1,30 +1,18 @@
-<!--
-author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+---
+title: LZ 03 - Datenlebenszyklus
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
 
-email:    mirjam.bluemm@th-koeln.de
+# Datenlebenszyklus
 
-version:  0.0.1
+[[toc]]
 
-language: de
-
-narrator: Deutsch Female
-
-comment:  
-
-tags:     LiaScript, Preview
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
--->
-
-# VL3: Datenlebenszyklus
-
-**Ausgangslage**
+## Ausgangslage
 
 - Die S. sind mit dem Datenlebenszyklus nicht vertraut und kennen die unterschiedlichen Stationen.
 
@@ -47,7 +35,7 @@ import:
 
 ## Detaillierte Kursplanung[^1]
 
-**Online-Phase (Vorbereitung)**
+### Online-Phase (Vorbereitung)
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |

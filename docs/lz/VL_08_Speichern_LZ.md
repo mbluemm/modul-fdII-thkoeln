@@ -1,31 +1,18 @@
+---
+title: LZ 08 - Speichern von Daten
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
 
-<!--
-author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+# Speichern von Daten
 
-email:    mirjam.bluemm@th-koeln.de
+[[toc]]
 
-version:  0.0.1
-
-language: de
-
-narrator: Deutsch Female
-
-comment:  
-
-tags:     LiaScript, Preview
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
--->
-
-# VL8: Speichern von Daten
-
-**Ausgangslage**
+## Ausgangslage
 
 - Die Datenspeicherung erfolgt bei den S. aufgrund fehlender Sensibilisierung größtenteils unstrukturiert und ad hoc.
 

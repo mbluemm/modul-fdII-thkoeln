@@ -1,30 +1,18 @@
-<!--
-author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+---
+title: LZ 09 - Daten finden und nachnutzen
+lang: de-DE
+output: 
+    html_document: 
+        toc: true
+        toc_float: true
+aside: true
+---
 
-email:    mirjam.bluemm@th-koeln.de
+# Daten finden und nachnutzen
 
-version:  0.0.1
+[[toc]]
 
-language: de
-
-narrator: Deutsch Female
-
-comment:  
-
-tags:     LiaScript, Preview
-
-@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
-
-link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/common_style.css
-
-import:   
-
-          
--->
-
-# VL9: Daten finden und nachnutzen
-
-**Ausgangslage**
+## Ausgangslage
 
 Die S. wissen nicht,
 
@@ -55,7 +43,7 @@ Die S. wissen nicht,
 
 ## Detaillierte Kursplanung[^1]
 
-**Online-Kurs**
+### Online-Kurs
 
 | Zeit | Inhalt | Ziele | Methoden / Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
