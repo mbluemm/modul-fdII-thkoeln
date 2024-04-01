@@ -82,8 +82,7 @@ Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, 
              Zugriffsrechte
                 - Ggf. Vorher Identifizierung sensibler Daten
 
-         ▪ Festlegung von Rollen
-
+         ▪ Festlegung von Rollen <!-- ist das Absicht ? --> 
 ## Aufgabe
  <!-- 0034_THK_Aufgabe -->
 Wählen Sie jeweils ein beliebiges Tool/ eine beliebige Plattform für eine kollaborative Arbeit mit Daten, tragen Sie sich in die Auswahlliste ein und
