@@ -9,18 +9,22 @@ aside: true
 ---
 
 # Daten finden und nachnutzen
+<!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
 
 [[toc]]
 
 ## Lernziele
-
+<!-- G-0044_BUW_Icon_Findability und G-0020_BUW_Icon_Nachnutzung neben Absatz darutner ergänzen-->
 ::: info
-In diesem Themenblock bekommen Sie eine Einleitung in die Suche und Nachnutzung von Daten.
+In diesem Themenblock bekommen Sie eine Einführung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
 suchen können und insbesondere worauf Sie (auch zur Einhaltung der guten wissenschaftlichen
 Praxis) achten müssen, um einen Datensatz nachnutzen zu dürfen. Hier lernen Sie über Webseiten
 zur Datenrecherche, Persistente Identifikatoren (PID), CC-Lizenzen und wie ein Datensatz korrekt
 zitiert wird.
+
+## Daten finden und nachnutzen
+
 Haben Sie sich im Forschungsprozess auf ein Forschungsthema geeinigt, können Sie u. a. mit Hilfe
 von Metasuchmaschinen, Datenportalen und Repositorien passende Datensätze finden.
 :::
@@ -34,11 +38,11 @@ decken unterschiedliche Forschungsthemen und Datenformate ab und dürfen (unter
 Einschränkungen) zur Nachnutzung verwendet werden. Unter diese Webseiten fallen
 Metasuchmaschinen, Datenportale und Repositorien. Diese werden hier vorgestellt und teilweise auch
 inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweiligen Webseiten erklären.
-Mehr zum Thema „Finding your Own Data“, bzw. wie komme ich zu interessanten Datensätzen und
+Mehr zum Thema „Finding your Own Data“, bzw. "Wie komme ich zu interessanten Datensätzen und
 Fragestellungen?, erfahren Sie in diesem ‚Study Hall‘ Video (englisch, 11:22 Min.).
 
 ## Metasuchmaschinen und Datenportale
-
+<!-- 0035_THK_Suchmaschine neben den Absatz darunter ergänzen --> 
 In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. Eine
 Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
 vollständige und angemessene Antworten auf eine Frage zu geben (Arimetrics 2022). Offene
@@ -46,24 +50,22 @@ Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informatione
 öffentlichen Sektors (European Commission 2022).
 
 Beispiele für Metasuchmaschinen und Datenportale:
-
+<!-- 0001_THK_Beispiel einfügen -->
 - DataCite Commons → unterstützt die Suche in registrierten Datensätzen
     o Tutorial, englisch (3:26 Min.)
 - BASE → Suchmaschine für wissenschaftliche Webdokumente
     o Tutorial, deutsch (3:10 Min.)
     o Unter „Suchergebnis eingrenzen“: „Dokumentart“ → „Forschungsdaten“; „Nachnutzung“
        → „Open Access“
-- Google Dataset Search → Durchsucht laut Google Millionen von Datensätzen in tausenden
+- Google Dataset Search → durchsucht laut Google Millionen von Datensätzen in tausenden
     Repositorien
        o Tutorial, englisch (3:28Min.)
-
-
 - govdata → bietet Zugang zu offenen Daten von Bundes-, Landes- und Kommunalverwaltungen in
     Deutschland
 - European Union Open Data Portal → macht offene Daten der EU zugänglich
 
 ## Repositorien
-
+<!-- G-G-0034_BUW_Icon_Repositorium ergänzen -->
 Neben Metasuchmaschinen und Datenportalen, sind sogenannte Repositorien im Forschungsprozess
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
 Datensätzen.
@@ -74,7 +76,7 @@ organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
 2015).
 
 Beispiele für Repositorien:
-
+<!-- 0001_THK_Beispiel ergänzen --> 
 - re3data → Suche nach fachspezifischen Repositorien
     o Fachspezifische Suche nach Datensätzen
     o Tutorial, deutsch (2:59 Min.)
@@ -84,20 +86,20 @@ Beispiele für Repositorien:
        Wissenschaftler:innen Ressourcen und Dienstleistungen zur Planung und Durchführung
        von Forschungsvorhaben bereit.
 - Zenodo → disziplinübergreifende Suche
-    o Wird von der Europäischen Kommission finanziert, ist aus dem Projekt OpenAIRE
+    o wird von der Europäischen Kommission finanziert, ist aus dem Projekt OpenAIRE
        entstanden und wird am CERN gehostet.
 - EUDAT/B2Share → soll den Umgang mit Forschungsdaten vereinfachen.
     o Die Plattform ist aus dem Horizon 2020 Förderungsprogramm der Europäischen Union
        entstanden.
 - OSF
-    o Wurde vom Center for Open Science entwickelt und wird in den USA gehostet.
+    o wurde vom Center for Open Science entwickelt und wird in den USA gehostet.
 - figshare → besonders für visuelle Grafikdatensätze wie Poster, Diagramme oder Videos
     ausgelegt.
-       o Wird von der Nature Publishing Group angeboten.
+       o wird von der Nature Publishing Group angeboten.
 
 
-## Qualitätsmerkmale eines guten Repositoriums
-
+### Qualitätsmerkmale eines guten Repositoriums
+<!-- 0024_THK_Qualitätskontrolle ergänzen --> 
 Hier sind einige Repositorien aufgeführt, die sich zur Suche nach fachspezifischen und qualitativen
 Datensätzen zur Nachnutzung im Forschungsprozess eignen. Doch auch Repositorien unterscheiden
 sich qualitativ und inhaltlich. Folgend sind einige Merkmale aufgelistet, die darauf hinweisen, ob es
@@ -115,8 +117,21 @@ sich um ein qualitatives Repositorium eignet:
 - Anmeldung und Bearbeitung
 - Auffindung durch Suchmaschine
 
-## Persistente Identifikatoren (PID)
 
+Repositorien können mit Zertifikaten ausgezeichnet werden, die einen Mindestmaß an Qualität
+garantieren. Unter anderen, vergibt die community-basierte und gemeinnützige Organisation
+CoreTrustSeal Core Level Zertifizierungen an Repositorien. Diese basieren auf dem DSA-WDS Core
+Trustworthy Data Repositories Requirements Catalogue. Repositorien sind qualitativ und können
+zertifiziert werden, wenn (Böker 2023a):
+
+- Die Daten im Internet auffindbar sind.
+- Die Rechtssituation der Daten geklärt ist und diese ohne Einschränkung zugänglich sind.
+- Die Daten in einem gebräuchlichen Format vorliegen.
+- Die Daten zuverlässig sind.
+- Die Daten über PIDs zitierbar sind.
+
+## Persistente Identifikatoren (PID)
+<-- 0021_THK_PID ergänzen --> 
 <!-- Quelle? -->
 ![](https://)
 Quelle: Digitalbevaringdk PID_vaelge_PID_choose
@@ -136,21 +151,8 @@ Objekt selbst und nicht auf seinen Standort im Internet. Die Forschungsdaten sol
 versehen werden. Ein PID stellt sicher, dass Daten adressierbar und identifizierbar sind. Er kann
 während des Forschungsprozesses und zur Publikation von Forschungsdaten verwendet werden.
 
-
-Repositorien können mit Zertifikaten ausgezeichnet werden, die einen Mindestmaß an Qualität
-garantieren. Unter anderen, vergibt die community-basierte und gemeinnützige Organisation
-CoreTrustSeal Core Level Zertifizierungen an Repositorien. Diese basieren auf dem DSA-WDS Core
-Trustworthy Data Repositories Requirements Catalogue. Repositorien sind qualitativ und können
-zertifiziert werden, wenn (Böker 2023a):
-
-1. Die Daten im Internet auffindbar sind,
-2. Die Rechtssituation der Daten geklärt ist und diese ohne Einschränkung zugänglich sind,
-3. Die Daten in einem gebräuchlichen Format vorliegen,
-4. Die Daten zuverlässig sind,
-5. Die Daten über PIDs zitierbar sind.
-
 ## Wichtige Aspekte, die bei der Nachnutzung von Daten
-
+<!-- G-0020_BUW_Icon_Nachnutzung --> 
 Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nachzunutzen, sind
 einige Aspekte zu beachten.
 
@@ -289,7 +291,7 @@ platzsparender – mit einem Hyperlink
 
 
 ## Mögliche Zitation von Datensätzen
-
+<!-- 0015_THK_Zitieren neben Absatz ergänzen --> 
 - Urheber (Veröffentlichungsdatum): Titel. Publikationsagent. Identifikator
 oder
 - Urheber (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller
@@ -302,7 +304,7 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung.
 ## Leitfragen und Aufgaben
 
 ### Leitfragen (für die EA online)
-
+<!-- 0025_THK_Fragezeichen -->
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten / Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
     begünstigen?
@@ -316,12 +318,12 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung.
     (nicht)?
 
 ### Aufgabe:
-
+<!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
 ## Weiterführende Materialen und Quellen
-
+<!-- G-0044_BUW_Icon_Findability -->
 ### Literatur
 
 Forschungsdaten.info. (2023, 5. Mai). Datenjournale. Zugriff am 18.10.2023, von
