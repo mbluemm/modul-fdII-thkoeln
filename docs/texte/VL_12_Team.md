@@ -13,7 +13,7 @@ aside: true
 [[toc]]
 
 ## Lernziele
-
+<!-- hier noch Video von Medienagentur und G-0092_BUW_Icon_Zusammenarbeit sowie im Skript Abbildungen 0050_THK_Kollaboratives_Arbeiten ; 052_THK_Wiederverwendbarkeit ; 0053_THK_Tools einfügen -->
 
 ::: info 
 In diesem Themenblock lernen Sie die Relevanz und Vorteile von kollaborativer Arbeit mit Daten
@@ -33,7 +33,7 @@ Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
 > -- (Engelhardt, Kusch 2021, S. 451).
 
 ## Warum ist eine kollaborative Arbeit von Vorteil?
-
+<!-- 0022_THK_fröhliche_Person einfügen -->
 - Hohe Bedeutung von Teamarbeit bei der Datenverarbeitung und -analyse
 
 Eine Zusammenarbeit bietet folgende Vorteile:
@@ -49,7 +49,7 @@ Eine Zusammenarbeit bietet folgende Vorteile:
 Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, Genauigkeit und Verlässlichkeit der Datenarbeit zu erhöhen.
 
 ## Welche Herausforderungen müssen beim kollaborativen Arbeiten gemeistert werden?
-
+<!-- 0023_THK_nachdenkende_Person einfügen -->
 - Gemeinsame Organisation und zeitgleichen Bearbeitung von Daten / Dateien
 - Klärung der Verantwortlichkeiten und Zuständigkeiten
 - Verteilung und Einhaltung von Deadlines und ToDos
@@ -62,17 +62,17 @@ Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, 
 
 ## Welche FDM-Aspekte müssen beim kollaborativen Arbeiten mit Daten beachtet werden?
 
-- Kooperative Arbeitsweise und koordinierte Planung des FDMs
-- Datenverwaltung und -organisation
+- Kooperative Arbeitsweise und koordinierte Planung des FDMs <!-- G-0015_BUW _Icon_Planung einfügen --> 
+- Datenverwaltung und -organisation <!-- 0006_THK_Organisieren einfügen -->
     o Strukturierung von Daten (Dateinamen, Ordnerstrukturen, Metadaten)
-- Arbeitsteilung und Kommunikation
+- Arbeitsteilung und Kommunikation <!-- G-0092_BUW_Icon_Zusammenarbeit einfügen --> 
     o Besprechung für eine effektive Arbeitsaufteilung zur Fügung und Steigerung der
        Stärken der Teammitglieder.
     o Verbindliches Festlegen von Verantwortlichkeiten
     o Bedeutung der klaren Kommunikation zur Vermeidung von Doppelarbeit und
        Missverständnissen.
     o Tools zur Kommunikation, Organisation und zur Datenbearbeitung.
-- Datenschutz und Zugriffsrechte
+- Datenschutz und Zugriffsrechte <!-- 0019_THK_Zugriffsrechte einfügen -->
     o Datenschutzaspekte
        ▪ Schutz persönlicher Informationen und sensiblen Daten
        ▪ Ggf. DSGVO, ethische Aspekte bei Arbeit mit personenbezogenen Daten
@@ -85,7 +85,7 @@ Das gegenseitige Überprüfen sowie das gemeinsame Diskutieren trägt dazu bei, 
          ▪ Festlegung von Rollen
 
 ## Aufgabe
-
+ <!-- 0034_THK_Aufgabe -->
 Wählen Sie jeweils ein beliebiges Tool/ eine beliebige Plattform für eine kollaborative Arbeit mit Daten, tragen Sie sich in die Auswahlliste ein und
 bereiten Sie eine Kurzpräsentation vor (5 Min.). 
 
@@ -106,7 +106,7 @@ Aspekte:
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
-
+<!-- G-0044_BUW_Icon_Findability -->
 Die unten angegebenen Quellen dienen auch als weiterführende Literatur.
 
  ## Quellen
