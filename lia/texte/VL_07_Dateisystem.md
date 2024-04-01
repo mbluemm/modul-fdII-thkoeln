@@ -1,12 +1,23 @@
----
-title: VL 07 - Dateisystem
-lang: de-DE
-output: 
-    html_document: 
-        toc: true
-        toc_float: true
-aside: true
----
+<!--
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+
+email:    mirjam.bluemm@th-koeln.de
+
+version:  0.0.1
+
+language: de
+
+narrator: Deutsch Female
+
+comment:  
+
+tags:     LiaScript, Preview
+
+@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
+
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
+   
+-->
 
 # Ordnerstruktur und Dateibenennungen
 <!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen --> 
@@ -95,11 +106,11 @@ Rechnern sein.
 
 * unverarbeitete Originaldaten
 
-::: tip
+```
+Empfehlung:
 Eine Dokumentation der Ordnerstruktur und Dateibenennungen in einer separaten (.txt) Datei auf
 oberster (Baum-)Ebene aufbewahren. Zur Nachvollziehbarkeit zu einem späteren Zeitpunkt oder von anderen.
-:::
-
+```
 <!-- 0020_THK_Idee daneben einfügen --> 
 ## Dateien benennen
 
@@ -120,7 +131,7 @@ Dateien können nach unterschiedlichen Konventionen benannt werden. Damit Dateie
 - das jeweilige Erstellungsdatum enthalten*
     o Datumsformat: JJJJ-MM-TT[^2] <!-- ist die Empfehlung so gut? oder ohne Bindestriche? oder mehr Alternativen aufzeigen? --> 
     o Datumsangabe: Am Anfang des Dateinamens; chronologische Sortierung
-       z.B. „2023-05-17_Projekt_Erdnussbutter“
+       z.B. „2023- 05 - 17_Projekt_Erdnussbutter“
 - Rückschlüsse auf den Inhalt der Dateien ermöglichen
     o deskriptive Informationen ordnen die Datei ihrem Kontext zu
 - auch von Außenstehenden nachvollziehbar sein
@@ -151,17 +162,16 @@ kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vg
 * Hinweis: Das Erstellungs- und das Änderungsdatum können beim Kopieren auf externe Backupdatenträger überschrieben
 werden.
 
-::: tip
+```
+Empfehlung:
 Abkürzungen von Datei-Benennungen in einer separaten Datei festhalten
 Auch eine generelle Dokumentation der Dateibenennungen aufbewahren (zur Nachvollziehbarkeit
 zu einem späteren Zeitpunkt oder von anderen)
-:::
-
+```
 ** Empfehlung: Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den
 Archivordner („Archiv“) im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit
 unterschiedlichen Bearbeitungsständen.
 <!-- beide Male oben 0020_THK_Idee einfügen --> 
-
 ```
 \
 { }

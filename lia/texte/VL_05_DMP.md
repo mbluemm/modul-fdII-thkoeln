@@ -1,12 +1,22 @@
----
-title: VL 04 - FAIR-Prinzipien
-lang: de-DE
-output: 
-    html_document: 
-        toc: true
-        toc_float: true
-aside: true
----
+<!--
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+
+email:    mirjam.bluemm@th-koeln.de
+
+version:  0.0.1
+
+language: de
+
+narrator: Deutsch Female
+
+comment:  
+
+tags:     LiaScript, Preview
+
+@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
+
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
+-->
 
 # Dokumentation von Daten
 

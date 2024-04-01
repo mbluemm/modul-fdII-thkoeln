@@ -1,12 +1,23 @@
----
-title: VL 08 - Speichern von Daten
-lang: de-DE
-output: 
-    html_document: 
-        toc: true
-        toc_float: true
-aside: true
----
+<!--
+author:   Mirjam Blümm, Katharina Fritsch, Sina Bock, Janiça Hackenbuchner
+
+email:    mirjam.bluemm@th-koeln.de
+
+version:  0.0.1
+
+language: de
+
+narrator: Deutsch Female
+
+comment:  
+
+tags:     LiaScript, Preview
+
+@btn:     <span class="lia-icon"><lia-keep>@0</lia-keep></span>
+
+link:     https://raw.githubusercontent.com/mbluemm/modul-fdII-thkoeln/main/assets/common_style.css
+          
+-->
 
 # Speichern von Daten
 
@@ -58,7 +69,6 @@ Abbildung: forschungsdaten.info 2023a
 <!-- gegen 0064_THK_3-2-1-Regel eintauschen --> 
 
 ## Empfehlungen zur Datensicherung
-
 <!-- 0020_THK_Idee , G-0038_BUW_Icon_Diskette einfügen -->
 Es ist hilfreich (VerbundFDB 2018):
 
@@ -150,6 +160,7 @@ verlustfrei)
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kassetteb%C3%A5nd_Digitalisering.png"><img width="512" alt="Kassettebånd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kassetteb%C3%A5nd_Digitalisering.png/512px-Kassetteb%C3%A5nd_Digitalisering.png"></a>
+
 Quelle: Digitalbevaringdk Kassettebånd_Digitalisering
 
 Dateiformate können folgendermaßen konvertiert werden:
@@ -165,7 +176,9 @@ Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lyd_Digitalisering.png"><img width="512" alt="Lyd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lyd_Digitalisering.png/512px-Lyd_Digitalisering.png"></a>
+
 Quelle: Digitalbevaringdk Lyd_Digitalisering
+
 
 ## Leitfragen und Aufgaben
 
