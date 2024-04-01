@@ -40,7 +40,8 @@ entspricht. Verstöße gegen Richtlinien können Konsequenzen haben.
 Weitere Informationen zum Thema wissenschaftliche Integrität finden Sie auf dem entsprechenden
 Portal der Deutschen Forschungsgemeinschaft. [https://wissenschaftliche-integritaet.de](https://wissenschaftliche-integritaet.de)
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AboutTheSite_DigitalPreservation.png"><img width="512" alt="AboutTheSite DigitalPreservation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/AboutTheSite_DigitalPreservation.png/512px-AboutTheSite_DigitalPreservation.png"></a>
 Quelle: Digitalbevaringdk OmSitet_DigitalBevaring
 
 ## Rechtliche Aspekte
@@ -146,7 +147,6 @@ Datenverarbeitungsgrundsätze zu beachten:
 Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten.
 Quelle: Böker 2023a
 
-
 ## Einführung zum Thema Urheberrecht
 
 In der Forschung (beim wissenschaftlichen Arbeiten) ist es möglich, auf unterschiedliche Weise vom
@@ -226,8 +226,10 @@ Zusammenstellung bzw. strukturelle Anordnung im Gesamtwerk.
 70 Jahre nach dem Tod des Urhebers (§ 64 UrhG). Damit wird es zu einem gemeinfreien Werk und
 kann somit frei verwendet werden.
 
-![](https://)
-Quelle: Digitalbevaringdk Bitbevaring_DigitalBevaring
+<!--SB: Richtige Datei?-->
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bit_Storage_-_Digital_Preservation.png"><img width="256" alt="Bit Storage - Digital Preservation" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Bit_Storage_-_Digital_Preservation.png"></a>
+Quelle: Digitalbevaringdk Bit_Storage_DigitalBevaring
 
 ## Rechtliche Aspekte bei Creative-Commons-Lizenzen
 

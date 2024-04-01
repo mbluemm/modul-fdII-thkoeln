@@ -19,7 +19,7 @@ aside: true
 In diesem Themenblock lernen Sie die Relevanz und Vorteile von kollaborativer Arbeit mit Daten
 kennen, aber auch mögliche Herausforderungen. Ebenso wird thematisiert, was beim kollaborativen
 Arbeiten mit Daten, insbesondere bezüglich des FDM, beachtet werden sollte.
-::
+:::
 
 ## Definition
 

@@ -111,7 +111,7 @@ Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.
     o Stichwörter: „Klimawandel“, „Artenvielfalt“, „Regenwald“, „Ökologie“.
 
 **Administrative Metadaten** sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
-<!-- das folgende in Textfeld -->
+<!-- das folgende in Textfeld SB: ?Textfeld? -->
 - Dateityp
 - Dateiformat
 - Standort

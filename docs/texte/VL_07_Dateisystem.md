@@ -160,9 +160,11 @@ Auch eine generelle Dokumentation der Dateibenennungen aufbewahren (zur Nachvoll
 zu einem späteren Zeitpunkt oder von anderen)
 :::
 
-** Empfehlung: Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den
+** ::: tip
+Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den
 Archivordner („Archiv“) im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit
 unterschiedlichen Bearbeitungsständen.
+:::
 <!-- beide Male oben 0020_THK_Idee einfügen --> 
 
 ```

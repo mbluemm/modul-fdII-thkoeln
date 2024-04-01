@@ -246,7 +246,8 @@ Merholz 2021 und FAQ 2021.
 
 ### Datensätze korrekt zitieren
 
-![](https://)
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PID_Citation.png"><img width="512" alt="PID Citation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PID_Citation.png/512px-PID_Citation.png"></a>
 Quelle: Digitalbevaringdk PID_Citation
 
 Die Herkunft nachgenutzter Datensätze muss, wie andere Quellen, die verwendet wurden, durch eine

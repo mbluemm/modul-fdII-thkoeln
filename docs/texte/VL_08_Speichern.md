@@ -78,8 +78,10 @@ Es ist hilfreich (VerbundFDB 2018):
 - DSGVO-konforme Clouddienste, wie etwa die Cloud-Speicherlösung sciebo, zu wählen
     (https://hochschulcloud.nrw/).[^1]
 
-Hinweis: Kostenlose Clouddienste (bspw. Google Drive, Dropbox, OneDrive) sollten nicht verwendet
+::: tip
+Kostenlose Clouddienste (bspw. Google Drive, Dropbox, OneDrive) sollten nicht verwendet
 werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen. In Amerika sind aufgrund des USA PATRIOT Acts (2001) die eigenen Daten vor einem Zugriff Dritter nicht geschützt.
+::: 
 
 (Krähwinkel, Langner, Lipp et al. 2022)
 
@@ -160,7 +162,7 @@ Dateiformate können folgendermaßen konvertiert werden:
 - verlustfrei → bevorzugt
 - verlustbehaftet → für geringere Dateigrößen
 - sinnhaft → wesentliche Inhalte bleiben bestehen. 
-<!-- häää? SB: wo kommt das denn her?--> 
+<!-- SB: ??--> 
 Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
 Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
 
