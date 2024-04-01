@@ -8,7 +8,6 @@ output:
 aside: true
 ---
 
-
 # Was sind Forschungsdaten?
 
 [[toc]]

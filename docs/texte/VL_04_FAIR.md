@@ -110,6 +110,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
     und Nutzung zu ermöglichen.
 
 <!-- SB: richtiges Bild? VL2 Z.157-->
+
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Forside_DigitalBevaring.png"><img width="256" alt="Forside DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forside_DigitalBevaring.png/512px-Forside_DigitalBevaring.png"></a>
 Quelle: Digitalbevaringdk Forside_DigitalBevaring
@@ -163,23 +164,30 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 ## Leitfragen und Aufgaben
 
 ### Leitfragen:
+
 <!-- 0025_THK_Fragezeichen -->
+
 1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium angewendet wurden.
 
 ### Aufgabe:
+
  <!-- 0034_THK_Aufgabe -->
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Lektüre
+
  <!-- 0038_THK_Buch -->
 
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
+
 <!-- G-0044_BUW_Icon_Findability -->
 <!-- hier noch 04_Poster_FAIRDATA einfügen aus sciebo-Ordner --> 
+
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
 for Indigenous data futures. Sci Data 8, 108. [https://doi.org/10.1038/s41597-021-00892-0](https://doi.org/10.1038/s41597-021-00892-0).
 
