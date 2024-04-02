@@ -20,7 +20,7 @@ Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschun
 wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenhängt.
 :::
 
-Was ist Forschungsdatenmanagement
+## Was ist Forschungsdatenmanagement
 <!-- Abbildung 0053_THK_Tools ergänzen  -->
 
 Das Forschungsdatenmanagement, oft als FDM abgekürzt, umfasst sämtliche Stadien des
