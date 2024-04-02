@@ -14,10 +14,10 @@ hero:
   src: docs/medien/assets/
   actions:
     - theme: brand
-      text: Vorlesungskripte
+      text: Lerneinheiten für Studierende
       link: /texte/VL_01_Forschungsdaten.md
     - theme: alt
-      text: Lernzielmatrizen
+      text: Lehrkonzepte für Dozierende
       link: /lz/VL_01_Forschungsdaten_LZ.md
     - theme: brand
       text: Einführung
