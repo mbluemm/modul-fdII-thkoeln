@@ -52,8 +52,7 @@ G-0018_BUW_Icon_Archivierung
 Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dienen, beginnend mit
 der Planung und endend mit der Aufbewahrung.
 
-<!-- Arbeitskompass -->
-<a title="Arbeitskompass" href="/medien/abbildungen/TH_Koeln_Datenlebenszyklus_Arbeitskompass.jpg"><img width="256" alt="Arbeitskompass" src="/medien/abbildungen/TH_Koeln_Datenlebenszyklus_Arbeitskompass.jpg"></a>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKbjs3EE=/?moveToViewport=-38630,-25373,69911,43607&embedId=529249252723" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 Quelle: Arbeitskompass zum Thema FDM
 
 <!-- vorübergehend Abbildung von Datenlebenyzklus anstelle iframe verwenden, als Quelle dann uns angeben; später dann durch 0039_THK_Arbeitskompass, wenn interaktive Abbildung von Medienagentur vorliegt -->
