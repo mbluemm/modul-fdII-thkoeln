@@ -18,7 +18,7 @@ aside: true
 In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
 :::
 
-<!-- Überschrift/Abschnitt mit Lernzielen ergänzen sowie Video einfügen --> 
+<!-- Video einfügen --> 
 
 ## Der Datenlebenszyklus: Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
 
@@ -165,8 +165,9 @@ Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
-<!-- Wo sind die Leitfragen hin? Hatten wir die aussortiert? Puh, keine Ahnung, aber kann ich mir nicht wirklich vorstellen -->
+<!-- 0025_THK_Fragezeichen -->
 
+1. Welche Stationen des Datenlebenszyklus sind in Ihrem Studium besonders relevant?
 ### Aufgaben
 <!-- Aufgabe : Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 
 
