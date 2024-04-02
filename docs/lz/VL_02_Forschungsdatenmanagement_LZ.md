@@ -38,7 +38,7 @@ aside: true
 
 | Zeit | Inhalt | Ziele | Methoden/  Medien  (Arbeitsschritte) |Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ durch Infotext | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Beantworten von Leitfragen (unten) im Lernportfolio. | EA |
+| Ca. 20 min. | Einführung in das Thema „Was ist FDM?“ durch Infotext | Die S. können „Forschungsdatenmanagement“ (in eigenen Worten) beschreiben [(1)](#14) und die Relevanz von FDM allgemein sowie in ihrem Studium erläutern [(2)](#14). | Beantworten von Leitfragen (unten). | EA |
 | Ca. 20 min. | Einführung GWP und kurze Einordnung von FDM in Open Science. | Die S. können die Merkmale und Vorteile von einer guten wissenschaftlichen Praxis im Forschungsprozess benennen [(1)](#14). | Lesen der „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ | EA |
 
 ---
