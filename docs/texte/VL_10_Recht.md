@@ -311,7 +311,6 @@ Leibniz Universität Hannover, & Technische Informationsbibliothek. (2018). FAQs
 Aspekten im Umgang mit Forschungsdaten (Version 180215). Zenodo.
 [https://doi.org/10.5281/zenodo.1173546](https://doi.org/10.5281/zenodo.1173546).
 
-
 Verbund FDB. (2022, 22. Juli). Informierte Einwilligung. Zugriff am 18.10.2023, von
 [https://www.forschungsdaten-bildung.de/einwilligung](https://www.forschungsdaten-bildung.de/einwilligung).
 
