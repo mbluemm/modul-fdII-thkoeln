@@ -141,7 +141,7 @@ Formate möglichst verlustfrei konvertiert werden können.
 
 Unter den oben genannten Aspekten eignen sich folgende Formate:
 
-<!-- SB: sollte das eine Tabelle sein?-->
+<!-- SB: sollte das eine Tabelle sein? jap-->
 Dateityp Empfohlenes Format^2
 Text pdf/a txt xml
 Tabelle xml csv (mit
@@ -189,7 +189,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
-
+<!-- hier noch 09_Leitfragen_Speicher_V4 und 09_Auflösung_Speicherug_Backup_V4 aus sciebo-Ordner einfügen --> 
 <!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023a, 5. Mai). Datenübertragung. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/](https://forschungsdaten.info/themen/organisieren-und-aufbereiten/datenuebertragung/)
