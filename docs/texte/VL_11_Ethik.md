@@ -9,7 +9,7 @@ aside: true
 ---
 
 # Ethische Aspekte
-
+<!-- G-0093_BUW_Icon_Respekt einfügen -->
 [[toc]]
 
 ## Lernziele
@@ -29,10 +29,6 @@ verantwortungsvoll mit Daten, insbesondere sensiblen Daten, umgehen müssen.
 
 ## Ethische Aspekte
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Links2_DigitalBevaring.png"><img width="512" alt="Links2 DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Links2_DigitalBevaring.png/512px-Links2_DigitalBevaring.png"></a>
-Quelle: Digitalbevaringdk Links2_DigitalBevaring
-
 Für einen verantwortungsvollen Umgang mit Daten müssen neben rechtlichen auch ethische Regeln
 befolgt werden. Auch bei rechtlich geregelten Fällen, wie beim Umgang mit anonymisierten Daten
 oder mit Daten von Verstorbenen, ist ein ethischer Umgang mit diesen Daten ratsam. In der
@@ -40,6 +36,11 @@ Planungsphase eines (Forschungs-)Vorhabens muss geprüft werden, ob bei der Ethi
 eigenen Forschungseinrichtung (oder der Hochschule/Universität) ein Ethikantrag gestellt werden
 muss. Dies ist insbesondere bei der Forschung an Menschen (bereits bei Befragungen) notwendig.
 
+<a title="Jørgen Stamp
+, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Links2_DigitalBevaring.png"><img width="512" alt="Links2 DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Links2_DigitalBevaring.png/512px-Links2_DigitalBevaring.png"></a>
+Quelle: Digitalbevaringdk Links2_DigitalBevaring
+<!-- Abbildung 0062_THK_Ethik einfügen --> 
+<!-- 0031_THK_DSGVO neben unteren Absatz einfügen --> 
 Ein ethischer Umgang mit Daten ist während des gesamten Datenlebenszyklus des (Forschungs-
 )Projekts Pflicht, um zu gewährleisten, dass Subjekte, aber auch Forschende, geschützt werden. Ein
 Missbrauch der Daten muss, insbesondere beim Teilen und Publizieren, verhindert werden. Hier spielt
@@ -51,7 +52,7 @@ und Löschen der Daten, befolgt werden müssen.
 ### Ein verantwortungsvoller Umgang mit Daten
 
 berücksichtigt:
-
+<!-- 0008_THK_GWP , 031_THK_DSGVO , G-0093_BUW_Icon_Respekt neben unteren Absatz einfügen --> 
 - Die Regeln der guten wissenschaftlichen Praxis (Böker 2022), inkl.:
     o Transparenz des Forschungsprozesses
     o Veröffentlichung
@@ -83,14 +84,14 @@ Pflicht (Böker 2023):
 
 Falls Sie das Thema Ethik, im Zusammenhang mit Daten wie beispielsweise in der künstlichen
 Intelligenz, interessiert, können wir folgenden Podcast zum Thema „Ethik & KI – Verantwortung der Data Scientists“ empfehlen.
-
+<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen --> 
 # CARE-Prinzipien
 
-In Ergänzung zu den in Vorlesung drei vorgestellten technischen FAIR-Prinzipien, wurden als Antwort
+In Ergänzung zu den FAIR-Prinzipien, wurden als Antwort
 auf ethische Fragestellungen, die CARE-Prinzipien entworfen. Die CARE-Prinzipien wurden während
 der International Data Week und dem parallel stattfindenden Research Data Alliance Plenary in 2018
 in Botswana entworfen und von der Global Indigenous Data Alliance veröffentlicht.
-
+<!-- Abbildung 0057_THK_CARE einfügen --> 
 CARE steht dabei für Collective Benefit, Authority to Control, Responsibility und Ethics [Kollektiver Nutzen, Kontrolle über die Daten, Verantwortung, Ethik]
 
 > Collective Benefit
@@ -121,7 +122,7 @@ Vordergrund stehen.
 Die CARE-Prinzipien dienen insbesondere dazu, Forschende dafür zu sensibilisieren, auch im
 Rahmen von Open Data und Open Science, die Interessen und individuellen und kollektiven Rechte
 zur Selbstbestimmung indigener Bevölkerungsgruppen zu bewahren.
-
+<!-- G-0093_BUW_Icon_Respekt neben die beiden Absätze einfügen --> 
 Die CARE-Prinzipien sind menschen- und zweckorientiert und spiegeln die entscheidende Rolle von
 Daten bei der Förderung indigener Innovation und Selbstbestimmung wider. Deshalb treffen die
 CARE-Prinzipien insbesondere in anthropologischen, sozialwissenschaftlichen und ähnlichen
@@ -136,7 +137,7 @@ Mehr zum Thema CARE-Prinzipien und was dabei beachtet werden muss finden Sie in 
 englischen Fassung oder in der deutschen Fassung.
 
 ## Leitfragen und Aufgaben
-
+<!-- 0025_THK_Fragezeichen -->
 ### Lektüre:
 
 Carroll, S. R., Hudson, M., Chapman, J. et al. (2019, 1. September). Die CARE-Prinzipien für
@@ -152,12 +153,13 @@ indigene Data Governance. [https://doi.org/10.5281/zenodo.5995059](https://doi.o
     kann?
 
 ### Aufgabe:
-
+ <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 
+<!-- G-0044_BUW_Icon_Findability -->
 ### Literatur
 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
