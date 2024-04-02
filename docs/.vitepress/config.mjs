@@ -16,7 +16,7 @@ export default defineConfig({
   // https:/vitepress.dev/reference/default-theme-config
   themeConfig: {
 
-    logo: '/medien/assets/logo_TH_Koeln.png',
+    logo: '/assets/logo_TH_Koeln.png',
 
     // ︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Navigation
     nav: [
@@ -40,7 +40,7 @@ export default defineConfig({
     //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Sidebar
     sidebar: [
       {
-    text: 'Lernzielmatrizen',
+    text: 'Lerneinheiten für Studierende',
     collapsed: true,
     items: [
       { text: '1. Forschungsdaten', link: '/lz/VL_01_Forschungsdaten_LZ.md' },
@@ -58,7 +58,7 @@ export default defineConfig({
       ]
     },
     {
-      text: 'Vorlesungsskripte',
+      text: 'Lehrkonzepte für Dozierende',
       collapsed: true,
       items: [
         { text: '1. Forschungsdaten', link: '/texte/VL_01_Forschungsdaten.md' },
@@ -87,7 +87,7 @@ export default defineConfig({
 
     //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Footer 
     footer: {
-      message: '<b>Released</b> under the MIT License.',
+      message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024 <a href="https://www.dh.nrw/kooperationen/FDM@Studium.nrw-97" target="_blank">FDM@Studium.NRW</a>'
     },
 
