@@ -39,7 +39,7 @@ aside: true
 
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung zum Datenlebenszyklus.<br><br>Beschreibung der Stationen und deren Merkmale.<br><br>Erläuterung, welche Rolle der DLZ im Forschungsprozess/ im FDM spielt. | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14).<br><br>Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Text und Erklärvideo als Informationsquelle.<br><br>Interaktiver Datenlebenszyklus.<br><br>Beantworten von zwei Leitfragen (unten) im Lernportfolio, optionales Quiz. | EA |
+| Ca. 30 min. | Einführung zum Datenlebenszyklus.<br><br>Beschreibung der Stationen und deren Merkmale.<br><br>Erläuterung, welche Rolle der DLZ im Forschungsprozess/ im FDM spielt. | Die S. können den Datenlebenszyklus beschreiben[(1)](#14) und die unterschiedlichen Stationen mit deren wichtigsten Merkmalen aufzählen[(1)](#14).<br><br>Die S. können darlegen[(2)](#14), wie die unterschiedlichen Stationen des Datenlebenszyklus miteinander verknüpft sind. | Text und Erklärvideo als Informationsquelle.<br><br>Interaktiver Datenlebenszyklus.<br><br>Beantworten einer Leitfrage im Lernportfolio, Quiz. | EA |
 <!-- hier noch Drag&Drop-Aufgabe ergänzen "Ordne die Stationen dem Datenlebenszyklus zu" (5 Min.) -->
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
