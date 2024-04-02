@@ -3,7 +3,7 @@
 
 layout: home
 icon: 
-  scr: /assets/logo_TH_Koeln.png
+  scr: docs/medien/assets/logo_TH_Koeln.png
 title: FDM Basiskurs
 titleTemplate: Vorlesungskripte, Lerzielmatrizen, Kursmaterialien
 lastUpdated: true
@@ -11,7 +11,7 @@ lastUpdated: true
 hero:
   name: "FDM - Basiskurs"
   tagline: The best things in life aren't things!
-  src: /medien/assets/
+  src: docs/medien/assets/
   actions:
     - theme: brand
       text: Vorlesungskripte
@@ -23,7 +23,7 @@ hero:
       text: Einführung
       link: /start/Einfuehrung.md
   image:
-    src: /assets/logo_TH_Koeln.png
+    src: docs/medien/assets/logo_TH_Koeln.png
     alt: FDM@TH_Koeln
 
 features:
