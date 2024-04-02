@@ -22,7 +22,7 @@ aside: true
 ||||
 | :--- | :--- | :--- |
 | 1 | Die S. können die FAIR-Prinzipien benennen(1) und die einzelnen Aspekte beschreiben(1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. |
-| Lernziele für den Unterricht in Präsenz |
+| Lernziele für den Unterricht in Präsenz | <!-- hier ist die Einbindung falsch --> 
 | 2 | Die S. können die Vor- und Nachteile von fairen Daten gegenüberstellen(4). | Die S. wissen, was die Merkmale der Prinzipien sind und können Vor- und Nachteile/Hindernisse für den Forschungsprozess extrapolieren. |
 | 3 | Die S. sind in der Lage, die Fairness von Daten zu beurteilen (6). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeit (mit Daten) beachten zu können. |
 | 4 | Die S. sind in der Lage, ihre Dateien (für ein Beispielprojekt) FAIR (für sich und für Dritte) zusammenzustellen(5). | Die S. können anhand von Beispielen erkennen, welche Forschungsprozesse die FAIR-Prinzipien beachten/erfüllen und welche nicht. Außerdem können sie ihr erlerntes Wissen auf ihr Studium übertragen, um zu einem späteren Zeitpunkt, die FAIR-Prinzipien in Projektarbeiten (mit Daten) beachten zu können. |
@@ -36,7 +36,7 @@ aside: true
 | Zeit | Inhalt | Ziele | Methoden/ Medien (Arbeitsschritte) | Sozialform |
 | --- | --- | --- | --- | --- |
 | Ca. 20 min. | Einführung in das Thema:  Infotext zu FAIR-Prinzipien.  Aufschlüsselung des Akronyms,  Bezug zu Leitlinie in der Hochschule, Relevanz von FDM  <br> <br> Optional: <br> Video von GOfair, <br> Best-Practice-Beispiel “Fairytale”, <br> Quiz <br>| Die S. können die FAIR-Prinzipien benennen (1) und die einzelnen Aspekte beschreiben (1). | Text <br> Optional: Erklärvideo, Best-Practice-Beispiel, Quiz | EA |
-| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
+| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
