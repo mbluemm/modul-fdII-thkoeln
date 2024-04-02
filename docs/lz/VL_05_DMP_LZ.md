@@ -38,7 +38,7 @@ aside: true
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 20 min. | Einführung in das Thema:<br><br>Infotext<br><br>Video:<br><br>Hilfsmittel Checkliste | Die S. können beschreiben(1), was der Nutzen des Dokumentierens von Daten ist und herausstellen(2), welche Relevanz dies hat.<br><br>Die S. können herausstellen(2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Text und Erklärvideo als Informationsquelle<br><br> Hilfsmittel Checkliste | EA |
-| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase | Transferaufgabe | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase | EA |
+| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase | Transferaufgabe | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
