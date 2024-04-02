@@ -22,7 +22,7 @@ Aspekte für Studierende abdeckt und die Sie zukünftig für wichtige Forschungs
 können.
 :::
 
-<!-- Icon 0010_THK_DMP_Dokumentation + Überschrift Lernziele einfügen und Video von Medienagentur einfügen -->
+<!-- Icon 0010_THK_DMP_Dokumentation + Video von Medienagentur einfügen -->
 
 ## Über Daten informieren und Daten dokumentieren
 

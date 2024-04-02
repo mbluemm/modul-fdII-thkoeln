@@ -3,15 +3,14 @@
 
 layout: home
 icon: 
-  scr: docs/assets/logo_TH_Koeln.png
+  scr: '/assets/logo_TH_Koeln.png'
 title: FDM Basiskurs
-titleTemplate: Vorlesungskripte, Lerzielmatrizen, Kursmaterialien
+titleTemplate: Lerneinheiten, Lehrkonzepte, Kursmaterialien
 lastUpdated: true
 
 hero:
   name: "FDM - Basiskurs"
   tagline: The best things in life aren't things!
-  src: docs/medien/assets/
   actions:
     - theme: brand
       text: Lerneinheiten für Studierende
@@ -23,15 +22,15 @@ hero:
       text: Einführung
       link: /start/Einfuehrung.md
   image:
-    src: docs/assets/logo_TH_Koeln.png
+    src: '/assets/logo_TH_Koeln.png'
     alt: FDM@TH_Koeln
 
 features:
   - icon: 🦥
     title: OER
-    details: Kurse für das Selbststudium
+    details: Lerneinheiten für das Selbststudium
   - icon: 📚
     title: LiaScript
-    details: Nachnutzbare Lehrmaterialien
+    details: Nachnutzbare Lehrkonzepte
 ---
 

@@ -221,6 +221,4 @@ Original. DaLI – Data Literacy Initiative. [https://ki-campus.org/courses/dali
 Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten.
 Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
 
-<br/>
-
 [https://upload.wikimedia.org/wikipedia/commons/6/61/Forside_DigitalBevaring.png]: https://upload.wikimedia.org/wikipedia/commons/6/61/Forside_DigitalBevaring.png

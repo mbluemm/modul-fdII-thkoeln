@@ -53,7 +53,7 @@ Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dien
 der Planung und endend mit der Aufbewahrung.
 
 <!-- Arbeitskompass -->
-
+<a title="Arbeitskompass" href="/medien/abbildungen/TH_Koeln_Datenlebenszyklus_Arbeitskompass.jpg"><img width="256" alt="Arbeitskompass" src="/medien/abbildungen/TH_Koeln_Datenlebenszyklus_Arbeitskompass.jpg"></a>
 Quelle: Arbeitskompass zum Thema FDM
 
 <!-- vorübergehend Abbildung von Datenlebenyzklus anstelle iframe verwenden, als Quelle dann uns angeben; später dann durch 0039_THK_Arbeitskompass, wenn interaktive Abbildung von Medienagentur vorliegt -->
@@ -137,7 +137,6 @@ Dateinamen verwendet, Versionskontrolle beachtet und zusätzliche Metadaten eing
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:International_DigitalBevaring.png"><img width="256" alt="International DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/International_DigitalBevaring.png"></a>
-
 Quelle: Digitalbevaringdk2021 International_DigitalBevaring
 
 ### Daten aufbewahren und bereitstellen
