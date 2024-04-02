@@ -9,7 +9,7 @@ aside: true
 ---
 
 # Rechtliche Aspekte
-
+<!-- 0016_THK_gesetzliche_Vorschriften einfügen -->
 [[toc]]
 
 ## Lernziele
@@ -25,14 +25,16 @@ In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten rechtliche
 Sie im FDM beachten müssen. Hier lernen Sie über Datenschutz, mitunter Anonymisierung und Pseudonymisierung, das Urheberrecht, die Nachnutzung von Daten und Lizenzierungen vorgestellt.
 :::
 
-## Leitlinien für das wissenschaftliche Arbeiten
+<!-- Abbildung 0054_THK_Recht und Video von Medienagentur einfügen -->
 
+## Leitlinien für das wissenschaftliche Arbeiten
+<!-- 0007_THK_Leitlinien neben unteren Absatz einfügen -->
 Unter Anderem sind Hinweise zur Befolgung von rechtlichen und ethischen Aspekten in den „Leitlinien
 zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft (DFG 2022)
 festgehalten. An diese angelehnt, gibt es institutsinterne Richtlinien zu guter wissenschaftlicher Praxis
 und für den Umgang mit wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln
 verabschiedet hat.
-Diese Richtlinie, beispielsweise, hält fest, dass die TH Köln und ihre Forschenden beim FDM ethische
+Diese Richtlinie hält beispielsweise fest, dass die TH Köln und ihre Forschenden beim FDM ethische
 Belange sowie rechtliche Vorgaben zu Datenschutz, Urheberrecht und Geheimhaltung oder von
 Dritten beachten. Jede:r Student:in der TH Köln ist in der wissenschaftlichen Arbeit somit zu deren
 Einhaltung verpflichtet und trägt die Verantwortung dafür, dass sein/ihr Verhalten diesen Standards
@@ -45,7 +47,7 @@ Portal der Deutschen Forschungsgemeinschaft. [https://wissenschaftliche-integrit
 Quelle: Digitalbevaringdk OmSitet_DigitalBevaring
 
 ## Rechtliche Aspekte
-
+<!-- G-0042_BUW_Icon_Gesetztestext neben unteren Absatz einfügen --> 
 Für den Forschungsprozess und das FDM sind folgende Rechtsgebiete relevant:
 
 - Datenschutz (Europäische Datenschutz-Grundverordnung, DSGVO;
@@ -62,13 +64,13 @@ beachten müssen werden erläutert.
 Quelle: Digitalbevaringdk Lovgivning_DigitalBevaring
 
 ## Einführung zum Thema Datenschutz
-
+<!-- 0031_THK_DSGVO neben unteren Absatz einfügen -->
 Die EU-Grundrechtecharta und das deutsche Grundgesetz gewähren jedem Menschen ein Recht auf
 den Schutz der ihn betreffenden personenbezogenen Daten (Böker 2023a). Sobald dieser
 Personenbezug entfällt, bzw. betroffene Personen nicht (mehr) identifiziert werden können, greift das
 Datenschutzrecht nicht und diese Daten können grundsätzlich verarbeitet werden (Depping 2023).
 Das Themengebiet Datenschutz ist insbesondere bei der eigenen Erhebung von Daten relevant.
-
+<!-- G-0153_BUW_Icon_personenbezogen_Daten neben unteren Absatz einfügen -->
 Personenbezogene Daten sind „alle Informationen, die sich auf eine identifizierte oder identifizierbare
 natürliche Person [...] beziehen“ (DSGVO, Artikel 4).
 Eine „identifizierbare“ Person kann direkt oder indirekt mittels Zuordnung identifiziert werden,
@@ -78,7 +80,7 @@ wirtschaftlicher, kultureller oder sozialer Natur sein können (Depping 2023).
 
 Die Erhebung von personenbezogenen Daten ist verboten.
 Mit einigen Ausnahmen:
-
+<!-- 0020_THK_Idee neben unteren Absatz einfügen -->
 - Einwilligung der betroffenen Person wurde gegeben. Dieser muss nachweisbar sein, kann
     jedoch widerrufen werden (Art.7, Abs.3 DSGVO)
        o Mehr zum Thema „Informierte Einwilligung“ finden Sie unter
@@ -95,7 +97,7 @@ Mit einigen Ausnahmen:
 
 Forschungsdaten sind unter standardisierten Lizenzen (z. B. Creative-Commons-Lizenzen) zu
 veröffentlichen —> dies verringert rechtliche Risiken.
-
+<!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
 ::: tip
 Anonymisierung / Pseudonymisierung
 Durch die Anonymisierung bzw. Pseudonymisierung von personenbezogenen Forschungsdaten
@@ -105,7 +107,7 @@ werden.
 
 Quelle: Bundesministerium des Innern und für Heimat. (o D.). Datenschutzerklärung [Pressemeldung](https://www.bmi.bund.de/DE/service/datenschutz/datenschutz_node.html;jsessionid=485ADBB3471A8DC3929B314FEF0B05E
 B.1_cid505#doc9390964bodyText)
-
+<!-- 0036_THK_AnonyPseudonym_ohne neben unteren Absatz einfügen -->
 Mit einer erfolgreichen Anonymisierung der Daten, so dass die betroffene Person nicht (mehr)
 identifiziert werden kann, werden personenbezogene Informationen aus den Forschungsdaten
 gelöscht. In dem weiteren Umgang mit diesen Forschungsdaten, spielt der Datenschutz nun keine
@@ -119,7 +121,7 @@ sicherer Trennung der Pseudonyme und der identifizierbaren Daten kann der Datens
 Mehr Information dazu finden Sie unter „Rechtliche Aspekte des Forschungsdatenmanagements“.
 
 Beispiele für Forschungsdaten mit Personenbezug (forschungsdaten.info 2023a):
-
+<!-- 0001_THK_Beispiel neben unteren Absatz einfügen -->
 - Name von Probanden
 - E-Mail-Adresse
 - Anschrift oder Telefonnummer
@@ -133,7 +135,7 @@ Beispiele für Forschungsdaten mit Personenbezug (forschungsdaten.info 2023a):
 
 Bei der Verarbeitung von personenbezogenen Daten sind die in Artikel 5, DSGVO genannten
 Datenverarbeitungsgrundsätze zu beachten:
-
+<!-- G-0042_BUW_Icon_Gesetztestext neben unteren Absatz einfügen -->
 - Rechtmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz.
 - Zweckbindung,
 - Datenminimierung,
@@ -143,12 +145,12 @@ Datenverarbeitungsgrundsätze zu beachten:
 - Rechenschaftspflicht.
 
 ## Praktische Tipps
-
+<!-- 0020_THK_Idee neben unteren Absatz einfügen -->
 Hier finden Sie eine Auflistung von zusammengefassten praktischen Tipps, an die es stark empfohlen ist, sich bei der Arbeit mit Daten aus rechtlichen Gründen zu halten.
 Quelle: Böker 2023a
 
 ## Einführung zum Thema Urheberrecht
-
+<!-- 0018_THK_Urheberrecht neben unteren Absatz einfügen -->
 In der Forschung (beim wissenschaftlichen Arbeiten) ist es möglich, auf unterschiedliche Weise vom
 Urheberrecht betroffen zu sein, wie beispielsweise, wenn Sie:
 
@@ -162,7 +164,7 @@ Das Urheberrecht schützt das Recht eines Urhebers an seinem/ihrem Werk (die pro
 Arbeit/Daten) und garantiert das Eigentumsrecht an dem besagten Werk sowie das alleinige
 Entscheidungsrecht über Verwertung und Nutzung durch Dritte. Dieser Schutz beginnt automatisch
 mit der Entstehung des Werkes (§ 11 UrhG).
-
+<!-- Abbildung 0055_THK_Urheberrecht einfügen -->
 ::: info
 Hinweis: Die Prüfung erfolgt im Einzelfall.
 :::
@@ -170,7 +172,7 @@ Hinweis: Die Prüfung erfolgt im Einzelfall.
 Jede natürliche Person, die ein Werk durch eigene Leistung geschaffen hat ist ein:e Urheber:in.
 
 ## Was ist ein Werk?
-
+<!--  0038_THK_Buch neben unteren Absatz einfügen -->
 „Eine persönliche geistige Schöpfung, die einen gewissen Grad an Eigentümlichkeit, Originalität oder
 auch Individualität aufweist und die man sinnlich wahrnehmen kann.“ Beispiele von geschützten
 Werken (inkl. Forschungsdaten) sind (§ 2 Abs. 2 UrhG):
@@ -187,12 +189,12 @@ Mehr Information zu Geschützten Werken, beispielsweise in der Literatur, Wissen
 finden Sie in § 2 UrhG. Generell stellt das Bundesministerium der Justiz und das Bundesamt für Justiz
 zur Nachsicht nahezu das gesamte aktuelle Bundesrecht kostenlos im Internet zur Verfügung. Näheres
 dazu finden Sie auf deren Seite „Gesetze im Internet“.
-
+<!-- G-0057_BUW_Icon_Datentyp_Survey neben unteren Absatz einfügen -->
 Qualitative Forschungsdaten, wie beispielsweise Sprachwerke (qualitative Interviews oder längere
 Texte) können urheberrechtlich geschützte Formulierungen, Strukturen und Gedankenführungen
 enthalten. Wenn diese jedoch durch ‚fachliche Gepflogenheiten‘ vorgegeben sind, ist ein
 urheberrechtlicher Schutz ausgeschlossen.
-
+<!-- G-0016_BUW_Icon_Erhebung neben unteren Absatz einfügen -->
 Auf quantitativen Forschungsdaten hingegen, wie beispielsweise Messergebnisse oder statistische
 Daten, besteht bei den Erhebungen grundsätzlich kein urheberrechtlicher Schutz
 
@@ -204,7 +206,7 @@ Hinweis: Die Prüfung erfolgt im Einzelfall.
 
 Folgende sind Beispiele von Werken, die *nicht* urheberrechtlich geschützt sind (Kreutzer u.
 Fischer, 2023) :
-
+<!-- 0020_THK_Idee neben unteren Absatz einfügen -->
 - (reine) Fakten
 - (reine) Informationen
 - Messergebnissen
@@ -214,19 +216,19 @@ Fischer, 2023) :
 - Digitalisate
 - Automatisch generierte Forschungsdaten
 
-(Eigene) Einzelne Forschungsdaten an sich sind nicht geschützt.
+(Eigene) einzelne Forschungsdaten an sich sind nicht geschützt.
 
 - Einzelne Forschungsdaten sind erst geschützt, wenn Daten in einem Sammelwerk oder einem
     Datenbankwerk zusammengefasst werden.
 Hinweis: Geschützt sind dabei nicht die einzelnen Datenelemente, sondern deren
 Zusammenstellung bzw. strukturelle Anordnung im Gesamtwerk.
-
+<!-- Hinweis anders einbinden --> 
 ### Wann endet der Urheberrechtsschutz?
 
 70 Jahre nach dem Tod des Urhebers (§ 64 UrhG). Damit wird es zu einem gemeinfreien Werk und
 kann somit frei verwendet werden.
 
-<!--SB: Richtige Datei?-->
+<!--SB: Richtige Datei? yes -->
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bit_Storage_-_Digital_Preservation.png"><img width="256" alt="Bit Storage - Digital Preservation" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Bit_Storage_-_Digital_Preservation.png"></a>
 Quelle: Digitalbevaringdk Bit_Storage_DigitalBevaring
@@ -251,13 +253,15 @@ Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
 ## Leitfragen und Aufgaben:
 
 ### Leitfragen
-
+<!-- 0025_THK_Fragezeichen -->
 1. Auf welche rechtlichen Aspekte sollte bei der Datenerhebung geachtet werden?
 
-2. Wem gehören die in einem Forschungsvorhaben erhobenen Forschungsdaten?
+2. In welchen Phasen des Datenlebenszyklus können rechtliche Belange relevant sein? Welche Rechtsgebiete sind dabei betroffen?
+
+3. Wem gehören die in einem Forschungsvorhaben erhobenen Forschungsdaten?
 
 ### Aufgabe: 
-
+ <!-- 0034_THK_Aufgabe -->
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
@@ -275,8 +279,9 @@ Reales Beispiel
 
 ## Weiterführende Materialen und Quellen
 
+<!-- G-0044_BUW_Icon_Findability -->
 ### Literatur
-
+<!-- hier noch 17_Checkliste_Einwilligung_V4 von sciebo-Ordner einfügen --> 
 Böker, E., Brettschneider, Peter. (2020, 23. April). Forschungsdaten - Rechte und gute
 wissenschaftliche Praxis. Zenodo. [https://doi.org/10.5281/zenodo.3763040](https://doi.org/10.5281/zenodo.3763040).
 
