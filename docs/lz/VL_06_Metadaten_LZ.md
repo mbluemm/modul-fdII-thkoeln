@@ -38,7 +38,7 @@ aside: true
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>optionales Video und Quiz<br> | Die S. können Metadaten bezeichnen(2) und erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br>>Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
-| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen im Lernportfolio zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
+| Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
 
 ---
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
