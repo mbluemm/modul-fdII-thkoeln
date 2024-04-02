@@ -39,8 +39,8 @@ aside: true
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 15 min. | Einführung zum Thema rechtliche Aspekte und Rechtsgrundlagen im FDM. <br> Erläuterungen zum Thema Datenschutz und personenbezogene Daten. <br> Definition von Aspekten, die im FDM beachtet werden müssen und rechtlich bindend sind (insbesondere bei der Datenerhebung). | Die S. können die wichtigsten Aspekte des Datenschutzes (inkl. der Rechtsgrundlagen zum Schutz personenbezogener Daten) im FDM beschreiben (2). | Die S. müssen das LZ im Lernportfolio beantworten (für eine ggf. Diskussion im Plenum). | EA |
-| Ca. 15 min. | Einführung zum Thema Urheberrecht von Forschungsdaten. <br> Erläuterung worauf, insbesondere bei der Nachnutzung von Daten, im Forschungsprozess geachtet werden muss. <br>Hervorhebung von relevanten Rechtsaspekten unterschiedlicher Lizenzen. | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern (2). | Die S. müssen die Leitfragen im Lernportfolio beantworten (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 15 min. | Einführung zum Thema rechtliche Aspekte und Rechtsgrundlagen im FDM. <br> Erläuterungen zum Thema Datenschutz und personenbezogene Daten. <br> Definition von Aspekten, die im FDM beachtet werden müssen und rechtlich bindend sind (insbesondere bei der Datenerhebung). | Die S. können die wichtigsten Aspekte des Datenschutzes (inkl. der Rechtsgrundlagen zum Schutz personenbezogener Daten) im FDM beschreiben (2). | Die S. müssen die Leitfragen beantworten (für eine ggf. Diskussion im Plenum). | EA |
+| Ca. 15 min. | Einführung zum Thema Urheberrecht von Forschungsdaten. <br> Erläuterung worauf, insbesondere bei der Nachnutzung von Daten, im Forschungsprozess geachtet werden muss. <br>Hervorhebung von relevanten Rechtsaspekten unterschiedlicher Lizenzen. | Die S. können die Rolle von Urheberrecht und Lizenzrecht im FDM erläutern (2). | Die S. müssen die Leitfragen beantworten (für eine ggf. Diskussion im Plenum). | EA |
 
 ---
 [^2]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit
@@ -52,7 +52,7 @@ aside: true
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 15 min. | ScaryTale & Diskussion <br> Zum Einstieg wird eine ScaryTale im Plenum „gespielt“. <br> UND <br>Besprechung der zuvor beantworteten Leitfrage sowie des LZ. | Die S. können kritisch beurteilen(6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | L. führt die ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden. <br>Daraufhin erfolgt zur Beantwortung des LZ und der Leitfrage, die zuhause im Lernportfolio beantwortet wurden, eine Diskussion. | PL |
+| Ca. 15 min. | ScaryTale & Diskussion <br> Zum Einstieg wird eine ScaryTale im Plenum „gespielt“. <br> UND <br>Besprechung der zuvor beantworteten Leitfragen. | Die S. können kritisch beurteilen(6), auf welche rechtlichen Aspekte im FDM (z. B. bei der Erhebung von Daten) geachtet werden sollte. | L. führt die ScaryTale ein. Hier sollen die S. im Plenum raten und gemeinsam eine Antwort finden. <br>Daraufhin erfolgt zur Beantwortung der Leitfragen, die in der Vorbereitung beantwortet wurden, eine Diskussion. | PL |
 
 #### Arbeitsphase
 
@@ -74,7 +74,7 @@ aside: true
 
 Begrüßung
 
-(ca. 15 Min.) ScaryTale und Diskussion L. trägt das ScaryTale vor und die S. müssen gemeinsam eine Antwort erraten. Kritische Diskussion: Daraufhin beantworten die S. im PL (geleitet von L.) die Leitfrage, die sie vorab im Lernportfolio notiert haben, sowie das LZ dieses Abschnitts.
+(ca. 15 Min.) ScaryTale und Diskussion L. trägt das ScaryTale vor und die S. müssen gemeinsam eine Antwort erraten. Kritische Diskussion: Daraufhin beantworten die S. im PL (geleitet von L.) die Leitfragen, die sie vorab in der Vorbereitungsphase bearbeitet haben.
 
 ### Arbeitsphase
 
