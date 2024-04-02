@@ -11,7 +11,7 @@ export default defineConfig({
   title: 'Technische Hochschule Köln',
   lang: 'de-DE',
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
-  base: '/',
+  base: 'modul-fdII-thkoeln',
 
   // https:/vitepress.dev/reference/default-theme-config
   themeConfig: {
