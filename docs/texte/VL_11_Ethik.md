@@ -138,6 +138,7 @@ englischen Fassung oder in der deutschen Fassung.
 
 ## Leitfragen und Aufgaben
 <!-- 0025_THK_Fragezeichen -->
+<!-- Quiz von FDII-Kurs, Aufgabe 2 einfügen) -->
 ### Lektüre:
 
 Carroll, S. R., Hudson, M., Chapman, J. et al. (2019, 1. September). Die CARE-Prinzipien für
