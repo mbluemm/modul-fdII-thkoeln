@@ -188,7 +188,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 <!-- G-0044_BUW_Icon_Findability -->
 <!-- hier noch 04_Poster_FAIRDATA einfügen aus sciebo-Ordner --> 
-Poster_FAIRDATA. Erstellt im Rahmen des FDMentor-Projektes. Idee und Gestaltung: Katarzyna Biernacka, Dr. Dominika Dolzycka, Petra Buchholz, Kerstin Helbig. [Poster: FAIRDATA](../docs/public/04_Poster_FAIRData_V4.pdf)
+Poster_FAIRDATA. Erstellt im Rahmen des FDMentor-Projektes. Idee und Gestaltung: Katarzyna Biernacka, Dr. Dominika Dolzycka, Petra Buchholz, Kerstin Helbig. [Poster: FAIRDATA](/04_Poster_FAIRData_V4.pdf)
 
 Buch, Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#datendienstag: Datenmanagementpläne und 
 Forschungsdatenmanagement in Forschungsanträgen*. Folien 10-15. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
