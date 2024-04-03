@@ -55,7 +55,7 @@ der Planung und endend mit der Aufbewahrung.
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKbjs3EE=/?moveToViewport=-38630,-25373,69911,43607&embedId=529249252723" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 Quelle: Arbeitskompass zum Thema FDM
 
-<!-- vorübergehend Abbildung von Datenlebenyzklus anstelle iframe verwenden, als Quelle dann uns angeben; später dann durch 0039_THK_Arbeitskompass, wenn interaktive Abbildung von Medienagentur vorliegt -->
+<!-- durch 0039_THK_Arbeitskompass, wenn interaktive Abbildung von Medienagentur vorliegt -->
 
 ### Forschungsvorhaben oder Projekt planen
 
@@ -79,7 +79,7 @@ eine Dokumentation oder einen Datenmanagementplan zu erstellen.
 Außerdem wird in diesem Schritt bereits die Datenhaltung nach 
 Abschluss des Projekts geplant.
 
-### Daten erfassen: Selbst erheben oder zum Nachnutzen finden
+### Daten erfassen: Selbst erheben oder zum Nachnutzen finden {#Daten-erfassen}
 
 <!-- G-0016_BUW_Icon_Erhebung -->
 
@@ -142,7 +142,7 @@ Quelle: Digitalbevaringdk2021 International_DigitalBevaring
 
 <!-- G-0018_BUW_Icon_Archivierung ; 0009_THK_Veroeffentlichen -->
 Bei der Aufbewahrung und Bereitstellung von Daten ist es wichtig, dass diese zugänglich, zitierfähig, qualitativ 
-und erschlossen sind (genauer unter dem Punk „Daten erfassen“ <!-- hier interner Link zu dem Text -->). 
+und erschlossen sind (genauer unter dem Punk ["Daten erfassen"](#Daten-erfassen)). 
 Außerdem sollten in weit verbreiteten und nicht-proprietären Dateiformaten verfügbar sein.
 
 Bei der Weitergabe und gemeinsamen Nutzung von Daten, sei es mit Kommilitonen für Studienprojekte oder zur Abgabe bei Lehrkräften, 
