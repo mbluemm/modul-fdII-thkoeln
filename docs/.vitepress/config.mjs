@@ -40,7 +40,7 @@ export default defineConfig({
     //︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Sidebar
     sidebar: [
       {
-    text: 'Lerneinheiten für Studierende',
+    text: 'Lehrkonzepte für Dozierende',
     collapsed: true,
     items: [
       { text: '1. Forschungsdaten', link: '/lz/VL_01_Forschungsdaten_LZ.md' },
@@ -58,7 +58,7 @@ export default defineConfig({
       ]
     },
     {
-      text: 'Lehrkonzepte für Dozierende',
+      text: 'Lerneinheiten für Studierende',
       collapsed: true,
       items: [
         { text: '1. Forschungsdaten', link: '/texte/VL_01_Forschungsdaten.md' },
