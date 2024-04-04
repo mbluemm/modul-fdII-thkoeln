@@ -9,6 +9,12 @@
   margin-right: 0;
   font-weight: bold;
   color: rgba(9, 12, 169, 0.525);
+  
+  /* color gradient for text elements */
+  background-image:linear-gradient(90deg,rgb(219, 71, 8),rgb(199, 21, 133),rgb(240, 173, 30));
+  -webkit-background-clip: text;
+          background-clip: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  -webkit-text-fill-color: transparent;
 }
 
 .h2 {
@@ -23,6 +29,23 @@
   /* color gradient for text elements */
   background-image:linear-gradient(90deg,rgb(219, 71, 8),rgb(199, 21, 133),rgb(240, 173, 30));
   -webkit-background-clip: text;
+  background-clip: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  -webkit-text-fill-color: transparent;
+}
+
+.name[data-v-72cc4481] {
+  display: block;
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+
+  /* color gradient for text elements */
+  background-image:linear-gradient(90deg,rgb(219, 71, 8),rgb(199, 21, 133),rgb(240, 173, 30));
+  -webkit-background-clip: text;
+    background-clip: inset 0 0 6px rgba(0, 0, 0, 0.1);
   -webkit-text-fill-color: transparent;
 }
 
