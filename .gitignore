@@ -7,7 +7,7 @@ node_modules
 *.tgz
 .DS_Store
 cache
-dist
+docs/.vitepress/dist
 node_modules
 .temp
 *.tgz
