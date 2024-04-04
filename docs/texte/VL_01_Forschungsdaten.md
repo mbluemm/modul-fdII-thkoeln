@@ -94,15 +94,15 @@ in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-B
 
 Es gibt Primärdaten und Sekundärdaten[^1]
 
-::: tip Primärdaten
-Primärdaten <!-- G-0094_BUW_a_Icon_Primaerdaten -->
+::: tip Primärdaten 
+<!-- G-0094_BUW_a_Icon_Primaerdaten -->
 
 - sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden.
 - Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
 :::
 
 ::: tip Sekundärdaten
-Sekundärdaten <!-- G-0094_BUW_b_Icon_Sekundaerdaten -->
+<!-- G-0094_BUW_b_Icon_Sekundaerdaten -->
 
 - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
@@ -145,8 +145,7 @@ rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu
 Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig haben kann.
 
 ![Abbildung 1:](/medien/abbildungen/GTD_Attentate_Region.svg)
-Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate.
-Sina Bock[^5]
+Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate. Sina Bock[^5]
 
 Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von Forschungsdaten eignen. Die 2020 GTD Heat Map[^6] zeigt beispielsweise die geographische Verteilung von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem jeweiligen Attentat verletzt oder getötet wurden.
 
@@ -168,7 +167,7 @@ START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.sta
 
 ---
 [^2]: START (2022).
-[^3]: ebd .
+[^3]: ebd.
 [^4]: START (2021), S. 4.
 [^5]: START (2022).
 [^6]: START (2020).
