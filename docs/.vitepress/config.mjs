@@ -30,9 +30,9 @@ export default defineConfig({
       {
         text: 'Über das Projekt',
         items: [
-        { text: 'Landesinitiative_NRW', link: '/about/Landesinitative_NRW.md' },
-        { text: 'UDE', link: "/about/UDE" },
-        { text: 'BUW', link: "/about/BUW" },
+        { text: 'Landesinitiative_NRW', link: 'https://fdm-nrw.coscine.de/#/?id=landesinitiative-für-forschungsdatenmanagement-fdmnrw' },
+        { text: 'UDE', link: "https://www.uni-due.de/rds/fdm-curriculum.php" },
+        { text: 'BUW', link: "https://fdm.uni-wuppertal.de/de/" },
         { text: 'TH Koeln', link: "https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/fdmstudiumnrw_98785.php" }
         ]
       }],
@@ -48,7 +48,7 @@ export default defineConfig({
       { text: '3. DLZ', link: '/lz/VL_03_Datenlebenszyklus_LZ.md' },
       { text: '4. FAIR', link: '/lz/VL_04_FAIR_LZ.md' },        
       { text: '5. DMP', link: '/lz/VL_05_DMP_LZ.md' },
-      { text: '6. Metadaten', link: '/lz/VL_06_Metadaten_LZ.md' },
+      //{ text: '6. Metadaten', link: '/lz/VL_06_Metadaten_LZ.md' },
       //{ text: '7. Dateisystem', link: '/lz/VL_07_Dateisystem_LZ.md' },
       //{ text: '8. Speichern', link: '/lz/VL_08_Speichern_LZ.md' },
       //{ text: '9. Finden', link: '/lz/VL_09_Finden_LZ.md' },
@@ -66,7 +66,7 @@ export default defineConfig({
         { text: '3. Datenlebenszyklus', link: '/texte/VL_03_Datenlebenszyklus.md' },       
         { text: '4. FAIR', link: '/texte/VL_04_FAIR.md' },
         { text: '5. DMP', link: '/texte/VL_05_DMP.md' },
-        { text: '6. Metadaten', link: '/texte/VL_06_Metadaten.md' },
+        //{ text: '6. Metadaten', link: '/texte/VL_06_Metadaten.md' },
         //{ text: '7. Dateisystem', link: '/texte/VL_07_Dateisystem.md' },
         //{ text: '8. Speichern', link: '/texte/VL_08_Speichern.md' },
         //{ text: '9. Finden', link: '/texte/VL_09_Finden.md' },
