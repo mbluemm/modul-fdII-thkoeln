@@ -16,7 +16,7 @@ export default defineConfig({
   // https:/vitepress.dev/reference/default-theme-config
   themeConfig: {
 
-    logo: './logo_TH_Koeln.png', 
+    logo: '/logo_TH_Koeln.png', 
 
     // ︶꒷꒦꒷︶꒷꒦꒷︶꒷︶꒷꒦꒷︶ Navigation
     nav: [
