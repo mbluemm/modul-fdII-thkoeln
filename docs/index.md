@@ -18,9 +18,7 @@ hero:
     - theme: alt
       text: Lehrkonzepte für Dozierende
       link: /lz/VL_01_Forschungsdaten_LZ.md
-    - theme: brand
-      text: Einführung
-      link: /start/Einfuehrung.md
+      
   image:
     src: './logo_TH_Koeln.png'
     alt: FDM@TH_Koeln
