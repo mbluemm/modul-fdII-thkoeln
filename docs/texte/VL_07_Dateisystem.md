@@ -9,6 +9,12 @@ aside: true
 ---
 
 # Ordnerstruktur und Dateibenennungen
+
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_07_Dateisystem. 
+Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_07_Dateisystem.html
+:::
+
 <!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen --> 
 
 [[toc]]

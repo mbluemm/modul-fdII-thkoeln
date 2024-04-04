@@ -12,6 +12,11 @@ aside: true
 
 <!-- 0005_THK_Metadaten ergänzen --> 
 
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_06_Metadaten. 
+Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_06_Metadaten.html
+:::
+
 [[toc]]
 
 ## Lernziele 

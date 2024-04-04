@@ -12,6 +12,11 @@ aside: true
 
 <!-- G-0093_BUW_Icon_Respekt einfügen -->
 
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_11_Ethik. 
+Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_11_Ethik.html
+:::
+
 [[toc]]
 
 ## Lernziele

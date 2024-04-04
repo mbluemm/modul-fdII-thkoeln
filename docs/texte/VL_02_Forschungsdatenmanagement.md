@@ -10,6 +10,10 @@ aside: true
 
 # Was ist Forschungsdatenmanagement?
 
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_02_Forschungsdatenmanagement. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_02_Forschungsdatenmanagement.html
+:::
+
 [[toc]]
 
 ## Lernziele

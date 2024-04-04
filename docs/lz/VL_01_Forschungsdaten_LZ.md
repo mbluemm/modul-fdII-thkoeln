@@ -10,6 +10,10 @@ aside: true
 
 # Was sind Forschungsdaten?
 
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_01_Forschungsdaten_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_01_Forschungsdaten_LZ.html
+:::
+
 [[toc]]
 
 ## Ausgangslage

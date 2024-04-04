@@ -10,6 +10,11 @@ aside: true
 
 # Rechtliche Aspekte
 
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_10_Recht. 
+Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_10_Recht.html
+:::
+
 <!-- 0016_THK_gesetzliche_Vorschriften einfügen -->
 
 [[toc]]
