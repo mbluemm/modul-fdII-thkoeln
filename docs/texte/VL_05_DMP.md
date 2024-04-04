@@ -101,8 +101,6 @@ ______________________
 
 ## 1. Planen
 
-  ![Chart für die Planungsphase](docs/public/DMP_Planen.svg)
-
 <!-- style="width: 25%;" -->
 ``` ascii
  .-------------------.     .---------------------------.
