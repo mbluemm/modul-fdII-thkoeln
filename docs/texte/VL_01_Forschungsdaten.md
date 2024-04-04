@@ -11,6 +11,10 @@ layout: doc
 
 # Was sind Forschungsdaten?
 
+:::info Zitation:
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL 01 Forschungsdaten.html. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_01_Forschungsdaten.html
+:::
+
 [[toc]]
 
 <!-- mögliche Abbildungen für die VL: 0041_THK_Forschungsarbeit ; G-0063_BUW_Gruppe_Wissenschaft ; 0042_THK_Daten ; 0043_THK_Digitalisierung -->
