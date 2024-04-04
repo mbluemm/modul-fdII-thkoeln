@@ -14,7 +14,7 @@ aside: true
 
 ## Lernziele 
 
-::: info
+::: info Lernziele
 In diesem Themenblock lernen Sie, was die Dokumentation von Daten beinhaltet, welchen Nutzen
 diese hat und welche Informationen in einer Dokumentation enthalten sein können. Außerdem wird
 Ihnen eine Checkliste zur Dokumentation von Daten an die Hand gegeben, die alle relevanten
@@ -47,6 +47,7 @@ wenn man seine Arbeiten an Andere weitergeben möchte oder kollaborativ an einer
 /Prüfungsleistung arbeitet.
 
 <!-- Abbildung 0050_THK_Kollaboratives_Arbeiten einfügen -->
+
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PreservationPlan_DigitalPreservation.png"><img width="256" alt="PreservationPlan DigitalPreservation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PreservationPlan_DigitalPreservation.png/256px-PreservationPlan_DigitalPreservation.png"></a>
 Quelle: ResearchDataRepositories PreservationPlan DigitalPreservation von Jørgen Stamp
@@ -54,10 +55,8 @@ Quelle: ResearchDataRepositories PreservationPlan DigitalPreservation von Jørge
 Im besten Fall wird eine Dokumentation der Daten am Anfang des Projekts begonnen, wenn noch
 keine Daten gesammelt wurden, da somit schon zu Beginn wichtige Entscheidungen gefällt werden
 und Prozesse strukturierter umgesetzt werden können. Eine Dokumentation kann sehr verschieden
-aussehen.* Je nach Projektgröße und Datenvielfalt kann eine solche Dokumentation zwischen
+aussehen.[^1] Je nach Projektgröße und Datenvielfalt kann eine solche Dokumentation zwischen
 wenigen Absätzen und mehreren Seiten umfassen.
-
-* Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation.
 
 ::: tip
 Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
@@ -68,6 +67,9 @@ Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert wer
 Die nachfolgenden Leitfragen helfen, einer ausführlichen Projektdokumentation im Studienkontext
 nachzukommen. Aspekte wie “Was fällt an Daten überhaupt an?” und “Wie speichere ich die Daten
 am besten?” können so geklärt und festgehalten werden.
+
+---
+[^1]: Ein Datenmanagementplan (DMP) ist eine Form der Dokumentation.
 
 ## Checkliste zur Datendokumentation
 
@@ -99,6 +101,9 @@ ______________________
 
 ## 1. Planen
 
+  ![Chart für die Planungsphase](docs/public/DMP_Planen.svg)
+
+<!-- style="width: 25%;" -->
 ``` ascii
  .-------------------.     .---------------------------.
  | Themenfindung und |     | Wie lautet die            |
@@ -128,7 +133,7 @@ ______________________
  | Verantwortlichkeiten       |
  | Verantwortliche Person(en) |
  '----------------------------'
-```
+``` 
 
 - 1. für die Datendokumentation:
 
@@ -388,21 +393,21 @@ teilen? Z. B. mit Lehrenden / Studierenden.
 - [ ] ja
 - [ ] nein
 
-...Sind bestimmte Software, Verfahren oder
+... Sind bestimmte Software, Verfahren oder
 Technologien notwendig, um die Daten
 nachzunutzen?
 
 - [ ] ja,______
 - [ ] nein
 
-...Können die Daten auch ohne eine schriftliche
+... Können die Daten auch ohne eine schriftliche
 Arbeit verstanden werden oder müssen sie
 aufgearbeitet werden?
 
 - [ ] ja
 - [ ] nein
 
-...Welche Informationen (wie Metadaten) sind für
+... Welche Informationen (wie Metadaten) sind für
 Außenstehende (z. B. Lehrende, Studierende)
 notwendig, um die Daten sowie die auf ihrer
 Basis gewonnenen Forschungsergebnisse
@@ -483,7 +488,9 @@ sicher vernichtet?
     relevant?
 
 ### Aufgabe:
+
 <!-- 0034_THK_Aufgabe -->
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
@@ -492,6 +499,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ### Literatur
 
 <!-- G-0044_BUW_Icon_Findability -->
+
 Böker, E. (2023, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 

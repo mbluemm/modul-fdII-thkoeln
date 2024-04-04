@@ -14,7 +14,7 @@ aside: true
 
 ## Lernziele
 
-::: info
+::: info Lernziele
 In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlichen Stationen kennen und verstehen, wie der Datenlebenszyklus mit den einzelnen Phasen von Forschungsprozessen verknüpft ist.
 :::
 
@@ -53,7 +53,7 @@ Der folgende Datenlebenszyklus kann als Leitfaden für den Umgang mit Daten dien
 der Planung und endend mit der Aufbewahrung.
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVKbjs3EE=/?moveToViewport=-38630,-25373,69911,43607&embedId=529249252723" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-Quelle: Arbeitskompass zum Thema FDM
+Quelle: Arbeitskompass zum Thema FDM, Katharina Fritsch.
 
 <!-- durch 0039_THK_Arbeitskompass, wenn interaktive Abbildung von Medienagentur vorliegt -->
 
@@ -141,6 +141,7 @@ Quelle: Digitalbevaringdk2021 International_DigitalBevaring
 ### Daten aufbewahren und bereitstellen
 
 <!-- G-0018_BUW_Icon_Archivierung ; 0009_THK_Veroeffentlichen -->
+
 Bei der Aufbewahrung und Bereitstellung von Daten ist es wichtig, dass diese zugänglich, zitierfähig, qualitativ 
 und erschlossen sind (genauer unter dem Punk ["Daten erfassen"](#Daten-erfassen)). 
 Außerdem sollten in weit verbreiteten und nicht-proprietären Dateiformaten verfügbar sein.
@@ -164,10 +165,13 @@ Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
+
 <!-- 0025_THK_Fragezeichen -->
 
 1. Welche Stationen des Datenlebenszyklus sind in Ihrem Studium besonders relevant?
+
 ### Aufgaben
+
 <!-- Aufgabe : Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 
 
 ### Lektüre

@@ -25,17 +25,17 @@ Prinzipien mit sich bringen können.
 ## FAIR-Prinzipien
 
 Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessible (Zugänglich), Interoperable (Interoperabel) und Reusable (Nachnutzbar).
-Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten, damit diese
+Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten.
 
+<!-- SB: sobald Grafiken da sind, Absatz umformulieren -> ... Forschungsdaten,damit diese + Grafik + sind. -->
 <!-- G-0044_BUW_Icon_Findability, G-0019_BUW_Icon_Zugang, G-0046_BUW_Icon_Interoperability, G-0020_BUW_Icon_Nachnutzung ; FAIR ggff. Übersetzung von "reusable" im Text anpassen-->
 
 sind.
+Quelle: Forschungsdaten.info, 2023
 
 An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet werden (Sauther-Patrascu und Dmitrieva, 2021).
 
 <!-- 0007_THK_Leitlinien -->
-
-Quelle: Forschungsdaten.info, 2023
 
 ### Findable (Auffindbar):
 
@@ -53,7 +53,6 @@ Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 - Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um
     ihre Organisation und Auffindbarkeit zu verbessern.
   <!-- G-0038_BUW_Icon_Diskette neben Absatz ergänzen -->
-
 
 ### Accessible (Zugänglich):
 

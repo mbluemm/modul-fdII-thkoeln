@@ -15,14 +15,16 @@ aside: true
 ## Lernziele
 
 <!-- G-0038_BUW_Icon_Diskette einfügen --> 
-::: info
+
+::: info Lernziele
 In diesem Themenblock lernen Sie die Speicherung von Daten und Dateien kennen, welche Aspekte 
 dabei im Forschungsprozess zu beachten sind und welchen Empfehlungen zu befolgen ist. 
 Außerdem lernen Sie über Vor- und Nachteile verschiedener Speichermedien sowie unterschiedlicher
 Datenformate. 
 :::
 
-(forschungsdaten.info 2023a; forschungsdaten.info 2023b). <!-- what's that? --> 
+(forschungsdaten.info 2023a; forschungsdaten.info 2023b).
+
 <!-- Video von Medienagentur einfügen -->
 
 ## Daten speichern und das Datenverlustrisiko minimieren
@@ -33,17 +35,22 @@ möglichst zu verhindern, dass Daten beschädigt werden, verloren gehen oder ver
 bei der Speicherung von Daten und Dateien einige Aspekte zu beachten. So kann vorgebeugt
 werden, dass Daten bspw. aufgrund technischer Fehler etwa durch einen Schaden an der Festplatte
 oder aufgrund veralteter Software nicht mehr lesbar sind oder versehentlich gelöscht werden.
+
 <!-- 0008_THK_GWP und G-0020_BUW_Icon_Nachnutzung neben oberen Absatz ergänzen -->
+
 Backup- und Datensicherungsmaßnahmen sind unerlässlich: Forschungsdaten müssen vor
 unbefugtem Zugriff (z. B. Cyber/Hackerangriffe) und Datenverlust (z. B. technische Fehler/Brand)
 geschützt werden. Insbesondere sensible, personenbezogene Daten müssen durch
 Pseudonymisierung oder Anonymisierung besonders geschützt werden (Weiner et al. 2020).
 
 Vor- und Nachteile von Speichermedien finden Sie unter (forschungsdaten.info 2023b). 
+
 <!-- hier Datenspeicherlösungen wie G-0035_BUW_Icon_USB_Stick , G-0037_BUW_Icon_CD , G-0039_BUW_Icon_SD-Karte , 0011_THK_Speicher_Cloud , 0012_THK_Speicher_PC , 0013_THK_Speicher_Festplatte einfügen --> 
 
 ## Wichtige Aspekte bei der Speicherung von Daten
+
 <!-- Abbildung 0046_THK_Speichern einfügen --> 
+
 Um das Risiko des Datenverlustes bestmöglich zu reduzieren, sollte bei der Sicherung der Daten und
 Dateien insbesondere darauf geachtet werden, dass diese:
 
@@ -54,6 +61,7 @@ Dateien insbesondere darauf geachtet werden, dass diese:
 - strukturiert (zu einem festgelegten Zeitpunkt) und einheitlich erfolgt.
   
 Darüber hinaus ist es wichtig, die 3 - 2 - 1 - Regel zu beachten. Gleichermaßen sollte die Sicherung der Daten mit einer guten Ordner- und Dateistruktur, inklusive einer geeigneten Dateibenennung, einhergehen.
+
 <!-- 0027_THK_Ordnerstruktur , 0006_THK_Organisieren , 0029_THK_Dateibenennung -->
 
 ![](https://)
@@ -63,6 +71,7 @@ Abbildung: forschungsdaten.info 2023a
 ## Empfehlungen zur Datensicherung
 
 <!-- 0020_THK_Idee , G-0038_BUW_Icon_Diskette einfügen -->
+
 Es ist hilfreich (VerbundFDB 2018):
 
 - alle fünf Jahre die alten externen Speichermedien mit neueren auszutauschen.
@@ -85,20 +94,18 @@ werden, da deren Serverstandorte nicht in Deutschland, sondern in Amerika liegen
 
 (Krähwinkel, Langner, Lipp et al. 2022)
 
+---
 [^1]: Hier empfiehlt es sich zu prüfen, wie lange auf die Hochschuldienste zugegriffen werden kann.
-<!-- wie einbinden? -->
 
 ## Sicherer Passwortschutz
 <!-- sollte das nicht rausgelöscht werden? Und wenn nicht, wie einbinden? --> 
-Was ist ein gutes Passwort?
-===
+### Was ist ein gutes Passwort?
 
 Die Daten (Dateien und Ordner) sollten wo es möglich ist, beispielsweise bei sensiblen Daten, mit
 einem Passwort geschützt sein.
 Für einen Überblick von sicheren Passwörtern kann Passwortmanagement-Software helfen.
 
-Beispiele für Passwortregel
-===
+### Beispiele für Passwortregel
 
 Universitäten und Hochschulen haben interne Leitlinien zum Umgang mit Forschungsdaten erstellt,
 wie beispielsweise die Leitlinie der Technischen Hochschule Köln (Sauther-Patrascu und Dmitrieva
@@ -123,7 +130,9 @@ Erstellen von sicheren Passwörtern sowie zur Verwaltung von Passwörtern zu erh
 
 
 ## Datenformate
+
 <!-- G-0097_BUW_ff_Icon_Dateiformate anpassen und neben den Abschnitt einsetzen -->
+
 Damit Daten langfristig nachnutzbar sind und einfacher geteilt werden können, sollte darauf geachtet
 werden, dass zum einen so wenig unterschiedliche Datenformate wie möglich verwendet werden, zum
 anderen die Daten in:
@@ -141,18 +150,17 @@ Formate möglichst verlustfrei konvertiert werden können.
 
 Unter den oben genannten Aspekten eignen sich folgende Formate:
 
-<!-- SB: sollte das eine Tabelle sein? jap-->
-Dateityp Empfohlenes Format^2
-Text pdf/a txt xml
-Tabelle xml csv (mit
-Einschränkungen)
-Foto tiff tif (jpg ist nicht verlusfrei)
-Grafik png, svg
-Audio wav flac (mit
+|  Dateityp | Empfohlenes Format[^2]  |
+|---|---|
+| Text  | .pdf/a .txt .xml |
+| Tabelle | .xml .csv (mit Einschränkungen)  |
+| Foto  | .tiff .tif (.jpg ist nicht verlusfrei) |
+| Grafik  | .png, .svg |
+| Audio | .wav .flac (mit
 Einschränkungen)
 (mp3 ist nicht
-verlustfrei)
-
+verlustfrei) |
+ 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kassetteb%C3%A5nd_Digitalisering.png"><img width="512" alt="Kassettebånd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kassetteb%C3%A5nd_Digitalisering.png/512px-Kassetteb%C3%A5nd_Digitalisering.png"></a>
 Quelle: Digitalbevaringdk Kassettebånd_Digitalisering
@@ -166,23 +174,27 @@ Dateiformate können folgendermaßen konvertiert werden:
 Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
 Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
 
-[^2]: Praxishandbuch Forschungsdatenmanagement (Putnings, Neuroth, und Neumann 2021).
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lyd_Digitalisering.png"><img width="512" alt="Lyd Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Lyd_Digitalisering.png/512px-Lyd_Digitalisering.png"></a>
 Quelle: Digitalbevaringdk Lyd_Digitalisering
+
+---
+[^2]: Praxishandbuch Forschungsdatenmanagement (Putnings, Neuroth, und Neumann 2021).
 
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
 
 <!-- 0025_THK_Fragezeichen -->
+
 - Was ist die Relevanz von Daten/Dateispeicherung und Backup im FDM?
 - Wissensübertragung: Welche Rolle spielt die Dateispeicherung im Studium? Worauf ist hier zu achten? Welche Probleme können entstehen?
 
 ### Aufgabe:
 
 <!-- 0034_THK_Aufgabe -->
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 

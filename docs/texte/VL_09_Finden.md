@@ -9,14 +9,16 @@ aside: true
 ---
 
 # Daten finden und nachnutzen
+
 <!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
 
 [[toc]]
 
 ## Lernziele
+
 <!-- G-0044_BUW_Icon_Findability und G-0020_BUW_Icon_Nachnutzung neben Absatz darutner ergänzen-->
 
-::: info
+::: info Lernziele
 In diesem Themenblock bekommen Sie eine Einführung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
 suchen können und insbesondere worauf Sie (auch zur Einhaltung der guten wissenschaftlichen
@@ -43,7 +45,9 @@ Mehr zum Thema „Finding your Own Data“, bzw. "Wie komme ich zu interessanten
 Fragestellungen?, erfahren Sie in diesem ‚Study Hall‘ Video (englisch, 11:22 Min.).
 
 ## Metasuchmaschinen und Datenportale
+
 <!-- 0035_THK_Suchmaschine neben den Absatz darunter ergänzen --> 
+
 In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. Eine
 Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
 vollständige und angemessene Antworten auf eine Frage zu geben (Arimetrics 2022). Offene
@@ -51,22 +55,33 @@ Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informatione
 öffentlichen Sektors (European Commission 2022).
 
 Beispiele für Metasuchmaschinen und Datenportale:
+
 <!-- 0001_THK_Beispiel einfügen -->
+
 - DataCite Commons → unterstützt die Suche in registrierten Datensätzen
+    
     o Tutorial, englisch (3:26 Min.)
 - BASE → Suchmaschine für wissenschaftliche Webdokumente
+    
     o Tutorial, deutsch (3:10 Min.)
-    o Unter „Suchergebnis eingrenzen“: „Dokumentart“ → „Forschungsdaten“; „Nachnutzung“
-       → „Open Access“
+    
+    o Unter „Suchergebnis eingrenzen“: „Dokumentart“ 
+    
+    → „Forschungsdaten“; „Nachnutzung“
+    
+    → „Open Access“
 - Google Dataset Search → durchsucht laut Google Millionen von Datensätzen in tausenden
     Repositorien
-       o Tutorial, englisch (3:28Min.)
+       
+    o Tutorial, englisch (3:28Min.)
 - govdata → bietet Zugang zu offenen Daten von Bundes-, Landes- und Kommunalverwaltungen in
     Deutschland
 - European Union Open Data Portal → macht offene Daten der EU zugänglich
 
 ## Repositorien
+
 <!-- G-G-0034_BUW_Icon_Repositorium ergänzen -->
+
 Neben Metasuchmaschinen und Datenportalen, sind sogenannte Repositorien im Forschungsprozess
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
 Datensätzen.
@@ -133,6 +148,7 @@ zertifiziert werden, wenn (Böker 2023a):
 
 ## Persistente Identifikatoren (PID)
 <-- 0021_THK_PID ergänzen --> 
+
 <!-- Quelle? -->
 ![](https://)
 Quelle: Digitalbevaringdk PID_vaelge_PID_choose
@@ -153,7 +169,9 @@ versehen werden. Ein PID stellt sicher, dass Daten adressierbar und identifizier
 während des Forschungsprozesses und zur Publikation von Forschungsdaten verwendet werden.
 
 ## Wichtige Aspekte, die bei der Nachnutzung von Daten
+
 <!-- G-0020_BUW_Icon_Nachnutzung --> 
+
 Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nachzunutzen, sind
 einige Aspekte zu beachten.
 
@@ -305,6 +323,7 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung.
 ## Leitfragen und Aufgaben
 
 ### Leitfragen (für die EA online)
+
 <!-- 0025_THK_Fragezeichen -->
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten / Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
@@ -319,12 +338,16 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung.
     (nicht)?
 
 ### Aufgabe:
+
 <!-- 0034_THK_Aufgabe -->
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
 ## Weiterführende Materialen und Quellen
+
 <!-- G-0044_BUW_Icon_Findability -->
+
 ### Literatur
 
 Forschungsdaten.info. (2023, 5. Mai). Datenjournale. Zugriff am 18.10.2023, von

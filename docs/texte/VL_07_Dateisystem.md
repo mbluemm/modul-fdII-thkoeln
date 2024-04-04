@@ -15,7 +15,7 @@ aside: true
 
 ## Lernziele
 
-::: info 
+::: info Lernziele
 In diesem Themenblock lernen Sie die Relevanz einer Ordnerstruktur, Dokumentation,
 Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und welche Aspekte
 dabei zu beachten sind.
@@ -29,10 +29,12 @@ dabei zu beachten sind.
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HvadErDigitalBevaring_DigitalBevaring.png"><img width="512" alt="HvadErDigitalBevaring DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/HvadErDigitalBevaring_DigitalBevaring.png/512px-HvadErDigitalBevaring_DigitalBevaring.png"></a>
 
 Quelle: Digitalbevaringdk HvadErDigitalBevaring DigitalBevaring
+
 <!-- mit Abbildung 0051_THK_Datenchaos ersetzen --> 
 
 Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
 gute Struktur und Benennung empfehlenswert. 
+
 <!--0006_THK_Organisieren einfügen -->
 
 Als Erinnerung aus VL1, beschreibt das DWDS Daten
@@ -75,7 +77,9 @@ Wissenschaften, [https://www.dwds.de/wb/Daten](https://www.dwds.de/wb/Daten) und
 Quelle: Digitalbevaringdk Database DigitalBevaring
 
 ## Gute Ordnerstruktur
+
 <!-- 0027_THK_Ordnerstruktur --> 
+
 Für eine übersichtliche Ordnerstruktur bei der Speicherung von Daten und Dateien sollten folgende
 
 Aspekte beachtet sein:
@@ -86,11 +90,15 @@ Aspekte beachtet sein:
 - Laufende und abgeschlossene Arbeiten sind getrennt voneinander, d.h. in unterschiedlichen
     Ordnern, abgelegt.
 - Die Ordnerstruktur ist:
+    
     o in einer Verzeichnisstruktur (auch Baumstruktur oder Verzeichnisbaum genannt),
        hierarchisch gegliedert und beinhaltet somit übergeordnete (allgemeinere) und eine
        überschaubare Anzahl an untergeordneten (konkretere) Elemente,
+    
     o auf lokalen und externen Speichermedien identisch,
+    
     o konsequent,
+    
     o und klar ersichtlich und für Dritte nachvollziehbar.
 
 - Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
@@ -130,11 +138,14 @@ Dateien können nach unterschiedlichen Konventionen benannt werden. Damit Dateie
     o wo Abkürzungen notwendig sind, sollte ein Abkürzungsverzeichnis in einer
        separaten Datei angelegt werden
 - möglichst einheitlich/konsistent gewählt werden
-- exemplarische Schreibkoventionen bei Dateibenennungen <!-- das eher als Infobox einfügen? --> 
-       o Großbuchstabe markiert den Anfang eines neuen Wortes: „projektErdnussbutter“
-       o Unterstrich markiert den Anfang eines neuen Wortes „Projekt_Erdnussbutter“
-       o Unterscheidung zwischen Groß- und Kleinbuchstaben (case-sensitiv)
-          „projekt_erdnussbutter“ vs. „_projekt_Erdnussbutter“
+
+::: tip Konventionen
+
+Exemplarische Konventionen bei Dateibenennungen
+
+- Großbuchstabe markiert den Anfang eines neuen Wortes: „projektErdnussbutter“
+- Unterstrich markiert den Anfang eines neuen Wortes „Projekt_Erdnussbutter“
+- Unterscheidung zwischen Groß- und Kleinbuchstaben (case-sensitiv) „projekt_erdnussbutter“ vs. „_projekt_Erdnussbutter“
 
 [^2]: Das Format MM/TT/JJ ist für US-Amerikaner eindeutig. In Europa wird hauptsächlich das Format TT/MM/JJ verwendet. Japan
 verwendet JJ/MM/TT. Als Separatoren können Slashs, Striche oder Punkte verwendet werden. In einigen Ländern werden
@@ -151,7 +162,7 @@ kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vg
     2023 - 05 - 17_Projekt_Erdnussbutter_v01 wird nach einer (umfangreichen) Änderung zu
     2023 - 05 - 17_Projekt_Erdnussbutter_v02
 
-* Hinweis: Das Erstellungs- und das Änderungsdatum können beim Kopieren auf externe Backupdatenträger überschrieben
+::: warning Hinweis: Das Erstellungs- und das Änderungsdatum können beim Kopieren auf externe Backupdatenträger überschrieben
 werden.
 
 ::: tip
@@ -226,8 +237,9 @@ Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ScaryTale
-===
+
  <!-- 0038_THK_Buch -->
+
 Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html](https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html)
 
 ## Weiterführende Materialen und Quellen
@@ -235,6 +247,7 @@ Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen
 ### Literatur
 
 <!-- G-0044_BUW_Icon_Findability -->
+
 Böker, E. (2023, 24. Juli). Formate erhalten. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
 

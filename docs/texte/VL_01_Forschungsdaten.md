@@ -17,7 +17,7 @@ layout: doc
 
 ## Lernziele
 
-::: tip Lernziele
+::: info Lernziele
 In diesem Themenblock geht es darum, den Begriff „Forschungsdaten“ zu definieren und zu klären, welche Rolle FD im Forschungsprozess spielen.
 :::
 
@@ -67,14 +67,16 @@ hinausgehen.
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tekst_Digitalisering.png"><img width="512" alt="Tekst Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tekst_Digitalisering.png/512px-Tekst_Digitalisering.png"></a>
 Quelle: Digitalbevaringdk Tekst_Digitalisering
 
-In diesem Kurs wird öfter auf „Daten“ und „Dateien“ eingegangen. Im Nachfolgenden finden Sie Definitionen, die für den fortlaufenden Kurs von Relevanz sind:
+In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert:
 
-- Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“
-
+::: tip Daten
+Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“
+:::
 <!-- 0032_THK_Datensatz -->
 
-- eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“. 
-
+::: tip Dateien
+Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“. 
+:::
 <!-- 0028_THK_OrdnerPC -->
 
 in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
@@ -92,19 +94,21 @@ in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-B
 
 Es gibt Primärdaten und Sekundärdaten[^1]
 
-::: info
+::: tip Primärdaten
 Primärdaten <!-- G-0094_BUW_a_Icon_Primaerdaten -->
-:::
 
 - sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden.
 - Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
-
-::: info
-Sekundärdaten <!-- G-0094_BUW_b_Icon_Sekundaerdaten -->
 :::
+
+::: tip Sekundärdaten
+Sekundärdaten <!-- G-0094_BUW_b_Icon_Sekundaerdaten -->
 
 - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
+:::
+
+
 
 ---
 [^1]: Sauther-Patrascu und Dmitrieva (2021)
@@ -116,31 +120,33 @@ gezielte Herangehensweise, um diese Daten bestmöglich zu organisieren, zu siche
 sowie zukünftige wissenschaftliche Erkenntnisse zu nutzen. Dieses Thema wird in der zweiten
 Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
-<!-- Bei Datenbank noch 0001_THK_Beispiel einfügen sowie Layout bei Leitfragen, Lektüre, Beispiel etc. anpassen und entsprechende Icons, die wir gestern festgelegt haben, ergänzen. Aufgabe: 0034_THK_Aufgabe ; Leitfragen: 0025_THK_Fragezeichen ; Lektüre: 0038_THK_Buch ; Quellen- und Weiterführende Materialien: nochmal besprechen -->
+<!-- Bei Datenbank noch 0001_THK_Beispiel einfügen. Aufgabe: 0034_THK_Aufgabe ; Leitfragen: 0025_THK_Fragezeichen ; Lektüre: 0038_THK_Buch ; Quellen- und Weiterführende Materialien: nochmal besprechen -->
 
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
+
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
 
 ### Lektüre
- Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von https://www.forschungsdaten.org/index.php/Forschungsdaten.
+
+ Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von [https://www.forschungsdaten.org/index.php/Forschungsdaten](https://www.forschungsdaten.org/index.php/Forschungsdaten).
 
 ## Weiterführende Materialen und Quellen
 
-> Global Terrorism Database (GTD)
+Global Terrorism Database (GTD)
 
-Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National Consortium for the Study of Terrorism and Responses to Terrorism (START) [^2] kostenlos zur Verfügung gestellt [^3]. Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970 und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Ziele und eingesetzte Waffen _–_ systematisch klassifiziert.
+Die vom GTD Advisory Board initiierte Global Terrorism Database (GTD) wird vom National Consortium for the Study of Terrorism and Responses to Terrorism (START)[^2] kostenlos zur Verfügung gestellt[^3]. Die Datenbank enthält über 200.000 Datensätze zu Anschlägen, die weltweit zwischen 1970 und 2020 in Zeitungsartikeln und anderen Informationsquellen dokumentiert und nach einer kritischen Überprüfung der Quellen als nachweisbare terroristische Handlungen eingestuft wurden. Jeder aufgenommene Datensatz wird durch mindestens 45 Kriterien _–_ wie beispielsweise Datum, Ort, Ziele und eingesetzte Waffen _–_ systematisch klassifiziert.
 
-Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993 [^4] verübt wurden. Nach einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
+Ausgenommen hiervon sind alle mutmaßlichen Anschläge, die im Jahr 1993[^4] verübt wurden. Nach einem Datenverlust konnten nur 15% des geschätzten Datenbestandes aus dem Jahr 1993
 rekonstruiert werden. Um zu verhindern, dass dieser unvollständige Datensatz zu Verzerrungen bei der Analyse und Interpretation der Ergebnisse führt, ist der entsprechende Datensatz nicht mehr in der Datenbank gespeichert, sondern wird in einem separaten Datenblatt zur Verfügung gestellt.
 
 Eine Visualisierung der zwischen 1970 und 2016 in unterschiedlichen Regionen verübten terroristischen Attentate veranschaulicht, welche Folgen der Verlust von Forschungsdaten langfristig haben kann.
 
 ![Abbildung 1:](/medien/abbildungen/GTD_Attentate_Region.svg)
 Abbildung 1: Übersicht über die zwischen 1970 und 2016 in den unterschiedlichen Regionen verübten terroristischen Attentate.
-Sina Bock [^5]
+Sina Bock[^5]
 
 Auf der GTD-Webseite werden weitere Visualisierungen angeboten, die sich als Grundlage für eine kritische Auseinandersetzung mit der Erhebung, Analyse, Interpretation und Visualisierung von Forschungsdaten eignen. Die 2020 GTD Heat Map[^6] zeigt beispielsweise die geographische Verteilung von weltweit verübten Anschlägen im Jahr 2020. Die Intensität der Attentate in diesem Jahr, wird mit Hilfe einer Farbskala visualisiert. Die Einfärbung repräsentiert die Anzahl der Menschen, die bei dem jeweiligen Attentat verletzt oder getötet wurden.
 
@@ -152,7 +158,6 @@ Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissensc
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement. Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
 
-
 ### Quellen
 
 Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
@@ -162,7 +167,6 @@ START (National Consortium for the Study of Terrorism and Responses to Terrorism
 START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html](https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html).
 
 ---
-
 [^2]: START (2022).
 [^3]: ebd .
 [^4]: START (2021), S. 4.

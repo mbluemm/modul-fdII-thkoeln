@@ -9,18 +9,20 @@ aside: true
 ---
 
 # Rechtliche Aspekte
+
 <!-- 0016_THK_gesetzliche_Vorschriften einfügen -->
+
 [[toc]]
 
 ## Lernziele
 
-::: warning
+::: warning Hinweis:
 Die angegebene Information dient lediglich als Orientierung für Studierende und Forschende. Sie
 ersetzt keine fachkundige Beratung zu rechtlichen Aspekten im Umgang mit Daten. Somit sind alle
 Informationen ohne Gewähr auf Richtigkeit und Vollständigkeit
 :::
 
-::: info 
+::: info Lernziele
 In diesem Themenblock bekommen Sie eine Einleitung zu den wichtigsten rechtlichen Aspekten, die
 Sie im FDM beachten müssen. Hier lernen Sie über Datenschutz, mitunter Anonymisierung und Pseudonymisierung, das Urheberrecht, die Nachnutzung von Daten und Lizenzierungen vorgestellt.
 :::
@@ -28,7 +30,9 @@ Sie im FDM beachten müssen. Hier lernen Sie über Datenschutz, mitunter Anonymi
 <!-- Abbildung 0054_THK_Recht und Video von Medienagentur einfügen -->
 
 ## Leitlinien für das wissenschaftliche Arbeiten
+
 <!-- 0007_THK_Leitlinien neben unteren Absatz einfügen -->
+
 Unter Anderem sind Hinweise zur Befolgung von rechtlichen und ethischen Aspekten in den „Leitlinien
 zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft (DFG 2022)
 festgehalten. An diese angelehnt, gibt es institutsinterne Richtlinien zu guter wissenschaftlicher Praxis
@@ -47,7 +51,9 @@ Portal der Deutschen Forschungsgemeinschaft. [https://wissenschaftliche-integrit
 Quelle: Digitalbevaringdk OmSitet_DigitalBevaring
 
 ## Rechtliche Aspekte
+
 <!-- G-0042_BUW_Icon_Gesetztestext neben unteren Absatz einfügen --> 
+
 Für den Forschungsprozess und das FDM sind folgende Rechtsgebiete relevant:
 
 - Datenschutz (Europäische Datenschutz-Grundverordnung, DSGVO;
@@ -98,8 +104,8 @@ Mit einigen Ausnahmen:
 Forschungsdaten sind unter standardisierten Lizenzen (z. B. Creative-Commons-Lizenzen) zu
 veröffentlichen —> dies verringert rechtliche Risiken.
 <!-- Abbildung 0061_THK_Personenbezogene_Daten einfügen -->
-::: tip
-Anonymisierung / Pseudonymisierung
+
+::: tip Anonymisierung / Pseudonymisierung
 Durch die Anonymisierung bzw. Pseudonymisierung von personenbezogenen Forschungsdaten
 kann der Personenbezug der Daten eliminiert oder zumindest von den anderen Daten separiert
 werden.
@@ -165,13 +171,14 @@ Arbeit/Daten) und garantiert das Eigentumsrecht an dem besagten Werk sowie das a
 Entscheidungsrecht über Verwertung und Nutzung durch Dritte. Dieser Schutz beginnt automatisch
 mit der Entstehung des Werkes (§ 11 UrhG).
 <!-- Abbildung 0055_THK_Urheberrecht einfügen -->
-::: info
-Hinweis: Die Prüfung erfolgt im Einzelfall.
+::: danger Hinweis:
+Die Prüfung erfolgt im Einzelfall.
 :::
 
 Jede natürliche Person, die ein Werk durch eigene Leistung geschaffen hat ist ein:e Urheber:in.
 
 ## Was ist ein Werk?
+
 <!--  0038_THK_Buch neben unteren Absatz einfügen -->
 „Eine persönliche geistige Schöpfung, die einen gewissen Grad an Eigentümlichkeit, Originalität oder
 auch Individualität aufweist und die man sinnlich wahrnehmen kann.“ Beispiele von geschützten
@@ -200,7 +207,6 @@ Daten, besteht bei den Erhebungen grundsätzlich kein urheberrechtlicher Schutz
 
 (Krähwinkel, Langner, Lipp, et al., 2022, Abschnitt 9.4.2)
 
-
 Bei Forschungsdaten, die nicht urheberrechtlich geschützt sind, fehlt es an rechtlichen Bestimmungen.
 Hinweis: Die Prüfung erfolgt im Einzelfall.
 
@@ -220,15 +226,17 @@ Fischer, 2023) :
 
 - Einzelne Forschungsdaten sind erst geschützt, wenn Daten in einem Sammelwerk oder einem
     Datenbankwerk zusammengefasst werden.
-Hinweis: Geschützt sind dabei nicht die einzelnen Datenelemente, sondern deren
+
+::: warning Hinweis:
+Geschützt sind dabei nicht die einzelnen Datenelemente, sondern deren
 Zusammenstellung bzw. strukturelle Anordnung im Gesamtwerk.
-<!-- Hinweis anders einbinden --> 
+:::
+
 ### Wann endet der Urheberrechtsschutz?
 
 70 Jahre nach dem Tod des Urhebers (§ 64 UrhG). Damit wird es zu einem gemeinfreien Werk und
 kann somit frei verwendet werden.
 
-<!--SB: Richtige Datei? yes -->
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bit_Storage_-_Digital_Preservation.png"><img width="256" alt="Bit Storage - Digital Preservation" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Bit_Storage_-_Digital_Preservation.png"></a>
 Quelle: Digitalbevaringdk Bit_Storage_DigitalBevaring
@@ -245,7 +253,7 @@ Urheberpersönlichkeitsrecht nicht berührt. Der/die Urheber:in muss bei jeder V
 angegeben werden.
 :::
 
-::: warning
+::: warning Hinweis:
 Falls keine Lizenz existiert, dürfen urheberrechtlich geschützte Daten nur mit ausdrücklicher
 Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
 :::
@@ -253,7 +261,9 @@ Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
 ## Leitfragen und Aufgaben:
 
 ### Leitfragen
+
 <!-- 0025_THK_Fragezeichen -->
+
 1. Auf welche rechtlichen Aspekte sollte bei der Datenerhebung geachtet werden?
 
 2. In welchen Phasen des Datenlebenszyklus können rechtliche Belange relevant sein? Welche Rechtsgebiete sind dabei betroffen?
@@ -261,17 +271,17 @@ Zustimmung der Urheber:innen nachgenutzt werden.(Kreutzer u. Fischer, 2023)
 3. Wem gehören die in einem Forschungsvorhaben erhobenen Forschungsdaten?
 
 ### Aufgabe: 
+
  <!-- 0034_THK_Aufgabe -->
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ScaryTale
-===
 
 - Nummer 54: Gesprächiger Konfettiregen [https://forschungsdaten-thueringen.de/geschichten/articles/20211028-gespr%C3%A4chiger-konfettiregen.html](https://forschungsdaten-thueringen.de/geschichten/articles/20211028-gespr%C3%A4chiger-konfettiregen.html)
 
 Reales Beispiel
-===
 
 - Wie Trump Regierungsdokumente mit höchster Geheimhaltungsstufe nach seiner Amtszeit
     außerhalb des Weißen Hauses in seinem Badezimmer aufbewahrte.
@@ -280,8 +290,11 @@ Reales Beispiel
 ## Weiterführende Materialen und Quellen
 
 <!-- G-0044_BUW_Icon_Findability -->
+
 ### Literatur
+
 <!-- hier noch 17_Checkliste_Einwilligung_V4 von sciebo-Ordner einfügen --> 
+
 Böker, E., Brettschneider, Peter. (2020, 23. April). Forschungsdaten - Rechte und gute
 wissenschaftliche Praxis. Zenodo. [https://doi.org/10.5281/zenodo.3763040](https://doi.org/10.5281/zenodo.3763040).
 

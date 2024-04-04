@@ -16,14 +16,14 @@ aside: true
 
 ## Lernziele 
 
-::: info
+::: info Lernziele
 In diesem Themenblock lernen Sie, was Metadaten sind, was deren Nutzen ist und was es für
 fächerübergreifende und fachspezifische Metadaten gibt. Außerdem werden Ihnen die gängigsten
 Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 :::
 
 <!-- hier noch Video von Medienagentur und irgendwo im Skript eventuell noch Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download)) ergänzen --> 
-<!-- style="width: 25%;" -->
+
 
 ## Was sind Metadaten und warum sind diese wichtig?
 
@@ -96,7 +96,7 @@ von Daten.
 ## Arten von Metadaten
 <!-- Abbildung 0045_THK_Rechercheergebnisse ergänzen -->
 
- ### Fächerübergreifende Metadaten:
+ ### Fächerübergreifende Metadaten:[^1]
 
 **Bibliografische Metadaten** dienen der Zitation von Daten und somit der Auffindbarkeit. 
 Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.  
@@ -112,6 +112,8 @@ Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.
 
 **Administrative Metadaten** sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
 <!-- das folgende in Textfeld SB: ?Textfeld? -->
+
+::: tip administrativ 
 - Dateityp
 - Dateiformat
 - Standort
@@ -121,47 +123,66 @@ Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.
     o Autor: Dr. Anna Müller
     o Erstellungsdatum: 15. Juni 2023
     o Rechte: Urheberrecht bei Dr. Anna Müller, Datenzugriff nur für autorisierte Forscher.
+:::
 
 ### Fachspezifische Metadaten:
 
-**Prozessmetadaten / Kontextuelle Metadaten** umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, 
+**Prozessmetadaten / Kontextuelle Metadaten** 
+
+umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, 
 inklusive der verwendeten Methoden und Hilfsmitteln.
-<!-- das folgende in Textfeld -->
+
+::: tip kontextuell
 - Projekt
 - Methodik
 - Arbeitsschritte
-    o Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern
-  (Projektcode:RAINBIO)
+    
+    o Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern (Projektcode:RAINBIO)
+    
     o Methodik: Systematische Stichprobenentnahme und Artenidentifikation
+    
     o Arbeitsschritte: Erhebung von Daten während der Regenzeit, in verschiedenen
 
 - Höhenlagen.
+:::
 
 **Strukturelle Metadaten**: stellen Informationen zur Datenstruktur dar.
-<!-- das folgende in Textfeld -->
+
+::: tip strukturell
 - Dateiformat
 - Felder
 - Relationen
-    o Dateiformat: CSV (Comma-Separated Values)
-    o Felder: „Artname“, „Lebensraum“, „Anzahl der beobachteten Individuen“
-    o Relationen: Verknüpfung von Artbeobachtungen mit geografischen Koordinaten.
 
+    o Dateiformat: CSV (Comma-Separated Values)
+
+    o Felder: „Artname“, „Lebensraum“, „Anzahl der beobachteten Individuen“
+    
+    o Relationen: Verknüpfung von Artbeobachtungen mit geografischen Koordinaten.
+:::
 
 **Technische Metadaten** umfassen Informationen zur technischen Infrastruktur. Die technischen
 Metadaten werden in vielen Fällen automatisch generiert.
-<!-- das folgende in Textfeld -->
+
+::: tip technisch
 - Dateigröße
 - Dateiformat
 - (Auflösung)
 - Hardware/Software
+    
     o Dateigröße: 2.5 MB
+    
     o Dateiformat: JPG (Bilddatei)
+    
     o Auflösung: 1920x1080 Pixel
+    
     o Aufnahmegerät: Canon EOS 5D Mark IV
+:::
+
 
 „**Inhaltsbeschreibende bzw. deskriptive Metadaten** variieren je nach Fachdisziplin und Methode. Sie bieten weitere Informationen zum Inhalt und der Datenerhebung.“ 
 
-(<!-- Aufzählungen und Beispiele aus: ? --> Böker, 2023a)
+---
+[^1]: Aufzählungen und Beispiele nach: Böker, 2023a
 
 ## Metadatenstandards
 
@@ -173,7 +194,7 @@ strukturell gleichförmig beschrieben. Außerdem dienen sie dazu, dass Forscherg
 Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen verschiedener Disziplinen aufgelistet: 
 
 | Wissenschaftsdisziplin| Name des/der Standards | 
-| -------- | :------: |
+| -------- | ------ |
 | fachübergreifende Standards | DataCite Schema, Dublin Core, MARC21,RADAR |
 | Geisteswissenschaften | EAD, TEI P5, TEI Lex |
 | Geowissenschaften | AgMES, CSDGM, ISO 19115 |

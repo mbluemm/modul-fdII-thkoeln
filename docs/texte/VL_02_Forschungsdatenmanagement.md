@@ -14,13 +14,14 @@ aside: true
 
 ## Lernziele
 
-::: info 
+::: info Lernziele
 In diesem Themenblock wird der Begriff Forschungsdatenmanagement (FDM) und dessen Rolle in
 Forschungsprozessen erläutert. Ebenso wird thematisiert, wo FDM in der Forschungspraxis verortet
 wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenhängt.
 :::
 
 ## Was ist Forschungsdatenmanagement
+
 <!-- Abbildung 0053_THK_Tools ergänzen  -->
 
 Das Forschungsdatenmanagement, oft als FDM abgekürzt, umfasst sämtliche Stadien des
@@ -91,7 +92,7 @@ Fördermittel und Sichtbarkeit: Viele Förderinstitutionen und Verlage fordern m
 Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln
 erleichtern und die Sichtbarkeit der Forschung erhöhen. <!-- 0007_THK_Leitlinien neben den Absatz -->
 
-## FDM in Open Science
+## FDM in Open Science [^1]
 
 Open Science und FDM sind zwei Konzepte, die Hand in Hand gehen, um die Forschungslandschaft
 grundlegend zu verändern und zu verbessern. Beide Ansätze teilen das Ziel, Wissenschaft offener,
@@ -125,13 +126,16 @@ wissenschaftlichen Diskussionen. <!-- G-0019_BUW_Icon_Zugang neben den Absatz --
 
 <!-- G-0133_BUW_Icon_Symbol-Qualität ; G-0132_BUW_Icon_Kosteneffizienz ; 0008_THK_GWP ; 0009_THK_Veroeffentlichen -->
 
-(Fühles-Ubach und Heidkamp 2022) <!-- wie einbinden? --> 
-
 FDM hingegen konzentriert sich auf den Datenlebenszyklus, von der Erhebung über die Verarbeitung
 bis zur langfristigen Speicherung und Nutzung. Es legt den Grundstein für die systematische
 Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM stellt sicher, dass
 
-Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben. <!-- 0010_THK_DMP_Dokumentation ; 0022_THK_fröhliche_Person -->
+Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben. 
+
+<!-- 0010_THK_DMP_Dokumentation ; 0022_THK_fröhliche_Person -->
+
+---
+[^1]: Fühles-Ubach und Heidkamp (2022)
 
 ## Was ist Gute wissenschaftliche Praxis?
 
@@ -141,12 +145,6 @@ Entstehungskontextes und der benutzten Werkzeuge und Verfahren nach fachspezifis
 Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Quellen,
 Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im Kapitel
 “Dokumentation von Daten”), (Sauther-Patrascu und Dmitrieva 2021).
-
-<!-- SB: Größe von Bidlern? -->
-![Forside_DigitalBevaring](https://upload.wikimedia.org/wikipedia/commons/6/61/Forside_DigitalBevaring.png)
-Quelle: Digitalbevaringdk Forside_DigitalBevaring 
-
-<br>
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Forside_DigitalBevaring.png"><img width="256" alt="Forside DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forside_DigitalBevaring.png/512px-Forside_DigitalBevaring.png"></a>
@@ -162,7 +160,6 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 <!-- 0007_THK_Leitlinien --> 
 
-
 ## Leitfragen und Aufgaben 
 
 ### Leitfragen 
@@ -177,6 +174,7 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
+
 <!-- 0034_THK_Aufgabe --> 
 
 ### Lektüre
@@ -189,6 +187,7 @@ zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo.
 <!-- 0038_THK_Buch --> 
 
 ## Weiterführende Materialen und Quellen
+
 <!-- G-0044_BUW_Icon_Findability --> 
 
 ### Literatur
@@ -221,5 +220,3 @@ Original. DaLI – Data Literacy Initiative. [https://ki-campus.org/courses/dali
 
 Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten.
 Abgerufen am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
-
-[https://upload.wikimedia.org/wikipedia/commons/6/61/Forside_DigitalBevaring.png]: https://upload.wikimedia.org/wikipedia/commons/6/61/Forside_DigitalBevaring.png
