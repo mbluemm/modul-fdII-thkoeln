@@ -2,7 +2,7 @@
   "name": "fd2_thkoeln",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "Testseite für den Basiskurs",
+  "description": "Basiskurs FDM",
   "repository": "https://github.com/mbluemm/modul-fdII-thkoeln.git",
   "author": "SinaNLRBock <sina.bock@th-koeln.de>",
   "license": "MIT",

@@ -73,7 +73,6 @@ aside: true
 Begrüßung
 
 (ca. 20 Min.) Diskussion
-===
 
 Alternative 1:
 
@@ -90,7 +89,6 @@ Vorstellung und Lösung von zwei Scary Tales im Plenum
 #### Arbeitsphase 
 
 Praktische Übung (Szenarien)
-===
 
 (ca. 30 Min.) L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag.
 
@@ -109,18 +107,16 @@ L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
 L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
 
 
-##  Materialien zur praktischen Übung (Szenarien)  
-<!-- eher Materialien für die Präsenzphase, oder? --> 
+##  Materialien für die Präsenzphase (Szenarien)  
 
-Scary Tales
-===
+### Scary Tales
 
 31 - Unbeschriebenes Blatt ([https://forschungsdaten-thueringen.de/geschichten/articles/unbeschriebenes-blatt-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/unbeschriebenes-blatt-de.html))
 
 36 - Lost in Translation ([https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html))
 
-Materialien zur praktischen Übung
-===
+### Materialien zur praktischen Übung
+
 ## Szenarien und Hilfsmittel 
 <!--Szenarien und Hilfsmittel aus Beispielsammlung einfügen --> 
 

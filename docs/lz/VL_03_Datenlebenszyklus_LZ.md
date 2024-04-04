@@ -87,7 +87,6 @@ Die S. besprechen, welche Stationen (Phasen) des DLZ ihnen im Studium begegnet s
 ### Arbeitsphase
 
 (ca. 45 min.) Methode: Gruppenarbeit
-===
 
 L. teilt die S. in Gruppen ein und erläutert den Arbeitsauftrag: Die Gruppen bekommen ein Beispielprojekt und sollen dieses anhand von gezielten Fragen in Arbeitsschritte einteilen und mit allen wichtigen Aspekten (z. B. korrektes Zitieren, Dokumentation etc.) zum DLZ und FDM verbinden.
 
@@ -107,7 +106,6 @@ S. sollen für das Beispielprojekt folgendes beantworten:
 Anschließende Diskussion im Plenum. Unter Moderation von L. werden die einzelnen Aspekte bzw. Ergebnisse diskutiert.
 
 (ca. 20 min.) Reflexion im Plenum
-===
 
 Reflexion des Themas in Bezug auf das Studium: Die S. sollen überlegen und begründen, welche Rolle der Datenlebenszyklus in ihrem Studium (z.B. für Projekt- oder Abschlussarbeiten) spielt.
 

@@ -74,7 +74,6 @@ Begrüßung
 (ca. 5 min.) Methode: Wissenspool (Mindmap)\*
 
 Aufgabe:
-===
 
 Benennen Sie die Vor- und Nachteile von FAIR-Prinzipien
 
@@ -89,7 +88,6 @@ Weiterführende Fragen, z. B.
 (ca. 5 min.) Methode: Think – Pair – Share
 
 Aufgabe:
-===
 
 Wie lassen sich die FAIR-Prinzipien auf Ihr Studium übertragen?
 
