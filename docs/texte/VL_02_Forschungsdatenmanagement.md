@@ -184,9 +184,9 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ### Lektüre
 
 Lesen Sie die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen
-Forschungsgemeinschaft aufmerksam durch. Deutsche Forschungsgemeinschaft. (2019). Leitlinien
-zur Sicherung guter wissenschaftlicher Praxis. Kodex. Zenodo.
-[http://doi.org/10.5281/zenodo.3923602.](http://doi.org/10.5281/zenodo.3923602.).
+Forschungsgemeinschaft aufmerksam durch. 
+[Deutsche Forschungsgemeinschaft (2019). Leitlinien
+zur Sicherung guter wissenschaftlicher Praxis](http://doi.org/10.5281/zenodo.3923602)
 
 <!-- 0038_THK_Buch --> 
 
@@ -208,7 +208,7 @@ Böker, E. (2023, 5. Mai). Was ist Forschungsdatenmanagement. Forschungsdaten.in
 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/).
 
 Deutsche Forschungsgemeinschaft. (2019). Leitlinien zur Sicherung guter wissenschaftlicher Praxis.
-Kodex. Zenodo. [http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/zenodo.3923602).
+Kodex. Zenodo. <!--[http://doi.org/10.5281/zenodo.3923602](http://doi.org/10.5281/zenodo.3923602).-->
 
 Putnings, M., Neuroth, H. & Neumann, J. (2021). Praxishandbuch Forschungsdatenmanagement.
 Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807](https://doi.org/10.1515/9783110657807).
