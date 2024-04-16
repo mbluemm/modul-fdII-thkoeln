@@ -12,7 +12,7 @@ aside: true
 
 :::info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_10_Recht_LZ. 
-Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_10_Recht_LZ.html
+Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/lz/VL_10_Recht_LZ.html
 :::
 
 [[toc]]

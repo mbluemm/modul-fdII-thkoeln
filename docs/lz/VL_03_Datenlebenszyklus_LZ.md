@@ -11,7 +11,7 @@ aside: true
 # Datenlebenszyklus
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_03_Datenlebenszyklus_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_03_Datenlebenszyklus_LZ.html
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_03_Datenlebenszyklus_LZ. Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/lz/VL_03_Datenlebenszyklus_LZ.html
 :::
 
 [[toc]]
