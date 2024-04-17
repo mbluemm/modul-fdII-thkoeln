@@ -31,8 +31,7 @@ Forschungsdaten sind (digitale) Daten, die im Rahmen wissenschaftlicher Untersuc
 Erkenntnissen, der Prüfung von Hypothesen und der Stützung von wissenschaftlichen Argumentationen.
 
 > Dokumente in digitaler Form, bei denen es sich nicht um wissenschaftliche Veröffentlichungen handelt und die im Laufe von wissenschaftlichen Forschungstätigkeiten erfasst oder erzeugt und als Nachweise im Rahmen des Forschungsprozesses verwendet werden oder die in der Forschungsgemeinschaft allgemein für die Validierung von Forschungsfeststellungen und -ergebnissen als notwendig erachtet werden.
-> 
--- Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9 
+> -- Richtlinie (EU) 2019/1024 Des Europäischen Parlaments und des Rates, vom 20. Juni 2019 über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, Art. 2, Abs. 9
 
 Forschungsdaten liegen in allen wissenschaftlichen Disziplinen vor, die mit Daten arbeiten, wie den
 Naturwissenschaften und den Sozial- und Wirtschaftswissenschaften, bis hin zu spezifischen
@@ -55,18 +54,16 @@ Audiodateien, Videoclips und interaktive Visualisierungen. Diese Vielfalt an For
 zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensammlungen
 hinausgehen.
 
-<!-- G-0055_BUW_Icon_Datentyp_Text ; G-0053_BUW_Icon_Datentyp_Bild ; 0002_THK_Datentyp: Audiodateien; G-0054_BUW_Icon_Datentyp_AV -->
-
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tekst_Digitalisering.png"><img width="512" alt="Tekst Digitalisering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tekst_Digitalisering.png/512px-Tekst_Digitalisering.png"></a>
-Quelle: Digitalbevaringdk Tekst_Digitalisering
+<!-- G-0055_BUW_Icon_Datentyp_Text ; G-0053_BUW_Icon_Datentyp_Bild ; G-0054_BUW_Icon_Datentyp_AV -->
+<img width="30%" alt="Audiosymbol" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
 
 In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert:
 
 ::: tip Daten
 Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“
 :::
-<!-- 0032_THK_Datensatz -->
+
+<img width="30%" alt="Audiosymbol" src="/medien/icons/0032_THK_Datensatz.svg?autoSizes=true">
 
 ::: tip Dateien
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“. 
@@ -102,8 +99,6 @@ Es gibt Primärdaten und Sekundärdaten[^1]
 - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
 :::
 
-
-
 ---
 [^1]: Sauther-Patrascu und Dmitrieva (2021)
 
@@ -114,7 +109,9 @@ gezielte Herangehensweise, um diese Daten bestmöglich zu organisieren, zu siche
 sowie zukünftige wissenschaftliche Erkenntnisse zu nutzen. Dieses Thema wird in der zweiten
 Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
-<!-- Bei Datenbank noch 0001_THK_Beispiel einfügen. Aufgabe: 0034_THK_Aufgabe ; Leitfragen: 0025_THK_Fragezeichen ; Lektüre: 0038_THK_Buch ; Quellen- und Weiterführende Materialien: nochmal besprechen -->
+<!-- Bei Datenbank noch 0001_THK_Beispiel einfügen. Aufgabe: 0034_THK_Aufgabe ; Leitfragen: 0025_THK_Fragezeichen ; Lektüre: 0038_THK_Buch ; Quellen- und Weiterführende Materialien: nochmal besprechen
+SB: Gibt kein THK_Buch-Icon?
+ -->
 
 ## Leitfragen und Aufgaben
 
@@ -122,6 +119,10 @@ Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
+
+### Aufgabe
+
+<img width="30%" alt="Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 ### Lektüre
 
@@ -166,3 +167,6 @@ START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.sta
 [^5]: START (2022).
 [^6]: START (2020).
 
+
+
+[def]: /medien/icons/0002_THK_Datentyp-Audiodateien.svg
