@@ -176,6 +176,9 @@ Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 
 ### Aufgaben
 
+Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
+Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
+
 <!-- Aufgabe : Drag&Drop zu: Ordne die Stationen dem Datenlebenszyklus zu --> 
 
 ### Lektüre

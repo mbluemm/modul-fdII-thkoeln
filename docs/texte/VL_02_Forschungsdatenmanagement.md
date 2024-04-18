@@ -176,6 +176,8 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 ### Aufgabe
 
+<img width="30%" alt="Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
