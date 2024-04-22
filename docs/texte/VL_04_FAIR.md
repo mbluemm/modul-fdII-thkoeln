@@ -38,7 +38,7 @@ Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachn
 sind.
 Quelle: Forschungsdaten.info, 2023
 
-<img width="20%" alt="Aufgabe" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
+<img align="left" width="15%" alt="Aufgabe" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
 An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet werden (Sauther-Patrascu und Dmitrieva, 2021).
 
@@ -49,39 +49,41 @@ An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. E
 
 Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 
- <img width="20%" alt="Aufgabe" src="../medien/icons/0021_THK_PID.svg?autoSizes=true"> Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier). 
+ - <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/0021_THK_PID.svg?autoSizes=true"> Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier). 
 
-<img width="20%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> Umfangreiche Metadaten: Daten werden umfassend mit Metadaten beschrieben. Diese Metadaten enthalten klar und explizit die Kennung der beschriebenen Daten.
+- <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> Umfangreiche Metadaten: Daten werden umfassend mit Metadaten beschrieben. Diese Metadaten enthalten klar und explizit die Kennung der beschriebenen Daten.
 
-- Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um
-    ihre Organisation und Auffindbarkeit zu verbessern.
-  <!-- G-0038_BUW_Icon_Diskette neben Absatz ergänzen -->
+<!-- SB: neben Absatz ergänzen <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"> -->
+- <img align="left" width="8%" src="https://img.icons8.com/cute-clipart/64/save-all.png" alt="save-all"/> Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um ihre Organisation und Auffindbarkeit zu verbessern.
+
 
 ### Accessible (Zugänglich):
 
-<!-- G-0019_BUW_Icon_Zugang -->
+<!-- SB: <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true"> -->
 
 Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erfordert:
 
-<img width="20%" alt="Aufgabe" src="../medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true">klare Zugangsregeln und offene Lizenzen, die die Wiederverwendung ermöglichen. Forschungsdaten können in Forschungsdaten-Journalen oder Forschungsdatenzentren veröffentlicht werden.
+- <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/0019_THK_Zugriffsrechte.svg?autoSizes=true"> klare Zugangsregeln und offene Lizenzen, die die Wiederverwendung ermöglichen. Forschungsdaten können in Forschungsdaten-Journalen oder Forschungsdatenzentren veröffentlicht werden.
 
-<img width="20%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> persistente Metadaten, auch wenn die Daten später zurückgenommen werden müssen.
+- <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> persistente Metadaten, auch wenn die Daten später zurückgenommen werden müssen.
 
+<br>
+<img align="left" width="10%" alt="Aufgabe" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
 Es ist jedoch zu beachten, dass nicht alle Forschungsdaten für eine freie Veröffentlichung geeignet
 sind, insbesondere wenn es sich um sensible, personenbezogene Daten handelt oder wenn Rechte
 Dritter involviert sind. FAIR bedeutet nicht automatisch Open Access, da es auch Fälle gibt, in denen
 Daten aufgrund von Einschränkungen nicht frei zugänglich gemacht werden können. In solchen Fällen
 können Hinweise in den Metadaten angegeben werden, um Interessierte an den entsprechenden
 Ansprechpartner zu verweisen.
-<img width="20%" alt="Aufgabe" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
 
-<!-- G-0153_BUW_Icon_personenbezogene_Daten und 0016_THK_gesetzliche Vorschriften neben Absatz ergänzen -->
+<!-- SB: <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0153_BUW_Icon_personenbezogene_Daten.svg?autoSizes=true"> -->
 
 ### Interoperable (Interoperabel):
 
-<img width="30%" alt="Aufgabe" src="../medien/icons/G-0046_BUW_Icon_-Interoperability.svg?autoSizes=true">
+<img align="right" width="10%" alt="Aufgabe" src="../medien/icons/G-0046_BUW_Icon_-Interoperability.svg?autoSizes=true">
 
 Interoperabilität wird durch verschiedene Maßnahmen erreicht:
+<br>
 
 - Verwendung standardisierter Metadaten: Daten und Metadaten sollten eine formale,
     allgemein anwendbare Sprache verwenden. Dies erleichtert das Verständnis und die
@@ -93,11 +95,11 @@ Interoperabilität wird durch verschiedene Maßnahmen erreicht:
     andere Metadaten enthalten. Dies unterstützt die Nachverfolgbarkeit und Verknüpfung von
     Informationen.
 
-<img width="30%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true">
+<img align="right" width="10%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true">
 
 ### Reusable (Wiederverwendbar):
 
-<!-- G-0020_BUW_Icon_Nachnutzung -->
+<!-- SB: <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"> -->
 
 Wiederverwendbarkeit stellt sicher, dass Forschungsdaten und die zugehörigen Metadaten so
 umfassend beschrieben sind, dass sie für zukünftige Forschungsvorhaben von Mensch und Maschine
@@ -127,7 +129,7 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
  ### Vorteile der FAIR-Prinzipien:
 
-<img width="30%" alt="Aufgabe" src="../medien/icons/0022_THK_fröhliche_Person.svg?autoSizes=true">
+<img align="right" width="10%" alt="Aufgabe" src="../medien/icons/0022_THK_fröhliche_Person.svg?autoSizes=true">
 
 - Erhöhte Sichtbarkeit und Zitierbarkeit: Durch die Einhaltung der FAIR-Prinzipien werden
     Forschungsdaten besser auffindbar und zitierbar. Dies trägt dazu bei, die Anerkennung und
@@ -150,7 +152,7 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
  ### Nachteile der FAIR-Prinzipien:
 
-<img width="30%" alt="Aufgabe" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
+<img align="right" width="10%" alt="Aufgabe" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
 
 - Zeitaufwand: Die Anwendung der FAIR-Prinzipien erfordert zusätzliche Zeit und Ressourcen
     für die Erstellung von Metadaten, die Datenorganisation und die Einhaltung von Standards.
@@ -178,7 +180,7 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 ### Aufgabe:
 
-<img width="30%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true">
+<img align="left" width="15%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
