@@ -11,6 +11,9 @@ lastUpdated: true
 hero:
   name: "FDM - Basiskurs"
   tagline: The best things in life aren't things!
+  image:
+    src: logo_TH_Koeln.svg
+    alt: TH Köln
   actions:
     - theme: brand
       text: Lerneinheiten für Studierende
@@ -18,16 +21,12 @@ hero:
     - theme: alt
       text: Lehrkonzepte für Dozierende
       link: /lz/VL_01_Forschungsdaten_LZ.md
-      
-  image:
-    src: './logo_TH_Koeln.png'
-    alt: FDM@TH_Koeln
 
 features:
-  - icon: 🪼
+  - icon: 🪼 
     title: OER
     details: Lerneinheiten für das Selbststudium
-  - icon: 🪼
+  - icon: 🐬
     title: LiaScript
     details: Nachnutzbare Lehrkonzepte
 ---
