@@ -42,10 +42,7 @@ Quelle: Forschungsdaten.info, 2023
 
 An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet werden (Sauther-Patrascu und Dmitrieva, 2021).
 
-
 ### Findable (Auffindbar):
-
-<!-- G-0044_BUW_Icon_Findability -->
 
 Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 
@@ -53,13 +50,11 @@ Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 
 - <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> Umfangreiche Metadaten: Daten werden umfassend mit Metadaten beschrieben. Diese Metadaten enthalten klar und explizit die Kennung der beschriebenen Daten.
 
-<!-- SB: neben Absatz ergänzen <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"> -->
-- <img align="left" width="8%" src="https://img.icons8.com/cute-clipart/64/save-all.png" alt="save-all"/> Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um ihre Organisation und Auffindbarkeit zu verbessern.
+- <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"> Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um ihre Organisation und Auffindbarkeit zu verbessern.
 
+<img align="right" width="10%" alt="Aufgabe" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
 
 ### Accessible (Zugänglich):
-
-<!-- SB: <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true"> -->
 
 Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erfordert:
 
@@ -68,15 +63,19 @@ Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erforder
 - <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> persistente Metadaten, auch wenn die Daten später zurückgenommen werden müssen.
 
 <br>
-<img align="left" width="10%" alt="Aufgabe" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
+
+<img align="left" width="15%" alt="Aufgabe" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
 Es ist jedoch zu beachten, dass nicht alle Forschungsdaten für eine freie Veröffentlichung geeignet
 sind, insbesondere wenn es sich um sensible, personenbezogene Daten handelt oder wenn Rechte
-Dritter involviert sind. FAIR bedeutet nicht automatisch Open Access, da es auch Fälle gibt, in denen
+Dritter involviert sind. 
+
+<img align="right" width="15%" alt="Aufgabe" src="../medien/icons/G-0153_BUW_Icon_personenbezogen_Daten.svg?autoSizes=true">
+
+FAIR bedeutet nicht automatisch Open Access, da es auch Fälle gibt, in denen
 Daten aufgrund von Einschränkungen nicht frei zugänglich gemacht werden können. In solchen Fällen
 können Hinweise in den Metadaten angegeben werden, um Interessierte an den entsprechenden
 Ansprechpartner zu verweisen.
 
-<!-- SB: <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0153_BUW_Icon_personenbezogene_Daten.svg?autoSizes=true"> -->
 
 ### Interoperable (Interoperabel):
 
@@ -99,7 +98,7 @@ Interoperabilität wird durch verschiedene Maßnahmen erreicht:
 
 ### Reusable (Wiederverwendbar):
 
-<!-- SB: <img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"> -->
+<img align="left" width="15%" alt="Aufgabe" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
 Wiederverwendbarkeit stellt sicher, dass Forschungsdaten und die zugehörigen Metadaten so
 umfassend beschrieben sind, dass sie für zukünftige Forschungsvorhaben von Mensch und Maschine
@@ -121,11 +120,12 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Forside_DigitalBevaring.png"><img width="256" alt="Forside DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forside_DigitalBevaring.png/512px-Forside_DigitalBevaring.png"></a>
+<br>
 Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 ## Vor- und Nachteile der FAIR-Prinzipien im Forschungsdatenmanagement
 
-<!-- Abbildung 052_THK_Wiederverwendbarkeit --> 
+<img align="left" width="10%" alt="Aufgabe" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
  ### Vorteile der FAIR-Prinzipien:
 
@@ -168,12 +168,11 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 <!-- Quiz / Wahr oder Falsch: Aufgabe von Train-the-Trainer (S. 33): Wahrheit oder Lüge: Welchen der folgenden Aussagen bezogen auf die FAIR-Prinzipien stimmen Sie zu? 1. Nur offene Daten können auch FAIR sein. 2. Ein gutes Forschungsdatenmanagement ist eine Voraussetzung für Daten, die den FAIR-Prinzipien entsprechen. 3. Sind Daten offen und FAIR, ist auch eine gute Datenqualität garantiert. 4. Je FAIRer und offener Daten sind, desto größer ist das Nachnutzungspotential. -->
 
-
 ## Leitfragen und Aufgaben
 
 ### Leitfragen:
 
-<!-- 0025_THK_Fragezeichen -->
+<img align="right" width="15%" alt="Aufgabe" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium angewendet wurden.
@@ -185,13 +184,11 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-
 ## Weiterführende Materialen und Quellen
 
-### Literatur
+<img align="right" width="15%" alt="Aufgabe" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
-<!-- G-0044_BUW_Icon_Findability -->
-<!-- hier noch 04_Poster_FAIRDATA einfügen aus sciebo-Ordner --> 
+### Literatur
 
 Poster_FAIRDATA. Erstellt im Rahmen des FDMentor-Projektes. Idee und Gestaltung: Katarzyna Biernacka, Dr. Dominika Dolzycka, Petra Buchholz, Kerstin Helbig. [Poster: FAIRDATA](../medien/dokumente/04_Poster_FAIRData_V4.pdf)
 
