@@ -26,7 +26,7 @@ In diesem Themenblock lernen Sie den Datenlebenszyklus mit seinen unterschiedlic
 
 ## Der Datenlebenszyklus: Die unterschiedlichen Stationen beim Arbeiten mit Daten verstehen
 
-Im breiten Feld des Forschungsdatenmanagements spielt der Umgang mit Daten -insbesondere der
+Im breiten Feld des Forschungsdatenmanagements spielt der Umgang mit Daten - insbesondere der
 Datenlebenszyklus - eine wichtige Rolle, denn er deckt alle wichtigen Phasen des
 Forschungsprozesses ab. Die einzelnen Phasen des Datenlebenszyklus dienen als Orientierung, um
 eine fundierte wissenschaftliche Arbeitsweise zu ermöglichen.
