@@ -42,7 +42,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 20 min. | Einführung in das Thema:<br><br>Infotext<br><br>Video:<br><br>Hilfsmittel Checkliste | Die S. können beschreiben(1), was der Nutzen des Dokumentierens von Daten ist und herausstellen(2), welche Relevanz dies hat.<br><br>Die S. können herausstellen(2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Text und Erklärvideo als Informationsquelle<br><br> Hilfsmittel Checkliste | EA |
+| Ca. 20 min. | Einführung in das Thema:<br><br>Infotext<br><br>Video<br><br>Hilfsmittel: Checkliste | Die S. können beschreiben(1), was der Nutzen des Dokumentierens von Daten ist und herausstellen(2), welche Relevanz dies hat.<br><br>Die S. können herausstellen(2), welche Aspekte eines Forschungsprozesses/-projektes für die Dokumentation relevant und wichtig sind. | Text und Erklärvideo als Informationsquelle<br><br> Hilfsmittel: Checkliste | EA |
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase | Transferaufgabe | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase | EA |
 
 ---
@@ -60,14 +60,14 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 70 min. | Gruppeneinteilung<br><br>Gruppen-Aufgabe zu „Dokumentation von Daten“<br><br>L. berät die Gruppen bei Herausforderungen und Schwierigkeiten | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel in Gruppenarbeit<br><br>Die S. sind in der Lage, für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren(5) und ihre Entscheidung zu begründen(6).<br> Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Erarbeitung von Fallbeispielen in Gruppenarbeit | GA |
+| Ca. 70 min. | Gruppeneinteilung<br><br>Gruppenaufgabe zu „Dokumentation von Daten“<br><br>L. berät die Gruppen bei Herausforderungen und Schwierigkeiten | Die S. besprechen und erarbeiten jeweils ein Fallbeispiel in Gruppenarbeit<br><br>Die S. sind in der Lage, für ein Beispielprojekt Aspekte im Umgang mit Daten korrekt zu tabellieren(5) und ihre Entscheidung zu begründen(6).<br> Festigung der Inhalte durch Transferaufgabe und Anwendungsbezug  | Erarbeitung von Fallbeispielen in Gruppenarbeit | GA |
 
 #### Abschluss
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 10 min. |  Reflexion über Gruppenarbeit (Herausforderungen, Nachteile, Vorteile, Chancen etc.) im Plenum  | Reflexion | Plenumsdiskussion | PL |
-| Ca. 5 min. |  Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung  | L. erklärt Erwartungen für nächste Stunde.<br><br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
+| Ca. 5 min. |  Offene Fragen / Unklarheiten klären. Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung  | L. erklärt Erwartungen für nächste Stunde.<br><br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
 ##  Präsenzphase 
 
