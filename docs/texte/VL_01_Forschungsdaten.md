@@ -96,17 +96,15 @@ in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-B
 
 Es gibt Primärdaten und Sekundärdaten[^1]
 
-::: tip Primärdaten 
-
-<img width="15%" align="left" alt="Icon_Primaerdaten" src="/medien/icons/G-0094_BUW_a_Icon_Primaerdaten.svg?autoSizes=true">
-
+::: tip Primärdaten
+<img width="15%" align="center" alt="Icon_Primaerdaten" src="../medien/icons/G-0094_BUW_a_Icon_Primaerdaten.svg?autoSizes=true">
 - sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden.
 - Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
 :::
 
 ::: tip Sekundärdaten
 
-<img width="15%" align="left" alt="Icon_Sekundaerdaten" src="/medien/icons/G-0094_BUW_b_Icon_Sekundaerdaten.svg?autoSizes=true">
+<img width="15%" align="center" alt="Icon_Sekundaerdaten" src="../medien/icons/G-0094_BUW_b_Icon_Sekundaerdaten.svg?autoSizes=true">
 
 - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.

@@ -29,32 +29,35 @@ Prinzipien mit sich bringen können.
 
 ## FAIR-Prinzipien
 
-Forschungsdaten sollen FAIR sein. FAIR steht für Findable (Auffindbar), Accessible (Zugänglich), Interoperable (Interoperabel) und Reusable (Nachnutzbar).
-Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten.
-
-<!-- SB: sobald Grafiken da sind, Absatz umformulieren -> ... Forschungsdaten,damit diese + Grafik + sind. -->
-<!-- G-0044_BUW_Icon_Findability, G-0019_BUW_Icon_Zugang, G-0046_BUW_Icon_Interoperability, G-0020_BUW_Icon_Nachnutzung ; FAIR ggff. Übersetzung von "reusable" im Text anpassen-->
-
+Forschungsdaten sollen FAIR sein, damit diese
+- Findable (Auffindbar), <img align="center" width="10%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+- Accessible (Zugänglich), <img align="center" width="10%" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
+- Interoperable (Interoperabel) <img align="center" width="10%" alt="Icon_Interoperability" src="../medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true"> und 
+- Reusable (Nachnutzbar) <img align="center" width="10%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 sind.
+
+Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten. 
+
+---
 Quelle: Forschungsdaten.info, 2023
 
 <img align="left" width="15%" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
 An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet werden (Sauther-Patrascu und Dmitrieva, 2021).
 
-### Findable (Auffindbar):
+### Findable (Auffindbar): 
+<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 
- - <img align="left" width="10%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true"> Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier). 
+- <img align="left" width="10%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true"> Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier). 
 
 - <img align="left" width="10%" alt="Icon_Metadaten" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> Umfangreiche Metadaten: Daten werden umfassend mit Metadaten beschrieben. Diese Metadaten enthalten klar und explizit die Kennung der beschriebenen Daten.
 
 - <img align="left" width="10%" alt="Icon_Diskette" src="../medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"> Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um ihre Organisation und Auffindbarkeit zu verbessern.
 
-<img align="right" width="10%" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
-
-### Accessible (Zugänglich):
+### Accessible (Zugänglich): 
+<img align="right" width="15%" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
 
 Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erfordert:
 
@@ -78,11 +81,9 @@ Ansprechpartner zu verweisen.
 
 
 ### Interoperable (Interoperabel):
-
-<img align="right" width="10%" alt="Icon_-Interoperability" src="../medien/icons/G-0046_BUW_Icon_-Interoperability.svg?autoSizes=true">
+<img align="right" width="15%" alt="Icon_Interoperability" src="../medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true">
 
 Interoperabilität wird durch verschiedene Maßnahmen erreicht:
-<br>
 
 - Verwendung standardisierter Metadaten: Daten und Metadaten sollten eine formale,
     allgemein anwendbare Sprache verwenden. Dies erleichtert das Verständnis und die
@@ -94,11 +95,8 @@ Interoperabilität wird durch verschiedene Maßnahmen erreicht:
     andere Metadaten enthalten. Dies unterstützt die Nachverfolgbarkeit und Verknüpfung von
     Informationen.
 
-<img align="right" width="10%" alt="Icon_Metadaten" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true">
-
 ### Reusable (Wiederverwendbar):
-
-<img align="left" width="15%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+<img align="center" width="15%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
 Wiederverwendbarkeit stellt sicher, dass Forschungsdaten und die zugehörigen Metadaten so
 umfassend beschrieben sind, dass sie für zukünftige Forschungsvorhaben von Mensch und Maschine
@@ -116,20 +114,10 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
     der jeweiligen Forschungsgemeinschaft entsprechen, um eine reibungslose Zusammenarbeit
     und Nutzung zu ermöglichen.
 
-<!-- SB: richtiges Bild? VL2 Z.157-->
-
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Forside_DigitalBevaring.png"><img width="256" alt="Forside DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forside_DigitalBevaring.png/512px-Forside_DigitalBevaring.png"></a>
-<br>
-Quelle: Digitalbevaringdk Forside_DigitalBevaring
-
 ## Vor- und Nachteile der FAIR-Prinzipien im Forschungsdatenmanagement
 
-<img align="center" width="10%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
-
- ### Vorteile der FAIR-Prinzipien:
-
-<img align="right" width="10%" alt="Icon_froehliche_Person" src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
+### Vorteile der FAIR-Prinzipien:
+<img align="right" width="15%" alt="Icon_froehliche_Person" src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
 
 - Erhöhte Sichtbarkeit und Zitierbarkeit: Durch die Einhaltung der FAIR-Prinzipien werden
     Forschungsdaten besser auffindbar und zitierbar. Dies trägt dazu bei, die Anerkennung und
@@ -151,8 +139,7 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
     sicherstellt.
 
  ### Nachteile der FAIR-Prinzipien:
-
-<img align="right" width="10%" alt="Icon_nachdenkende_Person" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
+ <img align="right" width="15%" alt="Icon_nachdenkende_Person" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
 
 - Zeitaufwand: Die Anwendung der FAIR-Prinzipien erfordert zusätzliche Zeit und Ressourcen
     für die Erstellung von Metadaten, die Datenorganisation und die Einhaltung von Standards.
@@ -171,14 +158,12 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 ## Leitfragen und Aufgaben
 
 ### Leitfragen:
-
 <img align="right" width="15%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium angewendet wurden.
 
 ### Aufgabe:
-
 <img width="15%" align="right" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 
@@ -186,7 +171,6 @@ Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
-
 <img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
