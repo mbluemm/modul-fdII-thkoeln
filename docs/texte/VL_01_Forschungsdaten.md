@@ -47,37 +47,48 @@ Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. Forschung
 nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
 zur Unterstützung von Forschungsarbeiten beitragen.
 
-<!-- hier Icons Datentypen ergänzen: G-0049_BUW_Icon_Datentypen_Messung ; G-0016_BUW_Icon_Erhebung; G-0050_BUW_Icon_Datentypen_Sensor ; G-0017_BUW_Icon_Analyse ; G-0057_BUW_Icon_Datentyp_Survey ; G-0055_BUW_Icon_Datentyp_Text ; 0004_THK_Datentyp_Objekte --> 
+<img align="left" width="15%" alt="Icon_Datentypen_Messung" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Erhebung" src="/medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentypen_Sensor" src="/medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Analyse" src="/medien/icons/G-0017_BUW_Icon_Analyse.svg?autoSizes=true">
+<img align="center" width="15%" alt="Icon_Datentyp_Text" src="/medien/icons/G-0055_BUW_Icon_Datentyp_Text.svg?autoSizes=true">
 
 Digitale Forschungsdaten präsentieren sich in verschiedenen Formen, darunter Texte, Bilder,
 Audiodateien, Videoclips und interaktive Visualisierungen. Diese Vielfalt an Formaten und Disziplinen
 zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensammlungen
 hinausgehen.
 
-<!-- G-0055_BUW_Icon_Datentyp_Text ; G-0053_BUW_Icon_Datentyp_Bild ; G-0054_BUW_Icon_Datentyp_AV -->
-<img width="30%" alt="Audiosymbol" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
+<!--<img align="left" width="15%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">-->
+<img align="left" width="15%" alt="Icon_Dummy" src="/medien/dummies/icons8-baby-yoda-64.png?autoSizes=true">
+<img width="15%" align="left" alt="Icon_Datentyp_Bild" src="/medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">
+<img width="15%" align="left" alt="Icon_Datentyp_AV" src="/medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="/medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true"> 
+<img width="15%" align="center" alt="Icon_Datentyp-Audiodateien" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
 
 In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert:
 
+
 ::: tip Daten
+<img width="15%" align="right" alt="Icon_Datensatz" src="/medien/icons/0032_THK_Datensatz.svg?autoSizes=true">
 Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“
 :::
 
-<img width="30%" alt="Audiosymbol" src="/medien/icons/0032_THK_Datensatz.svg?autoSizes=true">
 
 ::: tip Dateien
-Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“. 
+<img width="15%" align="right" alt="Icon_OrdnerPC" src="/medien/icons/0028_THK_OrdnerPC.svg?autoSizes=true">
+Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
 :::
-<!-- 0028_THK_OrdnerPC -->
+
 
 in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der Wissenschaften, [Daten](https://www.dwds.de/wb/Daten) und [Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 
-<!-- Dummy? -->
+<!-- Dummy -->
 <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FunctionalPreservation_DigitalPreservation.png/512px-FunctionalPreservation_DigitalPreservation.png"
          alt="FunctionalPreservation DigitalPreservation"
          width="512"
-         height="30%">       
+         height="30%">
+    <br>
     <figcaption>Jørgen Stamp, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons</figcaption>
 </figure>
 
@@ -86,14 +97,16 @@ in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-B
 Es gibt Primärdaten und Sekundärdaten[^1]
 
 ::: tip Primärdaten 
-<!-- G-0094_BUW_a_Icon_Primaerdaten -->
+
+<img width="15%" align="left" alt="Icon_Primaerdaten" src="/medien/icons/G-0094_BUW_a_Icon_Primaerdaten.svg?autoSizes=true">
 
 - sind i.d.R. erhobene Rohdaten, die weder bearbeitet, geprüft noch kommentiert bzw. mit Metadaten versehen wurden.
 - Sie stellen die Grundlage für die wissenschaftliche Beschäftigung mit einem Gegenstand dar.
 :::
 
 ::: tip Sekundärdaten
-<!-- G-0094_BUW_b_Icon_Sekundaerdaten -->
+
+<img width="15%" align="left" alt="Icon_Sekundaerdaten" src="/medien/icons/G-0094_BUW_b_Icon_Sekundaerdaten.svg?autoSizes=true">
 
 - sind Daten, die aus Primärdaten durch Verarbeitungsschritte hervorgehen.
 - Es handelt sich um abgeleitete oder prozessierte Daten, die im Rahmen der Primärdatenverarbeitung als Ergebnis z. B. als Publikation anfallen.
@@ -117,17 +130,21 @@ SB: Gibt kein THK_Buch-Icon?
 
 ### Leitfragen
 
+<img width="15%" align="center" alt="Icon_OrdnerPC" src="/medien/icons/0028_THK_OrdnerPC.svg?autoSizes=true">
+
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
 
 ### Aufgabe
 
-<img width="30%" alt="Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img width="15%" align="center" alt="Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Lektüre
+
+<img width="15%" align="center" alt="Icon_Buch" src="/medien/icons/0038_THK_Buch.svg?autoSizes=true">
 
  Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von [https://www.forschungsdaten.org/index.php/Forschungsdaten](https://www.forschungsdaten.org/index.php/Forschungsdaten).
 
@@ -164,12 +181,8 @@ START (National Consortium for the Study of Terrorism and Responses to Terrorism
 START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html](https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html).
 
 ---
-[^2]: START (2022).
-[^3]: ebd.
-[^4]: START (2021), S. 4.
-[^5]: START (2022).
-[^6]: START (2020).
-
-
-
-[def]: /medien/icons/0002_THK_Datentyp-Audiodateien.svg
+[^2]: START (2022). <br>
+[^3]: ebd. <br>
+[^4]: START (2021), S. 4. <br>
+[^5]: START (2022). <br>
+[^6]: START (2020). <br>
