@@ -125,7 +125,7 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 ## Vor- und Nachteile der FAIR-Prinzipien im Forschungsdatenmanagement
 
-<img align="left" width="10%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+<img align="center" width="10%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
  ### Vorteile der FAIR-Prinzipien:
 
@@ -179,7 +179,8 @@ Quelle: Digitalbevaringdk Forside_DigitalBevaring
 
 ### Aufgabe:
 
-<img align="left" width="15%" alt="Icon_Metadaten" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.

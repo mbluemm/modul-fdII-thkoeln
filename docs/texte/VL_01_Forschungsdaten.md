@@ -47,11 +47,11 @@ Zitierbarkeit und zur weiteren Verarbeitung aufbewahrt werden können. Forschung
 nur isolierte Informationen, sondern vielmehr Bausteine, die zur Entwicklung von neuem Wissen und
 zur Unterstützung von Forschungsarbeiten beitragen.
 
-<img align="left" width="15%" alt="Icon_Datentypen_Messung" src="/medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
-<img align="left" width="15%" alt="Icon_Erhebung" src="/medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
-<img align="left" width="15%" alt="Icon_Datentypen_Sensor" src="/medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">
-<img align="left" width="15%" alt="Icon_Analyse" src="/medien/icons/G-0017_BUW_Icon_Analyse.svg?autoSizes=true">
-<img align="center" width="15%" alt="Icon_Datentyp_Text" src="/medien/icons/G-0055_BUW_Icon_Datentyp_Text.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentypen_Messung" src="../medien/icons/G-0049_BUW_Icon_Datentypen_Messung.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Erhebung" src="../medien/icons/G-0016_BUW_Icon_Erhebung.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentypen_Sensor" src="../medien/icons/G-0050_BUW_Icon_Datentypen_Sensor.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Analyse" src="../medien/icons/G-0017_BUW_Icon_Analyse.svg?autoSizes=true">
+<img align="center" width="15%" alt="Icon_Datentyp_Text" src="../medien/icons/G-0055_BUW_Icon_Datentyp_Text.svg?autoSizes=true">
 
 Digitale Forschungsdaten präsentieren sich in verschiedenen Formen, darunter Texte, Bilder,
 Audiodateien, Videoclips und interaktive Visualisierungen. Diese Vielfalt an Formaten und Disziplinen
@@ -59,23 +59,23 @@ zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensamm
 hinausgehen.
 
 <!--<img align="left" width="15%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">-->
-<img align="left" width="15%" alt="Icon_Dummy" src="/medien/dummies/icons8-baby-yoda-64.png?autoSizes=true">
-<img width="15%" align="left" alt="Icon_Datentyp_Bild" src="/medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">
-<img width="15%" align="left" alt="Icon_Datentyp_AV" src="/medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">
-<img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="/medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true"> 
-<img width="15%" align="center" alt="Icon_Datentyp-Audiodateien" src="/medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Dummy" src="../medien/dummies/icons8-baby-yoda-64.png?autoSizes=true">
+<img width="15%" align="left" alt="Icon_Datentyp_Bild" src="../medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">
+<img width="15%" align="left" alt="Icon_Datentyp_AV" src="../medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="../medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true"> 
+<img width="15%" align="center" alt="Icon_Datentyp-Audiodateien" src="../medien/icons/0002_THK_Datentyp-Audiodateien.svg?autoSizes=true">
 
 In diesem Kurs werden die Begriffe „Daten“ und „Dateien“ häufiger verwendet. Für den fortlaufenden Kurs sind sie wie folgt definiert:
 
 
 ::: tip Daten
-<img width="15%" align="right" alt="Icon_Datensatz" src="/medien/icons/0032_THK_Datensatz.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Datensatz" src="../medien/icons/0032_THK_Datensatz.svg?autoSizes=true">
 Daten sind „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o.Ä. gewonnene Informationen“
 :::
 
 
 ::: tip Dateien
-<img width="15%" align="right" alt="Icon_OrdnerPC" src="/medien/icons/0028_THK_OrdnerPC.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_OrdnerPC" src="../medien/icons/0028_THK_OrdnerPC.svg?autoSizes=true">
 Eine Datei ist „unter einem gemeinsamen Namen auf einem Datenträger gespeicherte und zugreifbare Menge von Daten“.
 :::
 
@@ -122,33 +122,31 @@ gezielte Herangehensweise, um diese Daten bestmöglich zu organisieren, zu siche
 sowie zukünftige wissenschaftliche Erkenntnisse zu nutzen. Dieses Thema wird in der zweiten
 Vorlesung in mehr Detail eingeführt und ist der Grundstein dieses Kurses.
 
-<!-- Bei Datenbank noch 0001_THK_Beispiel einfügen. Aufgabe: 0034_THK_Aufgabe ; Leitfragen: 0025_THK_Fragezeichen ; Lektüre: 0038_THK_Buch ; Quellen- und Weiterführende Materialien: nochmal besprechen
-SB: Gibt kein THK_Buch-Icon?
- -->
-
 ## Leitfragen und Aufgaben
 
 ### Leitfragen
 
-<img width="15%" align="center" alt="Icon_OrdnerPC" src="/medien/icons/0028_THK_OrdnerPC.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 - Wie kann der Begriff Forschungsdaten definiert werden?
 - Welche Arten von Forschungsdaten haben Sie bislang kennengelernt bzw. vielleicht schon selbst genutzt?
 
 ### Aufgabe
 
-<img width="15%" align="center" alt="Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Lektüre
 
-<img width="15%" align="center" alt="Icon_Buch" src="/medien/icons/0038_THK_Buch.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Buch" src="../medien/icons/0038_THK_Buch.svg?autoSizes=true">
 
  Forschungsdaten.org (2015, 8. Oktober). Forschungsdaten. Zugriff am 18.10.2023, von [https://www.forschungsdaten.org/index.php/Forschungsdaten](https://www.forschungsdaten.org/index.php/Forschungsdaten).
 
 ## Weiterführende Materialen und Quellen
+
+<img width="15%" align="right" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 Global Terrorism Database (GTD)
 

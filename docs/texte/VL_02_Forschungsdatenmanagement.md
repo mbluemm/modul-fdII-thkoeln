@@ -50,7 +50,7 @@ Viele Forschungseinrichtungen haben bereits Leitlinien für das FDM herausgegebe
 Schritt dazu dienen, einen strukturierten Umgang mit Forschungsdaten zu etablieren (Sauther-
 Patrascu und Dmitrieva 2021). 
 
-<!-- 0007_THK_Leitlinien neben den Absatz ergänzen -->
+<img width="15%" align="right" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
 ## Die Relevanz von Forschungsdatenmanagement
 
@@ -68,49 +68,69 @@ Schutz vor Datenverlusten begründet sein.
 
 Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
 
-Reproduzierbarkeit und Vertrauenswürdigkeit: Ein solides FDM gewährleistet die
+Reproduzierbarkeit und Vertrauenswürdigkeit: 
+<img width="15%" align="center" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+
+Ein solides FDM gewährleistet die
 Nachvollziehbarkeit und Reproduzierbarkeit von Forschungsergebnissen. Durch klare Dokumentation
 der Datenerhebung, -verarbeitung und -analyse können andere Forschende die Schritte
 rekonstruieren und Ergebnisse überprüfen, was das Vertrauen in wissenschaftliche Erkenntnisse
-stärkt. <!-- G-0020_BUW_Icon_Nachnutzung neben den Absatz -->
+stärkt. 
 
-Wissensbewahrung: Forschungsdaten sind wertvolle Ressourcen, die für spätere Analysen und
+Wissensbewahrung: 
+<img width="15%" align="center" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
+
+Forschungsdaten sind wertvolle Ressourcen, die für spätere Analysen und
 Studien genutzt werden können. Ein strukturiertes FDM stellt sicher, dass Daten langfristig zugänglich
 und nutzbar bleiben, auch wenn Forschende die Institution verlassen oder Projekte abgeschlossen
-werden. <!-- G-0019_BUW_Icon_Zugang oder 0020_THK_Idee neben den Absatz -->
+werden. 
 
-Datenintegrität: Durch klare Datenmanagementverfahren können Fehler und Datenverluste minimiert
+Datenintegrität: 
+<img width="15%" align="center" alt="Icon_GWP" src="../medien/icons/0008_THK_GWP.svg?autoSizes=true">
+
+Durch klare Datenmanagementverfahren können Fehler und Datenverluste minimiert
 werden. Ein durchdachtes FDM hilft, die Integrität der Daten über den gesamten Lebenszyklus hinweg
-zu gewährleisten. <!-- 0008_THK_GWP neben den Absatz -->
+zu gewährleisten.
 
-Zusammenarbeit und Vernetzung: Einheitliche Standards und Praktiken im FDM erleichtern die
+Zusammenarbeit und Vernetzung: 
+<!--<img width="15%" align="center" alt="Icon_Zusammenarbeit" src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true">-->
+
+Einheitliche Standards und Praktiken im FDM erleichtern die
 Zusammenarbeit zwischen Forschenden, Institutionen und Disziplinen. Gemeinsame Plattformen und
 Dateninfrastrukturen fördern den Austausch von Daten und erleichtern die Integration in breitere
-Forschungsgemeinschaften. <!-- G-0092_BUW_Icon_Zusammenarbeit neben den Absatz -->
+Forschungsgemeinschaften.
 
-Datenschutz und Ethik: Angesichts zunehmender Datenschutzanforderungen ist ein effektives FDM
+Datenschutz und Ethik: 
+<img width="15%" align="center" alt="Icon_Ethikkommission" src="../medien/icons/G-0154_BUW_Icon_Ethikkommission.svg?autoSizes=true">
+
+Angesichts zunehmender Datenschutzanforderungen ist ein effektives FDM
 notwendig, um personenbezogene Daten angemessen zu schützen und ethische Richtlinien
-einzuhalten. <!-- G-0154_BUW_Icon_Ethikkommission neben den Absatz -->
+einzuhalten.
 
-Fördermittel und Sichtbarkeit: Viele Förderinstitutionen und Verlage fordern mittlerweile die
+Fördermittel und Sichtbarkeit: 
+<img width="15%" align="center" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
+
+Viele Förderinstitutionen und Verlage fordern mittlerweile die
 Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln
-erleichtern und die Sichtbarkeit der Forschung erhöhen. <!-- 0007_THK_Leitlinien neben den Absatz -->
+erleichtern und die Sichtbarkeit der Forschung erhöhen.
 
 ## FDM in Open Science [^1]
 
+<img width="15%" align="left" alt="Icon_OpenScience" src="../medien/icons/0014_THK_Open_Science.svg?autoSizes=true">
 Open Science und FDM sind zwei Konzepte, die Hand in Hand gehen, um die Forschungslandschaft
 grundlegend zu verändern und zu verbessern. Beide Ansätze teilen das Ziel, Wissenschaft offener,
 transparenter, nachvollziehbarer und kollaborativer zu gestalten, um die Qualität und den
-gesellschaftlichen Nutzen von Forschung zu maximieren. <!-- 0014_THK_Open_Science neben den Absatz -->
+gesellschaftlichen Nutzen von Forschung zu maximieren. 
 
 ### Open Science
 
+<img width="15%" align="right" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
 Open Science bezieht sich auf den offenen Zugang zu wissenschaftlichem Wissen, Publikationen,
 Forschungsdaten und Methoden. Es strebt danach, wissenschaftliche Erkenntnisse für alle zugänglich
 zu machen, unabhängig von institutionellen oder geografischen Grenzen. Offener Zugang zu
 Publikationen und Forschungsdaten fördert nicht nur die Verbreitung von Wissen, sondern auch die
 Reproduzierbarkeit von Ergebnissen und die Teilnahme der breiten Öffentlichkeit an
-wissenschaftlichen Diskussionen. <!-- G-0019_BUW_Icon_Zugang neben den Absatz -->
+wissenschaftlichen Diskussionen.
 
 ### 4 Grundprinzipien
 
@@ -162,38 +182,36 @@ wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschi
 Patrascu und Dmitrieva 2021). Weitere Informationen zum Thema wissenschaftliche Integrität finden
 Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
-<!-- 0007_THK_Leitlinien --> 
+<img width="15%" align="center" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
 
 ## Leitfragen und Aufgaben 
 
-### Leitfragen 
+### Leitfragen
+
+<img width="15%" align="right" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 - Was versteht man unter Forschungsdatenmanagement?
 - Inwiefern betrifft das Thema Forschungsdatenmanagement Bereiche ihres Studiums?
 - Welche Argumente sprechen für Forschungsdatenmanagement, welche Vorbehalte gibt es?
 
-<!-- 0025_THK_Fragezeichen --> 
-
 ### Aufgabe
 
-<img width="30%" alt="Aufgabe" src="/medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img width="15%" align="right" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-<!-- 0034_THK_Aufgabe --> 
-
 ### Lektüre
+
+<img width="15%" align="right" alt="Icon_Buch" src="../medien/icons/0038_THK_Buch.svg?autoSizes=true">
 
 Lesen Sie die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen
 Forschungsgemeinschaft aufmerksam durch. 
 Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissenschaftlicher Praxis. Kodex. [https://doi.org/10.5281/zenodo.6472827](https://doi.org/10.5281/zenodo.6472827)
 
-<!-- 0038_THK_Buch --> 
-
 ## Weiterführende Materialen und Quellen
 
-<!-- G-0044_BUW_Icon_Findability --> 
+<img width="15%" align="right" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
 
