@@ -32,11 +32,11 @@ Prinzipien mit sich bringen können.
 Forschungsdaten sollen FAIR sein, damit diese
 - Findable (Auffindbar), <img align="center" width="10%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 - Accessible (Zugänglich), <img align="center" width="10%" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
-- Interoperable (Interoperabel) <img align="center" width="10%" alt="Icon_Interoperability" src="../medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true"> und 
+- Interoperable (Interoperabel) <img align="center" width="10%" alt="Icon_Interoperability" src="../medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true"> und
 - Reusable (Nachnutzbar) <img align="center" width="10%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 sind.
 
-Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten. 
+Die FAIR-Prinzipien formulieren internationale Grundsätze für nachhaltig nachnutzbare Forschungsdaten. Hauptziel ist eine optimale Aufbereitung der Forschungsdaten.
 
 ---
 Quelle: Forschungsdaten.info, 2023
@@ -45,18 +45,20 @@ Quelle: Forschungsdaten.info, 2023
 
 An der TH Köln sollen Studierende und Forschende ihre Daten FAIR aufbereiten. Ein Ziel ist, dass Forschungsdaten von Menschen und Maschinen ausgewertet werden können. Damit soll die Auffindbarkeit von Datensätzen und deren Wiederverwendbarkeit gewährleistet werden (Sauther-Patrascu und Dmitrieva, 2021).
 
-### Findable (Auffindbar): 
+### Findable (Auffindbar)
+
 <img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 Forschungsdaten sollten leicht auffindbar sein. Dies wird erreicht durch:
 
-- <img align="left" width="10%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true"> Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier). 
+- <img align="left" width="10%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true"> Vergeben von persistenten Identifikatoren: Daten erhalten eine globale und eindeutige Kennung, auch als persistente Identifikatoren (oder Persistent Identifier) bekannt, um ihre dauerhafte Identifizierung sicherzustellen. Beispiele dafür sind DOI (Digital Object Identifier).
 
 - <img align="left" width="10%" alt="Icon_Metadaten" src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"> Umfangreiche Metadaten: Daten werden umfassend mit Metadaten beschrieben. Diese Metadaten enthalten klar und explizit die Kennung der beschriebenen Daten.
 
 - <img align="left" width="10%" alt="Icon_Diskette" src="../medien/icons/G-0038_BUW_Icon_Diskette.svg?autoSizes=true"> Strukturierte Speicherung: Daten werden sinnvoll benannt und strukturiert gespeichert, um ihre Organisation und Auffindbarkeit zu verbessern.
 
-### Accessible (Zugänglich): 
+### Accessible (Zugänglich)
+
 <img align="right" width="15%" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
 
 Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erfordert:
@@ -67,7 +69,7 @@ Forschungsdaten sollten für alle Interessierten zugänglich sein. Dies erforder
 
 <br>
 
-<img align="left" width="15%" alt="Icon_gesetzliche_Vorschriften" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
+<img align="left" width="12%" alt="Icon_gesetzliche_Vorschriften" src="../medien/icons/0016_THK_gesetzliche_Vorschriften.svg?autoSizes=true">
 Es ist jedoch zu beachten, dass nicht alle Forschungsdaten für eine freie Veröffentlichung geeignet
 sind, insbesondere wenn es sich um sensible, personenbezogene Daten handelt oder wenn Rechte
 Dritter involviert sind. 
@@ -79,8 +81,8 @@ Daten aufgrund von Einschränkungen nicht frei zugänglich gemacht werden könne
 können Hinweise in den Metadaten angegeben werden, um Interessierte an den entsprechenden
 Ansprechpartner zu verweisen.
 
+### Interoperable (Interoperabel)
 
-### Interoperable (Interoperabel):
 <img align="right" width="15%" alt="Icon_Interoperability" src="../medien/icons/G-0046_BUW_Icon_Interoperability.svg?autoSizes=true">
 
 Interoperabilität wird durch verschiedene Maßnahmen erreicht:
@@ -95,28 +97,25 @@ Interoperabilität wird durch verschiedene Maßnahmen erreicht:
     andere Metadaten enthalten. Dies unterstützt die Nachverfolgbarkeit und Verknüpfung von
     Informationen.
 
-### Reusable (Wiederverwendbar):
+### Reusable (Wiederverwendbar)
+
 <img align="center" width="15%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
 Wiederverwendbarkeit stellt sicher, dass Forschungsdaten und die zugehörigen Metadaten so
 umfassend beschrieben sind, dass sie für zukünftige Forschungsvorhaben von Mensch und Maschine
 wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekte von Bedeutung:
 
-- Detaillierte Beschreibung von Metadaten: Daten und Metadaten sollten ausführlich
-    beschrieben werden.
-  - Informationen zur Entstehung: Metadaten sollten detaillierte Informationen über die
-    Entstehung der Daten enthalten, einschließlich der verwendeten Methoden, Instrumente und
-    Software.
+- Detaillierte Beschreibung von Metadaten: Daten und Metadaten sollten ausführlich beschrieben werden.
+  - Informationen zur Entstehung: Metadaten sollten detaillierte Informationen über die Entstehung der Daten enthalten, einschließlich der verwendeten Methoden, Instrumente und Software.
 - Klare Datennutzungslizenz: Die Daten müssen mit einer eindeutigen und zugänglichen
-    Datennutzungslizenz veröffentlicht werden. Dies klärt, unter welchen Bedingungen die Daten
-    genutzt werden dürfen.
+    Datennutzungslizenz veröffentlicht werden. Dies klärt, unter welchen Bedingungen die Daten genutzt werden dürfen.
 - Anpassung an Community-Standards: Die Metadaten sollten den Standards und Praktiken
-    der jeweiligen Forschungsgemeinschaft entsprechen, um eine reibungslose Zusammenarbeit
-    und Nutzung zu ermöglichen.
+    der jeweiligen Forschungsgemeinschaft entsprechen, um eine reibungslose Zusammenarbeit und Nutzung zu ermöglichen.
 
 ## Vor- und Nachteile der FAIR-Prinzipien im Forschungsdatenmanagement
 
 ### Vorteile der FAIR-Prinzipien:
+
 <img align="right" width="15%" alt="Icon_froehliche_Person" src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
 
 - Erhöhte Sichtbarkeit und Zitierbarkeit: Durch die Einhaltung der FAIR-Prinzipien werden
@@ -139,6 +138,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
     sicherstellt.
 
  ### Nachteile der FAIR-Prinzipien:
+
  <img align="right" width="15%" alt="Icon_nachdenkende_Person" src="../medien/icons/0023_THK_nachdenkende_Person.svg?autoSizes=true">
 
 - Zeitaufwand: Die Anwendung der FAIR-Prinzipien erfordert zusätzliche Zeit und Ressourcen
@@ -157,13 +157,15 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 ## Leitfragen und Aufgaben
 
-### Leitfragen:
+### Leitfragen
+
 <img align="right" width="15%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
 
 1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium angewendet wurden.
 
-### Aufgabe:
+### Aufgabe
+
 <img width="15%" align="right" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 
@@ -171,6 +173,7 @@ Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
+
 <img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
