@@ -493,6 +493,8 @@ sicher vernichtet?
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
+Suchen Sie sich einen eigenen Datensatz (z. B. Projektarbeit, Studienmaterialien, Musiksammlung, Bildersammlung o. Ä.) zur Erarbeitung einer Datenmanagement-Strategie mittels Checkliste in der Präsenzphase.
+
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
