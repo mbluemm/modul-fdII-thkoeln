@@ -16,6 +16,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 :::
 
 <!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
+<!-- hier noch unsere erarbeiteten Materialien der HIP ergänzen? https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#8 -->
 
 [[toc]]
 
