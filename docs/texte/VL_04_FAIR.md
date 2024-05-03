@@ -90,12 +90,19 @@ Interoperabilität wird durch verschiedene Maßnahmen erreicht:
 - Verwendung standardisierter Metadaten: Daten und Metadaten sollten eine formale,
     allgemein anwendbare Sprache verwenden. Dies erleichtert das Verständnis und die
     Interpretation der Daten sowohl für Menschen als auch für Maschinen.
+    <!-- von der Community anerkannte Metadatenschemata -> https://docs.nfdi4culture.de/ta2-fair-handreichung/interoperable-interoperabel -->
 - Verwendung von FAIR-konformen Vokabularen: Metadaten sollten Vokabulare verwenden,
     die den FAIR-Prinzipien entsprechen. Diese Vokabulare erleichtern die Einordnung der Daten
     und die Kombination mit anderen Datensätzen.
+    <!-- von der Community anerkannte Metadatenschemata, kontrollierte Vokabulare, Thesauri und Ontologien. -->
 - Qualifizierte Verweise auf andere Metadaten: Metadaten sollten qualifizierte Verweise auf
     andere Metadaten enthalten. Dies unterstützt die Nachverfolgbarkeit und Verknüpfung von
     Informationen.
+    <!-- Qual. Verweise raus -> semantische Technologien hergestellt, die auf Linked (Open) Data 
+    Wenn Sie Sammlungsobjekte beschreiben, nutzen Sie Normdaten und kontrollierte Vokabulare, um Personen, Körperschaften, Geografika, beschreibende Sachschlagworte und in Beziehung stehende weitere Objekte (z. B. vorbereitende oder abgeleitete Werke), zu referenzieren. Die PIDs dieser Entitäten können zur automatisierten Ergänzung von Informationen dienen, die wertvolle weitere Such- und Filtermöglichkeiten ermöglichen. Bei Personen sind dies z. B. Lebensdaten und Namensvarianten, bei Sachschlagworten sind es Oberbegriffe, Synonyme, Bezeichnungen in mehreren Sprachen. Auch hier sollten Beziehungen zwischen Entitäten qualifiziert und mit kontrolliertem Vokabular ausgewiesen werden.
+    https://docs.nfdi4culture.de/ta2-fair-handreichung/interoperable-interoperabel/i3-meta-daten-enthalten-qualifizierte-verweise-auf-andere-meta-daten
+    
+    -->
 
 ### Reusable (Wiederverwendbar)
 
