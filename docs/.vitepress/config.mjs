@@ -1,3 +1,4 @@
+import footnote from 'markdown-it-footnote'
 import { defineConfig } from 'vitepress'
 
 /* ■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
@@ -12,6 +13,12 @@ export default defineConfig({
   lang: 'de-DE',
   description: 'Vorlesungskripte, Lerzielmatrizen, Kursmaterialien',
   base: '/modul-fdII-thkoeln',
+
+  markdown: {
+    config: (md) => {
+      md.use(footnote)
+    }
+  },
 
   // https:/vitepress.dev/reference/default-theme-config
   themeConfig: {
