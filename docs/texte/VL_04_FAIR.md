@@ -121,7 +121,7 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 ## Vor- und Nachteile der FAIR-Prinzipien im Forschungsdatenmanagement
 
-### Vorteile der FAIR-Prinzipien:
+### Vorteile der FAIR-Prinzipien
 
 <img align="right" width="15%" alt="Icon_froehliche_Person" src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true">
 
@@ -166,29 +166,33 @@ wiederverwendet und weiterverarbeitet werden können. Dafür sind mehrere Aspekt
 
 ### Leitfragen
 
-<img align="right" width="15%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+     alt="Icon_Fragezeichen"
+     style="float: left; margin-right: 10px; width: 15%;" />
 
 1. Welche Aspekte der FAIR-Prinzipien sind in Ihrem Studium generell relevant?
 2. Nennen Sie Beispiele, in welchem Kontext die FAIR-Prinzipien in Ihrem Studium angewendet wurden.
 
 ### Aufgabe
 
-<img width="15%" align="right" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
-
+<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+     alt="Icon_Aufgabe"
+     style="float: left; margin-right: 10px; width: 15%;" />
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 
-<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+     alt="Icon_Findability"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 ### Literatur
 
 Poster_FAIRDATA. Erstellt im Rahmen des FDMentor-Projektes. Idee und Gestaltung: Katarzyna Biernacka, Dr. Dominika Dolzycka, Petra Buchholz, Kerstin Helbig. [Poster: FAIRDATA](../medien/dokumente/04_Poster_FAIRData_V4.pdf)
 
-Buch, Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#datendienstag: Datenmanagementpläne und 
-Forschungsdatenmanagement in Forschungsanträgen*. Folien 10-15. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
+Buch, Susanne, Fliegner, Angelika, & Raatz, Philip. (2023, April 14). *#datendienstag: Datenmanagementpläne und Forschungsdatenmanagement in Forschungsanträgen*. Folien 10-15. Zenodo. [https://doi.org/10.5281/zenodo.7825751](https://doi.org/10.5281/zenodo.7825751)
 
 Carroll, S.R., Herczog, E., Hudson, M. et al. (2021). Operationalizing the CARE and FAIR Principles
 for Indigenous data futures. Sci Data 8, 108. [https://doi.org/10.1038/s41597-021-00892-0](https://doi.org/10.1038/s41597-021-00892-0).
@@ -211,7 +215,7 @@ Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016). The FAIR Guiding
 Principles for scientific data management and stewardship. Sci Data 3, 160018.
 [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 
-### Quellen:
+### Quellen
 
 Böker, E. (2023a, 5. Mai). Zitieren von Daten. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).

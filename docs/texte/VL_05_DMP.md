@@ -82,25 +82,32 @@ Die Checkliste zur Datendokumentation finden Sie in dem Moodle-Kurs als herunter
 
 ## Leitfragen und Aufgaben
 
-### Leitfragen:
-<img align="right" width="15%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
+### Leitfragen
 
-- Wofür wird eine Dokumentation von Daten benötigt?
-- Welche konkreten Aspekte eines Forschungsprozesses/-projektes sind für die Dokumentation
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+     alt="Icon_Fragezeichen"
+     style="float: left; margin-right: 10px; width: 15%;" />
+
+1. Wofür wird eine Dokumentation von Daten benötigt?
+2. Welche konkreten Aspekte eines Forschungsprozesses/-projektes sind für die Dokumentation
     relevant?
 
-### Aufgabe:
-<img width="15%" align="right" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+### Aufgabe
+
+<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+     alt="Icon_Aufgabe"
+     style="float: left; margin-right: 10px; width: 15%;" />
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
-<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+
+<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+     alt="Icon_Findability"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 ### Literatur
-
-<!-- G-0044_BUW_Icon_Findability -->
 
 Böker, E. (2023, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
@@ -113,7 +120,7 @@ Helbig, K. (2015). Hinweise und Checkliste zur Erstellung eines Datenmanagementp
 Social Science Research Council. (o. D.). Principles of Documenting Data. Zugriff am 18.10.2023, von
 [https://managing-qualitative-data.org/modules/2/a/](https://managing-qualitative-data.org/modules/2/a/)
 
-### Quellen:
+### Quellen
 
 Institut für Bibliotheks- und Informationswissenschaft. (2021, 8. Dezember). Datenmanagementplan
 für die Abschlussarbeit _–_ Template. Humboldt-Universtität zu Berlin. Zugriff am 18.10.2023, von

@@ -96,15 +96,11 @@ Aspekte beachtet sein:
 - Laufende und abgeschlossene Arbeiten sind getrennt voneinander, d.h. in unterschiedlichen
     Ordnern, abgelegt.
 - Die Ordnerstruktur ist:
-    
     o in einer Verzeichnisstruktur (auch Baumstruktur oder Verzeichnisbaum genannt),
        hierarchisch gegliedert und beinhaltet somit übergeordnete (allgemeinere) und eine
        überschaubare Anzahl an untergeordneten (konkretere) Elemente,
-    
     o auf lokalen und externen Speichermedien identisch,
-    
     o konsequent,
-    
     o und klar ersichtlich und für Dritte nachvollziehbar.
 
 - Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
@@ -124,6 +120,7 @@ oberster (Baum-)Ebene aufbewahren. Zur Nachvollziehbarkeit zu einem späteren Ze
 
 Neben einer sinnvoll gegliederten und konsequenten Ordnerstruktur ist auch eine klare Benennung
 von Dateien essentiell, denn diese führt zu
+
 - einer strukturierten Speicherung,
 - Übersichtlichkeit und einer logischen Sortierung,
 - Nachvollziehbarkeit und Auffindbarkeit,
@@ -157,7 +154,6 @@ Exemplarische Konventionen bei Dateibenennungen
 verwendet JJ/MM/TT. Als Separatoren können Slashs, Striche oder Punkte verwendet werden. In einigen Ländern werden
 kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vgl. World Wide Web Consortium (W3C), 2007)
 
-
 - so kurz wie möglich, so lang wie nötig sein (Empfehlung:wenn möglich setzen sich
     Dateibenennungen maximal aus 255 Zeichen zusammen <!-- mit Mouse-over einbinden --> )
 - auf Umlaute (ä, ö, ü) verzichten bzw. diese auflösen (ae, ue, oe)
@@ -177,7 +173,7 @@ Auch eine generelle Dokumentation der Dateibenennungen aufbewahren (zur Nachvoll
 zu einem späteren Zeitpunkt oder von anderen)
 :::
 
-** ::: tip
+::: tip
 Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den
 Archivordner („Archiv“) im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit
 unterschiedlichen Bearbeitungsständen.
@@ -226,19 +222,25 @@ werden.
 
 ## Leitfragen und Aufgaben
 
-### Leitfragen:
+### Leitfragen
 
-<!-- 0025_THK_Fragezeichen -->
-- Welche Merkmale sind bei einer strukturierten und nachhaltigen Datenablage (Ordnerstruktur
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+     alt="Icon_Fragezeichen"
+     style="float: left; margin-right: 10px; width: 15%;" />
+
+1. Welche Merkmale sind bei einer strukturierten und nachhaltigen Datenablage (Ordnerstruktur
     und Dateibenennung) im besten Fall zu beachten?
-- Was ist die Relevanz von einer nachhaltigen Datenablage (Ordnerstruktur und
+2. Was ist die Relevanz von einer nachhaltigen Datenablage (Ordnerstruktur und
     Dateibenennung) im FDM?
-- Wissensübertragung: Welche Rolle spielt eine nachhaltige Datenablage im Studium? Worauf
+3. Wissensübertragung: Welche Rolle spielt eine nachhaltige Datenablage im Studium? Worauf
     ist hier zu achten? Welche Probleme können entstehen?
 
 ### Aufgabe
 
- <!-- 0034_THK_Aufgabe -->
+<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+     alt="Icon_Aufgabe"
+     style="float: left; margin-right: 10px; width: 15%;" />
+
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 

@@ -188,22 +188,28 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
 ### Leitfragen
 
-<img width="15%" align="right" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+     alt="Icon_Fragezeichen"
+     style="float: left; margin-right: 10px; width: 15%;" />
 
-- Was versteht man unter Forschungsdatenmanagement?
-- Inwiefern betrifft das Thema Forschungsdatenmanagement Bereiche ihres Studiums?
-- Welche Argumente sprechen für Forschungsdatenmanagement, welche Vorbehalte gibt es?
+1. Was versteht man unter Forschungsdatenmanagement?
+2. Inwiefern betrifft das Thema Forschungsdatenmanagement Bereiche ihres Studiums?
+3. Welche Argumente sprechen für Forschungsdatenmanagement, welche Vorbehalte gibt es?
 
 ### Aufgabe
 
-<img width="15%" align="right" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+     alt="Icon_Aufgabe"
+     style="float: left; margin-right: 10px; width: 15%;" />
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Lektüre
 
-<img width="15%" align="right" alt="Icon_Buch" src="../medien/icons/0038_THK_Buch.svg?autoSizes=true">
+<img src="../medien/icons/0038_THK_Buch.svg?autoSizes=true"
+     alt="Icon_Buch"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Lesen Sie die „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen
 Forschungsgemeinschaft aufmerksam durch. 
@@ -211,7 +217,9 @@ Deutsche Forschungsgemeinschaft. (2022). Leitlinien zur Sicherung guter wissensc
 
 ## Weiterführende Materialen und Quellen
 
-<img width="15%" align="right" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+     alt="Icon_Findability"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 ### Literatur
 

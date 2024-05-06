@@ -215,22 +215,31 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen ve
 
 ### Leitfragen 
 
-<!-- 0025_THK_Fragezeichen -->
-- Welche Rolle spielen Metadaten im Forschungsdatenmanagement?
-- Welche Herausforderungen können bei der Sammlung von Metadaten auftreten?
-- Warum ist es wichtig, Metadaten langfristig aufzubewahren?
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+     alt="Icon_Fragezeichen"
+     style="float: left; margin-right: 10px; width: 15%;" />
+
+1. Welche Rolle spielen Metadaten im Forschungsdatenmanagement?
+2. Welche Herausforderungen können bei der Sammlung von Metadaten auftreten?
+3. Warum ist es wichtig, Metadaten langfristig aufzubewahren?
 
 ### Aufgabe
 
- <!-- 0034_THK_Aufgabe -->
+<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+     alt="Icon_Aufgabe"
+     style="float: left; margin-right: 10px; width: 15%;" />
+
 Arbeiten Sie die Materialien durch und beantworten Sie für sich die Fragen. Dokumentieren und
 reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ## Weiterführende Materialen und Quellen
 
+<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+     alt="Icon_Findability"
+     style="float: left; margin-right: 20px; width: 10%;" />
+
 ### Literatur
 
-<!-- G-0044_BUW_Icon_Findability -->
 Böker, E. (2023b, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
 Digital Curation Centre (DCC). (o. D.). List of Metadata Standards. Zugriff am 18.10.2023, von [https://www.dcc.ac.uk/guidance/standards/metadata/list](https://www.dcc.ac.uk/guidance/standards/metadata/list)
@@ -241,7 +250,7 @@ VerbundFDB. (2022, 09. Juni). Daten dokumentieren. Zugriff am 18.10.2023, von [h
 
 Wikipedia. (2021, 10. Juli). Liste von Metadatenformaten. Zugriff am 18.10.2023, von [https://de.wikipedia.org/wiki/Liste_von_Metadatenformaten](https://de.wikipedia.org/wiki/Liste_von_Metadatenformaten)
 
-### Quellen:
+### Quellen
 
 Biernacka, K., Buchholz, P., Danker, S. A. et al. (2021). Train-the-Trainer-Konzept zum Thema
 Forschungsdatenmanagement (Version 4). Zenodo. [https://doi.org/10.5281/zenodo.5773203](https://doi.org/10.5281/zenodo.5773203)

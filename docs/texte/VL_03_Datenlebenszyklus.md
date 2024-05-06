@@ -170,7 +170,9 @@ Quelle: Digitalbevaringdk 2021 VidenOm_DigitalBevaring
 
 ### Leitfragen
 
-<!-- 0025_THK_Fragezeichen -->
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+     alt="Icon_Fragezeichen"
+     style="float: left; margin-right: 10px; width: 15%;" />
 
 1. Welche Stationen des Datenlebenszyklus sind in Ihrem Studium besonders relevant?
 
