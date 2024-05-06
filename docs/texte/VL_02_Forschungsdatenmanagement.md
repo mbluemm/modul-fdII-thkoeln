@@ -26,7 +26,9 @@ wird und wie FDM mit Open Science und guter wissenschaftlicher Praxis zusammenh�
 
 ## Was ist Forschungsdatenmanagement
 
-<!-- Abbildung 0053_THK_Tools ergänzen  -->
+<img src="../medien/icons/0017_THK_Tools.svg?autoSizes=true"
+     alt="Icon_Tools"
+     style="float: left; margin-right: 20px; width: 20%;" />
 
 Das Forschungsdatenmanagement, oft als FDM abgekürzt, umfasst sämtliche Stadien des
 Forschungsprozesses, beginnend bei der Datenerfassung und Dokumentation, über die Verarbeitung,
@@ -37,7 +39,9 @@ langfristig zugänglich, nutzbar und überprüfbar sein. Außerdem sorgt es daf�
 reproduziert werden können und von anderen genutzt werden können, um neue Erkenntnisse zu
 generieren.
 
-<!-- Abbildung 0047_THK_DMP ergänzen --> 
+<img src="../medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
+     alt="Icon_DMP_Dokumentation"
+     style="float: left; margin-right: 20px; width: 20%;" />
 
 Die Aufgaben des FDM variieren je nach Disziplin, Art der Daten und Forschungsumgebung. Dazu
 gehören die Dokumentation, die Festlegung von Dateinamen und -strukturen, die Sicherung der
@@ -64,51 +68,71 @@ erfolgreiches FDM zu Zeit- und Ressourceneinsparungen. Dies kann unter anderem d
 verbesserte Zusammenarbeit (durch gemeinsame Standards und Plattformen), Fehlervermeidung und
 Schutz vor Datenverlusten begründet sein.
 
-<!-- Abbildung 0041_THK_Forschungsarbeit ergänzen -->
+<img src="../medien/icons/0041_THK_Forschungsarbeit.svg?autoSizes=true"
+     alt="Icon_Forschungsarbeit"
+     style="float: right; margin-left: 20px; width: 10%;" />
 
 Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
 
 Reproduzierbarkeit und Vertrauenswürdigkeit: 
-<img width="15%" align="center" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+
+<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+     alt="Icon_Nachnutzung"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Ein solides FDM gewährleistet die
 Nachvollziehbarkeit und Reproduzierbarkeit von Forschungsergebnissen. Durch klare Dokumentation
 der Datenerhebung, -verarbeitung und -analyse können andere Forschende die Schritte
 rekonstruieren und Ergebnisse überprüfen, was das Vertrauen in wissenschaftliche Erkenntnisse
-stärkt. 
+stärkt.
 
-Wissensbewahrung: 
-<img width="15%" align="center" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
+Wissensbewahrung:
+
+<img src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true"
+     alt="Icon_Zugang"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Forschungsdaten sind wertvolle Ressourcen, die für spätere Analysen und
 Studien genutzt werden können. Ein strukturiertes FDM stellt sicher, dass Daten langfristig zugänglich
 und nutzbar bleiben, auch wenn Forschende die Institution verlassen oder Projekte abgeschlossen
-werden. 
+werden.
 
-Datenintegrität: 
-<img width="15%" align="center" alt="Icon_GWP" src="../medien/icons/0008_THK_GWP.svg?autoSizes=true">
+Datenintegrität:
+
+<img src="../medien/icons/0008_THK_GWP.svg?autoSizes=true"
+     alt="Icon_GWP"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Durch klare Datenmanagementverfahren können Fehler und Datenverluste minimiert
 werden. Ein durchdachtes FDM hilft, die Integrität der Daten über den gesamten Lebenszyklus hinweg
 zu gewährleisten.
 
-Zusammenarbeit und Vernetzung: 
-<!--<img width="15%" align="center" alt="Icon_Zusammenarbeit" src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true">-->
+Zusammenarbeit und Vernetzung:
+
+<img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+     alt="Icon_Zusammenarbeit"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Einheitliche Standards und Praktiken im FDM erleichtern die
 Zusammenarbeit zwischen Forschenden, Institutionen und Disziplinen. Gemeinsame Plattformen und
 Dateninfrastrukturen fördern den Austausch von Daten und erleichtern die Integration in breitere
 Forschungsgemeinschaften.
 
-Datenschutz und Ethik: 
-<img width="15%" align="center" alt="Icon_Ethikkommission" src="../medien/icons/G-0154_BUW_Icon_Ethikkommission.svg?autoSizes=true">
+Datenschutz und Ethik:
+
+<img src="../medien/icons/G-0154_BUW_Icon_Ethikkommission.svg?autoSizes=true"
+     alt="Icon_Ethikkommission"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Angesichts zunehmender Datenschutzanforderungen ist ein effektives FDM
 notwendig, um personenbezogene Daten angemessen zu schützen und ethische Richtlinien
 einzuhalten.
 
-Fördermittel und Sichtbarkeit: 
-<img width="15%" align="center" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
+Fördermittel und Sichtbarkeit:
+
+<img src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
+     alt="Icon_Leitlinien"
+     style="float: right; margin-left: 20px; width: 15%;" />
 
 Viele Förderinstitutionen und Verlage fordern mittlerweile die
 Einhaltung bestimmter FDM-Richtlinien. Ein gutes FDM kann daher den Zugang zu Fördermitteln
@@ -116,15 +140,21 @@ erleichtern und die Sichtbarkeit der Forschung erhöhen.
 
 ## FDM in Open Science [^1]
 
-<img width="15%" align="left" alt="Icon_OpenScience" src="../medien/icons/0014_THK_Open_Science.svg?autoSizes=true">
+<img src="../medien/icons/0014_THK_Open_Science.svg?autoSizes=true"
+     alt="Icon_OpenScience"
+     style="float: left; margin-right: 20px; width: 15%;" />
+
 Open Science und FDM sind zwei Konzepte, die Hand in Hand gehen, um die Forschungslandschaft
 grundlegend zu verändern und zu verbessern. Beide Ansätze teilen das Ziel, Wissenschaft offener,
 transparenter, nachvollziehbarer und kollaborativer zu gestalten, um die Qualität und den
-gesellschaftlichen Nutzen von Forschung zu maximieren. 
+gesellschaftlichen Nutzen von Forschung zu maximieren.
 
 ### Open Science
 
-<img width="15%" align="right" alt="Icon_Zugang" src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true">
+<img src="../medien/icons/G-0019_BUW_Icon_Zugang.svg?autoSizes=true"
+     alt="Icon_Zugang"
+     style="float: right; margin-left: 20px; width: 15%;" />
+
 Open Science bezieht sich auf den offenen Zugang zu wissenschaftlichem Wissen, Publikationen,
 Forschungsdaten und Methoden. Es strebt danach, wissenschaftliche Erkenntnisse für alle zugänglich
 zu machen, unabhängig von institutionellen oder geografischen Grenzen. Offener Zugang zu
@@ -134,12 +164,29 @@ wissenschaftlichen Diskussionen.
 
 ### 4 Grundprinzipien
 
- 1. Transparenz
- 2. Reproduzierbarkeit
- 3. Wiederverwendbarkeit
- 4. offene Kommunikation
+<img src="../medien/icons/G-0086_BUW_Icon_Transparenz.svg?autoSizes=true"
+     alt="Icon_Transparenz"
+     style="align: right; margin-left: 20px; width: 10%;" />
 
-<!-- G-0086_BUW_Icon_Transparenz ; G-0091_BUW_Icon_Reproduzierbarkeit ; G-0020_BUW_Icon_Nachnutzung ; G-0092_BUW_Icon_Zusammenarbeit -->
+ 1. Transparenz
+
+<img src="../medien/icons/G-0091_BUW_Icon_Reproduzierbarkeit.svg?autoSizes=true"
+     alt="Icon_Reproduzierbarkeit"
+     style="align: left; margin-right: 20px; width: 10%;" />
+
+ 2. Reproduzierbarkeit
+
+<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+     alt="Icon_Nachnutzung"
+     style="align: left; margin-right: 20px; width: 10%;" />
+
+ 3. Wiederverwendbarkeit
+
+<img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+     alt="Icon_Zusammenarbeit"
+     style="align: left; margin-right: 20px; width: 10%;" />
+
+ 4. offene Kommunikation
 
 ### Ziele
 
@@ -148,16 +195,31 @@ wissenschaftlichen Diskussionen.
 - Bestandteil der Sicherung guter wissenschaftlicher Praxis,
 - Wissenstransfer verbessern
 
-<!-- G-0133_BUW_Icon_Symbol-Qualität ; G-0132_BUW_Icon_Kosteneffizienz ; 0008_THK_GWP ; 0009_THK_Veroeffentlichen -->
+<img src="../medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
+     alt="Icon_Zusammenarbeit"
+     style="align: left; margin-right: 20px; width: 10%;" />
+<img src="../medien/icons/G-0132_BUW_Icon_Kosteneffizienz.svg?autoSizes=true"
+     alt="Icon_Kosteneffizienz"
+     style="align: left; margin-right: 20px; width: 10%;" />
+<img src="../medien/icons/0008_THK_GWP.svg?autoSizes=true"
+     alt="Icon_GWP"
+     style="align: left; margin-right: 20px; width: 10%;" />
+<img src="../medien/icons/0009_THK_Veroeffentlichen.svg?autoSizes=true"
+     alt="Icon_Veroeffentlichen"
+     style="align: left; margin-right: 20px; width: 10%;" />
 
 FDM hingegen konzentriert sich auf den Datenlebenszyklus, von der Erhebung über die Verarbeitung
 bis zur langfristigen Speicherung und Nutzung. Es legt den Grundstein für die systematische
 Organisation, Dokumentation und Verwaltung von Daten. Ein strukturiertes FDM stellt sicher, dass
 
-Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben. 
+Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugänglich bleiben.
 
-<!-- 0010_THK_DMP_Dokumentation ; 0022_THK_fröhliche_Person -->
-
+<img src="../medien/icons/0010_THK_DMP_Dokumentation.svg?autoSizes=true"
+     alt="Icon_DMP_Dokumentationn"
+     style="align: center; width: 15%;" />
+<img src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true"
+     alt="Icon_fröhliche_Person"
+     style="align: center; width: 15%;" />
 ---
 [^1]: Fühles-Ubach und Heidkamp (2022)
 
@@ -182,9 +244,12 @@ wissenschaftlichem Fehlverhalten, wie sie in diesem Falle die TH Köln verabschi
 Patrascu und Dmitrieva 2021). Weitere Informationen zum Thema wissenschaftliche Integrität finden
 Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 
-<img width="15%" align="center" alt="Icon_Leitlinien" src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true">
+<img src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
+     alt="Icon_Leitlinien"
+     style="float: left; margin-right: 10px; width: 15%;" />
 
-## Leitfragen und Aufgaben 
+
+## Leitfragen und Aufgaben
 
 ### Leitfragen
 
