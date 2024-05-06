@@ -11,3 +11,4 @@ docs/.vitepress/dist
 node_modules
 .temp
 *.tgz
+dist/*

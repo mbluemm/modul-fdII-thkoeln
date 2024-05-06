@@ -3,7 +3,7 @@
 
 layout: home
 icon: 
-  scr: '/logo_TH_Koeln.png'
+  src: 'medien/assets/logo_TH_Koeln.svg'
 title: FDM Basiskurs
 titleTemplate: Lerneinheiten, Lehrkonzepte, Kursmaterialien
 lastUpdated: true
@@ -12,7 +12,7 @@ hero:
   name: "FDM - Basiskurs"
   tagline: The best things in life aren't things!
   image:
-    src: logo_TH_Koeln.svg
+    src: 'medien/assets/logo_TH_Koeln.svg'
     alt: TH Köln
   actions:
     - theme: brand
