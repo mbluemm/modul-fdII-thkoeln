@@ -7,6 +7,7 @@ output:
         toc_float: true
 aside: true
 layout: doc
+bibliography: references.bib
 ---
 
 # Was sind Forschungsdaten?
@@ -178,7 +179,7 @@ START (National Consortium for the Study of Terrorism and Responses to Terrorism
 START. (2020). GTD Heatmaps. Abgerufen am 20. Oktober 2023, von [https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html](https://www.start.umd.edu/gtd/features/GTD_Heatmaps.html).
 
 ---
-[^1]: Sauther-Patrascu und Dmitrieva (2021)
+[^1]: Sauther-Patrascu und Dmitrieva (2021).
 [^2]: START (2022).
 [^3]: ebd.
 [^4]: START (2021), S. 4.
