@@ -10,8 +10,6 @@ aside: true
 
 # Metadaten
 
-<!-- 0005_THK_Metadaten ergänzen --> 
-
 :::info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_06_Metadaten. 
 Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_06_Metadaten.html
@@ -28,7 +26,6 @@ Metadatenstandards vorgestellt, die Sie zukünftig verwenden können.
 :::
 
 <!-- hier noch Video von Medienagentur und irgendwo im Skript eventuell noch Video I:[Metadatenformate](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk) (mp4, 5:34,[https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download](https://th-koeln.sciebo.de/s/IQkjPl7c7gxfzPk/download)) ergänzen --> 
-
 
 ## Was sind Metadaten und warum sind diese wichtig?
 
@@ -50,14 +47,15 @@ Aspekte rund um die Daten festzuhalten. Je länger man die Metadaten-Erstellung 
 eher läuft man Gefahr, dass einige Informationen nicht mehr rekonstruiert werden können (bspw. die
 Herkunft einzelner Daten).
 
-<!-- Abbildung 0044_THK_Metadaten austauschen/ergänzen -->
-![Was sind Metadaten? ](/medien/abbildungen/Metadata_DigitalPreservation_512.png)
-<br>
-<a href="https://commons.wikimedia.org/wiki/File:Metadata_DigitalPreservation.png">Jørgen Stamp</a>, <a href="https://creativecommons.org/licenses/by/2.5/dk/deed.en">CC BY 2.5 DK</a>, via Wikimedia Commons
+<img src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
+     alt="Icon_Metadaten"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 ## Wozu dienen Metadaten?
 
-<!-- 0005_THK_Metadaten ergänzen --> 
+<img src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
+     alt="Icon_Metadaten"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 (Wieder-)Auffindbarkeit: Metadaten ermöglichen es, Forschungsdaten effizient zu finden. Wenn
 nach Daten zu einem bestimmten Thema gesucht wird, helfen Metadaten, die relevanten Datensätze
@@ -99,9 +97,14 @@ organisieren und zu verwalten. Sie erleichtern die Identifizierung, Gruppierung 
 von Daten.
 
 ## Arten von Metadaten
-<!-- Abbildung 0045_THK_Rechercheergebnisse ergänzen -->
+<!-- Icon_Rechercheergebnisse
+<img src="../medien/icons/0005_THK_Metadaten.svg?autoSizes=true"
+     alt="Icon_Metadaten"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
- ### Fächerübergreifende Metadaten:[^1]
+-->
+
+### Fächerübergreifende Metadaten[^1]
 
 **Bibliografische Metadaten** dienen der Zitation von Daten und somit der Auffindbarkeit. 
 Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.  
@@ -118,7 +121,8 @@ Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.
 **Administrative Metadaten** sind für die Verwaltung und langfristige Aufbewahrung der Daten notwendig.
 <!-- das folgende in Textfeld SB: ?Textfeld? -->
 
-::: tip administrativ 
+::: tip administrativ
+
 - Dateityp
 - Dateiformat
 - Standort
@@ -130,18 +134,18 @@ Durch die Beschreibung können die Daten zudem thematisch eingeordnet werden.
     o Rechte: Urheberrecht bei Dr. Anna Müller, Datenzugriff nur für autorisierte Forscher.
 :::
 
-### Fachspezifische Metadaten:
+### Fachspezifische Metadaten
 
-**Prozessmetadaten / Kontextuelle Metadaten** 
+**Prozessmetadaten / Kontextuelle Metadaten**
 
-umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, 
-inklusive der verwendeten Methoden und Hilfsmitteln.
+umfassen die einzelnen Schritte der Enstehung und Verarbeitung der Daten, inklusive der verwendeten Methoden und Hilfsmitteln.
 
 ::: tip kontextuell
+
 - Projekt
 - Methodik
 - Arbeitsschritte
-    
+
     o Projekt: Langzeitstudie zur Artenvielfalt in tropischen Regenwäldern (Projektcode:RAINBIO)
     
     o Methodik: Systematische Stichprobenentnahme und Artenidentifikation
@@ -183,8 +187,7 @@ Metadaten werden in vielen Fällen automatisch generiert.
     o Aufnahmegerät: Canon EOS 5D Mark IV
 :::
 
-
-„**Inhaltsbeschreibende bzw. deskriptive Metadaten** variieren je nach Fachdisziplin und Methode. Sie bieten weitere Informationen zum Inhalt und der Datenerhebung.“ 
+„**Inhaltsbeschreibende bzw. deskriptive Metadaten** variieren je nach Fachdisziplin und Methode. Sie bieten weitere Informationen zum Inhalt und der Datenerhebung.“
 
 ---
 [^1]: Aufzählungen und Beispiele nach: Böker, 2023a
@@ -213,7 +216,7 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen ve
 
 ## Leitfragen und Aufgaben
 
-### Leitfragen 
+### Leitfragen
 
 <img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
      alt="Icon_Fragezeichen"
