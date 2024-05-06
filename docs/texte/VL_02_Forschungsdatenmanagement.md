@@ -68,13 +68,13 @@ erfolgreiches FDM zu Zeit- und Ressourceneinsparungen. Dies kann unter anderem d
 verbesserte Zusammenarbeit (durch gemeinsame Standards und Plattformen), Fehlervermeidung und
 Schutz vor Datenverlusten begründet sein.
 
-<img src="../medien/icons/0041_THK_Forschungsarbeit.svg?autoSizes=true"
+<!-- <img src="../medien/icons/0041_THK_Forschungsarbeit.svg?autoSizes=true"
      alt="Icon_Forschungsarbeit"
-     style="float: right; margin-left: 20px; width: 10%;" />
+     style="float: right; margin-left: 20px; width: 10%;" /> -->
 
 Die Relevanz von FDM zeigt sich in verschiedenen Aspekten:
 
-Reproduzierbarkeit und Vertrauenswürdigkeit: 
+Reproduzierbarkeit und Vertrauenswürdigkeit:
 
 <img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
@@ -109,9 +109,9 @@ zu gewährleisten.
 
 Zusammenarbeit und Vernetzung:
 
-<img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+<!-- <img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
-     style="float: left; margin-right: 20px; width: 15%;" />
+     style="float: left; margin-right: 20px; width: 15%;" /> -->
 
 Einheitliche Standards und Praktiken im FDM erleichtern die
 Zusammenarbeit zwischen Forschenden, Institutionen und Disziplinen. Gemeinsame Plattformen und
@@ -182,9 +182,9 @@ wissenschaftlichen Diskussionen.
 
  3. Wiederverwendbarkeit
 
-<img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
+<!-- <img src="../medien/icons/G-0092_BUW_Icon_Zusammenarbeit.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
-     style="align: left; margin-right: 20px; width: 10%;" />
+     style="align: left; margin-right: 20px; width: 10%;" /> -->
 
  4. offene Kommunikation
 
@@ -195,12 +195,12 @@ wissenschaftlichen Diskussionen.
 - Bestandteil der Sicherung guter wissenschaftlicher Praxis,
 - Wissenstransfer verbessern
 
-<img src="../medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
+<!-- <img src="../medien/icons/G-0133_BUW_Icon_Symbol-Qualität.svg?autoSizes=true"
      alt="Icon_Zusammenarbeit"
      style="align: left; margin-right: 20px; width: 10%;" />
 <img src="../medien/icons/G-0132_BUW_Icon_Kosteneffizienz.svg?autoSizes=true"
      alt="Icon_Kosteneffizienz"
-     style="align: left; margin-right: 20px; width: 10%;" />
+     style="align: left; margin-right: 20px; width: 10%;" /> -->
 <img src="../medien/icons/0008_THK_GWP.svg?autoSizes=true"
      alt="Icon_GWP"
      style="align: left; margin-right: 20px; width: 10%;" />
@@ -220,7 +220,7 @@ Forschungsdaten verlässlich, nachvollziehbar und für spätere Analysen zugäng
 <img src="../medien/icons/0022_THK_froehliche_Person.svg?autoSizes=true"
      alt="Icon_fröhliche_Person"
      style="align: center; width: 15%;" />
----
+
 [^1]: Fühles-Ubach und Heidkamp (2022)
 
 ## Was ist Gute wissenschaftliche Praxis?
@@ -232,6 +232,7 @@ Standards. Zur Dokumentation von Forschungsdaten gehört auch die Angabe von Que
 Inhaberschaft und Berechtigung zur Nutzung und Veröffentlichung (mehr dazu im Kapitel
 “Dokumentation von Daten”), (Sauther-Patrascu und Dmitrieva 2021).
 
+<!-- SB: bleibt drinnen? -->
 <a title="Jørgen Stamp
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Forside_DigitalBevaring.png"><img width="256" alt="Forside DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Forside_DigitalBevaring.png/512px-Forside_DigitalBevaring.png"></a>
 
@@ -247,7 +248,6 @@ Sie auf dem entsprechenden Portal der Deutschen Forschungsgemeinschaft.
 <img src="../medien/icons/0007_THK_Leitlinien.svg?autoSizes=true"
      alt="Icon_Leitlinien"
      style="float: left; margin-right: 10px; width: 15%;" />
-
 
 ## Leitfragen und Aufgaben
 
