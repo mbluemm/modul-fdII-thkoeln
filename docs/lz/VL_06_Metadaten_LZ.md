@@ -19,8 +19,9 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 ## Ausgangslage
 
+<!-- ohne ein konkretes Verständnis davon zu haben? -->
 - Die S. arbeiten mit Metadaten ohne ein konkretes Verständnis davon zu haben.
-
+<!-- FAIR-Prinzipien - Metadaten angesprochen -->
 - Den S. ist die Bedeutung von Metadaten für das FDM nicht bewusst.
 
 ## Lernziele für den Online-Kurs
@@ -36,7 +37,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | :--- | :--- | :--- |
 | 3 | Die S. sind in der Lage anhand eines Beispielprojekts sinnvolle Metadaten abzuleiten (5) und ihre Entscheidung zu begründen (6). | Die S. können Metadaten selber erstellen und ihr erworbenes Wissen künftig in Studienprojekten umsetzen. |
 
-## Detaillierte Kursplanung[^1] 
+## Detaillierte Kursplanung[^1]
 
 ### Online-Kurs
 
@@ -111,8 +112,7 @@ L. fragt die S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind
 
 L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung
 
-
-##  Materialien für die Präsenzphase (Szenarien)  
+## Materialien für die Präsenzphase (Szenarien)  
 
 ### Scary Tales
 

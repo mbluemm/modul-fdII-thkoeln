@@ -26,7 +26,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können die FAIR-Prinzipien benennen(1) und die einzelnen Aspekte beschreiben(1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. |
+| 1 | Die S. können die FAIR-Prinzipien benennen[(1)]() und die einzelnen Aspekte beschreiben(1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. |
 
 ## Lernziele für den Unterricht in Präsenz
 
@@ -132,7 +132,7 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 
