@@ -26,7 +26,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 ||||
 | :--- | :--- | :--- |
-| 1 | Die S. können die FAIR-Prinzipien benennen[(1)]() und die einzelnen Aspekte beschreiben(1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. |
+| 1 | Die S. können die FAIR-Prinzipien benennen(1) und die einzelnen Aspekte beschreiben(1). | Die S. wissen, wofür FAIR steht, was die Merkmale der Prinzipien sind und warum deren Beachtung im Forschungsprozess Vorteile hat. |
 
 ## Lernziele für den Unterricht in Präsenz
 
