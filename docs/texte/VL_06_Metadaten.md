@@ -203,7 +203,7 @@ Nachfolgend sind exemplarisch einige Metadatenstandards aus unterschiedlichen ve
 
 | Wissenschaftsdisziplin| Name des/der Standards | 
 | -------- | ------ |
-| fachübergreifende Standards | DataCite Schema, Dublin Core, MARC21,RADAR |
+| fachübergreifende Standards | DataCite Schema, Dublin Core, MARC21, RADAR |
 | Geisteswissenschaften | EAD, TEI P5, TEI Lex |
 | Geowissenschaften | AgMES, CSDGM, ISO 19115 |
 | Klimawissenschaften | CF Conventions|
