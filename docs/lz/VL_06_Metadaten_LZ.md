@@ -42,7 +42,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
-| Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>optionales Video und Quiz<br> | Die S. können Metadaten bezeichnen(2) und erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br>>Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
+| Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>optionales Video und Quiz<br> | Die S. können Metadaten bezeichnen(2) und erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br> Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
 
 ---
@@ -55,7 +55,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 |  Zeit  |  Inhalt  |  Ziele  |  Methoden / Medien (Arbeitsschritte)  |  Sozialform  |
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. | Begrüßung u. Vorstellung der zeitlichen und thematischen Agenda | L. bietet Orientierung |  | LV |
-| Ca. 20 min. | Plenumsdiskussion<br><br>„Was zeichnet eine möglichst schlechte Metadatenpraxis aus?“<br><br>alternativ<br><br>Scary Tales | Ergebnissicherung, Vertiefung der Inhalte aus der Online-PhaseDie S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Kopfstandmethode<br><br>Diskussion | PL |
+| Ca. 20 min. | Plenumsdiskussion<br><br>„Was zeichnet eine möglichst schlechte Metadatenpraxis aus?“<br><br>alternativ<br><br>Scary Tales | Ergebnissicherung, Vertiefung der Inhalte aus der Online-Phase<br>Die S. werden aktiviert und können ihr vorhandenes Vorwissen einbringen und gleichzeitig assoziatives Denken üben. | Kopfstandmethode<br><br>Diskussion | PL |
 
 #### Arbeitsphase
 
