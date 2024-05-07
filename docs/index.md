@@ -21,9 +21,9 @@ hero:
     - theme: alt
       text: Lehrkonzepte für Dozierende
       link: /lz/VL_01_Forschungsdaten_LZ.md
-    - theme: brand
-      text: Team
-      link: team.md
+    # - theme: brand
+    #   text: Team
+    #   link: team.md
 
 features:
   - icon: 🪼 
