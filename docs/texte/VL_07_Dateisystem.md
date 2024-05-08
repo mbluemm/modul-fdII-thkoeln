@@ -92,7 +92,7 @@ Aspekte beachtet sein:
 
 - Die Ordner sind nach Themen geordnet.
 - Die Ordnernamen verweisen auf Ordnerinhalte.
-- Rohdaten* sind in einem separaten Ordner abgelegt.
+- Rohdaten (unverarbeitete Originaldaten) sind in einem separaten Ordner abgelegt.
 - Laufende und abgeschlossene Arbeiten sind getrennt voneinander, d.h. in unterschiedlichen
     Ordnern, abgelegt.
 - Die Ordnerstruktur ist:
@@ -105,8 +105,6 @@ Aspekte beachtet sein:
 
 - Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
 Rechnern sein.
-
-* unverarbeitete Originaldaten <!-- als Fußnote ? --> 
 
 ::: tip
 Eine Dokumentation der Ordnerstruktur und Dateibenennungen in einer separaten (.txt) Datei auf
