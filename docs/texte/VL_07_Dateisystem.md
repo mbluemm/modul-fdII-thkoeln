@@ -106,7 +106,7 @@ Aspekte beachtet sein:
 - Für eine gute Übersicht sollten Verzeichnisstrukturen auf Servern identisch zu denen auf den lokalen
 Rechnern sein.
 
-* unverarbeitete Originaldaten
+* unverarbeitete Originaldaten <!-- als Fußnote ? --> 
 
 ::: tip
 Eine Dokumentation der Ordnerstruktur und Dateibenennungen in einer separaten (.txt) Datei auf
