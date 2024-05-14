@@ -47,8 +47,6 @@ decken unterschiedliche Forschungsthemen und Datenformate ab und dürfen (unter
 Einschränkungen) zur Nachnutzung verwendet werden. Unter diese Webseiten fallen
 Metasuchmaschinen, Datenportale und Repositorien. Diese werden hier vorgestellt und teilweise auch
 inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweiligen Webseiten erklären.
-Mehr zum Thema „Finding your Own Data“, bzw. "Wie komme ich zu interessanten Datensätzen und
-Fragestellungen?, erfahren Sie in diesem ‚Study Hall‘ Video (englisch, 11:22 Min.).
 
 ## Metasuchmaschinen und Datenportale
 
