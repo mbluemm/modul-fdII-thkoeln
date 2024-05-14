@@ -242,12 +242,6 @@ werden.
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
-ScaryTale
-
- <!-- 0038_THK_Buch -->
-
-Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html](https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html)
-
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
