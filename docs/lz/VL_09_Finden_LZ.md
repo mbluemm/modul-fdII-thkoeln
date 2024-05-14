@@ -115,6 +115,13 @@ Die Gruppen setzen sich zusammen und bearbeiten die Aufgabe. Dabei achten sie au
 - auf welche Aspekte sie geachtet haben.
 - Sie zitieren den Datensatz korrekterweise.
 
+Leitfragen (für die GA vor Ort):
+
+1. Welche Recherchemöglichkeiten finden Sie hilfreich, welche bringen Sie bei der Recherche
+    nicht weiter? Warum?
+2. Wie gehen Sie vor, um einen Forschungsdatensatz in Ihrem Repositorium zu finden?
+3. Entspricht der von Ihnen ausgewählte Forschungsdatensatz den FAIR-Prinzipien? Warum (nicht)?
+
 Nach der Gruppenarbeit bittet L. jede Gruppe ihre Arbeit und die Ergebnisse vorzutragen. Dabei muss jede Gruppe die oben definierten Aspekte beantworten sowie die drei Leitfragen im PL beantworten.
 
 ### Abschluss
