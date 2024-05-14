@@ -42,10 +42,10 @@ von Metasuchmaschinen, Datenportalen und Repositorien passende Datensätze finde
 , CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Websites_DigitalPreservation.png"><img width="256" alt="Websites DigitalPreservation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Websites_DigitalPreservation.png/256px-Websites_DigitalPreservation.png"></a>
 Quelle: Digitalbevaringdk Hjemmesider_DigitalBevaring
 
-Im FDM stehen über eine Anzahl an Webseiten veröffentlichte Datensätze zur Verfügung. Diese
-decken unterschiedliche Forschungsthemen und Datenformate ab und dürfen (unter
-Einschränkungen) zur Nachnutzung verwendet werden. Unter diese Webseiten fallen
-Metasuchmaschinen, Datenportale und Repositorien. Diese werden hier vorgestellt und teilweise auch
+Veröffentlichte Datensätze werden auf unterschiedlichen Webseiten zur Verfügung gestellt. Die Datensätze dürfen (unter
+Einschränkungen) zur Nachnutzung verwendet werden. Unter die Webseiten fallen
+Metasuchmaschinen, Datenportale und Repositorien, die jeweils unterschiedliche Forschungsthemen und Datenformate abdecken. 
+Die unterschiedlichen Arten der Webseiten werden hier vorgestellt und teilweise auch
 inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweiligen Webseiten erklären.
 
 ## Metasuchmaschinen und Datenportale
@@ -63,7 +63,7 @@ Beispiele für Metasuchmaschinen und Datenportale:
 <!-- 0001_THK_Beispiel einfügen -->
 
 - DataCite Commons → unterstützt die Suche in registrierten Datensätzen
-    
+    <!-- wo sind hier und auch bei den Repos die Verlinkungen hin? :( (KF) -->
     o Tutorial, englisch (3:26 Min.)
 - BASE → Suchmaschine für wissenschaftliche Webdokumente
     
@@ -86,7 +86,7 @@ Beispiele für Metasuchmaschinen und Datenportale:
 
 <!-- G-G-0034_BUW_Icon_Repositorium ergänzen -->
 
-Neben Metasuchmaschinen und Datenportalen, sind sogenannte Repositorien im Forschungsprozess
+Neben Metasuchmaschinen und Datenportalen sind sogenannte Repositorien im Forschungsprozess
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
 Datensätzen.
 
@@ -139,7 +139,7 @@ sich um ein qualitatives Repositorium eignet:
 
 
 Repositorien können mit Zertifikaten ausgezeichnet werden, die einen Mindestmaß an Qualität
-garantieren. Unter anderen, vergibt die community-basierte und gemeinnützige Organisation
+garantieren. U. a., vergibt die community-basierte und gemeinnützige Organisation
 CoreTrustSeal Core Level Zertifizierungen an Repositorien. Diese basieren auf dem DSA-WDS Core
 Trustworthy Data Repositories Requirements Catalogue. Repositorien sind qualitativ und können
 zertifiziert werden, wenn (Böker 2023a):
@@ -200,7 +200,7 @@ einer Creative-Commons-Lizenz hat keinen Einfluss auf das Urheberrecht, es werde
 Nutzungsrechte für Forschungsdaten vergeben. CC-Lizenzen sind international weit verbreitet,
 allerdings gibt es je nach Version der Lizenz nationale Anpassungen. Die aktuelle Version 4.0 ist
 international gültig.
-
+<!-- hier müssten noch die jeweiligen CC-Lizenzen als Icons/Abbildung hin -->
 ```
 Namensnennung
 CC BY
@@ -276,12 +276,12 @@ Merholz 2021 und FAQ 2021.
 Quelle: Digitalbevaringdk PID_Citation
 
 Die Herkunft nachgenutzter Datensätze muss, wie andere Quellen, die verwendet wurden, durch eine
-Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf die eigenen und fremden Beiträge ist eine grundlegende Voraussetzung für gute wissenschaftliche Praxis. Nach
-
-wissenschaftlichen Standards verfügen auffindbare Datensätze i. d. R. über folgende Informationen:
-
+Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf die eigenen und fremden Beiträge 
+ist eine grundlegende Voraussetzung für gute wissenschaftliche Praxis. 
+Nach wissenschaftlichen Standards verfügen auffindbare Datensätze i. d. R. über folgende Informationen:
+<!-- hier noch das Schlagwort (Urheber, Veröffentlichungsdatum,...) hervorheben? --> 
 ```
-Urheber Ab fünf Namen sollte mit “et al.” oder Ähnlichem
+Urheber Ab drei Namen sollte mit “et al.” oder Ähnlichem
 abgekürzt werden
 ```
 ```
@@ -320,37 +320,37 @@ oder
 - Urheber (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller
 Ressourcentyp. Identifikator
 (Böker 2023b)
-
+<!-- Inhalte von BUW einfügen --> 
 Eine Zusammenfassung mit mehr Information, inklusive der acht Prinzipien zur Zitation von
-Forschungsdaten, finden Sie in dieser Zusammenfassung.
+Forschungsdaten, finden Sie in dieser Zusammenfassung. <!-- in welcher Zusammenfassung? (KF) -->
 
 ## Leitfragen und Aufgaben
 
-### Leitfragen (für die EA online)
+### Leitfragen
 
-<!-- 0025_THK_Fragezeichen -->
+<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
+     alt="Icon_Fragezeichen"
+     style="float: left; margin-right: 10px; width: 15%;" />
+     
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten / Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
     begünstigen?
 
-### Leitfragen (für die GA vor Ort)
-
-1. Welche Recherchemöglichkeiten finden Sie hilfreich, welche bringen Sie bei der Recherche
-    nicht weiter? Warum?
-2. Wie gehen Sie vor, um einen Forschungsdatensatz in Ihrem Repositorium zu finden?
-3. Entspricht der von Ihnen ausgewählte Forschungsdatensatz den FAIR-Prinzipien? Warum
-    (nicht)?
 
 ### Aufgabe:
 
-<!-- 0034_THK_Aufgabe -->
+<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
+     alt="Icon_Aufgabe"
+     style="float: left; margin-right: 10px; width: 15%;" />
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
 ## Weiterführende Materialen und Quellen
 
-<!-- G-0044_BUW_Icon_Findability -->
+<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+     alt="Icon_Findability"
+     style="float: left; margin-right: 20px; width: 10%;" />
 
 ### Literatur
 
