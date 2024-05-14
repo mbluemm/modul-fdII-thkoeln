@@ -85,6 +85,8 @@ Begrüßung
 
 Aufgabe: Raten Sie und finden Sie gemeinsam eine Lösung für das ScaryTale.
 
+ScaryTale: Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html](https://forschungsdaten-thueringen.de/geschichten/articles/sharing-is-caring-ger.html)
+
 - Wo liegen die Fehler?
 - Was ist falsch gelaufen?
 - Wie kann es revidiert werden?
