@@ -24,7 +24,12 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 <!-- G-0044_BUW_Icon_Findability und G-0020_BUW_Icon_Nachnutzung neben Absatz darutner ergänzen-->
 ::: info Lernziele
-<img align="right" width="12%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"><br><img align="right" width="12%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+     alt="Icon_Findability"
+     style="float: left; margin-right: 10px; width: 10%;" />
+<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+     alt="Icon_Nachnutzung"
+     style="float: left; margin-right: 10px; width: 10%;" />
 In diesem Themenblock bekommen Sie eine Einführung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
 suchen können und insbesondere worauf Sie (auch zur Einhaltung der guten wissenschaftlichen
