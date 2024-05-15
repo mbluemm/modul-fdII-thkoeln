@@ -332,6 +332,7 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung. <!-- in welcher Zusammenf
 ## Leitfragen und Aufgaben
 
 ### Leitfragen 
+
 <img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
      
 1. Wie kann nach Forschungsdaten recherchiert werden?
@@ -340,12 +341,14 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung. <!-- in welcher Zusammenf
 
 
 ### Aufgabe: 
+
 <img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
 ## Weiterführende Materialen und Quellen 
+
 <img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
