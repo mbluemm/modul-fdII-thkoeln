@@ -322,7 +322,8 @@ platzsparender – mit einem Hyperlink
 (Böker 2023b)
 
 
-## Mögliche Zitation von Datensätzen <img align="right" width="12%" alt="Icon_Zitieren" src="../medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
+## Mögliche Zitation von Datensätzen 
+<img align="right" width="12%" alt="Icon_Zitieren" src="../medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
 <!-- 0015_THK_Zitieren neben Absatz ergänzen --> 
 
 - Urheber (Veröffentlichungsdatum): Titel. Publikationsagent. Identifikator
