@@ -23,7 +23,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 ## Lernziele
 
 <!-- G-0044_BUW_Icon_Findability und G-0020_BUW_Icon_Nachnutzung neben Absatz darutner ergänzen-->
-
+<img align="right" width="12%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"><br><img align="right" width="12%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 ::: info Lernziele
 In diesem Themenblock bekommen Sie eine Einführung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
@@ -51,6 +51,7 @@ inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweilig
 ## Metasuchmaschinen und Datenportale
 
 <!-- 0035_THK_Suchmaschine neben den Absatz darunter ergänzen --> 
+<img width="15%" align="right" alt="Icon_Suchmaschine" src="../medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
 
 In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. Eine
 Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
@@ -59,11 +60,11 @@ Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informatione
 öffentlichen Sektors (European Commission 2022).
 
 Beispiele für Metasuchmaschinen und Datenportale:
-
-<!-- 0001_THK_Beispiel einfügen -->
-
+<img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
+     alt="Icon_Beispiel"
+     style="float: left; margin-right: 10px; width: 18%;" />
 - DataCite Commons → unterstützt die Suche in registrierten Datensätzen
-    <!-- wo sind hier und auch bei den Repos die Verlinkungen hin? :( (KF) -->
+    <!-- wo sind hier und auch bei den Repos die Verlinkungen hin? :( Bulletpoints auflösen? (KF) -->
     o Tutorial, englisch (3:26 Min.)
 - BASE → Suchmaschine für wissenschaftliche Webdokumente
     
@@ -83,9 +84,8 @@ Beispiele für Metasuchmaschinen und Datenportale:
 - European Union Open Data Portal → macht offene Daten der EU zugänglich
 
 ## Repositorien
-
 <!-- G-G-0034_BUW_Icon_Repositorium ergänzen -->
-
+<img align="right" width="20%" alt="Icon__Repositorium" src="../medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true">
 Neben Metasuchmaschinen und Datenportalen sind sogenannte Repositorien im Forschungsprozess
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
 Datensätzen.
@@ -96,7 +96,9 @@ organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
 2015).
 
 Beispiele für Repositorien:
-<!-- 0001_THK_Beispiel ergänzen --> 
+<img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
+     alt="Icon_Beispiel"
+     style="float: left; margin-right: 10px; width: 18%;" />
 - re3data → Suche nach fachspezifischen Repositorien
     o Fachspezifische Suche nach Datensätzen
     o Tutorial, deutsch (2:59 Min.)
@@ -124,7 +126,7 @@ Hier sind einige Repositorien aufgeführt, die sich zur Suche nach fachspezifisc
 Datensätzen zur Nachnutzung im Forschungsprozess eignen. Doch auch Repositorien unterscheiden
 sich qualitativ und inhaltlich. Folgend sind einige Merkmale aufgelistet, die darauf hinweisen, ob es
 sich um ein qualitatives Repositorium eignet:
-
+<img align="right" width="25%" alt="Icon__Qualitätskontrolle" src="../medien/icons/0024_THK_Qualitätskontrolle.svg?autoSizes=true">
 - PID für Datensätze
 - PID für Autoren
 - Metadaten
@@ -151,11 +153,8 @@ zertifiziert werden, wenn (Böker 2023a):
 - Die Daten über PIDs zitierbar sind.
 
 ## Persistente Identifikatoren (PID)
-<-- 0021_THK_PID ergänzen --> 
-
-<!-- Quelle? -->
-![](https://)
-Quelle: Digitalbevaringdk PID_vaelge_PID_choose
+<!-- 0021_THK_PID ergänzen --> 
+<img align="right" width="15%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true">
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
 das? Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
@@ -167,15 +166,18 @@ Bekannte Beispiele von PIDs sind:
 - ORCID (Open Researcher Contributor Identification)
 - oder URN (Uniform Resource Name).
 
+<!-- Quelle?  bzw. hier noch Beispiele einfügen? -->
+![](https://)
+Quelle: Digitalbevaringdk PID_vaelge_PID_choose 
+
 Im Gegensatz zu anderen seriellen Identifikatoren (bspw. URL-Adressen) verweist ein PID auf das
 Objekt selbst und nicht auf seinen Standort im Internet. Die Forschungsdaten sollen mit PIDs
 versehen werden. Ein PID stellt sicher, dass Daten adressierbar und identifizierbar sind. Er kann
 während des Forschungsprozesses und zur Publikation von Forschungsdaten verwendet werden.
 
 ## Wichtige Aspekte, die bei der Nachnutzung von Daten
-
 <!-- G-0020_BUW_Icon_Nachnutzung --> 
-
+<img align="right" width="15%" alt="Icon__Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nachzunutzen, sind
 einige Aspekte zu beachten.
 
@@ -200,7 +202,7 @@ einer Creative-Commons-Lizenz hat keinen Einfluss auf das Urheberrecht, es werde
 Nutzungsrechte für Forschungsdaten vergeben. CC-Lizenzen sind international weit verbreitet,
 allerdings gibt es je nach Version der Lizenz nationale Anpassungen. Die aktuelle Version 4.0 ist
 international gültig.
-<!-- hier müssten noch die jeweiligen CC-Lizenzen als Icons/Abbildung hin -->
+<!-- hier müssten noch die jeweiligen CC-Lizenzen als Icons/Abbildung hin (KF) -->
 ```
 Namensnennung
 CC BY
@@ -313,44 +315,33 @@ platzsparender – mit einem Hyperlink
 (Böker 2023b)
 
 
-## Mögliche Zitation von Datensätzen
+## Mögliche Zitation von Datensätzen <img align="right" width="12%" alt="Icon_Zitieren" src="../medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
 <!-- 0015_THK_Zitieren neben Absatz ergänzen --> 
+
 - Urheber (Veröffentlichungsdatum): Titel. Publikationsagent. Identifikator
 oder
 - Urheber (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller
 Ressourcentyp. Identifikator
 (Böker 2023b)
-<!-- Inhalte von BUW einfügen --> 
+<!-- Inhalte von BUW einfügen? (KF) --> 
 Eine Zusammenfassung mit mehr Information, inklusive der acht Prinzipien zur Zitation von
 Forschungsdaten, finden Sie in dieser Zusammenfassung. <!-- in welcher Zusammenfassung? (KF) -->
 
 ## Leitfragen und Aufgaben
 
-### Leitfragen
-
-<img src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true"
-     alt="Icon_Fragezeichen"
-     style="float: left; margin-right: 10px; width: 15%;" />
+### Leitfragen <img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
      
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten / Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
     begünstigen?
 
 
-### Aufgabe:
-
-<img src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true"
-     alt="Icon_Aufgabe"
-     style="float: left; margin-right: 10px; width: 15%;" />
+### Aufgabe: <img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
-## Weiterführende Materialen und Quellen
-
-<img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
-     alt="Icon_Findability"
-     style="float: left; margin-right: 20px; width: 10%;" />
+## Weiterführende Materialen und Quellen <img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
 
