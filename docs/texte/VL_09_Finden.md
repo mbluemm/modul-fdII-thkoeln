@@ -23,8 +23,8 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 ## Lernziele
 
 <!-- G-0044_BUW_Icon_Findability und G-0020_BUW_Icon_Nachnutzung neben Absatz darutner ergänzen-->
-<img align="right" width="12%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"><br><img align="right" width="12%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 ::: info Lernziele
+<img align="right" width="12%" alt="Icon_Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"><br><img align="right" width="12%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 In diesem Themenblock bekommen Sie eine Einführung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
 suchen können und insbesondere worauf Sie (auch zur Einhaltung der guten wissenschaftlichen
@@ -59,10 +59,11 @@ vollständige und angemessene Antworten auf eine Frage zu geben (Arimetrics 2022
 Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informationen des
 öffentlichen Sektors (European Commission 2022).
 
-Beispiele für Metasuchmaschinen und Datenportale:
 <img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
+Beispiele für Metasuchmaschinen und Datenportale:
+
 - DataCite Commons → unterstützt die Suche in registrierten Datensätzen
     <!-- wo sind hier und auch bei den Repos die Verlinkungen hin? :( Bulletpoints auflösen? (KF) -->
     o Tutorial, englisch (3:26 Min.)
@@ -95,10 +96,11 @@ möglichst dauerhaft – anhand der Anforderungen der jeweiligen Nutzergruppe �
 organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“ (forschungsdaten.org,
 2015).
 
-Beispiele für Repositorien:
 <img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
+Beispiele für Repositorien:
+
 - re3data → Suche nach fachspezifischen Repositorien
     o Fachspezifische Suche nach Datensätzen
     o Tutorial, deutsch (2:59 Min.)
@@ -329,19 +331,22 @@ Forschungsdaten, finden Sie in dieser Zusammenfassung. <!-- in welcher Zusammenf
 
 ## Leitfragen und Aufgaben
 
-### Leitfragen <img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
+### Leitfragen 
+<img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
      
 1. Wie kann nach Forschungsdaten recherchiert werden?
 2. Welche Möglichkeiten / Initiativen gibt es, die Nachnutzung von Forschungsdaten zu
     begünstigen?
 
 
-### Aufgabe: <img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
+### Aufgabe: 
+<img align="left" width="10%" alt="Icon_Aufgabe" src="../medien/icons/0034_THK_Aufgabe.svg?autoSizes=true">
 
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
-## Weiterführende Materialen und Quellen <img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
+## Weiterführende Materialen und Quellen 
+<img align="right" width="15%" alt="Icon_Findability" src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true">
 
 ### Literatur
 
