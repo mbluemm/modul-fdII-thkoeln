@@ -11,7 +11,7 @@ aside: true
 # Daten finden und nachnutzen
 
 :::info Zitation:
-Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_09_Finden. 
+Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_09_Finden.
 Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_09_Finden.html
 :::
 
@@ -44,7 +44,7 @@ Quelle: Digitalbevaringdk Hjemmesider_DigitalBevaring
 
 Veröffentlichte Datensätze werden auf unterschiedlichen Webseiten zur Verfügung gestellt. Die Datensätze dürfen (unter
 Einschränkungen) zur Nachnutzung verwendet werden. Unter die Webseiten fallen
-Metasuchmaschinen, Datenportale und Repositorien, die jeweils unterschiedliche Forschungsthemen und Datenformate abdecken. 
+Metasuchmaschinen, Datenportale und Repositorien, die jeweils unterschiedliche Forschungsthemen und Datenformate abdecken.
 Die unterschiedlichen Arten der Webseiten werden hier vorgestellt und teilweise auch
 inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweiligen Webseiten erklären.
 
@@ -121,14 +121,15 @@ Beispiele für Repositorien:
     ausgelegt.
        o wird von der Nature Publishing Group angeboten.
 
-
 ### Qualitätsmerkmale eines guten Repositoriums
 <!-- 0024_THK_Qualitätskontrolle ergänzen --> 
 Hier sind einige Repositorien aufgeführt, die sich zur Suche nach fachspezifischen und qualitativen
 Datensätzen zur Nachnutzung im Forschungsprozess eignen. Doch auch Repositorien unterscheiden
 sich qualitativ und inhaltlich. Folgend sind einige Merkmale aufgelistet, die darauf hinweisen, ob es
 sich um ein qualitatives Repositorium eignet:
+
 <img align="right" width="25%" alt="Icon__Qualitätskontrolle" src="../medien/icons/0024_THK_Qualitätskontrolle.svg?autoSizes=true">
+
 - PID für Datensätze
 - PID für Autoren
 - Metadaten
@@ -140,7 +141,6 @@ sich um ein qualitatives Repositorium eignet:
 - Versionierung
 - Anmeldung und Bearbeitung
 - Auffindung durch Suchmaschine
-
 
 Repositorien können mit Zertifikaten ausgezeichnet werden, die einen Mindestmaß an Qualität
 garantieren. U. a., vergibt die community-basierte und gemeinnützige Organisation
