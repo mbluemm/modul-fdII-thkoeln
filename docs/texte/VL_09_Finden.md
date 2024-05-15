@@ -24,12 +24,14 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 <!-- G-0044_BUW_Icon_Findability und G-0020_BUW_Icon_Nachnutzung neben Absatz darutner ergänzen-->
 ::: info Lernziele
+
 <img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 10px; width: 10%;" />
 <img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
      alt="Icon_Nachnutzung"
      style="float: left; margin-right: 10px; width: 10%;" />
+     
 In diesem Themenblock bekommen Sie eine Einführung in die Suche und Nachnutzung von Daten.
 Speziell wird darauf eingegangen, wo Sie nach relevanten Datensätzen (für ein Forschungsprojekt)
 suchen können und insbesondere worauf Sie (auch zur Einhaltung der guten wissenschaftlichen
@@ -67,6 +69,7 @@ Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informatione
 <img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
+     
 Beispiele für Metasuchmaschinen und Datenportale:
 
 - DataCite Commons → unterstützt die Suche in registrierten Datensätzen
@@ -92,6 +95,7 @@ Beispiele für Metasuchmaschinen und Datenportale:
 ## Repositorien
 <!-- G-G-0034_BUW_Icon_Repositorium ergänzen -->
 <img align="right" width="20%" alt="Icon__Repositorium" src="../medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true">
+
 Neben Metasuchmaschinen und Datenportalen sind sogenannte Repositorien im Forschungsprozess
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
 Datensätzen.
@@ -104,6 +108,7 @@ organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
 <img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
      style="float: left; margin-right: 10px; width: 18%;" />
+     
 Beispiele für Repositorien:
 
 - re3data → Suche nach fachspezifischen Repositorien
@@ -185,6 +190,7 @@ während des Forschungsprozesses und zur Publikation von Forschungsdaten verwend
 ## Wichtige Aspekte, die bei der Nachnutzung von Daten
 <!-- G-0020_BUW_Icon_Nachnutzung --> 
 <img align="right" width="15%" alt="Icon__Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
+
 Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nachzunutzen, sind
 einige Aspekte zu beachten.
 
@@ -323,6 +329,7 @@ platzsparender – mit einem Hyperlink
 
 
 ## Mögliche Zitation von Datensätzen 
+
 <img align="right" width="12%" alt="Icon_Zitieren" src="../medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
 <!-- 0015_THK_Zitieren neben Absatz ergänzen --> 
 
