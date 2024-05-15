@@ -176,6 +176,7 @@ Dateiformate können folgendermaßen konvertiert werden:
 - verlustbehaftet → für geringere Dateigrößen
 - sinnhaft → wesentliche Inhalte bleiben bestehen. 
 <!-- SB: ??--> 
+<!-- SB: bei Torsten nachschauen-->
 Mehr zu empfohlenen Textformaten (u.A.) und Konvertierungen unter Formatinformation (pdf).
 Mehr zu geeigneten und ungeeigneten Datenformaten unter (Böker 2023b).
 

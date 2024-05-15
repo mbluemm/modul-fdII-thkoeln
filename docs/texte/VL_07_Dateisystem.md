@@ -36,10 +36,10 @@ dabei zu beachten sind.
 
 Quelle: Digitalbevaringdk HvadErDigitalBevaring DigitalBevaring
 
-<!-- mit Abbildung 0051_THK_Datenchaos ersetzen --> 
+<!-- mit Abbildung 0051_THK_Datenchaos ersetzen -->
 
-Bei jeglicher Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
-gute Struktur und Benennung empfehlenswert. 
+Bei Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
+gute Struktur und Benennung empfehlenswert.
 
 <!--0006_THK_Organisieren einfügen -->
 
@@ -54,7 +54,7 @@ Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 - Je größer die Datenmenge ist, umso wichtiger ist ein gutes Datenmanagement.
 - Der aktuellste Forschungsstand ist schnell identifizierbar.
 - Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig
-    sichergestellt. 
+    sichergestellt.
 
     o Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
     
