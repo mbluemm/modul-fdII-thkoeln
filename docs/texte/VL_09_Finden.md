@@ -16,13 +16,12 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 :::
 
 <!-- in der VL noch ggf. Abbildungen 0045_THK_Rechercheergebnisse; 0048_THK_Zitieren; 0056_THK_Zugriffsrechte; 0058_THK_PID; 0060_THK_Recherche;0059_THK_Qualitätskontrolle ergänzen --> 
-<!-- hier noch unsere erarbeiteten Materialien der HIP ergänzen? https://liascript.github.io/course/?https://raw.githubusercontent.com/TH-Koeln-FDM/HIP/main/Materialien-Daten.md#8 -->
+
 
 [[toc]]
 
 ## Lernziele
 
-<!-- G-0044_BUW_Icon_Findability und G-0020_BUW_Icon_Nachnutzung neben Absatz darutner ergänzen-->
 ::: info Lernziele
 
 <img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
@@ -57,7 +56,6 @@ inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweilig
 
 ## Metasuchmaschinen und Datenportale
 
-<!-- 0035_THK_Suchmaschine neben den Absatz darunter ergänzen --> 
 <img width="15%" align="right" alt="Icon_Suchmaschine" src="../medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
 
 In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. Eine
@@ -72,28 +70,26 @@ Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informatione
      
 Beispiele für Metasuchmaschinen und Datenportale:
 
-- DataCite Commons → unterstützt die Suche in registrierten Datensätzen
-    <!-- wo sind hier und auch bei den Repos die Verlinkungen hin? :( Bulletpoints auflösen? (KF) -->
-    o Tutorial, englisch (3:26 Min.)
-- BASE → Suchmaschine für wissenschaftliche Webdokumente
+- [DataCite Commons](https://commons.datacite.org/)  → unterstützt die Suche in registrierten Datensätzen
+
+    - [Tutorial](https://www.youtube.com/watch?v=XXEMEhEnrGs&list=PLNfmVgA6BeiRmsql_nfMWz_jsVxUf3_GZ&index=8), englisch (3:26 Min.)
+
+- [BASE](https://www.base-search.net/) → Suchmaschine für wissenschaftliche Webdokumente
     
-    o Tutorial, deutsch (3:10 Min.)
+    - [Tutorial](https://www.youtube.com/watch?v=cu4JYtyAXQo), deutsch (3:10 Min.)
     
-    o Unter „Suchergebnis eingrenzen“: „Dokumentart“ 
-    
-    → „Forschungsdaten“; „Nachnutzung“
-    
-    → „Open Access“
-- Google Dataset Search → durchsucht laut Google Millionen von Datensätzen in tausenden
-    Repositorien
+    - unter „Suchergebnis eingrenzen“ → „Dokumentart“:„Forschungsdaten“; „Nachnutzung“:„Open Access“
+      
+- [Google Dataset Search](https://datasetsearch.research.google.com/) → durchsucht laut Google Millionen von Datensätzen in tausenden Repositorien
        
-    o Tutorial, englisch (3:28Min.)
-- govdata → bietet Zugang zu offenen Daten von Bundes-, Landes- und Kommunalverwaltungen in
-    Deutschland
-- European Union Open Data Portal → macht offene Daten der EU zugänglich
+    - [Tutorial](https://www.youtube.com/watch?v=XWWGHsF0k3w), englisch (3:28Min.)
+
+- [govdata](https://www.govdata.de/) → bietet Zugang zu offenen Daten von Bundes-, Landes- und Kommunalverwaltungen in Deutschland
+
+- [European Union Open Data Portal](https://data.europa.eu/en) → macht offene Daten der EU zugänglich
 
 ## Repositorien
-<!-- G-G-0034_BUW_Icon_Repositorium ergänzen -->
+
 <img align="right" width="20%" alt="Icon__Repositorium" src="../medien/icons/G-0034_BUW_Icon_Repositorium.svg?autoSizes=true">
 
 Neben Metasuchmaschinen und Datenportalen sind sogenannte Repositorien im Forschungsprozess
@@ -111,28 +107,29 @@ organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
      
 Beispiele für Repositorien:
 
-- re3data → Suche nach fachspezifischen Repositorien
-    o Fachspezifische Suche nach Datensätzen
-    o Tutorial, deutsch (2:59 Min.)
-    o Tutorial, englisch, detaillierter (4:11 Min.)
-- DFG RIsources
-    o Informationsportal zu wissenschaftlichen Forschungsinfrastrukturen: Stellt
+- [re3data](https://www.re3data.org/browse/by-subject/) → Suche nach fachspezifischen Repositorien
+    - Fachspezifische Suche nach Datensätzen
+    - [Tutorial](https://www.youtube.com/watch?v=38_ETsB06I4), deutsch (2:59 Min.)
+    - [Tutorial](https://www.youtube.com/watch?v=cutUrqJqjp4), englisch, detaillierter (4:11 Min.)
+- [DFG RIsources](https://risources.dfg.de/)
+    - Informationsportal zu wissenschaftlichen Forschungsinfrastrukturen: Stellt
        Wissenschaftler:innen Ressourcen und Dienstleistungen zur Planung und Durchführung
        von Forschungsvorhaben bereit.
-- Zenodo → disziplinübergreifende Suche
-    o wird von der Europäischen Kommission finanziert, ist aus dem Projekt OpenAIRE
+- [Zenodo](https://zenodo.org/) → disziplinübergreifende Suche
+    - wird von der Europäischen Kommission finanziert, ist aus dem Projekt OpenAIRE
        entstanden und wird am CERN gehostet.
-- EUDAT/B2Share → soll den Umgang mit Forschungsdaten vereinfachen.
-    o Die Plattform ist aus dem Horizon 2020 Förderungsprogramm der Europäischen Union
+- [EUDAT/B2Share](https://b2share.eudat.eu/) → soll den Umgang mit Forschungsdaten vereinfachen.
+    - Die Plattform ist aus dem Horizon 2020 Förderungsprogramm der Europäischen Union
        entstanden.
-- OSF
-    o wurde vom Center for Open Science entwickelt und wird in den USA gehostet.
-- figshare → besonders für visuelle Grafikdatensätze wie Poster, Diagramme oder Videos
+- [OSF](https://osf.io/)
+    - wurde vom Center for Open Science entwickelt und wird in den USA gehostet.
+- [figshare](https://figshare.com/) → besonders für visuelle Grafikdatensätze wie Poster, Diagramme oder Videos
     ausgelegt.
-       o wird von der Nature Publishing Group angeboten.
+       - wird von der Nature Publishing Group angeboten.
+<!-- Beispielszeniarien von HIP einfügen, wenn Videos gekürzt -->
 
 ### Qualitätsmerkmale eines guten Repositoriums
-<!-- 0024_THK_Qualitätskontrolle ergänzen --> 
+
 Hier sind einige Repositorien aufgeführt, die sich zur Suche nach fachspezifischen und qualitativen
 Datensätzen zur Nachnutzung im Forschungsprozess eignen. Doch auch Repositorien unterscheiden
 sich qualitativ und inhaltlich. Folgend sind einige Merkmale aufgelistet, die darauf hinweisen, ob es
@@ -165,7 +162,7 @@ zertifiziert werden, wenn (Böker 2023a):
 - Die Daten über PIDs zitierbar sind.
 
 ## Persistente Identifikatoren (PID)
-<!-- 0021_THK_PID ergänzen --> 
+
 <img align="right" width="15%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true">
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
@@ -188,7 +185,7 @@ versehen werden. Ein PID stellt sicher, dass Daten adressierbar und identifizier
 während des Forschungsprozesses und zur Publikation von Forschungsdaten verwendet werden.
 
 ## Wichtige Aspekte, die bei der Nachnutzung von Daten
-<!-- G-0020_BUW_Icon_Nachnutzung --> 
+
 <img align="right" width="15%" alt="Icon__Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
 Um bereits erhobene und publizierte Daten nach wissenschaftlichen Standards nachzunutzen, sind
@@ -331,7 +328,6 @@ platzsparender – mit einem Hyperlink
 ## Mögliche Zitation von Datensätzen 
 
 <img align="right" width="12%" alt="Icon_Zitieren" src="../medien/icons/0015_THK_Zitieren.svg?autoSizes=true">
-<!-- 0015_THK_Zitieren neben Absatz ergänzen --> 
 
 - Urheber (Veröffentlichungsdatum): Titel. Publikationsagent. Identifikator
 oder
@@ -339,8 +335,39 @@ oder
 Ressourcentyp. Identifikator
 (Böker 2023b)
 <!-- Inhalte von BUW einfügen? (KF) --> 
-Eine Zusammenfassung mit mehr Information, inklusive der acht Prinzipien zur Zitation von
-Forschungsdaten, finden Sie in dieser Zusammenfassung. <!-- in welcher Zusammenfassung? (KF) -->
+
+### Beispielszenarien für die Zitation von Datensätzen 
+
+- **Beispielszenario 1: Interaktive Mobilitätsstudie: Bike Sharing in Köln**
+
+[Quelle](https://av.tib.eu/media/35422)
+
+<p align="center">
+    <img src="Materialien/img/Screenshot_Bike-Sharing-Köln.png"/>
+</p>
+
+- **Eser, Alexander (2018): Interaktive Mobilitätsstudie - Bike Sharing Köln. Kaufberater.io. Stummfilm. https://doi.org/10.5446/35422**
+
+- **Beispielszenario 2: Refill Stationen Coffee to-go in Bonn** 
+
+[Quelle](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
+
+<p align="center">
+    <img src="Materialien/img/Screenshot_Coffee-to-go.png" />
+</p>
+
+
+- o.A. (2023, 02. Mai): Refill Stationen - Coffee to go. Open.NRW. Datensatz. Eingeschränkte Nutzung.
+  
+- **Beispielszenario 3: Indikator Klimasensitive Vogelarten** 
+
+[Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
+
+<p align="center">
+    <img src="Materialien/img/Screenshot_Indikator_Klimasensitive_Vogelarten.png" />
+</p>
+
+- o.A. (2021, 06. Oktober): Indikator Klimasensitive Vogelarten. Geoportal. Datensatz. https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de
 
 ## Leitfragen und Aufgaben
 
