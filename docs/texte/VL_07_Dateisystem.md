@@ -17,7 +17,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 <img src="../medien/icons/0027_THK_Ordnerstruktur.svg?autoSizes=true"
      alt="Icon_Ordnerstruktur"
-     style="float: left; margin-right: 20px; width: 15%;" />
+     style="float: right; margin-left: 20px; width: 15%;" />
 
 <img src="../medien/icons/0029_THK_Dateibenennung.svg?autoSizes=true"
      alt="Icon_Dateibenennung"
@@ -121,8 +121,9 @@ oberster (Baum-)Ebene aufbewahren. Zur Nachvollziehbarkeit zu einem späteren Ze
 :::
 
 ## Dateien benennen
-
+<!--
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#)
+-->
 
 Neben einer sinnvoll gegliederten und konsequenten Ordnerstruktur ist auch eine klare Benennung
 von Dateien essentiell, denn diese führt zu
@@ -173,11 +174,13 @@ kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vg
     2023 - 05 - 17_Projekt_Erdnussbutter_ v10 statt _2023- 05 - 17_Projekt_Erdnussbutter_final
     2023 - 05 - 17_Projekt_Erdnussbutter_v01 wird nach einer (umfangreichen) Änderung zu
     2023 - 05 - 17_Projekt_Erdnussbutter_v02
+:::
 
 ::: warning Hinweis: Das Erstellungs- und das Änderungsdatum können beim Kopieren auf externe Backupdatenträger überschrieben
 werden.
+:::
 
-::: tip
+::: info Abkürzungen
 
 <img src="../medien/icons/0020_THK_Idee.svg?autoSizes=true"
      alt="Icon_Idee"
@@ -188,7 +191,7 @@ Auch eine generelle Dokumentation der Dateibenennungen aufbewahren (zur Nachvoll
 zu einem späteren Zeitpunkt oder von anderen)
 :::
 
-::: tip
+::: info Versionierung
 
 <img src="../medien/icons/0020_THK_Idee.svg?autoSizes=true"
      alt="Icon_Idee"
@@ -199,8 +202,10 @@ Archivordner („Archiv“) im Hauptordner verschoben. Das vermeidet das Duplizi
 unterschiedlichen Bearbeitungsständen.
 :::
 
+::: warning Sonderzeichen
 
-::: warning
+Die folgenden Zeichen dürfen in Dateinamen nicht verwendet werden, da sie in Betriebssystemen für interne Verwaltung reserviert sind:
+
 \
 { }
 < >
@@ -222,12 +227,12 @@ unterschiedlichen Bearbeitungsständen.
      alt="Icon_Beispiel"
      style="float: left; margin-right: 20px; width: 15%;" />
 
-```
+::: info Datierung
 Datum_[Status]-Dokumententyp-[Autor:in]-Inhalt[_Version]
-```
-```
-Felder
-```
+:::
+
+::: info Felder
+
 - Datum: JJJJ-MM-TT
 - Status: z.B. ENTWURF
 - Dokumententyp: z.B. Anschreiben, Interviewleitfaden, Konzept, Liste, ...
@@ -235,25 +240,12 @@ Felder
 - Inhalt: Thema / Inhalt des Dokuments
 - Version: Bei versionierten Dokumenten wird die Version bei jeder Änderung hochgezählt z.B.
     _v1, _v2, ...
+:::
 
 Zur gleichzeitigen Umbenennung mehrerer Dateien, können unterschiedliche Softwaretools verwendet
 werden.
 
 (Krähwinkel, 2022)
-
-<!-- Quiz von 07_Arbeitsblatt_Ordnung_Struktur von sciebo-Ordner einfügen -->
-Welche dieser Beispiele folgen einer guten Bennenungskonvention?
-
-a) Olga_170413_probe17k
-b) Naturepaper karl britta james fertig! Vm4520132Schmidt.pdf
-c) 647749157.pdf
-d) 170413_probe17k_olga Naturepaper+karl+britta+james &nal Olga170413probe17k
-e) Krst_765_spkt_1203 Naturepaper+karl+britta+james fertig! überarbeitet </br>
-f) Kristall_765_spektr_20161203 Nature_karlbrittajames_endendversion 28q8QGlHKwrRw.pdf g) Tagung_Digitale_Wissenschaft.pdf
-
-Bitte entwerfen Sie eine Benennungskonvention für Ihre Dateien und geben ein paar Beispiele:
-
-Bitte entwerfen Sie eine Struktur für Ihre Ablage als Verzeichnisbaum:
 
 ## Leitfragen und Aufgaben
 
@@ -279,6 +271,21 @@ Bitte entwerfen Sie eine Struktur für Ihre Ablage als Verzeichnisbaum:
 Arbeiten Sie die angegebenen Materialien durch und beantworten Sie für sich die Fragen.
 Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
+<!-- Quiz von 07_Arbeitsblatt_Ordnung_Struktur von sciebo-Ordner einfügen -->
+Welche dieser Beispiele folgen einer guten Bennenungskonvention?
+
+- a) Olga_170413_probe17k </br>
+- b) Naturepaper karl britta james fertig! Vm4520132Schmidt.pdf </br>
+- c) 647749157.pdf </br>
+- d) 170413_probe17k_olga Naturepaper+karl+britta+james &nal Olga170413probe17k </br>
+- e) Krst_765_spkt_1203 Naturepaper+karl+britta+james fertig! überarbeitet </br>
+- f) Kristall_765_spektr_20161203 Nature_karlbrittajames_endendversion 28q8QGlHKwrRw.pdf </br>
+- g) Tagung_Digitale_Wissenschaft.pdf </br>
+
+<!--
+Entwerfen Sie eine Benennungskonvention für Ihre Dateien und geben ein paar Beispiele:
+Entwerfen Sie eine Struktur für Ihre Ablage als Verzeichnisbaum:
+-->
 ## Weiterführende Materialen und Quellen
 
 ### Literatur
