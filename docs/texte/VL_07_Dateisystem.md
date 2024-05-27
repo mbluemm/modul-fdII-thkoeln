@@ -36,11 +36,12 @@ dabei zu beachten sind.
 <!-- Video von Medienagentur einfügen -->
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
-
+<!--
 <img src="../medien/icons/0051_THK_Datenchaos.svg?autoSizes=true"
      alt="Icon_Datenchaos"
      style="float: left; margin-right: 20px; width: 15%;" />
-
+-->
+‚
 Bei Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
 gute Struktur und Benennung empfehlenswert.
 
@@ -282,10 +283,11 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Literatur
 
-<!-- G-0044_BUW_Icon_Findability -->
+<!-- G-0044_BUW_Icon_Findability
 <img src="../medien/icons/00G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
      style="float: left; margin-right: 20px; width: 15%;" />
+ -->
 
 Böker, E. (2023, 24. Juli). Formate erhalten. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
