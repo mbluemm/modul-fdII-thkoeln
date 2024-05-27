@@ -8,7 +8,7 @@ output:
 aside: true
 ---
 
-# Metadaten 
+# Metadaten
 
 :::info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_06_Metadaten_LZ. 
@@ -46,7 +46,6 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 30 min. | Einführung in das Thema:<br>Infotext zu Metadaten inkl. Grafiken:<br><ul><li>Was sind Metadaten?</li><li>Zweck</li><li>Beispiele</li><li>Arten von Metadaten</li><li>Metadatenstandards</li></ul><br>optionales Video und Quiz<br> | Die S. können Metadaten bezeichnen(2) und erläutern(2), welche Funktionen Metadaten (insbesondere für die Nachnutzung von Daten) im FDM/ Forschungsprozess haben.<br> Die S. sind in der Lage, anhand von Beispielszenarien Metadaten zu erkennen und diese anzugeben(1). | Text und Erklärvideo als Informationsquelle<br>Optionales Quiz | EA |
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase |  | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase (Transferaufgabe) | EA |
 
----
 [^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
@@ -72,9 +71,9 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. |  Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung  | L. erklärt Erwartungen für nächste Stunde.<br><br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
-### Präsenzphase / Erläuterungen 
+### Präsenzphase / Erläuterungen
 
-#### Einstiegsphase 
+#### Einstiegsphase
 
 Begrüßung
 
@@ -92,7 +91,7 @@ Vorstellung und Lösung von zwei Scary Tales im Plenum
 
 36 - Lost in Translation ([https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html](https://forschungsdaten-thueringen.de/geschichten/articles/Lost-in-translation-de.html))
 
-#### Arbeitsphase 
+#### Arbeitsphase
 
 Praktische Übung (Szenarien)
 
@@ -122,10 +121,10 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 
 ### Materialien zur praktischen Übung
 
-## Szenarien und Hilfsmittel 
-<!--Szenarien und Hilfsmittel aus Beispielsammlung einfügen --> 
+## Szenarien und Hilfsmittel
+<!--Szenarien und Hilfsmittel aus Beispielsammlung einfügen -->
 
-## Alternative Gruppenaufgabe 
+## Alternative Gruppenaufgabe
 
 Metadaten spielerisch mit Lego vermitteln (ca. 60 Min.)
 

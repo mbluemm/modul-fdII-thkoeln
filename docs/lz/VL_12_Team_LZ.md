@@ -36,7 +36,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | 2 | Die S. können kritisch beurteilen(6), auf welche Aspekte sie bei kollaborativem Arbeiten mit Daten achten müssen. | Die S. verstehen, welche Aspekte für ein strukturiertes kollaboratives Arbeiten mit Daten zu beachten sind (sinnvolle Ordnerstruktur und Benennungsschema, Zugriffsrechte etc.) |
 | 3 | Die S. sind in der Lage, unterschiedliche Tools zum kollaborativen Arbeiten anhand von vorgegebenen Aspekten zu bewerten(6). | Die S. können ihr erlangtes Wissen in die Praxis umsetzen und ein Projekt komplett strukturieren, wie und womit sie kollaborativ effizient mit Daten arbeiten können. Dieses Wissen nehmen die S. mit in ihr Studium, wonach sie strukturiert und sinnvoll mit Daten kollaborativ in Gruppenarbeiten arbeiten. |
 
-## Detaillierte Kursplanung[^1] 
+## Detaillierte Kursplanung[^1]
 
 ### Online-Phase
 
@@ -45,7 +45,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 40 min. | Einführung zum Thema „Kollaboratives Arbeiten“.  Hervorhebung wichtiger Aspekte zum Thema, inkl. Relevanz im Datenlebenszyklus / FDM, Tools, Plattformen etc. | Die S. können für unterschiedliche Schritte/Aufgaben (im Datenlebenszyklus/bei der Arbeit mit Daten) unterschiedliche Tools und Plattformen aufzählen(1), die für die jeweilige kollaborative Bearbeitung der Aufgaben gut geeignet sind. | Infotext, Grafik des DLZ und Rechercheaufgabe zu Tools | EA |
 
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -125,7 +125,7 @@ Die S. wählen jeweils ein Tool oder Plattform, tragen ihre Wahl in einer Liste 
 - Auf welchen Endgeräten lässt sich das Tool bedienen?
 - Lizenzen
 
-### Beispiele für Tools:
+### Beispiele für Tools
 
 - Google Sheets
 - Microsoft Teams

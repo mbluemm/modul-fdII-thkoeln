@@ -53,7 +53,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 10 min. | Definition von unterschiedlichen Dateiformaten (für unterschiedliche Daten).<br>Hervorhebung von Relevanz von Dateiformaten in Bezug auf Nachnutzung. | S. können geeignete Dateiformate für die Archivierung und Nachnutzung nennen(1). | Infotexte | EA |
 
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -87,7 +87,6 @@ Begrüßung
 (ca. 15 Min.) Methode: Diskussion von ScaryTales\*
 
 Aufgabe
-===
 
 Raten Sie und finden Sie gemeinsam eine Antwort auf die ScaryTales.
 
@@ -101,7 +100,6 @@ Alternativ: Beispiele, wie zum Thema Cyberangriff, besprechen. <!-- anders einbi
 ### Arbeitsphase
 
 (ca. 15 Min.) Individuelle Bearbeitung der interaktiven Aufgabe.
-===
 
 L. erläutert den Arbeitsauftrag.
 
@@ -110,7 +108,6 @@ Jede:r bearbeitet die Aufgabe individuell.
 Abschließend gibt eine Besprechung im Plenum zu der Aufgabe.
 
 (ca. 40 Min.) Gruppenarbeit
-===
 
 L. teilt die S. in Gruppen ein. Die Gruppen setzen sich zusammen und machen sich Gedanken und Notizen zu den folgenden zwei Fragen: 
 
@@ -121,7 +118,6 @@ L. teilt die S. in Gruppen ein. Die Gruppen setzen sich zusammen und machen sich
 Nach der Gruppenarbeit bringt L. alle Gruppen zusammen. Jede Gruppe trägt ihre Gedanken mit offener Diskussion vor.
 
 (ca. 10 Min.) Abschließende Diskussion
-===
 
 L. eröffnet eine abschließende Diskussion zum Thema „Anwendung/Relevanz von Daten-/Dateispeicherung im Studium.“
 
@@ -154,7 +150,6 @@ ScaryTale nr. 35 – in der feindlichen Basis [https://forschungsdaten-thueringe
 ScaryTale nr. 58 – Daten in Brand gefahr [https://forschungsdaten-thueringen.de/geschichten/articles/20221026-daten-in-brandgefahr.html](https://forschungsdaten-thueringen.de/geschichten/articles/20221026-daten-in-brandgefahr.html)
 
 Beispiele zum Thema „Speichern von Daten“
-===
 
 Fall: Cyberangriff auf das Auswärtige Amt:[https://www.sueddeutsche.de/digital/attacke-auf-auswaertiges-amt-die-geschichte-eines-cyber-angriffs-1.3917502](https://www.sueddeutsche.de/digital/attacke-auf-auswaertiges-amt-die-geschichte-eines-cyber-angriffs-1.3917502)
 

@@ -57,7 +57,7 @@ Die S. wissen nicht,
 | Ca. 5 min. | PID definieren und deren Merkmale hervorheben. <br>Erläuterung der Relevanz von PIDs im Forschungsprozess. | Die S. können beschreiben(1), was PIDs sind und deren Nutzen und Funktionen erläutern(2) sowie Beispiele für verschiedene PIDs benennen(1). | Infotexte zu den Inhalten, inkl. Grafiken, auch mit Beispielen (Screenshots). <br>Beispiele von PIDs (von Datensätzen/Forschenden) zeigen. <br>Optional: <br>Die S. bearbeiten eine Single-Choice-Quiz für die Beschreibung eines PIDs <br> | EA |
 
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -105,7 +105,6 @@ Mögliche weiterführende Fragen:
 - Als Hilfsmittel können die S. die Informationen zum Thema auf LiaScript nutzen.
 
 (ca. 50 Min.) Gruppenarbeit
-===
 
 L. teilt die S. in Gruppen ein und stellt die Aufgabe und ein Beispielthema vor.
 
@@ -141,7 +140,7 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 

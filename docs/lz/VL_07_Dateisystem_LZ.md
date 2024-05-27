@@ -1,14 +1,14 @@
 ---
 title: LZ 07 - Dateisystem
 lang: de-DE
-output: 
-    html_document: 
+output:
+    html_document:
         toc: true
         toc_float: true
 aside: true
---->
+---
 
-# Ordnerstruktur und Dateibenennungen 
+# Ordnerstruktur und Dateibenennungen
 
 :::info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_07_Dateisystem_LZ. 
@@ -39,7 +39,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | 5 | Die S. sind in der Lage, anhand von Beispielen geeignete (nachhaltige) und weniger geeignete Ordnerstrukturen sowie Dateibenennungskonventionen voneinander zu unterscheiden(4) und dies kritisch zu bewerten(6). | Die S. können unterschiedliche Ordnerstrukturen und Benennungsschemata miteinander vergleichen und kritisch beurteilen. |
 | 6 | Die S. sind in der Lage für eigene Dateien (oder einen Beispieldatensatz) eine sinnvolle Benennungskonvention (inkl. Versionierungsmethoden) und eine effiziente Ordnerstruktur zu entwickeln (5). | Die S. können selbständig eine eigene sinnvolle Ordnerstruktur mit einem sinnvollen Benennungsschema entwickeln, sodass Daten und Dateien auch im Nachhinein/von anderen wiedergefunden werden können. Sie nehmen dieses Wissen mit in ihr Studium (in ihre Projekte) und wenden es dort an. |
 
-## Detaillierte Kursplanung[^1] 
+## Detaillierte Kursplanung[^1]
 
 ### Online-Kurs
 
@@ -49,8 +49,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 10 min. | Die Relevanz einer strukturierten und nachhaltigen Datenablage (für sich und andere) im Forschungsprozess erläutern. | Die S. können den Nutzen einer guten Ordnerstruktur und einer Dateibenennungskonvention im FDM darlegen(2). | Antwort zur zweiten Leitfrage notieren (für eine ggf. Diskussion im Plenum). | EA |
 | Ca. 5 min. | Die Merkmale und Kriterien einer strukturierten und nachhaltigen Datenablage in der Form von Beispielen erläutern. | Die S. sind in der Lage, strukturierte und nachhaltige Strategien zur Datenablage anzuwenden(3). | Optionales (Single Choice) Quiz: <br>Mögliche Beispiele zu einer Ordnerstruktur oder einer Dateibenennung werden angeboten und die S. müssen die korrekte Antwort auswählen. | EA |
 
----
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -74,14 +73,13 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | --- | --- | --- | --- | --- |
 | Ca. 5 min. |  Offene Fragen / Unklarheiten klären  Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung  | L. erklärt die Erwartungen für nächste Stunde. <br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
-## Präsenzphase 
+## Präsenzphase
 
-### Einstiegsphase 
+### Einstiegsphase
 
 Begrüßung
 
 (ca. 15 Min.) Methode: Diskussion - ScaryTale
-===
 
 Aufgabe: Raten Sie und finden Sie gemeinsam eine Lösung für das ScaryTale.
 
@@ -94,10 +92,9 @@ ScaryTale: Geteilte Arbeit ist halbe Arbeit? Nummer 23: [https://forschungsdaten
 
 Beantwortung von Leitfrage 3: Erläuterung der Sinnhaftigkeit und Relevanz einer strukturierten und nachhaltigen Datenablage für die S. selbst (im Studium) und für andere (z. B. bei Projektarbeiten im Studium).
 
-### Arbeitsphase 
+### Arbeitsphase
 
 (ca. 40 Min.) Gruppenarbeit
-===
 
 L. teilt die S. in Gruppen auf und stellt den S. die Liste von ca. drei Beispielen vor. Die Gruppen setzen sich zusammen und bearbeiten die Aufgabe.
 Die S. müssen die Sinnhaftigkeit und Nachhaltigkeit der Datenablage (Ordnerstruktur und Dateibenennungskonventionen) der Beispiele einordnen und bewerten.
@@ -105,7 +102,6 @@ Die S. müssen die Sinnhaftigkeit und Nachhaltigkeit der Datenablage (Ordnerstru
 Nach der Gruppenarbeit bringt L. alle Gruppen zusammen. Jede Gruppe trägt ihre Bewertung mit Anregung zur Reflexion und Diskussion vor.
 
 (ca. 25 Min.) Einzelarbeit, zwei Möglichkeiten
-===
 
 1. Eigene Datenablage sinnvoll überarbeiten 
 
@@ -125,7 +121,7 @@ L. bietet ein Beispiel von einer chaotischen Dateibenennung und Struktur. Die S.
 
 Anschließend holt L. alle S. zurück ins PL und leitet eine kurze abschließende Diskussion ein.
 
-### Abschluss 
+### Abschluss
 
 L. fragt S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
@@ -144,7 +140,7 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 

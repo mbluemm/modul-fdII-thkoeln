@@ -15,7 +15,13 @@ Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, 
 Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_07_Dateisystem.html
 :::
 
-<!-- 0027_THK_Ordnerstruktur und 0029_THK_Dateibenennung einfügen --> 
+<img src="../medien/icons/0027_THK_Ordnerstruktur.svg?autoSizes=true"
+     alt="Icon_Ordnerstruktur"
+     style="float: left; margin-right: 20px; width: 15%;" />
+
+<img src="../medien/icons/0029_THK_Dateibenennung.svg?autoSizes=true"
+     alt="Icon_Dateibenennung"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 [[toc]]
 
@@ -27,64 +33,61 @@ Speicherung und Benennung von Daten und Dateien im Forschungsprozess kennen und 
 dabei zu beachten sind.
 :::
 
-<!-- Video von Medienagentur einfügen --> 
+<!-- Video von Medienagentur einfügen -->
 
 ## Daten und Dateien bei der Speicherung strukturieren und ordnen
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HvadErDigitalBevaring_DigitalBevaring.png"><img width="512" alt="HvadErDigitalBevaring DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/HvadErDigitalBevaring_DigitalBevaring.png/512px-HvadErDigitalBevaring_DigitalBevaring.png"></a>
-
-Quelle: Digitalbevaringdk HvadErDigitalBevaring DigitalBevaring
-
-<!-- mit Abbildung 0051_THK_Datenchaos ersetzen -->
+<img src="../medien/icons/0051_THK_Datenchaos.svg?autoSizes=true"
+     alt="Icon_Datenchaos"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Bei Arbeit mit Daten und Dateien ist bei der Speicherung (Ablage) der Daten/Dateien eine
 gute Struktur und Benennung empfehlenswert.
 
-<!--0006_THK_Organisieren einfügen -->
+<img src="../medien/icons/0006_THK_Organisieren.svg?autoSizes=true"
+     alt="Icon_Organisieren"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Als Erinnerung aus VL1, beschreibt das DWDS Daten
-als „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o. Ä. gewonnene
-Informationen“ und eine Datei als „unter einem gemeinsamen Namen auf einem Datenträger
-gespeicherte und zugreifbare Menge von Daten“[^1]. <!-- das anders vom Layout her einbinden? --> 
+als „durch Aufzeichnungen, Beobachtungen, Messungen, statistische Verfahren o. Ä. gewonnene Informationen“ und eine Datei als „unter einem gemeinsamen Namen auf einem Datenträger
+gespeicherte und zugreifbare Menge von Daten“[^1]. <!-- das anders vom Layout her einbinden? -->
 
 Auch im FDM sollte aus den folgenden Gründen darauf geachtet werden:
 
-- Es ist eine Grundvoraussetzung der Guten wissenschaftlichen Praxis. <!-- 0008_THK_GWP neben Text einfügen -->
+- Es ist eine Grundvoraussetzung der Guten wissenschaftlichen Praxis.
+
+<!-- 0008_THK_GWP neben Text einfügen -->
+<img src="../medien/icons/0008_THK_GWP.svg?autoSizes=true"
+     alt="Icon_GWP"
+     style="float: left; margin-right: 20px; width: 15%;" />
+
 - Je größer die Datenmenge ist, umso wichtiger ist ein gutes Datenmanagement.
 - Der aktuellste Forschungsstand ist schnell identifizierbar.
-- Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig
-    sichergestellt.
-
-    o Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
-    
-    o Bei Änderungen besteht Klarheit und Struktur zwischen unterschiedlichen Versionen.
-    
-    o Daten werden somit auch für Dritte nachvollziehbar.
-
+- Die Nachnutzung der Daten und die Interpretierbarkeit der Daten wird vereinfacht und langfristig sichergestellt.
+    - Daten bleiben zugänglich und leicht auffindbar, was eine längere Suche vermeidet,
+    - Bei Änderungen besteht Klarheit und Struktur zwischen unterschiedlichen Versionen.
+    - Daten werden somit auch für Dritte nachvollziehbar.
     ▪ Vereinfacht die Zusammenarbeit.
-    
-    ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse. 
+    ▪ Ermöglicht die Reproduzierbarkeit der Forschungsergebnisse.
           
 - Das Risiko eines Datenverlusts wird minimiert. Die Daten sind sicher gespeichert und auffindbar.
     o Vorbeugungsmaßnahme von versehentlichem Löschen oder Überschreiben von
        Daten/Dateien.
 
-<!-- G-0020_BUW_Icon_Nachnutzung neben Text einfügen -->
+<img src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true"
+     alt="Icon_Nachnutzung"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 (Weiner et al. 2020; VerbundFDB 2018)
 
 [^1] in: DWDS _–_ Digitales Wörterbuch der deutschen Sprache, hrsg. v. d. Berlin-Brandenburgischen Akademie der
 Wissenschaften, [https://www.dwds.de/wb/Daten](https://www.dwds.de/wb/Daten) und [https://www.dwds.de/wb/Datei](https://www.dwds.de/wb/Datei), abgerufen am 23.10.2023.
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Database_DigitalBevaring.png"><img width="256" alt="Database DigitalBevaring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Database_DigitalBevaring.png/256px-Database_DigitalBevaring.png"></a>
-
-Quelle: Digitalbevaringdk Database DigitalBevaring
-
 ## Gute Ordnerstruktur
 
-<!-- 0027_THK_Ordnerstruktur --> 
+<img src="../medien/icons/0027_THK_Ordnerstruktur.svg?autoSizes=true"
+     alt="Icon_Ordnerstruktur"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Für eine übersichtliche Ordnerstruktur bei der Speicherung von Daten und Dateien sollten folgende
 
@@ -107,11 +110,15 @@ Aspekte beachtet sein:
 Rechnern sein.
 
 ::: tip
+
+<img src="../medien/icons/0020_THK_Idee.svg?autoSizes=true"
+     alt="Icon_Idee"
+     style="float: left; margin-right: 20px; width: 15%;" />
+
 Eine Dokumentation der Ordnerstruktur und Dateibenennungen in einer separaten (.txt) Datei auf
 oberster (Baum-)Ebene aufbewahren. Zur Nachvollziehbarkeit zu einem späteren Zeitpunkt oder von anderen.
 :::
 
-<!-- 0020_THK_Idee daneben einfügen --> 
 ## Dateien benennen
 
 [https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#](https://liascript.github.io/course/?https://raw.githubusercontent.com/BrittaP/LiaTestmodule_offen/main/Ordnung_und_Stuktur/22_OrdnungStruktur_de.md#)
@@ -125,12 +132,16 @@ von Dateien essentiell, denn diese führt zu
 und ermöglicht die Unterscheidung einzelner Dateien.
 
 ### Aspekte für eine Dateibenennung
-<!--0029_THK_Dateibenennung einfügen -->
+
+<img src="../medien/icons/0029_THK_Dateibenennung.svg?autoSizes=true"
+     alt="Icon_Dateibenennung"
+     style="float: left; margin-right: 20px; width: 15%;" />
+
 Dateien können nach unterschiedlichen Konventionen benannt werden. Damit Dateien strukturiert,
 übersichtlich, nachvollziehbar und auffindbar sind, sollten Dateibenennungen
 
 - das jeweilige Erstellungsdatum enthalten*
-    o Datumsformat: JJJJ-MM-TT[^2] <!-- ist die Empfehlung so gut? oder ohne Bindestriche? oder mehr Alternativen aufzeigen? --> 
+    o Datumsformat: JJJJ-MM-TT[^2]
     o Datumsangabe: Am Anfang des Dateinamens; chronologische Sortierung
        z.B. „2023-05-17_Projekt_Erdnussbutter“
 - Rückschlüsse auf den Inhalt der Dateien ermöglichen
@@ -166,19 +177,29 @@ kleine Zahlen mit einer vorstehenden Null ergänzt, andere lassen diese weg. (vg
 werden.
 
 ::: tip
+
+<img src="../medien/icons/0020_THK_Idee.svg?autoSizes=true"
+     alt="Icon_Idee"
+     style="float: left; margin-right: 20px; width: 15%;" />
+
 Abkürzungen von Datei-Benennungen in einer separaten Datei festhalten
 Auch eine generelle Dokumentation der Dateibenennungen aufbewahren (zur Nachvollziehbarkeit
 zu einem späteren Zeitpunkt oder von anderen)
 :::
 
 ::: tip
+
+<img src="../medien/icons/0020_THK_Idee.svg?autoSizes=true"
+     alt="Icon_Idee"
+     style="float: left; margin-right: 20px; width: 15%;" />
+
 Bei neuer Dateiversion oder Kopie einer bestehenden Datei wird im selben Schritt die vorherige Version in den
 Archivordner („Archiv“) im Hauptordner verschoben. Das vermeidet das Duplizieren und Splitten von Dateiversionen mit
 unterschiedlichen Bearbeitungsständen.
 :::
-<!-- beide Male oben 0020_THK_Idee einfügen --> 
 
-```
+
+::: warning
 \
 { }
 < >
@@ -192,10 +213,13 @@ unterschiedlichen Bearbeitungsständen.
 !
 @
 &
-```
+:::
 
 ## Beispiel: Dateibenennung
 <!-- 0001_THK_Beispiel einfügen -->
+<img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
+     alt="Icon_Beispiel"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 ```
 Datum_[Status]-Dokumententyp-[Autor:in]-Inhalt[_Version]
@@ -210,13 +234,25 @@ Felder
 - Inhalt: Thema / Inhalt des Dokuments
 - Version: Bei versionierten Dokumenten wird die Version bei jeder Änderung hochgezählt z.B.
     _v1, _v2, ...
-<!-- Eigentlich wird sich doch für Unter- ODER Bindestriche entschieden und nicht gemixt. Datumsangabe checken, ob das so unserer Norm entspricht...--> 
+
 Zur gleichzeitigen Umbenennung mehrerer Dateien, können unterschiedliche Softwaretools verwendet
 werden.
 
 (Krähwinkel, 2022)
 
-<!-- Quiz von 07_Arbeitsblatt_Ordnung_Struktur von sciebo-Ordner einfügen --> 
+<!-- Quiz von 07_Arbeitsblatt_Ordnung_Struktur von sciebo-Ordner einfügen -->
+Welche dieser Beispiele folgen einer guten Bennenungskonvention?
+
+a) Olga_170413_probe17k
+b) Naturepaper karl britta james fertig! Vm4520132Schmidt.pdf
+c) 647749157.pdf
+d) 170413_probe17k_olga Naturepaper+karl+britta+james &nal Olga170413probe17k
+e) Krst_765_spkt_1203 Naturepaper+karl+britta+james fertig! überarbeitet </br>
+f) Kristall_765_spektr_20161203 Nature_karlbrittajames_endendversion 28q8QGlHKwrRw.pdf g) Tagung_Digitale_Wissenschaft.pdf
+
+Bitte entwerfen Sie eine Benennungskonvention für Ihre Dateien und geben ein paar Beispiele:
+
+Bitte entwerfen Sie eine Struktur für Ihre Ablage als Verzeichnisbaum:
 
 ## Leitfragen und Aufgaben
 
@@ -247,6 +283,9 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 ### Literatur
 
 <!-- G-0044_BUW_Icon_Findability -->
+<img src="../medien/icons/00G-0044_BUW_Icon_Findability.svg?autoSizes=true"
+     alt="Icon_Findability"
+     style="float: left; margin-right: 20px; width: 15%;" />
 
 Böker, E. (2023, 24. Juli). Formate erhalten. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/)
@@ -256,7 +295,6 @@ Forschungsdaten.info. (2023, 5. Mai). Datenorganisation. Zugriff am 18.10.2023, 
 
 Weiner, B., Wünsche, S., Kühne, S. et al. (2020, April 30). Crashkurs Forschungsdatenmanagement.
 Zenodo. [https://doi.org/10.5281/zenodo.3778431](https://doi.org/10.5281/zenodo.3778431)
-
 
 ### Quellen
 

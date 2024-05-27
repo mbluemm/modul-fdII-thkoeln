@@ -8,7 +8,7 @@ output:
 aside: true
 ---
 
-# Dokumentation von Daten 
+# Dokumentation von Daten
 
 :::info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_05_DMP_LZ. 
@@ -46,7 +46,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 10 min. | Leitfragen zur Vorbereitung für Präsenzphase | Transferaufgabe | Schriftliche Beantwortung der Leitfragen zur Vertiefung und Vorbereitung auf Präsenzphase | EA |
 
 ---
-[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende\*r; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
+[^1]:**Legende der Sozialformen:** PL = Plenum; L = Lehrende; S = Studierende; LV = Lehrvortrag; EA = Einzelarbeit, GA = Gruppenarbeit.
 
 ### Präsenzphase
 
@@ -69,13 +69,13 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 | Ca. 10 min. |  Reflexion über Gruppenarbeit (Herausforderungen, Nachteile, Vorteile, Chancen etc.) im Plenum  | Reflexion | Plenumsdiskussion | PL |
 | Ca. 5 min. |  Offene Fragen / Unklarheiten klären. Ausblick auf und Arbeitsauftrag für nächste Präsenzveranstaltung  | L. erklärt Erwartungen für nächste Stunde.<br><br>L. bietet S. an, offene Fragen zum Vorlesungsthema, dem Seminarverlauf und/oder anderen Aspekten zu besprechen. |  | PL |
 
-##  Präsenzphase 
+##  Präsenzphase
 
-###  Einstiegsphase 
+###  Einstiegsphase
 
 Begrüßung
 
-###  Arbeitsphase 
+###  Arbeitsphase
 
 (ca. 70 min.) Gruppenaufgabe zu „Dokumentation von Daten / DMP“
 
@@ -89,14 +89,13 @@ L. teilt S. in Gruppen ein und erläutert den Arbeitsauftrag:
 
 L. berät die Gruppen bei Herausforderungen und Schwierigkeiten.
 
-###  Abschluss 
+### Abschluss 
 
 (10 min.) Reflexion über Gruppenarbeit (Herausforderungen, Nachteile, Vorteile, Chancen etc.) im Plenum.
 
 L. fragt S., ob noch Unklarheiten bestehen oder offene Fragen vorhanden sind.
 
 L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung zur nächsten Präsenzveranstaltung.
-
 
 ## Taxonomiestufen
 
@@ -109,7 +108,7 @@ L. gibt Ausblick auf nächstes Thema und erinnert an die (online) Vorbereitung z
 | Taxonomiestufe 5 | Synthese  (aus verschiedenen Erlebnissen eine neue Situation konstruieren) | Einzelne Elemente zu einer  Ganzheit formen |
 | Taxonomiestufe 6 | Bewertung  (eine Situation beurteilen, überprüfen) | Ein bewertendes Urteil  abgeben können |
 
-## Quellen:
+## Quellen
 
 Meyer Junker, R. & Deutsches Institut für Erwachsenenbildung. (o. D.). *Lernziele Formulieren leicht gemacht*. wb-web. Abgerufen am 20. Oktober 2023, von [https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm](https://wb-web.de/material/methoden/lernziele-formulieren-leicht-gemacht.htm)
 
