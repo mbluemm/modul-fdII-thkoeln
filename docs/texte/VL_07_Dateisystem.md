@@ -21,7 +21,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 <img src="../medien/icons/0029_THK_Dateibenennung.svg?autoSizes=true"
      alt="Icon_Dateibenennung"
-     style="float: left; margin-right: 20px; width: 15%;" />
+     style="float: right; margin-left: 20px; width: 15%;" />
 
 [[toc]]
 

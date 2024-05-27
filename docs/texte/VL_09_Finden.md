@@ -44,10 +44,6 @@ Haben Sie sich im Forschungsprozess auf ein Forschungsthema geeinigt, können Si
 von Metasuchmaschinen, Datenportalen und Repositorien passende Datensätze finden.
 :::
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Websites_DigitalPreservation.png"><img width="256" alt="Websites DigitalPreservation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Websites_DigitalPreservation.png/256px-Websites_DigitalPreservation.png"></a>
-Quelle: Digitalbevaringdk Hjemmesider_DigitalBevaring
-
 Veröffentlichte Datensätze werden auf unterschiedlichen Webseiten zur Verfügung gestellt. Die Datensätze dürfen (unter
 Einschränkungen) zur Nachnutzung verwendet werden. Unter die Webseiten fallen
 Metasuchmaschinen, Datenportale und Repositorien, die jeweils unterschiedliche Forschungsthemen und Datenformate abdecken.
@@ -177,7 +173,6 @@ Bekannte Beispiele von PIDs sind:
 
 <!-- Quelle?  bzw. hier noch Beispiele einfügen? -->
 ![](https://)
-Quelle: Digitalbevaringdk PID_vaelge_PID_choose 
 
 Im Gegensatz zu anderen seriellen Identifikatoren (bspw. URL-Adressen) verweist ein PID auf das
 Objekt selbst und nicht auf seinen Standort im Internet. Die Forschungsdaten sollen mit PIDs
@@ -283,10 +278,6 @@ Merholz 2021 und FAQ 2021.
 
 ### Datensätze korrekt zitieren
 
-<a title="Jørgen Stamp
-, CC BY 2.5 DK &lt;https://creativecommons.org/licenses/by/2.5/dk/deed.en&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PID_Citation.png"><img width="512" alt="PID Citation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PID_Citation.png/512px-PID_Citation.png"></a>
-Quelle: Digitalbevaringdk PID_Citation
-
 Die Herkunft nachgenutzter Datensätze muss, wie andere Quellen, die verwendet wurden, durch eine
 Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf die eigenen und fremden Beiträge 
 ist eine grundlegende Voraussetzung für gute wissenschaftliche Praxis. 
@@ -366,10 +357,11 @@ Ressourcentyp. Identifikator
 
 [Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
 
+<!--
 <p align="center">
     <img src="Materialien/img/Screenshot_Indikator_Klimasensitive_Vogelarten.png" />
 </p>
-
+-->
 - o.A. (2021, 06. Oktober): Indikator Klimasensitive Vogelarten. Geoportal. Datensatz. https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de
 
 ## Leitfragen und Aufgaben
