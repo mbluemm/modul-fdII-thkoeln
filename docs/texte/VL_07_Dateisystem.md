@@ -137,19 +137,19 @@ und ermöglicht die Unterscheidung einzelner Dateien.
 
 <img src="../medien/icons/0029_THK_Dateibenennung.svg?autoSizes=true"
      alt="Icon_Dateibenennung"
-     style="float: left; margin-right: 20px; width: 15%;" />
+     style="float: right; margin-left: 20px; width: 15%;" />
 
 Dateien können nach unterschiedlichen Konventionen benannt werden. Damit Dateien strukturiert,
 übersichtlich, nachvollziehbar und auffindbar sind, sollten Dateibenennungen
 
-- das jeweilige Erstellungsdatum enthalten*
-    o Datumsformat: JJJJ-MM-TT[^2]
-    o Datumsangabe: Am Anfang des Dateinamens; chronologische Sortierung
+- das jeweilige Erstellungsdatum enthalten
+     - Datumsformat: JJJJ-MM-TT[^2]
+     - Datumsangabe: Am Anfang des Dateinamens; chronologische Sortierung
        z.B. „2023-05-17_Projekt_Erdnussbutter“
 - Rückschlüsse auf den Inhalt der Dateien ermöglichen
-    o deskriptive Informationen ordnen die Datei ihrem Kontext zu
+     - deskriptive Informationen ordnen die Datei ihrem Kontext zu
 - auch von Außenstehenden nachvollziehbar sein
-    o wo Abkürzungen notwendig sind, sollte ein Abkürzungsverzeichnis in einer
+     - wo Abkürzungen notwendig sind, sollte ein Abkürzungsverzeichnis in einer
        separaten Datei angelegt werden
 - möglichst einheitlich/konsistent gewählt werden
 
