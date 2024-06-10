@@ -207,23 +207,31 @@ einer Creative-Commons-Lizenz hat keinen Einfluss auf das Urheberrecht, es werde
 Nutzungsrechte für Forschungsdaten vergeben. CC-Lizenzen sind international weit verbreitet,
 allerdings gibt es je nach Version der Lizenz nationale Anpassungen. Die aktuelle Version 4.0 ist
 international gültig.
-<!-- hier müssten noch die jeweiligen CC-Lizenzen als Icons/Abbildung hin (KF) -->
-```
-Namensnennung
-CC BY
-```
-```
+
+
+:::info CC BY
+
+<img src="../medien/icons/CC-BY.png?autoSizes=true"
+     alt="Icon_Tools"
+     style="float: left; margin-right: 20px; width: 20%;" />
+
+*Namensnennung*
+
 Diese Lizenz erlaubt Dritten, ein Werk zu
 verbreiten, zu verändern, zu verbessern und
 darauf aufzubauen, auch kommerziell, solange
 der Urheber des Originals genannt wird.
-```
-```
-Namensnennung - Weitergabe unter gleichen
-Bedingungen
-CC BY-SA
-```
-```
+
+:::
+
+:::info CC BY-SA
+
+<img src="../medien/icons/CC-BY-SA.png?autoSizes=true"
+     alt="Icon_Tools"
+     style="float: left; margin-right: 20px; width: 20%;" />
+
+*Namensnennung - Weitergabe unter gleichen Bedingungen*
+     
 Diese Lizenz erlaubt es Dritten, ein Werk zu
 verbreiten, zu verändern, zu verbessern und
 darauf aufzubauen, auch kommerziell, solange
@@ -231,47 +239,62 @@ der Urheber des Originals genannt wird und die
 auf seinem Werk basierenden neuen Werke
 unter denselben Bedingungen veröffentlicht
 werden.
-```
-```
+
+:::
+
+:::info CC BY-ND
+
+<img src="../medien/icons/CC-BY-ND.png?autoSizes=true"
+     alt="Icon_Tools"
+     style="float: left; margin-right: 20px; width: 20%;" />
+
+*Namensnennung - Keine Bearbeitung*
+
 Diese Lizenz erlaubt Dritten die
 Weiterverbreitung des Werkes, kommerziell wie
-nicht-kommerziell, solange dies ohne
-```
-
-```
-Namensnennung-Keine Bearbeitung
-CC BY-ND
-```
-```
-Veränderungen und vollständig geschieht und
+nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht und
 der Urheber genannt wird.
-```
-```
-Namensnennung-Nicht kommerziell
-CC BY-NC
-```
-```
+
+:::
+
+:::info CC BY-NC
+
+<img src="../medien/icons/CC-BY-NC.png?autoSizes=true"
+     alt="Icon_Tools"
+     style="float: left; margin-right: 20px; width: 20%;" />
+
+*Namensnennung - Nicht kommerziell*
+
 wie CC BY – zusätzlich mit der Einschränkung
 „nur nicht kommerziell“
-```
-```
-Namensnennung - Nicht-kommerziell -
-Weitergabe unter gleichen Bedingungen
-CC BY-NC-SA
-```
-```
+
+:::
+
+:::info CC BY-NC-SA
+
+<img src="../medien/icons/CC-BY-NC-SA.png?autoSizes=true"
+     alt="Icon_Tools"
+     style="float: left; margin-right: 20px; width: 20%;" />
+
+*Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen*
+     
 wie CC BY SA – zusätzlich mit der
 Einschränkung „nur nicht kommerziell“
-```
-```
-Namensnennung - Nicht-kommerziell - Keine
-Bearbeitung
-CC BY-NC-ND
-```
-```
+
+:::
+
+:::info CC BY-NC-ND
+
+<img src="../medien/icons/CC-BY-NC-ND.png?autoSizes=true"
+     alt="Icon_Tools"
+     style="float: left; margin-right: 20px; width: 20%;" />
+
+*Namensnennung - Nicht-kommerziell - Keine Bearbeitung*
+
 wie CC BY ND – zusätzlich mit der
 Einschränkung „nur nicht kommerziell“
-```
+:::
+
 Mehr über die Creative-Commons-Lizenzen unter der Creative Commons Liste der Lizenzen, Muuß-
 Merholz 2021 und FAQ 2021.
 
