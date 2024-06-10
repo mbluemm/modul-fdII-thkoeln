@@ -22,7 +22,7 @@ Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https:
 
 ## Lernziele
 
-::: info Lernziele
+::: info
 
 <img src="../medien/icons/G-0044_BUW_Icon_Findability.svg?autoSizes=true"
      alt="Icon_Findability"
@@ -37,12 +37,12 @@ suchen können und insbesondere worauf Sie (auch zur Einhaltung der guten wissen
 Praxis) achten müssen, um einen Datensatz nachnutzen zu dürfen. Hier lernen Sie über Webseiten
 zur Datenrecherche, Persistente Identifikatoren (PID), CC-Lizenzen und wie ein Datensatz korrekt
 zitiert wird.
+:::
 
 ## Daten finden und nachnutzen
 
 Haben Sie sich im Forschungsprozess auf ein Forschungsthema geeinigt, können Sie u. a. mit Hilfe
 von Metasuchmaschinen, Datenportalen und Repositorien passende Datensätze finden.
-:::
 
 Veröffentlichte Datensätze werden auf unterschiedlichen Webseiten zur Verfügung gestellt. Die Datensätze dürfen (unter
 Einschränkungen) zur Nachnutzung verwendet werden. Unter die Webseiten fallen
