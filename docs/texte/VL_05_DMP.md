@@ -63,7 +63,7 @@ und Prozesse strukturierter umgesetzt werden können. Eine Dokumentation kann se
 aussehen.[^1] Je nach Projektgröße und Datenvielfalt kann eine solche Dokumentation zwischen
 wenigen Absätzen und mehreren Seiten umfassen.
 
-::: tip
+::: info
 Bei einer Datendokumentation handelt sich um ein living document! (Forschungs-) Projekte sind
 Prozesse. Nicht alle Fragen können zu Beginn eines Forschungsprojektes geklärt werden. Forschung ist ergebnisoffen, daher müssen
 Antworten während der Bearbeitungszeit ergänzt, angepasst und aktualisiert werden.
@@ -109,7 +109,7 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio.
 
 ### Literatur
 
-Böker, E. (2023, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
+Forschungsdaten.info. (2023, 5. Mai). Datendokumentation. Forschungsdaten.info. Zugriff am 18.10.2023, von
 [https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/](https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumentation/)
 
 Forschungsdaten.info. (2023, 5. Mai). Datenmanagementplan. Zugriff am 18.10.2023, von [https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/](https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/)
