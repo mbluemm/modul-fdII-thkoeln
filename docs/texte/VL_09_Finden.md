@@ -212,7 +212,7 @@ international gültig.
 :::info CC BY
 
 <img src="../medien/icons/CC-BY.png?autoSizes=true"
-     alt="Icon_Tools"
+     alt="Icon_CC-BY"
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung*
@@ -227,7 +227,7 @@ der Urheber des Originals genannt wird.
 :::info CC BY-SA
 
 <img src="../medien/icons/CC-BY-SA.png?autoSizes=true"
-     alt="Icon_Tools"
+     alt="Icon_CC-BY-SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung - Weitergabe unter gleichen Bedingungen*
@@ -245,7 +245,7 @@ werden.
 :::info CC BY-ND
 
 <img src="../medien/icons/CC-BY-ND.png?autoSizes=true"
-     alt="Icon_Tools"
+     alt="Icon_CC-BY-ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung - Keine Bearbeitung*
@@ -260,7 +260,7 @@ der Urheber genannt wird.
 :::info CC BY-NC
 
 <img src="../medien/icons/CC-BY-NC.png?autoSizes=true"
-     alt="Icon_Tools"
+     alt="Icon_CC-BY_NC"
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung - Nicht kommerziell*
@@ -273,7 +273,7 @@ wie CC BY – zusätzlich mit der Einschränkung
 :::info CC BY-NC-SA
 
 <img src="../medien/icons/CC-BY-NC-SA.png?autoSizes=true"
-     alt="Icon_Tools"
+     alt="Icon_CC-BY_NC_SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen*
@@ -286,7 +286,7 @@ Einschränkung „nur nicht kommerziell“
 :::info CC BY-NC-ND
 
 <img src="../medien/icons/CC-BY-NC-ND.png?autoSizes=true"
-     alt="Icon_Tools"
+     alt="Icon_CC-BY_NC_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung - Nicht-kommerziell - Keine Bearbeitung*
