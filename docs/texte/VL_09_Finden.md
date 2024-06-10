@@ -10,7 +10,7 @@ aside: true
 
 # Daten finden und nachnutzen
 
-:::info Zitation:
+::: info Zitation:
 Blümm, M., Fritsch, K., Bock, S., Prof. Dr. Arning, U., & Prof. Dr. Förstner, K. U. (2024). VL_09_Finden.
 Blended-Learning-Basiskurs „Forschungsdatenmanagement“ (Version 0.1). https://mbluemm.github.io/modul-fdII-thkoeln/texte/VL_09_Finden.html
 :::
@@ -122,7 +122,6 @@ Beispiele für Repositorien:
 - [figshare](https://figshare.com/) → besonders für visuelle Grafikdatensätze wie Poster, Diagramme oder Videos
     ausgelegt.
        - wird von der Nature Publishing Group angeboten.
-<!-- Beispielszeniarien von HIP einfügen, wenn Videos gekürzt -->
 
 ### Qualitätsmerkmale eines guten Repositoriums
 
@@ -209,7 +208,7 @@ allerdings gibt es je nach Version der Lizenz nationale Anpassungen. Die aktuell
 international gültig.
 
 
-:::info CC BY
+::: info CC BY
 
 <img src="../medien/icons/CC-BY.png"
      alt="Icon_CC-BY"
@@ -224,7 +223,7 @@ der Urheber des Originals genannt wird.
 
 :::
 
-:::info CC BY-SA
+::: info CC BY-SA
 
 <img src="../medien/icons/CC-BY-SA.png"
      alt="Icon_CC-BY-SA"
@@ -242,7 +241,7 @@ werden.
 
 :::
 
-:::info CC BY-ND
+::: info CC BY-ND
 
 <img src="../medien/icons/CC_BY_ND.png"
      alt="Icon_CC_BY_ND"
@@ -257,7 +256,7 @@ der Urheber genannt wird.
 
 :::
 
-:::info CC BY-NC
+::: info CC BY-NC
 
 <img src="../medien/icons/CC-BY-NC.png"
      alt="Icon_CC-BY_NC"
@@ -270,7 +269,7 @@ wie CC BY – zusätzlich mit der Einschränkung
 
 :::
 
-:::info CC BY-NC-SA
+::: info CC BY-NC-SA
 
 <img src="../medien/icons/CC-BY-NC-SA.png"
      alt="Icon_CC-BY_NC_SA"
@@ -283,7 +282,7 @@ Einschränkung „nur nicht kommerziell“
 
 :::
 
-:::info CC BY-NC-ND
+::: info CC BY-NC-ND
 
 <img src="../medien/icons/CC-BY-NC-ND.png"
      alt="Icon_CC-BY_NC_ND"
@@ -306,34 +305,34 @@ Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf
 ist eine grundlegende Voraussetzung für gute wissenschaftliche Praxis. 
 Nach wissenschaftlichen Standards verfügen auffindbare Datensätze i. d. R. über folgende Informationen:
 
-:::info Urheber
+::: info Urheber
 Ab fünf Namen sollte mit “et al.” oder Ähnlichem
 abgekürzt werden
 :::
 
-:::info Veröffentlichungsdatum
+::: info Veröffentlichungsdatum
 Jahr der Veröffentlichung des Datensatzes
 :::
 
-:::info Titel
+::: info Titel
 Titel und eventuell weitere Titel der Studie/des
 Datensatzes
 :::
 
-:::info Version
+::: info Version
 Versionsnummer der Ressource
 :::
 
-:::info Publikationsagent
+::: info Publikationsagent
 Name des Datenzentrums/der Institution,
 das/die Ressource veröffentlicht hat
 :::
 
-:::info Genereller Ressourcentyp
+::: info Genereller Ressourcentyp
 Datensatz, Text oder andere Ressourcentypen
 :::
 
-:::info Identifikator
+::: info Identifikator
 Hier erscheint ein PID. Um direkt
 auf die Quelle des Objektes verweisen zu
 können, sollte der DOI-Name entweder mit der
