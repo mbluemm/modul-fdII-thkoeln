@@ -211,7 +211,7 @@ international gültig.
 
 :::info CC BY
 
-<img src="../medien/icons/CC-BY.png?autoSizes=true"
+<img src="../medien/icons/CC-BY.png"
      alt="Icon_CC-BY"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -226,7 +226,7 @@ der Urheber des Originals genannt wird.
 
 :::info CC BY-SA
 
-<img src="../medien/icons/CC-BY-SA.png?autoSizes=true"
+<img src="../medien/icons/CC-BY-SA.png"
      alt="Icon_CC-BY-SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -244,8 +244,8 @@ werden.
 
 :::info CC BY-ND
 
-<img src="../medien/icons/CC-BY-ND.png?autoSizes=true"
-     alt="Icon_CC-BY-ND"
+<img src="../medien/icons/CC_BY_ND.png"
+     alt="Icon_CC_BY_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
 *Namensnennung - Keine Bearbeitung*
@@ -259,7 +259,7 @@ der Urheber genannt wird.
 
 :::info CC BY-NC
 
-<img src="../medien/icons/CC-BY-NC.png?autoSizes=true"
+<img src="../medien/icons/CC-BY-NC.png"
      alt="Icon_CC-BY_NC"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -272,7 +272,7 @@ wie CC BY – zusätzlich mit der Einschränkung
 
 :::info CC BY-NC-SA
 
-<img src="../medien/icons/CC-BY-NC-SA.png?autoSizes=true"
+<img src="../medien/icons/CC-BY-NC-SA.png"
      alt="Icon_CC-BY_NC_SA"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -285,7 +285,7 @@ Einschränkung „nur nicht kommerziell“
 
 :::info CC BY-NC-ND
 
-<img src="../medien/icons/CC-BY-NC-ND.png?autoSizes=true"
+<img src="../medien/icons/CC-BY-NC-ND.png"
      alt="Icon_CC-BY_NC_ND"
      style="float: left; margin-right: 20px; width: 20%;" />
 
@@ -305,37 +305,44 @@ Die Herkunft nachgenutzter Datensätze muss, wie andere Quellen, die verwendet w
 Angabe nachgewiesen, also zitiert, werden. Die absolute Ehrlichkeit in Bezug auf die eigenen und fremden Beiträge 
 ist eine grundlegende Voraussetzung für gute wissenschaftliche Praxis. 
 Nach wissenschaftlichen Standards verfügen auffindbare Datensätze i. d. R. über folgende Informationen:
-<!-- hier noch das Schlagwort (Urheber, Veröffentlichungsdatum,...) hervorheben? --> 
-```
-Urheber Ab drei Namen sollte mit “et al.” oder Ähnlichem
+
+:::info Urheber
+Ab fünf Namen sollte mit “et al.” oder Ähnlichem
 abgekürzt werden
-```
-```
-Veröffentlichungsdatum Jahr der Veröffentlichung des Datensatzes
-```
-```
-Titel Titel und eventuell weitere Titel der Studie/des
+:::
+
+:::info Veröffentlichungsdatum
+Jahr der Veröffentlichung des Datensatzes
+:::
+
+:::info Titel
+Titel und eventuell weitere Titel der Studie/des
 Datensatzes
-```
-```
-Version Versionsnummer der Ressource
-```
-```
-Publikationsagent Name des Datenzentrums/der Institution,
-das/die Ressource veröffentlicht hat.
-```
-```
-Genereller Ressourcentyp Datensatz, Text oder andere Ressourcentypen
-```
-```
-Identifikator Hier erscheint ein Persistent Identifier. Um direkt
+:::
+
+:::info Version
+Versionsnummer der Ressource
+:::
+
+:::info Publikationsagent
+Name des Datenzentrums/der Institution,
+das/die Ressource veröffentlicht hat
+:::
+
+:::info Genereller Ressourcentyp
+Datensatz, Text oder andere Ressourcentypen
+:::
+
+:::info Identifikator
+Hier erscheint ein PID. Um direkt
 auf die Quelle des Objektes verweisen zu
 können, sollte der DOI-Name entweder mit der
 URL des Resolvers abgedruckt
 (http://doi.org/doi:10.4232/1.10770) oder –
 platzsparender – mit einem Hyperlink
 (doi:10.4232/1.10770) unterlegt werden.
-```
+:::
+
 (Böker 2023b)
 
 
@@ -348,7 +355,6 @@ oder
 - Urheber (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller
 Ressourcentyp. Identifikator
 (Böker 2023b)
-<!-- Inhalte von BUW einfügen? (KF) --> 
 
 ### Beispielszenarien für die Zitation von Datensätzen 
 
@@ -356,11 +362,7 @@ Ressourcentyp. Identifikator
 
 [Quelle](https://av.tib.eu/media/35422)
 
-<!-- 
-<p align="center">
-    <img src="Materialien/img/Screenshot_Bike-Sharing-Köln.png"/>
-</p>
--->
+<!-- als iframe darstellen? -->
 
 - **Eser, Alexander (2018): Interaktive Mobilitätsstudie - Bike Sharing Köln. Kaufberater.io. Stummfilm. https://doi.org/10.5446/35422**
 
@@ -368,11 +370,7 @@ Ressourcentyp. Identifikator
 
 [Quelle](https://www.govdata.de/web/guest/suchen/-/details/refill-stationen-coffee-to-go)
 
-<!--
-<p align="center">
-    <img src="Materialien/img/Screenshot_Coffee-to-go.png" />
-</p>
--->
+<!-- als iframe darstellen? -->
 
 - o.A. (2023, 02. Mai): Refill Stationen - Coffee to go. Open.NRW. Datensatz. Eingeschränkte Nutzung.
   
@@ -380,15 +378,11 @@ Ressourcentyp. Identifikator
 
 [Quelle](https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de)
 
-<!--
-<p align="center">
-    <img src="Materialien/img/Screenshot_Indikator_Klimasensitive_Vogelarten.png" />
-</p>
--->
+<!-- als iframe darstellen? -->
 - o.A. (2021, 06. Oktober): Indikator Klimasensitive Vogelarten. Geoportal. Datensatz. https://data.europa.eu/data/datasets/16f7a7a8-fc81-411d-bb06-11fd33805971?locale=de
 
 ## Leitfragen und Aufgaben
-
+<!-- Quiz von BUW hinzufügen https://moodle.uni-wuppertal.de/mod/book/view.php?id=471681&chapterid=4552#mod_book-chapter -->
 ### Leitfragen 
 
 <img align="left" width="10%" alt="Icon_Fragezeichen" src="../medien/icons/0025_THK_Fragezeichen.svg?autoSizes=true">
