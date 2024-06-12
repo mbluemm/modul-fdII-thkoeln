@@ -148,7 +148,7 @@ Repositorien können mit Zertifikaten ausgezeichnet werden, die einen Mindestma�
 garantieren. U. a., vergibt die community-basierte und gemeinnützige Organisation
 CoreTrustSeal Core Level Zertifizierungen an Repositorien. Diese basieren auf dem DSA-WDS Core
 Trustworthy Data Repositories Requirements Catalogue. Repositorien sind qualitativ und können
-zertifiziert werden, wenn (Böker 2023a):
+zertifiziert werden, wenn (Forschungsdaten.info 2023b):
 
 - Die Daten im Internet auffindbar sind.
 - Die Rechtssituation der Daten geklärt ist und diese ohne Einschränkung zugänglich sind.
@@ -162,7 +162,7 @@ zertifiziert werden, wenn (Böker 2023a):
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
 das? Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
-digitale Objekte. Er stellt sicher, dass ein Datensatz dauerhaft auffindbar, abrufbar und zitierbar bleibt, auch wenn sich sein physischer Standort ändert (Sauther-Patrascu und Dmitrieva 2021).
+digitale Objekte. Er stellt sicher, dass ein Datensatz dauerhaft auffindbar, abrufbar und zitierbar bleibt, auch wenn sich sein physischer Standort ändert (Präsidium der TH Köln 2021).
 
 Bekannte Beispiele von PIDs sind:
 
@@ -342,7 +342,7 @@ platzsparender – mit einem Hyperlink
 (doi:10.4232/1.10770) unterlegt werden.
 :::
 
-(Böker 2023b)
+(Forschungsdaten.info 2024)
 
 
 ## Mögliche Zitation von Datensätzen 
@@ -353,7 +353,7 @@ platzsparender – mit einem Hyperlink
 oder
 - Urheber (Veröffentlichungsdatum): Titel. Version. Publikationsagent. Genereller
 Ressourcentyp. Identifikator
-(Böker 2023b)
+(Forschungsdaten.info 2024)
 
 ### Beispielszenarien für die Zitation von Datensätzen 
 
@@ -404,44 +404,43 @@ Dokumentieren und reflektieren Sie Ihre Ergebnisse in Ihrem Lernportfolio
 
 ### Literatur
 
-Forschungsdaten.info. (2023, 5. Mai). Datenjournale. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/).
+Forschungsdaten.info. (2023a, 5. Mai). Datenjournale. Zugriff am 18.10.2023, von
+[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/datenjournale/)
 
-Böker, E. (2023c, 5. Mai). Forschungsdaten finden. Forschungsdaten.info. Zugriff am 18.10.2023, von
-[https://www.forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/](https://www.forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/).
+Forschungsdaten.info. (2023b, 5. Mai). Forschungsdaten finden. Zugriff am 18.10.2023, von
+[https://www.forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/](https://www.forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/)
 
-Böker, E. (2023d, 5. Oktober). Persistente Identifikatoren. Forschungsdaten.info. Zugriff am
-18.10.2023, [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/).
+Forschungsdaten.info. (2024, 6. März). Persistente Identifikatoren. Zugriff am
+12.06.2024, [https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/)
 
 Gerlach, R., Rex, J., Lang, K. et al. (2020). Fact Sheet: Research Data Repositories. Zenodo.
-[https://doi.org/10.5281/zenodo.3900922](https://doi.org/10.5281/zenodo.3900922).
+[https://doi.org/10.5281/zenodo.3900922](https://doi.org/10.5281/zenodo.3900922)
 
-Lin, D., Crabtree, J., Dillo, I. et al. (2020) The TRUST Principles for digital repositories. Sci Data 7,144. [https://doi.org/10.1038/s41597- 020-0486-7](https://doi.org/10.1038/s41597- 020-0486-7).
+Lin, D., Crabtree, J., Dillo, I. et al. (2020) The TRUST Principles for digital repositories. Sci Data 7,144. [https://doi.org/10.1038/s41597- 020-0486-7](https://doi.org/10.1038/s41597- 020-0486-7)
 
 Pampel, H. & Elger, K. (2021). 5.6 Publikation und Zitierung von digitalen Forschungsdaten. In M.
-Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 521-536). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-028](https://doi.org/10.1515/9783110657807-028).
+Putnings, H. Neuroth & J. Neumann (Ed.), Praxishandbuch Forschungsdatenmanagement (S. 521-536). Berlin, Boston: De Gruyter Saur. [https://doi.org/10.1515/9783110657807-028](https://doi.org/10.1515/9783110657807-028)
 
-### Quellen:
+### Quellen
 
-Arimetrics. (2022). What is Metasearch engine. Zugriff am 18.10.2023, von [https://www.arimetrics.com/en/digital-glossary/metasearch-engine](https://www.arimetrics.com/en/digital-glossary/metasearch-engine).
+Arimetrics. (2022). What is Metasearch engine. Zugriff am 18.10.2023, von [https://www.arimetrics.com/en/digital-glossary/metasearch-engine](https://www.arimetrics.com/en/digital-glossary/metasearch-engine)
 
-Böker, E. (2023a, 5. Mai). Repositorien. Forschungsdaten.info. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/).
+Forschungsdaten.info. (2023c, 5. Mai). Repositorien. Zugriff am 18.10.2023, von
+[https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/](https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/)
 
-Böker, E. (2023b, 5. Mai). Zitieren von Daten. Forschungsdaten.info. Zugriff am 18.10.2023, von
-[https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/).
+Forschungsdaten.info. (2023d, 5. Mai). Zitieren von Daten. Zugriff am 18.10.2023, von
+[https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/](https://forschungsdaten.info/themen/finden-und-nachnutzen/zitieren-von-daten/)
 
 European Commission. (2022, 7. June). Open data portals. Zugriff am 18.10.2023, von
-[https://digital-strategy.ec.europa.eu/en/policies/open-data-portals](https://digital-strategy.ec.europa.eu/en/policies/open-data-portals).
+[https://digital-strategy.ec.europa.eu/en/policies/open-data-portals](https://digital-strategy.ec.europa.eu/en/policies/open-data-portals)
 
 FAQ - CC Germany. (2021, 29. September). CC Germany. Abgerufen am 21. Oktober 2023,
-von [https://de.creativecommons.net/faqs/#h.opqkebeeaptr](https://de.creativecommons.net/faqs/#h.opqkebeeaptr).
+von [https://de.creativecommons.net/faqs/#h.opqkebeeaptr](https://de.creativecommons.net/faqs/#h.opqkebeeaptr)
 
-forschungsdaten.org. (2015, 15. September). Repositorium. Zugriff am 18.10.2023, von
-[https://www.forschungsdaten.org/index.php/Repositorium](https://www.forschungsdaten.org/index.php/Repositorium).
+Forschungsdaten.org. (2015, 15. September). Repositorium. Zugriff am 18.10.2023, von
+[https://www.forschungsdaten.org/index.php/Repositorium](https://www.forschungsdaten.org/index.php/Repositorium)
 
 Muuß-Merholz, J. (2021, 30. März). Die CC-Lizenzen im Überblick _–_ Welche Lizenz für welche Zwecke? wb-web. Zugriff am
-18.10.2023, von [https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html).
+18.10.2023, von [https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html)
 
-Sauther-Patrascu, K. S. & Dmitrieva, S. (2021). Leitlinie zum Umgang mit Forschungsdaten. Abgerufen am 20. Oktober 2023,
-von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf).
+Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
