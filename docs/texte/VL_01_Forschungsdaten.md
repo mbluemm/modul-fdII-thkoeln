@@ -59,8 +59,7 @@ Audiodateien, Videoclips und interaktive Visualisierungen. Diese Vielfalt an For
 zeigt, dass Forschungsdaten weit über herkömmliche Vorstellungen von Datensammlungen
 hinausgehen.
 
-<!--<img align="left" width="15%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">-->
-<img align="left" width="15%" alt="Icon_Dummy" src="../medien/dummies/icons8-baby-yoda-64.png?autoSizes=true">
+<img align="left" width="15%" alt="Icon_Datentyp_Survey" src="/medien/icons/G-0057_BUW_Icon_Datentyp_Survey.svg?autoSizes=true">
 <img width="15%" align="left" alt="Icon_Datentyp_Bild" src="../medien/icons/G-0053_BUW_Icon_Datentyp_Bild.svg?autoSizes=true">
 <img width="15%" align="left" alt="Icon_Datentyp_AV" src="../medien/icons/G-0054_BUW_Icon_Datentyp_AV.svg?autoSizes=true">
 <img align="left" width="15%" alt="Icon_Datentyp_Objekte" src="../medien/icons/0004_THK_Datentyp_Objekte.svg?autoSizes=true">
