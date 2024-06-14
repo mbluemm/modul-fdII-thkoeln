@@ -54,11 +54,11 @@ inklusive Tutorials angeführt, die das Finden von Datensätzen auf den jeweilig
 
 <img width="15%" align="right" alt="Icon_Suchmaschine" src="../medien/icons/0035_THK_Suchmaschine.svg?autoSizes=true">
 
-In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. Eine
+In diesem Abschnitt werden Ihnen einige Metasuchmaschinen und Datenportale vorgestellt. "Eine
 Metasuchmaschine ist ein System, das Informationen von anderen Suchmaschinen nutzt, um eine
-vollständige und angemessene Antworten auf eine Frage zu geben (Arimetrics 2022). Offene
+vollständige und angemessene Antworten auf eine Frage zu geben" (Arimetrics 2022). "Offene
 Datenportale erleichtern den Zugang zu und die Wiederverwendung von Informationen des
-öffentlichen Sektors (European Commission 2022).
+öffentlichen Sektors" (European Commission 2022).
 
 <img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
@@ -92,10 +92,10 @@ Neben Metasuchmaschinen und Datenportalen sind sogenannte Repositorien im Forsch
 die bevorzugten Webseiten zur kategorisierten und langfristigen Suche nach qualitativ hochwertigen
 Datensätzen.
 
-„Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten
-möglichst dauerhaft – anhand der Anforderungen der jeweiligen Nutzergruppe – speichern und
-organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“ (forschungsdaten.org,
-2015).
+> „Digitale Forschungsdaten-Repositorien sind Informationsinfrastrukturen, die digitale Forschungsdaten
+> möglichst dauerhaft – anhand der Anforderungen der jeweiligen Nutzergruppe – speichern und
+> organisieren, um die Auffindbarkeit und Zugänglichkeit der Daten zu sichern.“
+> -- (forschungsdaten.org, 2015).
 
 <img src="../medien/icons/0001_THK_Beispiel.svg?autoSizes=true"
      alt="Icon_Beispiel"
@@ -128,7 +128,7 @@ Beispiele für Repositorien:
 Hier sind einige Repositorien aufgeführt, die sich zur Suche nach fachspezifischen und qualitativen
 Datensätzen zur Nachnutzung im Forschungsprozess eignen. Doch auch Repositorien unterscheiden
 sich qualitativ und inhaltlich. Folgend sind einige Merkmale aufgelistet, die darauf hinweisen, ob es
-sich um ein qualitatives Repositorium eignet:
+sich um ein qualitatives Repositorium eignet (TKFDM o.D.):
 
 <img align="right" width="25%" alt="Icon__Qualitätskontrolle" src="../medien/icons/0024_THK_Qualitätskontrolle.svg?autoSizes=true">
 
@@ -148,21 +148,22 @@ Repositorien können mit Zertifikaten ausgezeichnet werden, die einen Mindestma�
 garantieren. U. a., vergibt die community-basierte und gemeinnützige Organisation
 CoreTrustSeal Core Level Zertifizierungen an Repositorien. Diese basieren auf dem DSA-WDS Core
 Trustworthy Data Repositories Requirements Catalogue. Repositorien sind qualitativ und können
-zertifiziert werden, wenn (Forschungsdaten.info 2023b):
+zertifiziert werden, wenn:
 
-- Die Daten im Internet auffindbar sind.
-- Die Rechtssituation der Daten geklärt ist und diese ohne Einschränkung zugänglich sind.
-- Die Daten in einem gebräuchlichen Format vorliegen.
-- Die Daten zuverlässig sind.
-- Die Daten über PIDs zitierbar sind.
-
+> - Die Daten im Internet auffindbar sind.
+> - Die Rechtssituation der Daten geklärt ist und diese ohne Einschränkung zugänglich sind.
+> - Die Daten in einem gebräuchlichen Format vorliegen.
+> - Die Daten zuverlässig sind.
+> - Die Daten über PIDs zitierbar sind.
+> -- (Forschungsdaten.info 2023b)
+>   
 ## Persistente Identifikatoren (PID)
 
 <img align="right" width="15%" alt="Icon__PID" src="../medien/icons/0021_THK_PID.svg?autoSizes=true">
 
 Eines der Qualitätsmerkmale eines Repositoriums sind Persistente Idenfikatoren. Doch was bedeutet
-das? Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
-digitale Objekte. Er stellt sicher, dass ein Datensatz dauerhaft auffindbar, abrufbar und zitierbar bleibt, auch wenn sich sein physischer Standort ändert (Präsidium der TH Köln 2021).
+das? "Ein Persistenter Identifikator (Persistent Identifier; PID) ist eine konstante Internet-Adresse für
+digitale Objekte. Er stellt sicher, dass ein Datensatz dauerhaft auffindbar, abrufbar und zitierbar bleibt, auch wenn sich sein physischer Standort ändert" (Präsidium der TH Köln 2021).
 
 Bekannte Beispiele von PIDs sind:
 
@@ -173,8 +174,8 @@ Bekannte Beispiele von PIDs sind:
 <!-- Quelle?  bzw. hier noch Beispiele einfügen? -->
 ![](https://)
 
-Im Gegensatz zu anderen seriellen Identifikatoren (bspw. URL-Adressen) verweist ein PID auf das
-Objekt selbst und nicht auf seinen Standort im Internet. Die Forschungsdaten sollen mit PIDs
+"Im Gegensatz zu anderen seriellen Identifikatoren (bspw. URL-Adressen) verweist ein PID auf das
+Objekt selbst und nicht auf seinen Standort im Internet" (Präsidium der TH Köln 2021). Die Forschungsdaten sollen mit PIDs
 versehen werden. Ein PID stellt sicher, dass Daten adressierbar und identifizierbar sind. Er kann
 während des Forschungsprozesses und zur Publikation von Forschungsdaten verwendet werden.
 
@@ -444,3 +445,5 @@ Muuß-Merholz, J. (2021, 30. März). Die CC-Lizenzen im Überblick _–_ Welche 
 18.10.2023, von [https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html)
 
 Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
+
+TKFDM (Thüringer Kompetenznetzwerks Forschungsdatenmanagement). o. D. Handreichung. Repositorien für Forschungsdaten. Zugriff am 20. Oktober 2023, von [[https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://forschungsdaten-thueringen.de/files/material/Infomaterial/Handreichungen/handreichung_forschungsdatenrepositorien.pdf)]
