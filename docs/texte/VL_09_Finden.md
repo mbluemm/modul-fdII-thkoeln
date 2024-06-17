@@ -446,4 +446,4 @@ Muuß-Merholz, J. (2021, 30. März). Die CC-Lizenzen im Überblick _–_ Welche 
 
 Präsidium der TH Köln. (2021). Leitlinie zum Umgang mit Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf)
 
-TKFDM (Thüringer Kompetenznetzwerks Forschungsdatenmanagement). o. D. Handreichung. Repositorien für Forschungsdaten. Zugriff am 20. Oktober 2023, von [[https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://forschungsdaten-thueringen.de/files/material/Infomaterial/Handreichungen/handreichung_forschungsdatenrepositorien.pdf)]
+TKFDM (Thüringer Kompetenznetzwerks Forschungsdatenmanagement). o. D. Handreichung. Repositorien für Forschungsdaten. Zugriff am 20. Oktober 2023, von [https://www.th-koeln.de/mam/downloads/deutsch/forschung/leitlinie_zum_umgang_mit_forschungsdaten.pdf](https://forschungsdaten-thueringen.de/files/material/Infomaterial/Handreichungen/handreichung_forschungsdatenrepositorien.pdf)
