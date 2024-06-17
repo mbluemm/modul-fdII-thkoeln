@@ -179,7 +179,7 @@ Objekt selbst und nicht auf seinen Standort im Internet" (Präsidium der TH Köl
 versehen werden. Ein PID stellt sicher, dass Daten adressierbar und identifizierbar sind. Er kann
 während des Forschungsprozesses und zur Publikation von Forschungsdaten verwendet werden.
 
-## Wichtige Aspekte, die bei der Nachnutzung von Daten
+## Wichtige Aspekte bei der Nachnutzung von Daten
 
 <img align="right" width="15%" alt="Icon__Nachnutzung" src="../medien/icons/G-0020_BUW_Icon_Nachnutzung.svg?autoSizes=true">
 
